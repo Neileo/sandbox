@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sandbox — 工具集</title>
+<style>
+  :root { --bg: #0d1117; --card-bg: #161b22; --text: #c9d1d9; --text-muted: #8b949e; --border: #30363d; --accent: #58a6ff; }
+  [data-theme="light"] { --bg: #f6f8fa; --card-bg: #ffffff; --text: #24292f; --text-muted: #57606a; --border: #d0d7de; --accent: #0969da; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  .container { max-width: 800px; margin: 0 auto; padding: 60px 20px; }
+  h1 { font-size: 28px; margin-bottom: 8px; }
+  .subtitle { color: var(--text-muted); font-size: 14px; margin-bottom: 40px; }
+  .theme-toggle { position: absolute; top: 20px; right: 20px; background: var(--card-bg); border: 1px solid var(--border); color: var(--text); padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: 13px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+  .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px; padding: 24px; text-decoration: none; transition: border-color 0.2s; }
+  .card:hover { border-color: var(--accent); }
+  .card-icon { font-size: 32px; margin-bottom: 12px; }
+  .card h2 { font-size: 18px; color: var(--text); margin-bottom: 8px; }
+  .card p { font-size: 13px; color: var(--text-muted); line-height: 1.5; }
+  .card .tag { display: inline-block; margin-top: 12px; padding: 2px 8px; font-size: 11px; background: var(--border); color: var(--text-muted); border-radius: 4px; }
+</style>
+</head>
+<body>
+<button class="theme-toggle" onclick="toggleTheme()">切换主题</button>
+<div class="container">
+  <h1>Sandbox 工具集</h1>
+  <p class="subtitle">个人工具集合</p>
+  <div class="grid">
+    <a href="game-watch/" class="card">
+      <div class="card-icon">Game Watch</div>
+      <h2>GameWatch</h2>
+      <p>全球游戏行业热点 & 投资信息聚合，每日自动更新，76个RSS源覆盖中英日文媒体。</p>
+      <span class="tag">游戏</span>
+      <span class="tag">投资</span>
+    </a>
+  </div>
+</div>
+<script>
+function toggleTheme() {
+  const html = document.documentElement;
+  html.setAttribute('data-theme', html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  localStorage.setItem('theme', html.getAttribute('data-theme'));
+}
+(function() {
+  const saved = localStorage.getItem('theme') || 'dark';
+  document.documentElement.setAttribute('data-theme', saved);
+})();
+</script>
+</body>
+</html>
