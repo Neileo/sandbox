@@ -225,9 +225,15 @@ sandbox/
 ├── scripts/
 │   ├── fetch.js                    # RSS 抓取脚本
 │   ├── merge.js                    # 合并去重分类脚本
+│   ├── health-check.js             # 源健康检查脚本
 │   └── sources.json                # 抓取源列表
-└── .github/workflows/
-    └── fetch.yml                   # Actions 定时任务
+├── .github/
+│   ├── workflows/
+│   │   ├── fetch.yml               # 每日抓取任务
+│   │   ├── keepalive.yml           # 每周活动保活
+│   │   └── health-check.yml        # 每月源健康检查
+│   └── HEALTH_REPORT.md            # 自动生成的健康报告
+└── .keepalive                      # 保活标记文件
 ```
 
 ---
@@ -238,3 +244,88 @@ sandbox/
 - **访问地址**：`https://neileo.github.io/sandbox/`
 - **Actions 调度**：`cron: "0 0 * * *"` (UTC 0:00)
 - **数据更新**：Actions 自动 commit + push 到 main，Pages 自动关联部署
+
+---
+
+## 10. Keepalive 机制
+
+GitHub Actions 在仓库连续 60 天无活动后自动停止调度。Keepalive 确保长期无人干预时仍持续运行。
+
+**策略**：
+
+- 每日 fetch 流程本身会产生 commit，已能保持活动
+- 额外增加每周 keepalive 工作流作为兜底（以防 fetch 连续失败无 commit 导致活动中断）
+- 工作流内容：简单 touch 一个 `.keepalive` 文件并 commit
+
+```yaml
+# .github/workflows/keepalive.yml
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # 每周一 UTC 6:00
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: date > .keepalive
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .keepalive
+          git commit -m "keepalive" || true
+          git push
+```
+
+---
+
+## 11. 源健康检查
+
+每月自动检测所有 RSS 源是否可访问，生成状态报告。
+
+**脚本 (scripts/health-check.js)**：
+- 遍历 `sources.json` 中所有 `feedUrl`
+- 每个源发起 HEAD/GET 请求，记录 HTTP 状态码和响应时间
+- 输出 `data/source-health.json`
+
+```json
+{
+  "checkedAt": "2026-08-01T00:00:00Z",
+  "results": [
+    { "id": "gamelook", "name": "GameLook", "status": 200, "ok": true, "latencyMs": 340 },
+    { "id": "some-broken", "name": "某失效源", "status": 404, "ok": false, "error": "Not Found" }
+  ],
+  "summary": {
+    "total": 76,
+    "healthy": 74,
+    "broken": 2
+  }
+}
+```
+
+**Actions 触发**：
+- 每月 1 号 UTC 2:00 执行
+- 如果存在失效源，workflow 输出警告并生成 `.github/HEALTH_REPORT.md`
+- 用户定期查看报告，更新 `sources.json` 移除或替换失效源
+
+```yaml
+# .github/workflows/health-check.yml
+on:
+  schedule:
+    - cron: "0 2 1 * *"
+```
+
+**查看方式**：
+- `.github/HEALTH_REPORT.md` 直接显示失效源列表
+- `data/source-health.json` 可在 GameWatch 页面增加一个健康状态指示
+
+---
+
+## 12. 长期维护清单
+
+| 频率 | 操作 | 说明 |
+|------|------|------|
+| 每日 | 自动 fetch + merge | Actions 自动执行，无需干预 |
+| 每周 | 自动 keepalive | 防止 60 天无活动停摆 |
+| 每月 | 自动健康检查 | 生成 HEALTH_REPORT.md |
+| 每月 | 人工 review | 查看健康报告，清理/更新失效源 |
+| 每季 | 人工 review | 检查分类关键词是否需要更新 |
