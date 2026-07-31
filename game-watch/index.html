@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GameWatch — 游戏 & 投资信息聚合</title>
+<style>
+  :root {
+    --bg: #0d1117; --sidebar-bg: #010409; --card-bg: #161b22;
+    --text: #c9d1d9; --text-muted: #8b949e; --text-dim: #6e7681;
+    --border: #30363d; --accent: #58a6ff; --accent-bg: #1f6feb22;
+    --tag-bg: #388bfd26; --tag-text: #58a6ff;
+    --cat-active-bg: #1f6feb33; --cat-active-text: #58a6ff;
+    --scrollbar-thumb: #30363d; --scrollbar-track: #0d1117;
+  }
+  [data-theme="light"] {
+    --bg: #f6f8fa; --sidebar-bg: #ffffff; --card-bg: #ffffff;
+    --text: #24292f; --text-muted: #57606a; --text-dim: #8c959f;
+    --border: #d0d7de; --accent: #0969da; --accent-bg: #ddf4ff;
+    --tag-bg: #ddf4ff; --tag-text: #0969da;
+    --cat-active-bg: #ddf4ff; --cat-active-text: #0969da;
+    --scrollbar-thumb: #d0d7de; --scrollbar-track: #f6f8fa;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif; background: var(--bg); color: var(--text); display: flex; height: 100vh; overflow: hidden; }
+  a { color: var(--accent); text-decoration: none; }
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--scrollbar-track); }
+  ::-webkit-scrollbar-thumb { background: var(--scrollbar-thumb); border-radius: 3px; }
+
+  .sidebar { width: 240px; min-width: 240px; background: var(--sidebar-bg); border-right: 1px solid var(--border); display: flex; flex-direction: column; overflow-y: auto; padding: 16px 0; }
+  .sidebar-header { padding: 8px 16px 16px; }
+  .sidebar-header h2 { font-size: 14px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px; }
+  .sidebar-header a { font-size: 12px; color: var(--text-dim); }
+  .cat-item { display: flex; align-items: center; gap: 8px; padding: 6px 16px; font-size: 13px; cursor: pointer; color: var(--text); transition: background 0.15s; }
+  .cat-item:hover { background: var(--accent-bg); }
+  .cat-item.active { background: var(--cat-active-bg); color: var(--cat-active-text); font-weight: 600; }
+  .cat-item .count { margin-left: auto; font-size: 11px; color: var(--text-dim); background: var(--border); padding: 1px 6px; border-radius: 8px; }
+  .sidebar-divider { border-top: 1px solid var(--border); margin: 12px 16px; }
+  .source-section h3 { font-size: 11px; color: var(--text-dim); padding: 4px 16px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .source-item { display: flex; align-items: center; gap: 6px; padding: 4px 16px 4px 24px; font-size: 12px; cursor: pointer; color: var(--text-muted); }
+  .source-item input { accent-color: var(--accent); }
+  .source-item:has(input:checked) { color: var(--text); }
+
+  .main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+  .topbar { display: flex; align-items: center; gap: 12px; padding: 12px 20px; border-bottom: 1px solid var(--border); }
+  .topbar input { flex: 1; background: var(--card-bg); border: 1px solid var(--border); color: var(--text); padding: 8px 12px; border-radius: 6px; font-size: 13px; outline: none; }
+  .topbar input:focus { border-color: var(--accent); }
+  .topbar .info { font-size: 12px; color: var(--text-dim); white-space: nowrap; }
+  .theme-btn { background: var(--card-bg); border: 1px solid var(--border); color: var(--text); padding: 6px 12px; border-radius: 6px; cursor: pointer; font-size: 12px; white-space: nowrap; }
+  .back-btn { font-size: 12px; color: var(--text-dim); }
+
+  .content { flex: 1; overflow-y: auto; padding: 16px 20px; }
+  .article-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; padding: 14px 16px; margin-bottom: 8px; transition: border-color 0.15s; }
+  .article-card:hover { border-color: var(--accent); }
+  .article-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; font-size: 11px; color: var(--text-dim); }
+  .article-meta .source { font-weight: 600; color: var(--accent); }
+  .article-meta .region { padding: 1px 5px; border-radius: 3px; font-size: 10px; background: var(--border); }
+  .article-meta .time { margin-left: auto; }
+  .article-title { font-size: 15px; font-weight: 600; margin-bottom: 4px; color: var(--text); }
+  .article-summary { font-size: 12px; color: var(--text-muted); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .article-tags { display: flex; gap: 4px; margin-top: 8px; flex-wrap: wrap; }
+  .article-tag { font-size: 10px; padding: 2px 6px; background: var(--tag-bg); color: var(--tag-text); border-radius: 3px; }
+
+  .bottombar { display: flex; align-items: center; padding: 10px 20px; border-top: 1px solid var(--border); gap: 12px; font-size: 12px; color: var(--text-dim); }
+  .bottombar select { background: var(--card-bg); border: 1px solid var(--border); color: var(--text); padding: 4px 8px; border-radius: 4px; font-size: 12px; }
+  .pagination { display: flex; gap: 4px; margin-left: auto; }
+  .pagination button { background: var(--card-bg); border: 1px solid var(--border); color: var(--text); padding: 4px 10px; border-radius: 4px; cursor: pointer; font-size: 12px; }
+  .pagination button:disabled { opacity: 0.4; cursor: default; }
+  .pagination button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .loading { display: flex; align-items: center; justify-content: center; height: 200px; color: var(--text-muted); font-size: 14px; }
+  .empty { display: flex; align-items: center; justify-content: center; height: 200px; color: var(--text-dim); font-size: 14px; }
+
+  @media (max-width: 768px) {
+    .sidebar { display: none; }
+    .topbar { flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <h2>GameWatch</h2>
+    <a href="../">Back to Sandbox</a>
+  </div>
+  <div id="categories"></div>
+  <div class="sidebar-divider"></div>
+  <div id="sourceFilters"></div>
+</aside>
+
+<div class="main">
+  <div class="topbar">
+    <a href="../" class="back-btn">Sandbox</a>
+    <input type="text" id="searchInput" placeholder="Search articles..." oninput="render()">
+    <span class="info" id="updateInfo"></span>
+    <button class="theme-btn" onclick="toggleTheme()">Theme</button>
+  </div>
+
+  <div class="content" id="articleList">
+    <div class="loading">Loading articles...</div>
+  </div>
+
+  <div class="bottombar">
+    <select id="timeRange" onchange="render()">
+      <option value="7">Last 7 days</option>
+      <option value="15" selected>Last 15 days</option>
+      <option value="30">Last 30 days</option>
+    </select>
+    <span id="articleCount"></span>
+    <span class="pagination" id="pagination"></span>
+  </div>
+</div>
+
+<script>
+let ARTICLES = [];
+let SOURCE_CONFIG = [];
+const CATEGORIES = ['全部', '产业动态', '投融资并购', '新品发布', '政策法规', '技术趋势', '数据报告', '电竞/直播', '独立游戏', '出海/全球化', '综合'];
+const CAT_ICONS = { '全部': '#', '产业动态': '#', '投融资并购': '#', '新品发布': '#', '政策法规': '#', '技术趋势': '#', '数据报告': '#', '电竞/直播': '#', '独立游戏': '#', '出海/全球化': '#', '综合': '#' };
+
+let state = { activeCat: '全部', sourceFilters: new Set(), searchQuery: '', page: 1, pageSize: 50 };
+
+function formatTime(iso) {
+  const d = new Date(iso);
+  const now = new Date();
+  const diff = now - d;
+  const hours = Math.floor(diff / 3600000);
+  if (hours < 1) return Math.floor(diff / 60000) + 'm ago';
+  if (hours < 24) return hours + 'h ago';
+  if (hours < 48) return '1d ago';
+  return d.toISOString().slice(0, 10);
+}
+
+function getFilteredArticles() {
+  const days = parseInt(document.getElementById('timeRange').value);
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - days);
+
+  return ARTICLES.filter(a => {
+    if (new Date(a.publishedAt) < cutoff) return false;
+    if (state.activeCat !== '全部' && a.category !== state.activeCat) return false;
+    if (state.sourceFilters.size > 0 && !state.sourceFilters.has(a.source.name)) return false;
+    if (state.searchQuery) {
+      const q = state.searchQuery.toLowerCase();
+      if (!a.title.toLowerCase().includes(q) && !a.summary.toLowerCase().includes(q)) return false;
+    }
+    return true;
+  }).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+}
+
+function render() {
+  renderCategories();
+  renderSourceFilters();
+  renderArticles();
+  renderPagination();
+}
+
+function renderCategories() {
+  const container = document.getElementById('categories');
+  const counts = {};
+  CATEGORIES.forEach(c => counts[c] = 0);
+  ARTICLES.forEach(a => {
+    if (counts[a.category] !== undefined) counts[a.category]++;
+    counts['全部']++;
+  });
+
+  container.innerHTML = CATEGORIES.map(c =>
+    `<div class="cat-item ${state.activeCat === c ? 'active' : ''}" onclick="setCategory('${c}')">
+      <span>${c}</span><span class="count">${counts[c] || 0}</span>
+    </div>`
+  ).join('');
+}
+
+function setCategory(cat) {
+  state.activeCat = cat;
+  state.page = 1;
+  render();
+}
+
+function renderSourceFilters() {
+  const container = document.getElementById('sourceFilters');
+  if (!SOURCE_CONFIG.length) { container.innerHTML = ''; return; }
+
+  const types = { 'gaming-media': 'Game Media', 'investment': 'Investment', 'data-research': 'Data Research', 'ai-tech': 'AI / Tech', 'official': 'Official' };
+
+  container.innerHTML = Object.entries(types).map(([type, label]) => {
+    const sources = SOURCE_CONFIG.filter(s => s.type === type);
+    if (!sources.length) return '';
+    return `<div class="source-section"><h3>${label}</h3>` +
+      sources.map(s => `<label class="source-item">
+        <input type="checkbox" ${state.sourceFilters.has(s.name) ? 'checked' : ''} onchange="toggleSource('${s.name}')">${s.name}
+      </label>`).join('') + `</div>`;
+  }).join('');
+}
+
+function toggleSource(name) {
+  if (state.sourceFilters.has(name)) state.sourceFilters.delete(name);
+  else state.sourceFilters.add(name);
+  state.page = 1;
+  render();
+}
+
+function renderArticles() {
+  const filtered = getFilteredArticles();
+  const list = document.getElementById('articleList');
+  if (!ARTICLES.length && filtered.length === 0) {
+    list.innerHTML = '<div class="loading">Loading articles...</div>';
+    return;
+  }
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="empty">No articles found</div>';
+    return;
+  }
+
+  const start = (state.page - 1) * state.pageSize;
+  const page = filtered.slice(start, start + state.pageSize);
+
+  list.innerHTML = page.map(a => `
+    <div class="article-card">
+      <div class="article-meta">
+        <span class="source">${a.source.name}</span>
+        <span class="region">${a.source.region.toUpperCase()}</span>
+        <span>${a.category}</span>
+        <span class="time">${formatTime(a.publishedAt)}</span>
+      </div>
+      <div class="article-title"><a href="${a.url}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></div>
+      <div class="article-summary">${escapeHtml(a.summary)}</div>
+      ${a.tags && a.tags.length ? `<div class="article-tags">${a.tags.map(t => `<span class="article-tag">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
+      ${a.sources && a.sources.length > 1 ? `<div class="article-tags"><span class="article-tag">Also reported by: ${a.sources.slice(1).map(s => s.name).join(', ')}</span></div>` : ''}
+    </div>
+  `).join('');
+
+  document.getElementById('articleCount').textContent = `${filtered.length} articles`;
+}
+
+function renderPagination() {
+  const filtered = getFilteredArticles();
+  const totalPages = Math.ceil(filtered.length / state.pageSize);
+  const pag = document.getElementById('pagination');
+  if (totalPages <= 1) { pag.innerHTML = ''; return; }
+
+  let html = '';
+  html += `<button ${state.page <= 1 ? 'disabled' : ''} onclick="goPage(${state.page - 1})"> Prev </button>`;
+  for (let i = 1; i <= Math.min(totalPages, 10); i++) {
+    html += `<button class="${i === state.page ? 'active' : ''}" onclick="goPage(${i})">${i}</button>`;
+  }
+  html += `<button ${state.page >= totalPages ? 'disabled' : ''} onclick="goPage(${state.page + 1})"> Next </button>`;
+  pag.innerHTML = html;
+}
+
+function goPage(p) {
+  state.page = p;
+  render();
+}
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function toggleTheme() {
+  const html = document.documentElement;
+  html.setAttribute('data-theme', html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  localStorage.setItem('theme', html.getAttribute('data-theme'));
+}
+
+async function load() {
+  try {
+    const [articlesRes, sourcesRes] = await Promise.all([
+      fetch('data/articles.json'),
+      fetch('data/sources.json')
+    ]);
+    ARTICLES = await articlesRes.json();
+    SOURCE_CONFIG = await sourcesRes.json();
+    document.getElementById('updateInfo').textContent = ARTICLES.length > 0
+      ? `Updated ${formatTime(ARTICLES[0].fetchedAt || ARTICLES[0].publishedAt)}`
+      : 'No data';
+  } catch (err) {
+    console.error('Failed to load articles:', err);
+    document.getElementById('articleList').innerHTML = '<div class="empty">Failed to load data</div>';
+  }
+  render();
+}
+
+document.getElementById('searchInput').addEventListener('input', function(e) {
+  state.searchQuery = e.target.value;
+  state.page = 1;
+  render();
+});
+
+(function() {
+  const saved = localStorage.getItem('theme') || 'dark';
+  document.documentElement.setAttribute('data-theme', saved);
+})();
+
+load();
+</script>
+
+</body>
+</html>

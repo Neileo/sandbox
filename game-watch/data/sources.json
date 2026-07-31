@@ -1,0 +1,452 @@
+[
+  {
+    "id": "gamelook",
+    "name": "GameLook",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "youxiputao",
+    "name": "游戏葡萄",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "gameres",
+    "name": "游资网",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "youxituoluo",
+    "name": "游戏陀螺",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "36kr-game",
+    "name": "36氪-游戏",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "jinghe",
+    "name": "竞核",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "shouyounadian",
+    "name": "手游那点事",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "chuapp",
+    "name": "触乐",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "g-cores",
+    "name": "机核",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "youxiyanjiushe",
+    "name": "游戏研究社",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "youyanshe",
+    "name": "游研社",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "gwb-game",
+    "name": "腾讯GWB游戏无界",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "bilibili-game",
+    "name": "B站-游戏区",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "xinhua-game",
+    "name": "新华网-游戏",
+    "region": "zh",
+    "type": "gaming-media"
+  },
+  {
+    "id": "gamesindustry",
+    "name": "GamesIndustry.biz",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "ign",
+    "name": "IGN",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "eurogamer",
+    "name": "Eurogamer",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "kotaku",
+    "name": "Kotaku",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "polygon",
+    "name": "Polygon",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "pcgamer",
+    "name": "PC Gamer",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "rps",
+    "name": "Rock Paper Shotgun",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "gamedeveloper",
+    "name": "Game Developer",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "gamespot",
+    "name": "GameSpot",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "destructoid",
+    "name": "Destructoid",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "gematsu",
+    "name": "Gematsu",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "siliconera",
+    "name": "Siliconera",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "nintendolife",
+    "name": "Nintendo Life",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "pushsquare",
+    "name": "Push Square",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "purexbox",
+    "name": "Pure Xbox",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "pocketgamer",
+    "name": "Pocket Gamer",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "gdcvault",
+    "name": "GDC Vault",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "steam-blog",
+    "name": "Steam Blog",
+    "region": "en",
+    "type": "official"
+  },
+  {
+    "id": "epic-games-blog",
+    "name": "Epic Games Store Blog",
+    "region": "en",
+    "type": "official"
+  },
+  {
+    "id": "xbox-wire",
+    "name": "Xbox Wire",
+    "region": "en",
+    "type": "official"
+  },
+  {
+    "id": "playstation-blog",
+    "name": "PlayStation Blog",
+    "region": "en",
+    "type": "official"
+  },
+  {
+    "id": "unity-blog",
+    "name": "Unity Blog",
+    "region": "en",
+    "type": "ai-tech"
+  },
+  {
+    "id": "unreal-blog",
+    "name": "Unreal Engine Blog",
+    "region": "en",
+    "type": "ai-tech"
+  },
+  {
+    "id": "36kr",
+    "name": "36氪",
+    "region": "zh",
+    "type": "investment"
+  },
+  {
+    "id": "chinaventure",
+    "name": "投中网",
+    "region": "zh",
+    "type": "investment"
+  },
+  {
+    "id": "itjuzi",
+    "name": "IT桔子",
+    "region": "zh",
+    "type": "investment"
+  },
+  {
+    "id": "cyzone",
+    "name": "创业邦",
+    "region": "zh",
+    "type": "investment"
+  },
+  {
+    "id": "lieyunwang",
+    "name": "猎云网",
+    "region": "zh",
+    "type": "investment"
+  },
+  {
+    "id": "cbinsights",
+    "name": "CB Insights",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "venturebeat",
+    "name": "VentureBeat",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "crunchbase-news",
+    "name": "Crunchbase News",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "pitchbook-news",
+    "name": "PitchBook News",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "theverge",
+    "name": "The Verge",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "bloomberg-tech",
+    "name": "Bloomberg - Tech",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "reuters-tech",
+    "name": "Reuters - Tech",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "ft-tech",
+    "name": "Financial Times - Tech",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "a16z-blog",
+    "name": "a16z Blog",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "lightspeed-blog",
+    "name": "Lightspeed Blog",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "naavik",
+    "name": "Naavik",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "gamediscoverco",
+    "name": "GameDiscoverCo",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "katan-games",
+    "name": "Katan Games",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "investgame",
+    "name": "InvestGame",
+    "region": "en",
+    "type": "investment"
+  },
+  {
+    "id": "newzoo",
+    "name": "Newzoo",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "sensor-tower",
+    "name": "Sensor Tower Blog",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "data-ai",
+    "name": "data.ai Blog",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "appmagic",
+    "name": "AppMagic Blog",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "npd-circana",
+    "name": "NPD (Circana)",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "steamdb-blog",
+    "name": "SteamDB Blog",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "statista-gaming",
+    "name": "Statista - Gaming",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "superdata-nielsen",
+    "name": "SuperData (尼尔森)",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "ampere-analysis",
+    "name": "Ampere Analysis",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "midia-research",
+    "name": "MIDiA Research",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "stream-hatchet",
+    "name": "Stream Hatchet",
+    "region": "en",
+    "type": "data-research"
+  },
+  {
+    "id": "famitsu",
+    "name": "Famitsu",
+    "region": "jp",
+    "type": "gaming-media"
+  },
+  {
+    "id": "huggingface-blog",
+    "name": "Hugging Face Blog",
+    "region": "en",
+    "type": "ai-tech"
+  },
+  {
+    "id": "openai-blog",
+    "name": "OpenAI Blog",
+    "region": "en",
+    "type": "ai-tech"
+  },
+  {
+    "id": "stability-ai-blog",
+    "name": "Stability AI Blog",
+    "region": "en",
+    "type": "ai-tech"
+  },
+  {
+    "id": "nvidia-dev-blog",
+    "name": "NVIDIA Developer Blog",
+    "region": "en",
+    "type": "ai-tech"
+  },
+  {
+    "id": "80lv",
+    "name": "80.lv",
+    "region": "en",
+    "type": "ai-tech"
+  },
+  {
+    "id": "hackernews",
+    "name": "Hacker News",
+    "region": "en",
+    "type": "ai-tech"
+  }
+]
