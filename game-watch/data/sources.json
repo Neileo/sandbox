@@ -60,9 +60,15 @@
     "type": "gaming-media"
   },
   {
-    "id": "youyanshe",
-    "name": "游研社",
-    "region": "zh",
+    "id": "toucharcade",
+    "name": "TouchArcade",
+    "region": "en",
+    "type": "gaming-media"
+  },
+  {
+    "id": "vgc",
+    "name": "VGC (Video Games Chronicle)",
+    "region": "en",
     "type": "gaming-media"
   },
   {

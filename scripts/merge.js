@@ -88,25 +88,43 @@ function deduplicate(articles) {
 
 function loadExistingArticles() {
   if (fs.existsSync(ARTICLES_PATH)) {
-    return JSON.parse(fs.readFileSync(ARTICLES_PATH, 'utf-8'));
+    try {
+      return JSON.parse(fs.readFileSync(ARTICLES_PATH, 'utf-8'));
+    } catch (e) {
+      console.warn('Failed to parse existing articles.json, starting fresh:', e.message);
+      return [];
+    }
   }
   return [];
 }
 
 function loadArchiveForMonth(yearMonth) {
   const p = path.join(ARCHIVE_DIR, `${yearMonth}.json`);
-  if (fs.existsSync(p)) return JSON.parse(fs.readFileSync(p, 'utf-8'));
+  if (fs.existsSync(p)) {
+    try {
+      return JSON.parse(fs.readFileSync(p, 'utf-8'));
+    } catch (e) {
+      console.warn(`Failed to parse archive ${yearMonth}.json, starting fresh:`, e.message);
+      return [];
+    }
+  }
   return [];
 }
 
 function saveArchive(yearMonth, articles) {
   if (!fs.existsSync(ARCHIVE_DIR)) fs.mkdirSync(ARCHIVE_DIR, { recursive: true });
   const existing = loadArchiveForMonth(yearMonth);
+  // Only add new articles by ID; existing entries are preserved as-is.
+  // NOTE: Articles that were "merged away" by title dedup in a later run
+  // may silently disappear from the archive because they are no longer in
+  // the deduped set. This is acceptable since they are duplicates.
   const existingIds = new Set(existing.map(a => a.id));
   const newArticles = articles.filter(a => !existingIds.has(a.id) && a.id);
   const merged = [...existing, ...newArticles];
   const p = path.join(ARCHIVE_DIR, `${yearMonth}.json`);
-  fs.writeFileSync(p, JSON.stringify(merged, null, 2));
+  const tmpPath = p + '.tmp';
+  fs.writeFileSync(tmpPath, JSON.stringify(merged, null, 2));
+  fs.renameSync(tmpPath, p);
   console.log(`Archive ${yearMonth}: ${existing.length} existing + ${newArticles.length} new = ${merged.length} total`);
 }
 
@@ -159,7 +177,9 @@ function main() {
   const recent = deduped.filter(a => new Date(a.publishedAt) >= thirtyDaysAgo);
 
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
-  fs.writeFileSync(ARTICLES_PATH, JSON.stringify(recent, null, 2));
+  const tmpPath = ARTICLES_PATH + '.tmp';
+  fs.writeFileSync(tmpPath, JSON.stringify(recent, null, 2));
+  fs.renameSync(tmpPath, ARTICLES_PATH);
 
   console.log(`Merged ${newArticles.length} new → ${deduped.length} deduped → ${recent.length} in 30-day window`);
 

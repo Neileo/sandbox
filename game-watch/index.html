@@ -92,7 +92,7 @@
 <div class="main">
   <div class="topbar">
     <a href="../" class="back-btn">Sandbox</a>
-    <input type="text" id="searchInput" placeholder="Search articles..." oninput="render()">
+    <input type="text" id="searchInput" placeholder="Search articles...">
     <span class="info" id="updateInfo"></span>
     <button class="theme-btn" onclick="toggleTheme()">Theme</button>
   </div>
@@ -115,8 +115,7 @@
 <script>
 let ARTICLES = [];
 let SOURCE_CONFIG = [];
-const CATEGORIES = ['全部', '产业动态', '投融资并购', '新品发布', '政策法规', '技术趋势', '数据报告', '电竞/直播', '独立游戏', '出海/全球化', '综合'];
-const CAT_ICONS = { '全部': '#', '产业动态': '#', '投融资并购': '#', '新品发布': '#', '政策法规': '#', '技术趋势': '#', '数据报告': '#', '电竞/直播': '#', '独立游戏': '#', '出海/全球化': '#', '综合': '#' };
+const CATEGORIES = ['全部', '产业动态', '投融资/并购', '新品发布', '政策法规', '技术趋势', '数据报告', '电竞/直播', '独立游戏', '出海/全球化', '综合'];
 
 let state = { activeCat: '全部', sourceFilters: new Set(), searchQuery: '', page: 1, pageSize: 50 };
 
@@ -223,7 +222,7 @@ function renderArticles() {
         <span>${a.category}</span>
         <span class="time">${formatTime(a.publishedAt)}</span>
       </div>
-      <div class="article-title"><a href="${a.url}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></div>
+      <div class="article-title"><a href="${isSafeUrl(a.url) ? a.url : '#'}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></div>
       <div class="article-summary">${escapeHtml(a.summary)}</div>
       ${a.tags && a.tags.length ? `<div class="article-tags">${a.tags.map(t => `<span class="article-tag">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
       ${a.sources && a.sources.length > 1 ? `<div class="article-tags"><span class="article-tag">Also reported by: ${a.sources.slice(1).map(s => s.name).join(', ')}</span></div>` : ''}
@@ -256,6 +255,11 @@ function goPage(p) {
 function escapeHtml(str) {
   if (!str) return '';
   return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function isSafeUrl(url) {
+  if (!url) return false;
+  return /^https?:\/\//i.test(url);
 }
 
 function toggleTheme() {

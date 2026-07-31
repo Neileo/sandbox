@@ -26,17 +26,17 @@ function checkUrl(url) {
 }
 
 async function main() {
-  const results = [];
-  for (const source of SOURCES) {
-    if (source.enabled === false) continue;
+  const enabledSources = SOURCES.filter(s => s.enabled !== false);
+  const checks = await Promise.all(enabledSources.map(async (source) => {
     const result = await checkUrl(source.feedUrl);
-    results.push({
+    return {
       id: source.id,
       name: source.name,
       feedUrl: source.feedUrl,
       ...result
-    });
-  }
+    };
+  }));
+  const results = checks;
 
   const summary = {
     total: results.length,

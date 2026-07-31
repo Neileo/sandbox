@@ -1,5 +1,8 @@
 name: Daily Fetch
 
+concurrency:
+  group: fetch-pipeline
+
 on:
   schedule:
     - cron: '0 0 * * *'

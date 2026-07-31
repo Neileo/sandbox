@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const Parser = require('rss-parser');
 
 const parser = new Parser({
@@ -18,7 +19,6 @@ function getBatchNumber() {
 }
 
 function computeId(url) {
-  const crypto = require('crypto');
   return crypto.createHash('sha256').update(url).digest('hex').substring(0, 16);
 }
 
