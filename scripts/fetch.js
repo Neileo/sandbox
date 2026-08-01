@@ -13,9 +13,12 @@ const SOURCES = JSON.parse(
 );
 
 function getBatchNumber() {
+  for (const arg of process.argv) {
+    if (arg.startsWith('--batch=')) return parseInt(arg.split('=')[1]);
+  }
   const batchIdx = process.argv.indexOf('--batch');
-  if (batchIdx === -1) throw new Error('--batch=N required');
-  return parseInt(process.argv[batchIdx + 1]);
+  if (batchIdx !== -1) return parseInt(process.argv[batchIdx + 1]);
+  throw new Error('--batch=N required');
 }
 
 function computeId(url) {
