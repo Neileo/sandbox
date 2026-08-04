@@ -1,0 +1,301 @@
+[
+  {
+    "id": "fa613a71d880d008",
+    "title": "Training a language model with 🤗 Transformers using TensorFlow and TPUs",
+    "url": "https://huggingface.co/blog/tf_tpu",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-04-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tf_tpu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "361ef27a12ca9410",
+    "title": "Running IF with 🧨 diffusers on a Free Tier Google Colab",
+    "url": "https://huggingface.co/blog/if",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-04-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/if"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "84a08e83ca6eb8b2",
+    "title": "Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models",
+    "url": "https://huggingface.co/blog/databricks-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-04-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/databricks-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5c30c6d86b2b58f",
+    "title": "New ways to manage your data in ChatGPT",
+    "url": "https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "ChatGPT users can now turn off chat history, allowing you to choose which conversations can be used to train our models.",
+    "publishedAt": "2023-04-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-ways-to-manage-your-data-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aaff2a751c52355a",
+    "title": "Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community",
+    "url": "https://huggingface.co/blog/chinese-language-blog",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-04-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/chinese-language-blog"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8cdb1eb5307c87f4",
+    "title": "How to host a Unity game in a Space",
+    "url": "https://huggingface.co/blog/unity-in-spaces",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-04-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/unity-in-spaces"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8132a51280403a1e",
+    "title": "Accelerating Hugging Face Transformers with AWS Inferentia2",
+    "url": "https://huggingface.co/blog/accelerate-transformers-with-inferentia2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-04-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/accelerate-transformers-with-inferentia2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2e6fb0d49d4276f7",
+    "title": "Graph Classification with Transformers",
+    "url": "https://huggingface.co/blog/graphml-classification",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-04-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/graphml-classification"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aff6960c5ef712e0",
+    "title": "Creating Privacy Preserving AI with Substra",
+    "url": "https://huggingface.co/blog/owkin-substra",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-04-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/owkin-substra"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7b7c824de80067f5",
+    "title": "Announcing OpenAI’s Bug Bounty Program",
+    "url": "https://openai.com/index/bug-bounty-program",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "This initiative is essential to our commitment to develop safe and advanced AI. As we create technology and services that are secure, reliable, and trustworthy, we need your help.",
+    "publishedAt": "2023-04-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/bug-bounty-program"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ac87e5a0b56fe57",
+    "title": "Snorkel AI x Hugging Face: unlock foundation models for enterprises",
+    "url": "https://huggingface.co/blog/snorkel-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-04-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/snorkel-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "770b565132155c1d",
+    "title": "Our approach to AI safety",
+    "url": "https://openai.com/index/our-approach-to-ai-safety",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Ensuring that AI systems are built, deployed, and used safely is critical to our mission.",
+    "publishedAt": "2023-04-05T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/our-approach-to-ai-safety"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f3178d8b3aa4ede4",
+    "title": "StackLLaMA: A hands-on guide to train LLaMA with RLHF",
+    "url": "https://huggingface.co/blog/stackllama",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-04-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/stackllama"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

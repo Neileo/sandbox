@@ -1,0 +1,324 @@
+[
+  {
+    "id": "aff00e273aee973d",
+    "title": "The power of continuous learning",
+    "url": "https://openai.com/index/the-power-of-continuous-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Lilian Weng works on Applied AI Research at OpenAI.",
+    "publishedAt": "2022-12-23T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-power-of-continuous-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f130d55c96f15047",
+    "title": "Zero-shot image segmentation with CLIPSeg",
+    "url": "https://huggingface.co/blog/clipseg-zero-shot",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-12-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/clipseg-zero-shot"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "de81a1a5ac95769b",
+    "title": "Model Cards",
+    "url": "https://huggingface.co/blog/model-cards",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-12-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/model-cards"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "28adad6ac48b8ef4",
+    "title": "Point-E: A system for generating 3D point clouds from complex prompts",
+    "url": "https://openai.com/index/point-e",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-12-16T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/point-e"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aa0466963d7a7824",
+    "title": "New and improved embedding model",
+    "url": "https://openai.com/index/new-and-improved-embedding-model",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "We are excited to announce a new embedding model which is significantly more capable, cost effective, and simpler to use.",
+    "publishedAt": "2022-12-15T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-and-improved-embedding-model"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "73799d7a2b7ba644",
+    "title": "Let's talk about biases in machine learning! Ethics and Society Newsletter #2",
+    "url": "https://huggingface.co/blog/ethics-soc-2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-12-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ethics-soc-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5d95108cfde256fd",
+    "title": "A Complete Guide to Audio Datasets",
+    "url": "https://huggingface.co/blog/audio-datasets",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-12-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/audio-datasets"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8abb4ea7fb6f10a3",
+    "title": "Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB",
+    "url": "https://huggingface.co/blog/habana-gaudi-2-benchmark",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2022-12-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/habana-gaudi-2-benchmark"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cf86ade57ae4ee25",
+    "title": "Illustrating Reinforcement Learning from Human Feedback (RLHF)",
+    "url": "https://huggingface.co/blog/rlhf",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/rlhf"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "54b6930238ebd05c",
+    "title": "From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community",
+    "url": "https://huggingface.co/blog/elixir-bumblebee",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/elixir-bumblebee"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8502f6942588b5ab",
+    "title": "Discovering the minutiae of backend systems",
+    "url": "https://openai.com/index/discovering-the-minutiae-of-backend-systems",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Christian Gibson is an engineer on the Supercomputing team at OpenAI.",
+    "publishedAt": "2022-12-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/discovering-the-minutiae-of-backend-systems"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "214d3ee85d3ba3e7",
+    "title": "Deep Learning with Proteins",
+    "url": "https://huggingface.co/blog/deep-learning-with-proteins",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-12-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deep-learning-with-proteins"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2dd5b55983608296",
+    "title": "Using Stable Diffusion with Core ML on Apple Silicon",
+    "url": "https://huggingface.co/blog/diffusers-coreml",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-12-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/diffusers-coreml"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3a981d702372e286",
+    "title": "Probabilistic Time Series Forecasting with 🤗 Transformers",
+    "url": "https://huggingface.co/blog/time-series-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-12-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/time-series-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

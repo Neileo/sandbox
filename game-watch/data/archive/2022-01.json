@@ -1,0 +1,186 @@
+[
+  {
+    "id": "87477ad8b4769c32",
+    "title": "Aligning language models to follow instructions",
+    "url": "https://openai.com/index/instruction-following",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-01-27T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/instruction-following"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ee502169554502dd",
+    "title": "Introducing text and code embeddings",
+    "url": "https://openai.com/index/introducing-text-and-code-embeddings",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are introducing embeddings, a new endpoint in the OpenAI API that makes it easy to perform natural language and code tasks like semantic search, clustering, topic modeling, and classification.",
+    "publishedAt": "2022-01-25T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-text-and-code-embeddings"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2bf83d805bf90a6d",
+    "title": "Supercharged Searching on the 🤗 Hub",
+    "url": "https://huggingface.co/blog/searching-the-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-01-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/searching-the-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d3cbea351a466319",
+    "title": "Text and code embeddings by contrastive pre-training",
+    "url": "https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-01-24T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f73240612369bb27",
+    "title": "Welcome Stable-baselines3 to the Hugging Face Hub 🤗",
+    "url": "https://huggingface.co/blog/sb3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-01-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sb3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ed15c5ed7bf5a15a",
+    "title": "Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs",
+    "url": "https://huggingface.co/blog/infinity-cpu-performance",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-01-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/infinity-cpu-performance"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0b1c5511d2f808cd",
+    "title": "Boosting Wav2Vec2 with n-grams in 🤗 Transformers",
+    "url": "https://huggingface.co/blog/wav2vec2-with-ngram",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-01-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/wav2vec2-with-ngram"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "30262ae5d94a616c",
+    "title": "Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker",
+    "url": "https://huggingface.co/blog/gptj-sagemaker",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-01-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gptj-sagemaker"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "90184b0d09ceaa8b",
+    "title": "Testing robustness against unforeseen adversaries",
+    "url": "https://openai.com/index/testing-robustness",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve developed a method to assess whether a neural network classifier can reliably defend against adversarial attacks not seen during training. Our method yields a new metric, UAR (Unforeseen Attack ",
+    "publishedAt": "2019-08-22T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/testing-robustness"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aec2fcecd95ebb49",
+    "title": "GPT-2: 6-month follow-up",
+    "url": "https://openai.com/index/gpt-2-6-month-follow-up",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing the 774 million parameter GPT-2 language model after the release of our small 124M model in February, staged release of our medium 355M model in May, and subsequent research with partn",
+    "publishedAt": "2019-08-20T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-2-6-month-follow-up"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8ace9587a2b910d7",
+    "title": "Learning Day",
+    "url": "https://openai.com/index/learning-day",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "At OpenAI, each Thursday is Learning Day: a day where employees have the option to self-study technical skills that will make them better at their job but which aren’t being learned from daily work.",
+    "publishedAt": "2019-08-01T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-day"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

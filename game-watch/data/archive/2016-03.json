@@ -1,0 +1,25 @@
+[
+  {
+    "id": "a56ab6cba95b1b09",
+    "title": "Team++",
+    "url": "https://openai.com/index/team-plus-plus",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve had some fantastic people join over the past few months (and we’re still hiring). Welcome, everyone!",
+    "publishedAt": "2016-03-31T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.309Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/team-plus-plus"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

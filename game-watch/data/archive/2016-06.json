@@ -1,0 +1,71 @@
+[
+  {
+    "id": "99799942438c5408",
+    "title": "Concrete AI safety problems",
+    "url": "https://openai.com/index/concrete-ai-safety-problems",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We (along with researchers from Berkeley and Stanford) are co-authors on today’s paper led by Google Brain researchers, Concrete Problems in AI Safety. The paper explores many research problems around",
+    "publishedAt": "2016-06-21T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/concrete-ai-safety-problems"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "41c470b2e5658601",
+    "title": "OpenAI technical goals",
+    "url": "https://openai.com/index/openai-technical-goals",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI’s mission is to build safe AI, and ensure AI’s benefits are as widely and evenly distributed as possible.",
+    "publishedAt": "2016-06-20T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-technical-goals"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "92d63a1380819ff6",
+    "title": "Generative models",
+    "url": "https://openai.com/index/generative-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "This post describes four projects that share a common theme of enhancing or using generative models, a branch of unsupervised learning techniques in machine learning. In addition to describing our wor",
+    "publishedAt": "2016-06-16T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.309Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/generative-models"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

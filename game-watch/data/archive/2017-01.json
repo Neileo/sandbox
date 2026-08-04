@@ -1,0 +1,25 @@
+[
+  {
+    "id": "54f60ca8fca3578b",
+    "title": "PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications",
+    "url": "https://openai.com/index/pixelcnn-plus-plus",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2017-01-19T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/pixelcnn-plus-plus"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "cd2f9658378f39f3",
+    "title": "OpenAI Residency",
+    "url": "https://openai.com/index/openai-residency",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "As part of our effort to support and develop AI talent, we’re excited to announce the OpenAI Residency.",
+    "publishedAt": "2021-11-30T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-residency"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "850956864c75cd84",
+    "title": "Getting Started with Hugging Face Transformers for IPUs with Optimum",
+    "url": "https://huggingface.co/blog/graphcore-getting-started",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-11-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/graphcore-getting-started"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "285d241d3c9b3244",
+    "title": "Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets",
+    "url": "https://huggingface.co/blog/data-measurements-tool",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-11-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/data-measurements-tool"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "077855edf8d27f8b",
+    "title": "Accelerating PyTorch distributed fine-tuning with Intel technologies",
+    "url": "https://huggingface.co/blog/accelerating-pytorch",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-11-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/accelerating-pytorch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b50beb89f16ff8d6",
+    "title": "OpenAI’s API now available with no waitlist",
+    "url": "https://openai.com/index/api-no-waitlist",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Wider availability made possible by safety progress.",
+    "publishedAt": "2021-11-18T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/api-no-waitlist"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fc128c5e73332234",
+    "title": "Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers",
+    "url": "https://huggingface.co/blog/fine-tune-w2v2-bert",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-11-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fine-tune-w2v2-bert"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fine-tune-xlsr-wav2vec2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b6c295244f5b4bf6",
+    "title": "Scaling up BERT-like model Inference on modern CPU  - Part 2",
+    "url": "https://huggingface.co/blog/bert-cpu-scaling-part-2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-11-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bert-cpu-scaling-part-2"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

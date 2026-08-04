@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1aad186b08fb66c3",
+    "title": "OpenAI standardizes on PyTorch",
+    "url": "https://openai.com/index/openai-pytorch",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are standardizing OpenAI’s deep learning framework on PyTorch.",
+    "publishedAt": "2020-01-30T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-pytorch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bd2a7f12ec033efa",
+    "title": "Scaling laws for neural language models",
+    "url": "https://openai.com/index/scaling-laws-for-neural-language-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2020-01-23T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/scaling-laws-for-neural-language-models"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "994b9539f35515e9",
+    "title": "Nonlinear computation in deep linear networks",
+    "url": "https://openai.com/index/nonlinear-computation-in-deep-linear-networks",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2017-09-29T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/nonlinear-computation-in-deep-linear-networks"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "22f524cf064dacee",
+    "title": "Learning to model other minds",
+    "url": "https://openai.com/index/learning-to-model-other-minds",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing an algorithm which accounts for the fact that other agents are learning too, and discovers self-interested yet collaborative strategies like tit-for-tat in the iterated prisoner’s dile",
+    "publishedAt": "2017-09-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-to-model-other-minds"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "df4bf285848c6cdd",
+    "title": "Learning with opponent-learning awareness",
+    "url": "https://openai.com/index/learning-with-opponent-learning-awareness",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2017-09-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-with-opponent-learning-awareness"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

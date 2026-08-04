@@ -1,0 +1,765 @@
+[
+  {
+    "id": "80b7965b893dda53",
+    "title": "New funding to build towards AGI",
+    "url": "https://openai.com/index/march-funding-updates",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Today we’re announcing new funding—$40B at a $300B post-money valuation, which enables us to push the frontiers of AI research even further, scale our compute infrastructure, and deliver increasingly ",
+    "publishedAt": "2025-03-31T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/march-funding-updates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "567723bf541e600c",
+    "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
+    "url": "https://huggingface.co/blog/scaling-secrets-management",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-03-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/scaling-secrets-management"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a224b407363ae926",
+    "title": "🚀 Accelerating LLM Inference with TGI on Intel Gaudi",
+    "url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-03-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "54039a329c2b1e97",
+    "title": "Moving from intent-based bots to proactive AI agents",
+    "url": "https://openai.com/index/zendesk",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Moving from intent-based bots to proactive AI agents.",
+    "publishedAt": "2025-03-27T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/zendesk"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5cf09edb190e372",
+    "title": "Security on the path to AGI",
+    "url": "https://openai.com/index/security-on-the-path-to-agi",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "At OpenAI, we proactively adapt, including by building comprehensive security measures directly into our infrastructure and models.",
+    "publishedAt": "2025-03-26T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/security-on-the-path-to-agi"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "389ab448b1904bc0",
+    "title": "Introducing 4o Image Generation",
+    "url": "https://openai.com/index/introducing-4o-image-generation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "At OpenAI, we have long believed image generation should be a primary capability of our language models. That’s why we’ve built our most advanced image generator yet into GPT‑4o. The result—image gene",
+    "publishedAt": "2025-03-25T11:05:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-4o-image-generation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5223fe491ee43b1c",
+    "title": "Addendum to GPT-4o System Card: 4o image generation",
+    "url": "https://openai.com/index/gpt-4o-image-generation-system-card-addendum",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "4o image generation is a new, significantly more capable image generation approach than our earlier DALL·E 3 series of models. It can create photorealistic output. It can take images as inputs and tra",
+    "publishedAt": "2025-03-25T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-4o-image-generation-system-card-addendum"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7b59156166923ff4",
+    "title": "Automating 90% of finance and legal work with agents",
+    "url": "https://openai.com/index/hebbia",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI",
+    "publishedAt": "2025-03-25T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hebbia"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b04845c2b7eaf9bf",
+    "title": "Leadership updates",
+    "url": "https://openai.com/index/leadership-updates-march-2025",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI has grown a lot. We remain focused on the same core—pursuing frontier AI research that accelerates human progress–but we now also deliver products used by hundreds of millions of people.",
+    "publishedAt": "2025-03-24T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/leadership-updates-march-2025"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "20ad106519e5bc50",
+    "title": "Introducing Gradio's new Dataframe!",
+    "url": "https://huggingface.co/blog/gradio-dataframe-upgrade",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-03-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-dataframe-upgrade"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "55904b2e2ce75c33",
+    "title": "Early methods for studying affective use and emotional well-being on ChatGPT",
+    "url": "https://openai.com/index/affective-use-study",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "An OpenAI and MIT Media Lab Research collaboration.",
+    "publishedAt": "2025-03-21T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/affective-use-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d96022fe21d47f95",
+    "title": "The New and Fresh analytics in Inference Endpoints",
+    "url": "https://huggingface.co/blog/endpoint-analytics",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-03-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/endpoint-analytics"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2faaffb2fdc9e3f2",
+    "title": "Personalizing travel at scale with OpenAI",
+    "url": "https://openai.com/index/booking-com",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "By integrating its data systems with OpenAI’s LLMs, Booking.com delivers smarter search, faster support, and intent-driven travel experiences.",
+    "publishedAt": "2025-03-20T23:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/booking-com"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ef935fda21318cae",
+    "title": "Introducing next-generation audio models in the API",
+    "url": "https://openai.com/index/introducing-our-next-generation-audio-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "For the first time, developers can also instruct the text-to-speech model to speak in a specific way—for example, “talk like a sympathetic customer service agent”—unlocking a new level of customizatio",
+    "publishedAt": "2025-03-20T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-our-next-generation-audio-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "49db60d8bbd76cf2",
+    "title": "Open R1: How to use OlympicCoder locally for coding",
+    "url": "https://huggingface.co/blog/olympic-coder-lmstudio",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-03-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/olympic-coder-lmstudio"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4464c87c921cfeb1",
+    "title": "AI Policy @🤗: Response to the White House AI Action Plan RFI",
+    "url": "https://huggingface.co/blog/ai-action-wh-2025",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2025-03-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ai-action-wh-2025"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1c657592b9ae9349",
+    "title": "EliseAI improves housing and healthcare efficiency with AI",
+    "url": "https://openai.com/index/eliseai-minna-song",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A conversation with Minna Song, CEO & Co-founder of EliseAI.",
+    "publishedAt": "2025-03-18T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/eliseai-minna-song"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "14f6cdef92302bd0",
+    "title": "NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
+    "url": "https://huggingface.co/blog/nvidia-physical-ai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-03-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia-physical-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83b06e5afaa3d5a9",
+    "title": "Xet is on the Hub",
+    "url": "https://huggingface.co/blog/xet-on-the-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-03-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/xet-on-the-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "961a62b25f9363d1",
+    "title": "New in ChatGPT for Business: April 2025",
+    "url": "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.",
+    "publishedAt": "2025-03-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a14828a5864e54cb",
+    "title": "The court rejects Elon’s latest attempt to slow OpenAI down",
+    "url": "https://openai.com/index/court-rejects-elon",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We welcome the court’s March 4, 2025, decision rejecting Elon Musk’s latest attempt to slow down OpenAI for his personal benefit.",
+    "publishedAt": "2025-03-14T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/court-rejects-elon"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ea9377b7c4790f05",
+    "title": "Driving growth and ‘WOW’ moments with OpenAI",
+    "url": "https://openai.com/index/ly-corporation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "LY Corporation: Driving growth and ‘WOW’ moments with OpenAI",
+    "publishedAt": "2025-03-12T18:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ly-corporation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e10801f7d1f42032",
+    "title": "Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM",
+    "url": "https://huggingface.co/blog/gemma3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-03-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gemma3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bd68567228d606f3",
+    "title": "New tools for building agents",
+    "url": "https://openai.com/index/new-tools-for-building-agents",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-03-11T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-tools-for-building-agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a78f3675e9050f07",
+    "title": "LeRobot goes to driving school: World’s largest open-source self-driving dataset",
+    "url": "https://huggingface.co/blog/lerobot-goes-to-driving-school",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-03-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lerobot-goes-to-driving-school"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "62125fff56fe4d11",
+    "title": "Detecting misbehavior in frontier reasoning models",
+    "url": "https://openai.com/index/chain-of-thought-monitoring",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Frontier reasoning models exploit loopholes when given the chance. We show we can detect exploits using an LLM to monitor their chains-of-thought. Penalizing their “bad thoughts” doesn’t stop the majo",
+    "publishedAt": "2025-03-10T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chain-of-thought-monitoring"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0be51744a6aa5779",
+    "title": "Nubank elevates customer experiences with OpenAI",
+    "url": "https://openai.com/index/nubank",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Nubank elevates customer experiences with OpenAI",
+    "publishedAt": "2025-03-07T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/nubank"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "23a1ffa214aeb862",
+    "title": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
+    "url": "https://huggingface.co/blog/llm-inference-on-edge",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-03-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llm-inference-on-edge"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "599415e1afe1d856",
+    "title": "Accelerating engineering cycles 20% with OpenAI",
+    "url": "https://openai.com/index/factory",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Accelerating engineering cycles 20% with OpenAI.",
+    "publishedAt": "2025-03-06T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/factory"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0234bff35fd0e3ab",
+    "title": "LaunchDarkly's approach to AI-powered product management",
+    "url": "https://openai.com/index/launchdarkly-claire-vo",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A conversation with Claire Vo, Chief Product Officer of LaunchDarkly, about the changing role of product managers, her anti-to-do list, and building AI-native teams.",
+    "publishedAt": "2025-03-04T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/launchdarkly-claire-vo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "303c8a4b7c847eef",
+    "title": "Introducing NextGenAI",
+    "url": "https://openai.com/index/introducing-nextgenai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI commits $50M in funding and tools to leading institutions.",
+    "publishedAt": "2025-03-04T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-nextgenai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3670f25b65864f0c",
+    "title": "Hugging Face and JFrog partner to make AI Security more transparent",
+    "url": "https://huggingface.co/blog/jfrog",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-03-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/jfrog"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "800836e70cb09cc2",
+    "title": "A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality",
+    "url": "https://huggingface.co/blog/aya-vision",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-03-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/aya-vision"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

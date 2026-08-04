@@ -1,0 +1,94 @@
+[
+  {
+    "id": "d1937720d23b7c00",
+    "title": "OpenAI licenses GPT-3 technology to Microsoft",
+    "url": "https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI has agreed to license GPT-3 to Microsoft for their own products and services.",
+    "publishedAt": "2020-09-22T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "093e56cb449f4e6e",
+    "title": "Block Sparse Matrices for Smaller and Faster Language Models",
+    "url": "https://huggingface.co/blog/pytorch_block_sparse",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2020-09-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pytorch_block_sparse"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "88e99ce4204ef142",
+    "title": "Generative language modeling for automated theorem proving",
+    "url": "https://openai.com/index/generative-language-modeling-for-automated-theorem-proving",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2020-09-07T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/generative-language-modeling-for-automated-theorem-proving"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5838d162a66e8a6",
+    "title": "Learning to summarize with human feedback",
+    "url": "https://openai.com/index/learning-to-summarize-with-human-feedback",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve applied reinforcement learning from human feedback to train language models that are better at summarization.",
+    "publishedAt": "2020-09-04T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-to-summarize-with-human-feedback"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

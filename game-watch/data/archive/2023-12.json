@@ -1,0 +1,324 @@
+[
+  {
+    "id": "9593325e7b7e089e",
+    "title": "Speculative Decoding for 2x Faster Whisper Inference",
+    "url": "https://huggingface.co/blog/whisper-speculative-decoding",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-12-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/whisper-speculative-decoding"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c94cbf97a76fcc5c",
+    "title": "2023, year of open LLMs",
+    "url": "https://huggingface.co/blog/2023-in-llms",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-12-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/2023-in-llms"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ec5b44387d7af555",
+    "title": "Increasing accuracy of pediatric visit notes",
+    "url": "https://openai.com/index/summer-health",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Summer Health reimagines pediatric doctor’s visits with OpenAI.",
+    "publishedAt": "2023-12-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/summer-health"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "25adcaa1c831fe23",
+    "title": "Practices for Governing Agentic AI Systems",
+    "url": "https://openai.com/index/practices-for-governing-agentic-ai-systems",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-12-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/practices-for-governing-agentic-ai-systems"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bbc0fc0c1679c458",
+    "title": "Superalignment Fast Grants",
+    "url": "https://openai.com/index/superalignment-fast-grants",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, a",
+    "publishedAt": "2023-12-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/superalignment-fast-grants"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b276b4af9d56c955",
+    "title": "Weak-to-strong generalization",
+    "url": "https://openai.com/index/weak-to-strong-generalization",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We present a new research direction for superalignment, together with promising initial results: can we leverage the generalization properties of deep learning to control strong models with weak super",
+    "publishedAt": "2023-12-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/weak-to-strong-generalization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1a0ef88fc84c239a",
+    "title": "Partnership with Axel Springer to deepen beneficial use of AI in journalism",
+    "url": "https://openai.com/index/axel-springer-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Axel Springer is the first publishing house globally to partner with us on a deeper integration of journalism in AI technologies.",
+    "publishedAt": "2023-12-13T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/axel-springer-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d8d36e62a252465e",
+    "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
+    "url": "https://huggingface.co/blog/mixtral",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-12-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mixtral"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8f5ebeda8e67fd40",
+    "title": "Mixture of Experts Explained",
+    "url": "https://huggingface.co/blog/moe",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-12-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/moe"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9a7d8a2adff679cb",
+    "title": "SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit",
+    "url": "https://huggingface.co/blog/setfit-absa",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-12-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/setfit-absa"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3d78855a9169a105",
+    "title": "AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU",
+    "url": "https://huggingface.co/blog/huggingface-and-optimum-amd",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-12-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface-and-optimum-amd"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f9d94efd7b207499",
+    "title": "Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code",
+    "url": "https://huggingface.co/blog/optimum-nvidia",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-12-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/optimum-nvidia"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0b5aa88a941485ff",
+    "title": "Goodbye cold boot - how we made LoRA Inference 300% faster",
+    "url": "https://huggingface.co/blog/lora-adapters-dynamic-loading",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-12-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lora-adapters-dynamic-loading"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dbd40c7c7b0dcff3",
+    "title": "Open LLM Leaderboard: DROP deep dive",
+    "url": "https://huggingface.co/blog/open-llm-leaderboard-drop",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-12-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/open-llm-leaderboard-drop"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

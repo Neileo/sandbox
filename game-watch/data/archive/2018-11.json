@@ -1,0 +1,71 @@
+[
+  {
+    "id": "da2451f0c1b3f878",
+    "title": "Spinning Up in Deep RL",
+    "url": "https://openai.com/index/spinning-up-in-deep-rl",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing Spinning Up in Deep RL, an educational resource designed to let anyone learn to become a skilled practitioner in deep reinforcement learning. Spinning Up consists of crystal-clear exam",
+    "publishedAt": "2018-11-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/spinning-up-in-deep-rl"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "32d654a60eb06246",
+    "title": "Learning concepts with energy functions",
+    "url": "https://openai.com/index/learning-concepts-with-energy-functions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve developed an energy-based model that can quickly learn to identify and generate instances of concepts, such as near, above, between, closest, and furthest, expressed as sets of 2d points. Our mo",
+    "publishedAt": "2018-11-07T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-concepts-with-energy-functions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "766b5a24063f965e",
+    "title": "Plan online, learn offline: Efficient learning and exploration via model-based control",
+    "url": "https://openai.com/index/plan-online-learn-offline",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-11-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/plan-online-learn-offline"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

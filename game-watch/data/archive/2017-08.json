@@ -1,0 +1,94 @@
+[
+  {
+    "id": "7d4417b6f1fa840b",
+    "title": "OpenAI Baselines: ACKTR & A2C",
+    "url": "https://openai.com/index/openai-baselines-acktr-a2c",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing two new OpenAI Baselines implementations: ACKTR and A2C. A2C is a synchronous, deterministic variant of Asynchronous Advantage Actor Critic (A3C) which we’ve found gives equal performa",
+    "publishedAt": "2017-08-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-baselines-acktr-a2c"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7e4bda609cfe4368",
+    "title": "More on Dota 2",
+    "url": "https://openai.com/index/more-on-dota-2",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our Dota 2 result shows that self-play can catapult the performance of machine learning systems from far below human level to superhuman, given sufficient compute. In the span of a month, our system w",
+    "publishedAt": "2017-08-16T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/more-on-dota-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e636241aa3839068",
+    "title": "Dota 2",
+    "url": "https://openai.com/index/dota-2",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve created a bot which beats the world’s top professionals at 1v1 matches of Dota 2 under standard tournament rules. The bot learned the game from scratch by self-play, and does not use imitation l",
+    "publishedAt": "2017-08-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dota-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "698b1890fdd155cb",
+    "title": "Gathering human feedback",
+    "url": "https://openai.com/index/gathering-human-feedback",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "RL-Teacher is an open-source implementation of our interface to train AIs via occasional human feedback rather than hand-crafted reward functions. The underlying technique was developed as a step towa",
+    "publishedAt": "2017-08-03T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gathering-human-feedback"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

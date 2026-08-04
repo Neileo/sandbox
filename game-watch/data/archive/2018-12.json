@@ -1,0 +1,75 @@
+[
+  {
+    "id": "04848ed862874085",
+    "title": "OpenAI Fellows Fall 2018: Final projects",
+    "url": "https://openai.com/index/openai-fellows-fall-2018",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our second class of OpenAI Fellows has wrapped up, with each Fellow going from a machine learning beginner to core OpenAI contributor in the course of a 6-month apprenticeship. We are currently review",
+    "publishedAt": "2018-12-19T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-fellows-fall-2018"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-summer-fellows-2018"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "55cf833bc7db9086",
+    "title": "How AI training scales",
+    "url": "https://openai.com/index/how-ai-training-scales",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "We’ve discovered that the gradient noise scale, a simple statistical metric, predicts the parallelizability of neural network training on a wide range of tasks. Since complex tasks tend to have noisie",
+    "publishedAt": "2018-12-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-ai-training-scales"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8c8b67d910ad96cd",
+    "title": "Quantifying generalization in reinforcement learning",
+    "url": "https://openai.com/index/quantifying-generalization-in-reinforcement-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing CoinRun, a training environment which provides a metric for an agent’s ability to transfer its experience to novel situations and has already helped clarify a longstanding puzzle in re",
+    "publishedAt": "2018-12-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/quantifying-generalization-in-reinforcement-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

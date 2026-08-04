@@ -1,0 +1,94 @@
+[
+  {
+    "id": "3c05e74ae5641441",
+    "title": "OpenAI Fellows Fall 2018",
+    "url": "https://openai.com/index/openai-fellows",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re now accepting applications for the next cohort of OpenAI Fellows, a program which offers a compensated 6-month apprenticeship in AI research at OpenAI.",
+    "publishedAt": "2018-05-30T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-fellows"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "31ad9adfb05ac421",
+    "title": "Gym Retro",
+    "url": "https://openai.com/index/gym-retro",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing the full version of Gym Retro, a platform for reinforcement learning research on games. This brings our publicly-released game count from around 70 Atari games and 30 Sega games to ove",
+    "publishedAt": "2018-05-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gym-retro"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a0c4b2b4d23d83f",
+    "title": "AI and compute",
+    "url": "https://openai.com/index/ai-and-compute",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing an analysis showing that since 2012, the amount of compute used in the largest AI training runs has been increasing exponentially with a 3.4-month doubling time (by comparison, Moore’s",
+    "publishedAt": "2018-05-16T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-and-compute"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b9028523d1d69238",
+    "title": "AI safety via debate",
+    "url": "https://openai.com/index/debate",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "We’re proposing an AI safety technique which trains agents to debate topics with one another, using a human to judge who wins.",
+    "publishedAt": "2018-05-03T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/debate"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

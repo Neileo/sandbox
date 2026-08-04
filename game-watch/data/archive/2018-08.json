@@ -1,0 +1,71 @@
+[
+  {
+    "id": "a626622dc4ddf1d8",
+    "title": "The International 2018: Results",
+    "url": "https://openai.com/index/the-international-2018-results",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI Five lost two games against top Dota 2 players at The International in Vancouver this week, maintaining a good chance of winning for the first 20–35 minutes of both games.",
+    "publishedAt": "2018-08-23T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-international-2018-results"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "51bd36a671fe0489",
+    "title": "Large-scale study of curiosity-driven learning",
+    "url": "https://openai.com/index/large-scale-study-of-curiosity-driven-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-08-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/large-scale-study-of-curiosity-driven-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f7475741716d7fed",
+    "title": "OpenAI Five Benchmark: Results",
+    "url": "https://openai.com/index/openai-five-benchmark-results",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Yesterday, OpenAI Five won a best-of-three against a team of 99.95th percentile Dota players: Blitz, Cap, Fogged, Merlini, and MoonMeander—four of whom have played Dota professionally—in front of a li",
+    "publishedAt": "2018-08-06T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-five-benchmark-results"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

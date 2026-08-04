@@ -1,0 +1,531 @@
+[
+  {
+    "id": "8a25b441c338751e",
+    "title": "Teaching with AI",
+    "url": "https://openai.com/index/teaching-with-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing a guide for teachers using ChatGPT in their classroom—including suggested prompts, an explanation of how ChatGPT works and its limitations, the efficacy of AI detectors, and bias.",
+    "publishedAt": "2023-08-31T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/teaching-with-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d6918e64c48763a9",
+    "title": "AudioLDM 2, but faster ⚡️",
+    "url": "https://huggingface.co/blog/audioldm2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/audioldm2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9508517bc8f22014",
+    "title": "Introducing ChatGPT Enterprise",
+    "url": "https://openai.com/index/introducing-chatgpt-enterprise",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Get enterprise-grade security & privacy and the most powerful version of ChatGPT yet.",
+    "publishedAt": "2023-08-28T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-enterprise"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "18592e9b653b99fa",
+    "title": "Code Llama: Llama 2 learns to code",
+    "url": "https://huggingface.co/blog/codellama",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-08-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/codellama"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "26e6855bb4312d33",
+    "title": "Deprecation of Git Authentication using password",
+    "url": "https://huggingface.co/blog/password-git-deprecation",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/password-git-deprecation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "347cccd7e6347d99",
+    "title": "OpenAI partners with Scale to provide support for enterprises fine-tuning models",
+    "url": "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI’s customers can leverage Scale’s AI expertise to customize our most advanced models.",
+    "publishedAt": "2023-08-24T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3f3037a20c228735",
+    "title": "Making LLMs lighter with AutoGPTQ and transformers",
+    "url": "https://huggingface.co/blog/gptq-integration",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gptq-integration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8499c87f8ca9c300",
+    "title": "GPT-3.5 Turbo fine-tuning and API updates",
+    "url": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.",
+    "publishedAt": "2023-08-22T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "95c8a6581fb03bb8",
+    "title": "Introducing SafeCoder",
+    "url": "https://huggingface.co/blog/safecoder",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/safecoder"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ee0c3dc11234584c",
+    "title": "Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model",
+    "url": "https://huggingface.co/blog/idefics",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-08-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/idefics"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "053e58d385563762",
+    "title": "OpenAI acquires Global Illumination",
+    "url": "https://openai.com/index/openai-acquires-global-illumination",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The entire team has joined OpenAI.",
+    "publishedAt": "2023-08-16T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-acquires-global-illumination"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "08af580a2cf07093",
+    "title": "Using GPT-4 for content moderation",
+    "url": "https://openai.com/index/using-gpt-4-for-content-moderation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "We use GPT-4 for content policy development and content moderation decisions, enabling more consistent labeling, a faster feedback loop for policy refinement, and less involvement from human moderator",
+    "publishedAt": "2023-08-15T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/using-gpt-4-for-content-moderation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3117389ba227b661",
+    "title": "Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account",
+    "url": "https://huggingface.co/blog/aws-marketplace",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/aws-marketplace"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "18e417e221bd284d",
+    "title": "Optimizing Bark using 🤗 Transformers",
+    "url": "https://huggingface.co/blog/optimizing-bark",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/optimizing-bark"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fe4e53021191b0e9",
+    "title": "Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action",
+    "url": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deploy-deepfloydif-using-bentoml"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "404f759f0a90603d",
+    "title": "Fine-tune Llama 2 with DPO",
+    "url": "https://huggingface.co/blog/dpo-trl",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dpo-trl"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba1e62f5b457d114",
+    "title": "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
+    "url": "https://huggingface.co/blog/swift-coreml-llm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-08-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/swift-coreml-llm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "589db0c3ddb03b9a",
+    "title": "Deploy MusicGen in no time with Inference Endpoints",
+    "url": "https://huggingface.co/blog/run-musicgen-as-an-api",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/run-musicgen-as-an-api"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "48f34df30dea0e2d",
+    "title": "Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub",
+    "url": "https://huggingface.co/blog/huggy-lingo",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-08-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggy-lingo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f8050f1e90a9291c",
+    "title": "Towards Encrypted Large Language Models with FHE",
+    "url": "https://huggingface.co/blog/encrypted-llm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/encrypted-llm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "33ceebccb05482d4",
+    "title": "Confidence-Building Measures for Artificial Intelligence: Workshop proceedings",
+    "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-08-01T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/confidence-building-measures-for-artificial-intelligence"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9bb0d82dfc49f391",
+    "title": "Practical 3D Asset Generation: A Step-by-Step Guide",
+    "url": "https://huggingface.co/blog/3d-assets",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-08-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/3d-assets"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4b936ce3feaf0c93",
+    "title": "Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny",
+    "url": "https://huggingface.co/blog/sd_distillation",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-08-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sd_distillation"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

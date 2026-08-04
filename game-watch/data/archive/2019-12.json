@@ -1,0 +1,71 @@
+[
+  {
+    "id": "2c89cede3d83e95c",
+    "title": "Dota 2 with large scale deep reinforcement learning",
+    "url": "https://openai.com/index/dota-2-with-large-scale-deep-reinforcement-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2019-12-13T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dota-2-with-large-scale-deep-reinforcement-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "19b78ea110832227",
+    "title": "Deep double descent",
+    "url": "https://openai.com/index/deep-double-descent",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We show that the double descent phenomenon occurs in CNNs, ResNets, and transformers: performance first improves, then gets worse, and then improves again with increasing model size, data size, or tra",
+    "publishedAt": "2019-12-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/deep-double-descent"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2f2d250f7b2e219f",
+    "title": "Procgen Benchmark",
+    "url": "https://openai.com/index/procgen-benchmark",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.",
+    "publishedAt": "2019-12-03T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/procgen-benchmark"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "34f845c1e7102eae",
+    "title": "Solving math word problems",
+    "url": "https://openai.com/index/solving-math-word-problems",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve trained a system that solves grade school math problems with nearly twice the accuracy of a fine-tuned GPT-3 model. It solves about 90% as many problems as real kids: a small sample of 9-12 year",
+    "publishedAt": "2021-10-29T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/solving-math-word-problems"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d5658a08f60ed66c",
+    "title": "Course Launch Community Event",
+    "url": "https://huggingface.co/blog/course-launch-event",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-10-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/course-launch-event"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bf19ccb99f21af34",
+    "title": "Large Language Models: A New Moore's Law?",
+    "url": "https://huggingface.co/blog/large-language-models",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-10-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/large-language-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8c9a1e482ebeaf1e",
+    "title": "Train a Sentence Embedding Model with 1B Training Pairs",
+    "url": "https://huggingface.co/blog/1b-sentence-embeddings",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2021-10-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/1b-sentence-embeddings"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a79efe3430a10210",
+    "title": "The Age of Machine Learning As Code Has Arrived",
+    "url": "https://huggingface.co/blog/the-age-of-ml-as-code",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-10-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/the-age-of-ml-as-code"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "204ed9f52ec0406e",
+    "title": "Fine tuning CLIP with Remote Sensing (Satellite) images and captions",
+    "url": "https://huggingface.co/blog/fine-tune-clip-rsicd",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-10-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fine-tune-clip-rsicd"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6bab7873ac29e3cb",
+    "title": "Hosting your Models and Datasets on Hugging Face Spaces using Streamlit",
+    "url": "https://huggingface.co/blog/streamlit-spaces",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-10-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/streamlit-spaces"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e242b001a5a05340",
+    "title": "Showcase Your Projects in Spaces using Gradio",
+    "url": "https://huggingface.co/blog/gradio-spaces",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-10-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-spaces"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

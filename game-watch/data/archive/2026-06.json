@@ -1,0 +1,3456 @@
+[
+  {
+    "id": "63baafdeb425aa55",
+    "title": "Look, we have to talk about Meccha Chameleon....",
+    "url": "https://newsletter.gamediscover.co/p/look-we-have-to-talk-about-meccha",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Why it exists, and what it means. Also, new GameDiscoverCo Show & lots of news.",
+    "publishedAt": "2026-06-30T18:50:21.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/look-we-have-to-talk-about-meccha"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2b47e5ca2b10e4d",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-06-30T18:32:50.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6fd1fe14bff44deb",
+    "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+    "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "GPU-accelerated query engines are often constrained by memory and I/O bandwidth. NVIDIA hardware advances—including high bandwidth memory (HBM), NVIDIA...\nGPU-accelerated query engines are often const",
+    "publishedAt": "2026-06-30T17:36:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/designing-gpu-accelerated-query-engines-with-nvidia-gqe/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c01357be262644f0",
+    "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
+    "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "NVIDIA Omniverse NuRec is a neural reconstruction pipeline for building high-fidelity 3D representations of real-world environments from multisensor data such...\nNVIDIA Omniverse NuRec is a neural rec",
+    "publishedAt": "2026-06-30T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9f340727232d898a",
+    "title": "Why Specialization Is Inevitable",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-30T14:39:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "34e741e46a62c2de",
+    "title": "Inside Cannes Lions: What Makes Award-Winning Gaming Campaigns?",
+    "url": "https://naavik.co/podcast/inside-cannes-lions-what-makes-award-winning-gaming-campaigns/",
+    "source": {
+      "name": "Naavik",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "In this special episode of the Naavik Gaming Podcast, recorded live from the Cannes Lions International Festival of Creativity, host Kalie Moore sits down with fellow Cannes Lions Gaming Jury member C",
+    "publishedAt": "2026-06-30T12:07:54.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.345Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Naavik",
+        "url": "https://naavik.co/podcast/inside-cannes-lions-what-makes-award-winning-gaming-campaigns/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "068c9bc43551fee5",
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "publishedAt": "2026-06-30T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "326b5d51b877e9cf",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-06-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/eee-community-evals"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f1f7d4f8001b4288",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "publishedAt": "2026-06-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "617f45738c65d6ba",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/genebench-pro/case-studies"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0b8dc2473cab870c",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "publishedAt": "2026-06-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-genebench-pro"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c487991304694da5",
+    "title": "General Intuition: $320m Series A to Train AI Agents on Gameplay Data",
+    "url": "https://investgame.net/news/general-intuition-320m-series-a-to-train-ai-agents-on-gameplay-data/",
+    "source": {
+      "name": "InvestGame",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "US-based AI gaming company General Intuition raised $320m in a Series A round at a post-money valuation of $2.3B. The round was led by Khosla Ventures, doubling down on its Seed position, alongside re",
+    "publishedAt": "2026-06-29T19:37:33.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.127Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "InvestGame",
+        "url": "https://investgame.net/news/general-intuition-320m-series-a-to-train-ai-agents-on-gameplay-data/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d8f5b7a9dcbae51e",
+    "title": "AppsFlyer: Over $1B Series E from Google, Meta, Moloco, and Unity",
+    "url": "https://investgame.net/news/appsflyer-over-1b-series-e-from-google-meta-moloco-and-unity/",
+    "source": {
+      "name": "InvestGame",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "US-based mobile attribution and marketing analytics company AppsFlyer raised over $1B in a Series E round at a post-money valuation of approximately $2.7B, announced on Jun 22, 2026. The valuation imp",
+    "publishedAt": "2026-06-29T19:35:39.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.127Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "InvestGame",
+        "url": "https://investgame.net/news/appsflyer-over-1b-series-e-from-google-meta-moloco-and-unity/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9cc3b14e3b9c7b80",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-29T18:02:48.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/discoformer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d1e2d346b6330400",
+    "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
+    "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI agents are quickly moving beyond chat. They inspect code, run tests, read documents, search knowledge bases, query internal systems, and operate for hours on...\nAI agents are quickly moving beyond ",
+    "publishedAt": "2026-06-29T15:50:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-to-govern-autonomous-agents-in-enterprise-ai-factories/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "247324a6d137edef",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "publishedAt": "2026-06-29T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5f8ae94d3d52ae74",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "publishedAt": "2026-06-28T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hp-frontier-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "509474a12f78cbb4",
+    "title": "How Small Spaces sold ~15x its Week 1 sales after a year (!)",
+    "url": "https://newsletter.gamediscover.co/p/how-small-spaces-sold-15x-its-week",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: this week's biggies on Steam & a heap of relevant news.",
+    "publishedAt": "2026-06-26T19:27:54.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/how-small-spaces-sold-15x-its-week"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5a1c9c8bdff63018",
+    "title": "Deploy a Production-Ready NVIDIA AI-Q Blueprint on Oracle Cloud Infrastructure",
+    "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "AI agents have changed a lot in the last two years. The first could only answer one question at a time. Then came multi-turn chat, where the model could keep...\nAI agents have changed a lot in the las",
+    "publishedAt": "2026-06-26T19:00:45.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/deploy-a-production-ready-nvidia-ai-q-blueprint-on-oracle-cloud-infrastructure/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cd278d56ab374f39",
+    "title": "Creating the NVIDIA Nemotron 3 Ultra NVFP4 Checkpoint with NVIDIA Model Optimizer",
+    "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "As context windows grow longer, moving large model weights efficiently becomes critical to performance. A common way to address this is quantization, an...\nAs context windows grow longer, moving large",
+    "publishedAt": "2026-06-26T16:00:35.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/creating-the-nvidia-nemotron-3-ultra-nvfp4-checkpoint-with-nvidia-model-optimizer/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "30f48121decc708b",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "publishedAt": "2026-06-26T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5d2de9152522b89c",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vllm-jobs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "24d2889e9837753d",
+    "title": "Streamlining Resource Binding with End-to-End Support for Vulkan Descriptor Heaps",
+    "url": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Shaders are GPU programs that process visual data—such as rays, pixels, geometry, and textures—to produce specific rendering effects. Shaders find necessary...\nShaders are GPU programs that process vi",
+    "publishedAt": "2026-06-25T22:25:51.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/streamlining-resource-binding-with-end-to-end-support-for-vulkan-descriptor-heaps/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c4fe439b0e3ebf31",
+    "title": "Scaling AI Inference Across Multiple GPUs Using NVIDIA TensorRT with Multi-Device Inference Support",
+    "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Generative AI workloads are rapidly outgrowing the memory and compute budget of single GPUs. For inference developers building media generation pipelines, the...\nGenerative AI workloads are rapidly ou",
+    "publishedAt": "2026-06-25T16:43:48.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/scaling-ai-inference-across-multiple-gpus-using-nvidia-tensorrt-with-multi-device-inference-support/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "29878f66fb85471b",
+    "title": "Q&A: How KRAFTON Built PUBG Ally, a Co-Playable Character Powered by NVIDIA ACE",
+    "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "AI companions in games have long been constrained by fixed dialogue. PUBG Ally is a different kind of system. Built by KRAFTON for PUBG: BATTLEGROUNDS, this AI...\nAI companions in games have long been",
+    "publishedAt": "2026-06-25T16:38:18.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3d99cf87d464b7af",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "publishedAt": "2026-06-25T02:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-agents-are-transforming-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "160621040a991df3",
+    "title": "D7 or D28 IAP ROAS campaigns? The answer is both",
+    "url": "https://unity.com/blog/d7-vs-d28-iap-roas-campaigns",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Running both D7 and D28 IAP ROAS campaigns captures early spenders and late-game converters. Unity Vector uses game creation data to optimize both cohorts.",
+    "publishedAt": "2026-06-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/d7-vs-d28-iap-roas-campaigns"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a8534548656cd43b",
+    "title": "Accelerating BEV Pooling on NVIDIA GPUs for Physical AI Applications",
+    "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "An increasingly common design pattern for autonomous vehicles (AVs), robotics, and spatial AI systems is bird's-eye-view (BEV) perception. BEV models project...\nAn increasingly common design pattern f",
+    "publishedAt": "2026-06-24T16:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/accelerating-bev-pooling-on-nvidia-gpus-for-physical-ai-applications/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ad312ce435987076",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-24T16:00:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "855db08b75f6ecde",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "publishedAt": "2026-06-24T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bb6dca4045d63cf1",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-06-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ffasr-leaderboard"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a573807dd7bed8d4",
+    "title": "Who 'won' June 2026's Steam Next Fest?",
+    "url": "https://newsletter.gamediscover.co/p/who-won-june-2026s-steam-next-fest",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: the debut of the GameDiscoverCo Show, plus lots of game discovery news.",
+    "publishedAt": "2026-06-23T19:30:59.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/who-won-june-2026s-steam-next-fest"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "072c0c3973379946",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "publishedAt": "2026-06-23T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f74add316bf033de",
+    "title": "Maximize AI Factory Energy Efficiency Through Full-Stack Inference and Training Optimizations",
+    "url": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Power can account for 40% of the operating expenses (OpEx) to run an AI factory. Each watt can be spent on overhead, data ingestion, training, or generating...\nPower can account for 40% of the operati",
+    "publishedAt": "2026-06-23T16:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/maximize-ai-factory-energy-efficiency-through-full-stack-inference-and-training-optimizations/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fee4d4ed686cbacf",
+    "title": "Boost Inference Performance up to 15x on NVIDIA Blackwell Using DFlash Speculative Decoding",
+    "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "As AI systems move from single-turn interactions to coordinated multiagent workflows, low-latency inference becomes increasingly important. Autoregressive LLMs...\nAs AI systems move from single-turn i",
+    "publishedAt": "2026-06-23T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/boost-inference-performance-up-to-15x-on-nvidia-blackwell-using-dflash-speculative-decoding/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "09169a752aea8aea",
+    "title": "Build an AI Scientist for Life Science Discovery with NVIDIA BioNeMo Agent Toolkit",
+    "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI scientists are emerging as a new interface for scientific computing. These agents can read papers, write code, generate hypotheses, call APIs, inspect files,...\nAI scientists are emerging as a new ",
+    "publishedAt": "2026-06-23T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/build-an-ai-scientist-for-life-science-discovery-with-nvidia-bionemo-agent-toolkit/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aec47bf765565a42",
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "publishedAt": "2026-06-23T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "94ebb081f8c41536",
+    "title": "How Telcos Build Autonomous Networks with Agentic AI",
+    "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Telecom operators are adopting AI across network operations, customer care, and back-office workflows, but most are still early in the journey to autonomy. In...\nTelecom operators are adopting AI acro",
+    "publishedAt": "2026-06-23T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-telcos-build-autonomous-networks-with-agentic-ai/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b0d7df1028b033f7",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2e297cf400e7d42e",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cross-origin-storage"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "480508a9ca16ad81",
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "publishedAt": "2026-06-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/omio"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "34b2d813a3a4985f",
+    "title": "Odyssey: $310m Series B to Scale World Simulation",
+    "url": "https://investgame.net/news/odyssey-310m-series-b-to-scale-world-simulation/",
+    "source": {
+      "name": "InvestGame",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "US-based AI research lab Odyssey has raised $310m in a Series B round at a post-money valuation of $1.45B. The round was led by Natural Capital, with participation from Amazon (NASDAQ: AMZN), GV (Goog",
+    "publishedAt": "2026-06-22T19:06:46.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.127Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "InvestGame",
+        "url": "https://investgame.net/news/odyssey-310m-series-b-to-scale-world-simulation/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b36368724bfa1b30",
+    "title": "CCCL Runtime: A Modern C++ Runtime for CUDA",
+    "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The NVIDIA CUDA Core Compute Libraries (CCCL) provides delightful and efficient abstractions for CUDA developers in C++ and Python. It features: Parallel...\n\nSource",
+    "publishedAt": "2026-06-22T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0f1863469dd105c6",
+    "title": "Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI",
+    "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "When AlphaFold2 revolutionized drug discovery in 2020, its success relied entirely on the roughly 170,000 protein structures collected by scientists since 1971...\nWhen AlphaFold2 revolutionized drug d",
+    "publishedAt": "2026-06-22T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/enable-real-time-ai-for-high-speed-data-acquisition-with-daqiri/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b497f30634e434d9",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-22T13:18:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d1236149e24d12e3",
+    "title": "Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI",
+    "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Physical AI—robots working autonomously alongside people in factories, warehouses, hospitals, and homes—is arriving faster than most expected. Traditional...\nPhysical AI—robots working autonomously al",
+    "publishedAt": "2026-06-22T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/inside-nvidia-halos-for-robotics-a-full-stack-functional-safety-system-for-physical-ai/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3696e67c2c9e8aaa",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "publishedAt": "2026-06-22T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/patch-the-planet"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b63e5cb33bb0ec81",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "publishedAt": "2026-06-22T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/daybreak-securing-the-world"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "965bb4d2ca17efb5",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/local-models-pr-triage"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e2330fefe7e28987",
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "publishedAt": "2026-06-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/codex-maxxing-long-running-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4a975b89e4a0f0fb",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "publishedAt": "2026-06-21T23:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6b908a3abcdc0bae",
+    "title": "How Steam's personal calendar is supercharging pre-launch discovery...",
+    "url": "https://newsletter.gamediscover.co/p/how-steams-personal-calendar-is-supercharging",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "People are getting excited about the focused discovery. Also: lots of platform news & this week's Steam releases.",
+    "publishedAt": "2026-06-19T19:31:21.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/how-steams-personal-calendar-is-supercharging"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2eb5bcc3ad88b97e",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-06-18T18:13:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "450d5ccfb1602dc2",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "publishedAt": "2026-06-18T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9f4dbdd37bfa3bd3",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "publishedAt": "2026-06-18T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "edcdc2401b35c370",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "publishedAt": "2026-06-18T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "26cac67090219df5",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-06-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/peft-beyond-lora"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "432c23c0dd1c00f1",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/is-it-agentic-enough"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "270262b342662472",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-17T10:18:05.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5ff2f715f1e62741",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "publishedAt": "2026-06-17T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9e3636b0b0345d81",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-17T09:01:25.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/zai-org/glm-52-blog"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c40feb97cbc0d9cf",
+    "title": "A day in the life of a solutions engineer building interactive product demos — without waiting on complex development workflows",
+    "url": "https://unity.com/blog/solutions-engineers-guide-interactive-product-demos-unity-studio",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how a solutions engineer uses Unity Studio to build interactive product demos without coding, tailor experiences, and validate ideas before development.",
+    "publishedAt": "2026-06-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/solutions-engineers-guide-interactive-product-demos-unity-studio"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b59b3271b775356f",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-06-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/agentic-resource-discovery-launch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "381e7f583722c98d",
+    "title": "Introducing LifeSciBench",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "publishedAt": "2026-06-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-life-sci-bench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c2adfc1beb1d923f",
+    "title": "Building AI Agents for AR Glasses and XR Devices with NVIDIA XR AI",
+    "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Developers building for AR glasses and wearable devices face an infrastructure gap. The hardware is ready, but creating AI experiences requires integrating live...\nDevelopers building for AR glasses a",
+    "publishedAt": "2026-06-16T22:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/building-ai-agents-for-ar-glasses-and-xr-devices-with-nvidia-xr-ai/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9270d79530405af2",
+    "title": "Build Your Own Transaction Foundation Model for Financial Intelligence",
+    "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Every swipe, transfer, and payment on a modern financial network encodes a pattern of human behavior. Transaction data is one of the richest signals an...\nEvery swipe, transfer, and payment on a moder",
+    "publishedAt": "2026-06-16T20:30:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/build-your-own-transaction-foundation-model-for-financial-intelligence/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1b840ebe54cd769f",
+    "title": "What Twitch data adds to our view of game discovery...",
+    "url": "https://newsletter.gamediscover.co/p/what-twitch-data-adds-to-our-view",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "电竞/直播",
+    "summary": "Also: a ton of game platform & discovery news...",
+    "publishedAt": "2026-06-16T19:20:02.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/what-twitch-data-adds-to-our-view"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0898c9e06ca8c191",
+    "title": "NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance",
+    "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "NVIDIA delivered a clean sweep in MLPerf Training v6.0, the latest edition of industry-standard AI training benchmarks developed by the MLCommons consortium....\nNVIDIA delivered a clean sweep in MLPer",
+    "publishedAt": "2026-06-16T18:11:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/nvidia-blackwell-tops-mlperf-training-6-0-with-industry-leading-scale-and-performance/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b047ef6d0ab5d9ee",
+    "title": "Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins",
+    "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "NVIDIA RTX technologies are deeply integrated into Unreal Engine 5 through the NVIDIA RTX Branch of Unreal Engine and the NVIDIA DLSS Unreal Engine plugin. This...\nNVIDIA RTX technologies are deeply i",
+    "publishedAt": "2026-06-16T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4f6a04c5232b21df",
+    "title": "How to Optimize Transformer-Based Models for Low-Precision Training",
+    "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Transformer architectures are the backbone of many modern large language and generative AI models. As these models grow in size, training runs consume more GPU...\nTransformer architectures are the bac",
+    "publishedAt": "2026-06-16T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c000018ba1f03575",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "url": "https://openai.com/index/deployment-simulation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "publishedAt": "2026-06-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/deployment-simulation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3369e04f27b4a4c0",
+    "title": "Bending Spoons: Europe’s Software Roll-Up Goes Public",
+    "url": "https://investgame.net/news/bending-spoons-europe-s-software-roll-up-goes-public/",
+    "source": {
+      "name": "InvestGame",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Bending Spoons (NASDAQ: BSP), an Italy-based technology holding company, filed its F-1 registration statement with the U.S. Securities and Exchange Commission on Jun 8, 2026, targeting a listing on th",
+    "publishedAt": "2026-06-15T19:33:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.127Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "InvestGame",
+        "url": "https://investgame.net/news/bending-spoons-europe-s-software-roll-up-goes-public/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dda22a90910d8b43",
+    "title": "Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes",
+    "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Foundation models are reshaping computational biology. Pretrained on massive corpora of protein or genomic sequences, models such as ESM2 (a protein language...\nFoundation models are reshaping computa",
+    "publishedAt": "2026-06-15T18:07:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/fine-tuning-biological-foundation-models-with-lora-using-nvidia-bionemo-recipes/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2bff1571435774f3",
+    "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
+    "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Mixture-of-experts (MoE) models have quickly become a foundational component of modern, large-scale AI systems. They are widely adopted because they enable...\nMixture-of-experts (MoE) models have quic",
+    "publishedAt": "2026-06-15T16:45:41.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "760bf66c1e5d3752",
+    "title": "Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models",
+    "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Quick glossary for readers new to VLA/WAM terminology VLA Vision-Language-Action model: a robot policy that starts from a pretrained VLM backbone and adapts it...\nQuick glossary for readers new to VLA",
+    "publishedAt": "2026-06-15T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "557e3512ca59abb2",
+    "title": "From digital twins to industrial AI: Building the machine information system",
+    "url": "https://unity.com/blog/digital-twin-building-machine-information-system",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how digital twins, machine information systems, MCP, and AI agents are helping manufacturers build the foundation for grounded industrial AI.",
+    "publishedAt": "2026-06-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/digital-twin-building-machine-information-system"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d6c2d66aeaadbaf3",
+    "title": "How Playrix is growing Township with Unity Ads’ D28 IAP ROAS optimizer",
+    "url": "https://unity.com/blog/playrix-township-roas-optimization-vector",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "产业动态",
+    "summary": "Discover how Playrix scaled user acquisition for Township using Vector AI and D28 IAP ROAS optimization to achieve better long-term retention and revenue.",
+    "publishedAt": "2026-06-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/playrix-township-roas-optimization-vector"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4a1a2edfc53fbcf8",
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "publishedAt": "2026-06-14T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-partner-network"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3faf91b4ba076055",
+    "title": "NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark",
+    "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI agents have fundamentally changed the complexity of inference workloads. Until now, the industry has struggled to define a standard for measuring how...\nAI agents have fundamentally changed the com",
+    "publishedAt": "2026-06-12T21:12:40.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/nvidia-achieves-leading-agentic-coding-performance-on-first-agentic-ai-benchmark/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "20d0cd922f7e85a7",
+    "title": "What were the top games & showcases during Summer Game Fest?",
+    "url": "https://newsletter.gamediscover.co/p/what-were-the-top-games-and-showcases",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: this week's biggies on Steam and lots of discovery news.",
+    "publishedAt": "2026-06-12T19:28:45.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/what-were-the-top-games-and-showcases"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a5218f52e84b24e5",
+    "title": "Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation",
+    "url": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Developers building real-time AI—such as chat assistants, copilots, and agentic workflows—are often constrained by token-by-token generation speed. This...\nDevelopers building real-time AI—such as cha",
+    "publishedAt": "2026-06-12T18:56:34.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/run-diffusiongemma-on-nvidia-for-developer-ready-high-throughput-text-generation/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3740a39a264fa555",
+    "title": "Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure",
+    "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "As enterprise AI adoption scales, developers are increasingly forced to stitch together fragmented pipelines—separate models for text, vision, and...\nAs enterprise AI adoption scales, developers are i",
+    "publishedAt": "2026-06-12T14:43:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/deploy-long-context-reasoning-and-agentic-workflows-with-minimax-m3-on-nvidia-accelerated-infrastructure/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dd73139d2e3dcd4c",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "publishedAt": "2026-06-12T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ddc7b24a91dcf271",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "publishedAt": "2026-06-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/preply"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dc1632b5ad998076",
+    "title": "One-Click Multi-Tenant Security with  NVIDIA Quantum InfiniBand",
+    "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "NVIDIA Quantum InfiniBand now offers intent-based security profiles in Unified Fabric Manager (UFM) that enable multi-tenant fabric security in a single...\nNVIDIA Quantum InfiniBand now offers intent-",
+    "publishedAt": "2026-06-11T19:52:37.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/one-click-multi-tenant-security-with-nvidia-quantum-infiniband/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ef4f6b04368d98d4",
+    "title": "A day in the life of a training designer building interactive 3D — without waiting on specialized simulation teams",
+    "url": "https://unity.com/blog/interactive-3d-training-unity-studio-without-simulation-teams",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how a training designer uses Unity Studio to build interactive 3D training from CAD assets, prototype scenarios, gather feedback, and publish faster.",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/interactive-3d-training-unity-studio-without-simulation-teams"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e51fa07b720fb1d3",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/torch-mlp-fusion"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0fda1a1b5a24b71c",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "043e5abd40266556",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/bbva"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "009f70280ebcc29e",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-to-acquire-ona"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d38f7a49e86de9da",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c17e7186c8901da2",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "publishedAt": "2026-06-10T20:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-on-oracle-cloud"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e68556b213d84f1b",
+    "title": "Designing Production-Ready Battery Energy Storage Systems for AI Factories",
+    "url": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "AI factories are changing what data-center infrastructure must do. Unlike traditional data centers, AI factories are built to manufacture intelligence at scale....\nAI factories are changing what data-",
+    "publishedAt": "2026-06-10T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/designing-production-ready-battery-energy-storage-systems-for-ai-factories/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2787087943490465",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "publishedAt": "2026-06-10T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c7866bf4d0809ad4",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "url": "https://openai.com/index/lseg",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "publishedAt": "2026-06-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/lseg"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "702337b8e8bbc5e2",
+    "title": "Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability",
+    "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "As AI infrastructure scales, enterprise expectations for operational maturity are increasing. Organizations expect these systems to be provisionable,...\nAs AI infrastructure scales, enterprise expecta",
+    "publishedAt": "2026-06-09T19:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/delivering-lifecycle-control-for-ai-infrastructure-at-scale-with-nvidia-dgx-spark-enterprise-manageability/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b68661b2cda110c9",
+    "title": "How Project Zomboid just... kept selling?",
+    "url": "https://newsletter.gamediscover.co/p/how-project-zomboid-just-kept-selling",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "综合",
+    "summary": "And why its upcoming update may be huge. Also: the latest platform & discovery news.",
+    "publishedAt": "2026-06-09T18:55:49.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/how-project-zomboid-just-kept-selling"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5ea329e77aab2539",
+    "title": "Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT",
+    "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "This post is the third of a three-part series. See also Model Quantization: Concepts, Methods, and Why It Matters and Model Quantization: Post-Training...\nThis post is the third of a three-part series",
+    "publishedAt": "2026-06-09T18:27:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.966Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/model-quantization-turn-fp8-checkpoints-into-high-performance-inference-engines-with-nvidia-tensorrt/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "61cd6a410c31d978",
+    "title": "Accelerating Federated Learning Research with AI Agents and NVIDIA FLARE Auto-FL",
+    "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Federated learning (FL) research often begins with a deceptively simple question: What should we try next? A new aggregation rule, a FedProx coefficient, a...\nFederated learning (FL) research often be",
+    "publishedAt": "2026-06-09T16:35:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/accelerating-federated-learning-research-with-ai-agents-and-nvidia-flare-auto-fl/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a28816fd8fe1678c",
+    "title": "Evaluate Clinical ASR Models Faster with Agent Skills and NVIDIA Nemotron Speech",
+    "url": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Training a speech AI model to correctly recognize or synthesize clinical terminology is surprisingly difficult. Drug names like Acetaminophen, Amlodipine,...\nTraining a speech AI model to correctly re",
+    "publishedAt": "2026-06-09T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/evaluate-clinical-asr-models-faster-with-agent-skills-and-nvidia-nemotron-speech/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b802ccebc3cd954",
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "url": "https://openai.com/index/nextdoor",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+    "publishedAt": "2026-06-09T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/nextdoor"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "459b888b75db1d6d",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-06-09T10:46:19.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "58b581b20ce32e7b",
+    "title": "What Codex unlocks for Notion",
+    "url": "https://openai.com/index/notion",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+    "publishedAt": "2026-06-09T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/notion"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0e6454a49e231542",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/github-ci-hf-jobs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4dbb4daa381a06bf",
+    "title": "Industrial policy for the Intelligence Age",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "publishedAt": "2026-06-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d037919343292e14",
+    "title": "Liftoff Mobile: From Postponed IPO to $503m Raise and 24% First-Day Pop",
+    "url": "https://investgame.net/news/liftoff-mobile-from-postponed-ipo-to-503m-raise-and-24-first-day-pop/",
+    "source": {
+      "name": "InvestGame",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "US-based mobile app marketing company Liftoff Mobile (NASDAQ: LFTO) has listed on the Nasdaq Global Select Market, raising ~$503m through the sale of 21.85 million shares at $23 each, including 2.85 m",
+    "publishedAt": "2026-06-08T20:01:47.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.127Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "InvestGame",
+        "url": "https://investgame.net/news/liftoff-mobile-from-postponed-ipo-to-503m-raise-and-24-first-day-pop/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "085197103123cb9d",
+    "title": "Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell",
+    "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Pre-training frontier LLMs comes down to throughput. When training spans trillions of tokens across thousands of accelerators, every percentage point of step...\nPre-training frontier LLMs comes down t",
+    "publishedAt": "2026-06-08T18:18:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/train-models-faster-with-jax-and-maxtext-using-nvfp4-on-nvidia-blackwell/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "98916af90b99edbd",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "publishedAt": "2026-06-08T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-submits-confidential-s-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "da51b3ff6580d673",
+    "title": "Built to benefit everyone: our plan",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "publishedAt": "2026-06-08T01:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b60ecfaa2db9bb1f",
+    "title": "MCP servers in game development explained",
+    "url": "https://unity.com/blog/mcp-servers-game-development",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn what an MCP server is, how it gives AI tools real-time access to your game engine's scene hierarchy, and why it can improve many processes in game development.",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/mcp-servers-game-development"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "02b9c90015956d47",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.023Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/openenv-agentic-rl"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1ce2aa9bb46fb039",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/economic-research-exchange"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f97f323f5553ceef",
+    "title": "June 2026's top new PC & console games, revealed..",
+    "url": "https://newsletter.gamediscover.co/p/june-2026s-top-new-pc-and-console",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "We look multi-platform & at Twitch trends: also, Summer Sale big guys, news and more.",
+    "publishedAt": "2026-06-05T19:26:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/june-2026s-top-new-pc-and-console"
+      },
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/may-2026s-top-new-pc-and-console"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6b1dd94e050a2efd",
+    "title": "HP Anyware is being sunset: A practical guide for postproduction teams",
+    "url": "https://unity.com/blog/hp-anyware-is-being-sunset-a-practical-guide-for-postproduction-teams",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how postproduction teams can migrate from HP Anyware to Parsec while maintaining secure, low-latency remote workflows.",
+    "publishedAt": "2026-06-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/hp-anyware-is-being-sunset-a-practical-guide-for-postproduction-teams"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1b410cadf65e0a2a",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-06-04T18:57:45.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3f7e045b00bda37a",
+    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Single-turn chatbots are evolving into long-running agents that can reason, maintain context, use tools, and run efficiently across many turns to complete...\nSingle-turn chatbots are evolving into lon",
+    "publishedAt": "2026-06-04T13:02:49.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2e1f29b50d98a2b5",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "publishedAt": "2026-06-04T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/endava-frontiers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c3ab33c622260498",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "publishedAt": "2026-06-04T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4de8c57f473bc55c",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hf-cli-for-agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "32a436ff121f8d99",
+    "title": "Biodefense in the Intelligence Age",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "An action plan for AI-powered biological resilience",
+    "publishedAt": "2026-06-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba562226725de1d8",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "publishedAt": "2026-06-03T13:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "be3ad97197e440f0",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-03T12:55:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "032a72a6e2127c3b",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "url": "https://openai.com/index/wasmer",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "publishedAt": "2026-06-03T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/wasmer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "df48d050ae2c7c16",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "publishedAt": "2026-06-03T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/frontier-safety-blueprint"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b90e074e514a25d9",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "publishedAt": "2026-06-03T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/public-policy-agenda"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c38c4611746a155d",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cedde756baa6cbca",
+    "title": "Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA",
+    "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI agents are changing how you interact with your PC. Creators, developers, and AI enthusiasts are already using these agents extensively to assist with...\nAI agents are changing how you interact with",
+    "publishedAt": "2026-06-02T19:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/build-personal-ai-agents-on-windows-pcs-with-new-tools-from-microsoft-and-nvidia/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d888588d2cd79307",
+    "title": "Why 'hobbyists' are a bigger discovery disruptor for games then AI...",
+    "url": "https://newsletter.gamediscover.co/p/why-hobbyists-are-a-bigger-discovery",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: trending unreleased Steam games, most-watched games of May, and more...",
+    "publishedAt": "2026-06-02T17:59:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/why-hobbyists-are-a-bigger-discovery"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5c24631e539aeaa",
+    "title": "Deploy Self-Evolving Agents for Faster, More Secure Research with a Hermes Agent and NVIDIA NemoClaw",
+    "url": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "AI agents are a powerful tool for synthesizing data to accelerate research, summarize information, and help teams make decisions faster. But combining internal...\nAI agents are a powerful tool for syn",
+    "publishedAt": "2026-06-02T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/deploy-self-evolving-agents-for-faster-more-secure-research-with-a-hermes-agent-and-nvidia-nemoclaw/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "42b1adc7739ed11a",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-06-02T14:13:23.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Hcompany/holo31"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "079b6eb163b43b04",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "url": "https://openai.com/index/travelers",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "publishedAt": "2026-06-02T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/travelers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5d3cdb80692874ce",
+    "title": "ChatGPT Sites",
+    "url": "https://openai.com/academy/chatgpt-sites",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Create that kind of lightweight website or app with Codex.",
+    "publishedAt": "2026-06-02T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/chatgpt-sites"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b040c6a9760044ce",
+    "title": "Codex for every role, tool, and workflow",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "publishedAt": "2026-06-02T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/codex-for-every-role-tool-workflow"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f4e0423d66a14da4",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "publishedAt": "2026-06-02T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "473eced4d0d7fe18",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "publishedAt": "2026-06-02T02:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/codex-for-knowledge-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8b42540b561b82b9",
+    "title": "Deploy Agentic-Ready AI at the Edge with Memory Efficiency in NVIDIA JetPack 7.2",
+    "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "As AI agents move from the digital world to the physical environment, they can readily use NVIDIA Jetson to accelerate real-world deployment with optimized...\nAs AI agents move from the digital world ",
+    "publishedAt": "2026-06-02T02:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d8dbc5772cd72d9b",
+    "title": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+    "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "The rise of autonomous, long-running AI agents has introduced a new class of compute demand, namely tasks that maintain large context windows, spawn concurrent...\nThe rise of autonomous, long-running ",
+    "publishedAt": "2026-06-01T22:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b4b8e370a112813b",
+    "title": "TruFin / Playstack: Strategic Exit to Integrated Media Company",
+    "url": "https://investgame.net/news/trufin-playstack-strategic-exit-to-integrated-media-company/",
+    "source": {
+      "name": "InvestGame",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "独立游戏",
+    "summary": "UK-based holding company TruFin (LSE: TRU) has conditionally agreed to sell its 84.5% stake in UK-based indie games publisher Playstack to VantageCo Limited, a wholly owned subsidiary of Integrated Me",
+    "publishedAt": "2026-06-01T18:27:23.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.127Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "InvestGame",
+        "url": "https://investgame.net/news/trufin-playstack-strategic-exit-to-integrated-media-company/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4ef2b036d4be1617",
+    "title": "Our views on AI policy and political advocacy",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+    "publishedAt": "2026-06-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3e72b4f077550506",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-01T15:45:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/JetBrains/mellum2-launch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "088cdea1352ec333",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-06-01T13:51:18.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "04c1d26ba61347ee",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+    "publishedAt": "2026-06-01T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/stargate-michigan-data-center"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4df8e51cae93fe19",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u",
+    "publishedAt": "2026-06-01T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9154bc39f28af57a",
+    "title": "How to Post-Train Autonomous Vehicle Models in Closed-Loop with NVIDIA Alpamayo",
+    "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Developing autonomous vehicle (AV) policies requires bridging an important gap between training and deployment. Vision-language-action (VLA) models that can...\nDeveloping autonomous vehicle (AV) polic",
+    "publishedAt": "2026-06-01T04:49:15.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "97e2cb09981149ba",
+    "title": "Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3",
+    "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Physical AI systems must understand the real world before they can act within it. Robots, autonomous vehicles, and smart spaces need to understand what's...\nPhysical AI systems must understand the rea",
+    "publishedAt": "2026-06-01T04:43:58.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "781eecbf71aa2047",
+    "title": "Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security",
+    "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The AI era is driving a new class of infrastructure: AI factories that transform data into intelligence for autonomous AI agents operating at unprecedented...\nThe AI era is driving a new class of infr",
+    "publishedAt": "2026-06-01T04:21:42.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/advancing-ai-infrastructure-for-agentic-ai-with-nvidia-doca-in-silicon-security/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a02f34b1d0ca6bd1",
+    "title": "NVIDIA Vera CPU Sets a New Standard for Agentic Workloads in AI Factories",
+    "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Each wave of AI has created a new scaling law. Pretraining scaled intelligence through larger datasets, more parameters, and massively parallel GPU systems....\nEach wave of AI has created a new scalin",
+    "publishedAt": "2026-06-01T03:59:15.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "01178182a27a40bd",
+    "title": "NVIDIA DSX OS Delivers Open, Modular Software for Operating AI Factories at Scale",
+    "url": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI is now essential infrastructure, powered by AI factories that generate intelligence in the form of tokens. As demand grows, these factories must scale...\nAI is now essential infrastructure, powered",
+    "publishedAt": "2026-06-01T03:36:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9be2f103fbe51c1c",
+    "title": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned likely PRC-origin accounts using AI to create comments and cartoons about US tech policy, tariffs, and trade restrictions.",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b6a1a5c9851acb81",
+    "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned a likely PRC-origin cluster using AI to generate social media content criticizing US data centers and AI infrastructure.",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

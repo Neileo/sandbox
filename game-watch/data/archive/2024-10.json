@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "6e38de98e5aa78ff",
+    "title": "Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
+    "url": "https://openai.com/index/promega",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Promega's top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
+    "publishedAt": "2024-10-31T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/promega"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e92e95daf8e048b1",
+    "title": "Introducing SimpleQA",
+    "url": "https://openai.com/index/introducing-simpleqa",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A factuality benchmark called SimpleQA that measures the ability for language models to answer short, fact-seeking questions.",
+    "publishedAt": "2024-10-30T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-simpleqa"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "02cd8fad30342ba9",
+    "title": "Delivering high-performance customer support",
+    "url": "https://openai.com/index/decagon",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Decagon and OpenAI deliver high-performance, fully automated customer support at scale",
+    "publishedAt": "2024-10-29T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/decagon"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2ad3503318b1e36",
+    "title": "Universal Assisted Generation: Faster Decoding with Any Assistant Model",
+    "url": "https://huggingface.co/blog/universal_assisted_generation",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/universal_assisted_generation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4777292bf275d79f",
+    "title": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge",
+    "url": "https://huggingface.co/blog/digital-green-llm-judge",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-10-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/digital-green-llm-judge"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6d001ed928dd4577",
+    "title": "Back When AOL WAS the Internet – The TouchArcade Show #606",
+    "url": "https://toucharcade.com/2024/10/25/back-when-aol-was-the-internet-the-toucharcade-show-606/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "In Episode 606 of The TouchArcade Show we kick things off talking about my plans for this weekend, which has … \nContinue reading \"Back When AOL WAS the Internet – The TouchArcade Show #606\"",
+    "publishedAt": "2024-10-25T20:10:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/10/25/back-when-aol-was-the-internet-the-toucharcade-show-606/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5a6e85cdb64d476f",
+    "title": "A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality",
+    "url": "https://huggingface.co/blog/aya-expanse",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/aya-expanse"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "48d4ba4c85a14cf4",
+    "title": "Simplifying, stabilizing, and scaling continuous-time consistency models",
+    "url": "https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve simplified, stabilized, and scaled continuous-time consistency models, achieving comparable sample quality to leading diffusion models, while using only two sampling steps.",
+    "publishedAt": "2024-10-23T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eb6fee4afaa25dfd",
+    "title": "Introducing SynthID Text",
+    "url": "https://huggingface.co/blog/synthid-text",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/synthid-text"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "28e29333ddf0e244",
+    "title": "Introducing HUGS - Scale your AI with Open Models",
+    "url": "https://huggingface.co/blog/hugs",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-10-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hugs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c0b471f05d843aac",
+    "title": "CinePile 2.0 - making stronger datasets with adversarial refinement",
+    "url": "https://huggingface.co/blog/cinepile2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cinepile2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "091454290ea0ba61",
+    "title": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
+    "url": "https://openai.com/index/lenfest-institute",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
+    "publishedAt": "2024-10-22T06:05:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/lenfest-institute"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5007eeadb2b9acc8",
+    "title": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community",
+    "url": "https://huggingface.co/blog/protectai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-10-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/protectai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aedba1e48d459e38",
+    "title": "Transformers.js v3: WebGPU Support, New Models & Tasks, and More…",
+    "url": "https://huggingface.co/blog/transformersjs-v3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-10-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/transformersjs-v3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f86389204f4ba06a",
+    "title": "Releasing Outlines-core 0.1.0: structured generation in Rust and Python",
+    "url": "https://huggingface.co/blog/outlines-core",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-10-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/outlines-core"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8424a4e7a65d1426",
+    "title": "Deploying Speech-to-Speech on Hugging Face",
+    "url": "https://huggingface.co/blog/s2s_endpoint",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-10-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/s2s_endpoint"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "97bf54696d31a618",
+    "title": "“Llama 3.2 in Keras”",
+    "url": "https://huggingface.co/blog/keras-llama-32",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/keras-llama-32"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "672a3c91a15b9ff9",
+    "title": "Just Don’t Huff Anything! – The TouchArcade Show #605",
+    "url": "https://toucharcade.com/2024/10/18/just-dont-huff-anything-the-toucharcade-show-605/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "In this week’s episode of The TouchArcade Show, it’s kind of a weird one! We kick things off talking about … \nContinue reading \"Just Don’t Huff Anything! – The TouchArcade Show #605\"",
+    "publishedAt": "2024-10-19T00:16:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/10/18/just-dont-huff-anything-the-toucharcade-show-605/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "41397e50e86ff224",
+    "title": "Fixing Gradient Accumulation",
+    "url": "https://huggingface.co/blog/gradient_accumulation",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradient_accumulation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "35471ebc68944b7e",
+    "title": "Evaluating fairness in ChatGPT",
+    "url": "https://openai.com/index/evaluating-fairness-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.",
+    "publishedAt": "2024-10-15T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/evaluating-fairness-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ca94be112b67483a",
+    "title": "Terrorizing Pasadena – The TouchArcade Show #604",
+    "url": "https://toucharcade.com/2024/10/11/terrorizing-pasadena-the-toucharcade-show-604/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "In this week’s episode of The TouchArcade Show we kick things off with some discussion about AR/VR devices like Apple’s … \nContinue reading \"Terrorizing Pasadena – The TouchArcade Show #604\"",
+    "publishedAt": "2024-10-11T21:29:12.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/10/11/terrorizing-pasadena-the-toucharcade-show-604/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c3a08c57269d6a10",
+    "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+    "url": "https://openai.com/index/mle-bench",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We introduce MLE-bench, a benchmark for measuring how well AI agents perform at machine learning engineering.",
+    "publishedAt": "2024-10-10T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/mle-bench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "205fa8d1c7e461ad",
+    "title": "Introducing the AMD 5th Gen EPYC™ CPU",
+    "url": "https://huggingface.co/blog/huggingface-amd-turin",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface-amd-turin"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9f58bb389135941",
+    "title": "A Security Review of Gradio 5",
+    "url": "https://huggingface.co/blog/gradio-5-security",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-5-security"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "323bb505d4751b35",
+    "title": "Welcome, Gradio 5",
+    "url": "https://huggingface.co/blog/gradio-5",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-5"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "54e961458ae5fbed",
+    "title": "Scaling AI-based Data Processing with Hugging Face + Dask",
+    "url": "https://huggingface.co/blog/dask-scaling",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-10-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dask-scaling"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "11abb28abba005d3",
+    "title": "OpenAI and Hearst Content Partnership",
+    "url": "https://openai.com/index/hearst",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Hearst’s iconic brands bring curated lifestyle and local news content to OpenAI’s products.",
+    "publishedAt": "2024-10-08T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hearst"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "59e09634a81ad9e2",
+    "title": "Faster Assisted Generation with Dynamic Speculation",
+    "url": "https://huggingface.co/blog/dynamic_speculation_lookahead",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-10-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dynamic_speculation_lookahead"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f9a9c07710474a37",
+    "title": "Improving Parquet Dedupe on Hugging Face Hub",
+    "url": "https://huggingface.co/blog/improve_parquet_dedupe",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-10-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/improve_parquet_dedupe"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a8c40ae01de0ba3a",
+    "title": "Introducing canvas, a new way to write and code with ChatGPT.",
+    "url": "https://openai.com/index/introducing-canvas",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Introducing canvas",
+    "publishedAt": "2024-10-03T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-canvas"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1ac25876faaa0a05",
+    "title": "New Credit Facility Enhances Financial Flexibility",
+    "url": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "In addition to securing $6.6 billion in new funding from leading investors, we have established a new $4 billion credit facility with leading banks, including JPMorgan Chase, Citi, Goldman Sachs, Morg",
+    "publishedAt": "2024-10-03T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-credit-facility-enhances-financial-flexibility"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2a68ba8d810c13a6",
+    "title": "A Short Summary of Chinese AI Global Expansion",
+    "url": "https://huggingface.co/blog/chinese-ai-expansion",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-10-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/chinese-ai-expansion"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "78aa3f250918d904",
+    "title": "New funding to scale the benefits of AI",
+    "url": "https://openai.com/index/scale-the-benefits-of-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are making progress on our mission to ensure that artificial general intelligence benefits all of humanity.",
+    "publishedAt": "2024-10-02T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/scale-the-benefits-of-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c5ed64e39d0c81b7",
+    "title": "Introducing the Realtime API",
+    "url": "https://openai.com/index/introducing-the-realtime-api",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Developers can now build fast speech-to-speech experiences into their applications",
+    "publishedAt": "2024-10-01T10:05:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-realtime-api"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "df48ec47a39934a1",
+    "title": "Introducing vision to the fine-tuning API",
+    "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Developers can now fine-tune GPT-4o with images and text to improve vision capabilities",
+    "publishedAt": "2024-10-01T10:04:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-vision-to-the-fine-tuning-api"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ec05e05a8071c87a",
+    "title": "Prompt Caching in the API",
+    "url": "https://openai.com/index/api-prompt-caching",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Offering automatic discounts on inputs that the model has recently seen",
+    "publishedAt": "2024-10-01T10:03:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/api-prompt-caching"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f086061a9e86f7b5",
+    "title": "Model Distillation in the API",
+    "url": "https://openai.com/index/api-model-distillation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Fine-tune a cost-efficient model with the outputs of a large frontier model–all on the OpenAI platform",
+    "publishedAt": "2024-10-01T10:02:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/api-model-distillation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5e2f5d2558931dda",
+    "title": "Creating agent and human collaboration with GPT 4o",
+    "url": "https://openai.com/index/altera",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Altera uses GPT-4o to build a new area of human collaboration",
+    "publishedAt": "2024-10-01T09:59:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/altera"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6f9770e217c0bf4c",
+    "title": "🇨🇿 BenCzechMark - Can your LLM Understand Czech?",
+    "url": "https://huggingface.co/blog/benczechmark",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/benczechmark"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9137990df72ead76",
+    "title": "Operation “Stop News”: Recidivist influence activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts linked to a Russia-origin operation we dubbed “Stop News”, using AI to generate recidivist influence content targeting Africa and the UK.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2024"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fe1652f155793c0c",
+    "title": "Corrupt Comment: Anti-corruption foundation criticism",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts using AI to generate comments criticizing a Russian anti-corruption foundation and related figures.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-corrupt-comment"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e2f5130c7b13821e",
+    "title": "Tort Report: Abusive reporting activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tort-report",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts using AI to draft abusive reports and complaints targeting Vietnamese public figures and platforms.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tort-report"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a81640387cbb1f3f",
+    "title": "Rwandan election content: Political commenting network",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned Rwanda-origin accounts using AI to generate partisan comments ahead of the country’s elections.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-rwandan-election-content"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2dca0749116fa9e4",
+    "title": "Bet Bot: Gambling spam network",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts that accessed its models through an Israel-based startup to generate conversations and send links to gambling sites on X.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-bet-bot"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ead8650957364083",
+    "title": "Operation “STORM-2035”: Iran-origin influence activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned Iran-origin STORM-2035 accounts using AI to generate US and UK election content and publish it across sites.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-2035-2024"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9fe200ec9daf7a50",
+    "title": "Operation “A2Z”: Multilingual influence activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-a2z",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned “A2Z” accounts using AI to generate multilingual influence content about elections, Ukraine, and politics across platforms.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-a2z"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "00ef73acc9a89dfc",
+    "title": "Hoax: Fake Russian “troll” error message",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned an account that likely originated in the US and used AI to create a fake ChatGPT error message claiming to detect “Russian troll” activity.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b6572c4b76d020a3",
+    "title": "CyberAv3ngers: Iran-linked cyber research activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyberav3ngers",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts that appeared to belong to CyberAv3ngers using AI to research industrial control systems, default credentials, and targets.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyberav3ngers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b9dccf6e638bc849",
+    "title": "SweetSpecter: China-linked cyber activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-sweetspecter",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts likely belonging to a suspected China-based adversary tracked as SweetSpecter, using AI to research vulnerabilities, write code, and support spear-phishing activity.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-sweetspecter"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "099a71668d91e44c",
+    "title": "STORM-0817: Iran-linked malware and scraping activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned Iran-linked STORM-0817 accounts using AI to debug Android malware, scrape social platforms, and translate tooling.",
+    "publishedAt": "2024-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-storm-0817"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

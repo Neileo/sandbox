@@ -1,0 +1,393 @@
+[
+  {
+    "id": "30482cf861b2af59",
+    "title": "Rearchitecting Hugging Face Uploads and Downloads",
+    "url": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-11-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/rearchitecting-uploads-and-downloads"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9b2e84fe16a02534",
+    "title": "SmolVLM - small yet mighty Vision Language Model",
+    "url": "https://huggingface.co/blog/smolvlm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-11-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/smolvlm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dc66df13b10f4b06",
+    "title": "You could have designed state of the art positional encoding",
+    "url": "https://huggingface.co/blog/designing-positional-encoding",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-11-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/designing-positional-encoding"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a93dc3ad8dab98aa",
+    "title": "Advancing red teaming with people and AI",
+    "url": "https://openai.com/index/advancing-red-teaming-with-people-and-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Advancing red teaming with people and AI",
+    "publishedAt": "2024-11-21T10:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-red-teaming-with-people-and-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5863ed7e543b2daf",
+    "title": "Building smarter maps with GPT-4o vision fine-tuning",
+    "url": "https://openai.com/index/grab",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Building smarter maps with GPT-4o vision fine-tuning",
+    "publishedAt": "2024-11-20T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/grab"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "36bf1c95072f3ae4",
+    "title": "Letting Large Models Debate: The First Multilingual LLM Debate Competition",
+    "url": "https://huggingface.co/blog/debate",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-11-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/debate"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9e6fe18682e31de4",
+    "title": "From Files to Chunks: Improving HF Storage Efficiency",
+    "url": "https://huggingface.co/blog/from-files-to-chunks",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-11-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/from-files-to-chunks"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dfca227b4c112bb9",
+    "title": "Faster Text Generation with Self-Speculative Decoding",
+    "url": "https://huggingface.co/blog/layerskip",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-11-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/layerskip"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0fe529b00189959f",
+    "title": "Rox goes “all in” on OpenAI",
+    "url": "https://openai.com/index/rox",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "By combining commercial experience and deep LLM expertise with OpenAI’s models, Rox makes every seller a top 1% seller.",
+    "publishedAt": "2024-11-19T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/rox"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c44fe1c5f688dce2",
+    "title": "Judge Arena: Benchmarking LLMs as Evaluators",
+    "url": "https://huggingface.co/blog/arena-atla",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-11-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/arena-atla"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0c675d69f71919f0",
+    "title": "Remember Payphones? – The TouchArcade Show #608",
+    "url": "https://toucharcade.com/2024/11/15/remember-payphones-the-toucharcade-show-608/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "In this week’s exciting new episode of The TouchArcade Show we kick things off with a lengthy discussion about Eli’s … \nContinue reading \"Remember Payphones? – The TouchArcade Show #608\"",
+    "publishedAt": "2024-11-15T22:44:26.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/11/15/remember-payphones-the-toucharcade-show-608/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ef468a05a16bd737",
+    "title": "OpenAI en France",
+    "url": "https://openai.com/index/openai-en-france",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our first office in continental Europe",
+    "publishedAt": "2024-11-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-en-france"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "88747408a554c738",
+    "title": "Data-driven beauty and creativity with ChatGPT",
+    "url": "https://openai.com/index/estee-lauder",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Data-driven beauty: How The Estée Lauder Companies unlocks insights with ChatGPT",
+    "publishedAt": "2024-11-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/estee-lauder"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "62c375621c541959",
+    "title": "Share your open ML datasets on Hugging Face Hub!",
+    "url": "https://huggingface.co/blog/researcher-dataset-sharing",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-11-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/researcher-dataset-sharing"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5d4085998cc2ad84",
+    "title": "They Put the Power Button WHERE!? – The TouchArcade Show #607",
+    "url": "https://toucharcade.com/2024/11/08/they-put-the-power-button-where-the-toucharcade-show-607/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "In this week’s episode of The TouchArcade Show I give a recap of the past 2 weeks of my life, … \nContinue reading \"They Put the Power Button WHERE!? – The TouchArcade Show #607\"",
+    "publishedAt": "2024-11-08T21:30:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/11/08/they-put-the-power-button-where-the-toucharcade-show-607/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1d929cbd4a798f2f",
+    "title": "Hugging Face + PyCharm",
+    "url": "https://huggingface.co/blog/pycharm-integration",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-11-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pycharm-integration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d717d65360a21510",
+    "title": "Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required",
+    "url": "https://huggingface.co/blog/argilla-ui-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-11-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/argilla-ui-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

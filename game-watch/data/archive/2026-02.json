@@ -1,0 +1,995 @@
+[
+  {
+    "id": "2a0618695f6143ca",
+    "title": "Our agreement with the Department of War",
+    "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+    "publishedAt": "2026-02-28T12:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/our-agreement-with-the-department-of-war"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3b4e959bd5949ae2",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "publishedAt": "2026-02-27T05:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2b542b2a14cf6887",
+    "title": "Scaling AI for everyone",
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "publishedAt": "2026-02-27T05:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/scaling-ai-for-everyone"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ced2f6d2cab8772a",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "url": "https://openai.com/index/amazon-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "publishedAt": "2026-02-27T05:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/amazon-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d78c7a2753569ea6",
+    "title": "Kinetic Publishing: Indie teams get guidance from the Phasmophobia team",
+    "url": "https://unity.com/blog/kinetic-publishing-indie-games",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A short interview with Daniel Knight and Asim Tanvir about Kinetic Games's new venture, Kinetic Publishing. Learn what the team is looking for in a game, why now, and why they are doubling down on the",
+    "publishedAt": "2026-02-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/kinetic-publishing-indie-games"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "807caffbde0e1479",
+    "title": "An update on our mental health-related work",
+    "url": "https://openai.com/index/update-on-mental-health-related-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+    "publishedAt": "2026-02-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/update-on-mental-health-related-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b50e3d195c6e850f",
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+    "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting t",
+    "publishedAt": "2026-02-26T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/pacific-northwest-national-laboratory"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4b51d8cada0e9538",
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "url": "https://openai.com/index/figma-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "publishedAt": "2026-02-26T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/figma-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8855719404fbbab8",
+    "title": "Mixture of Experts (MoEs) in Transformers",
+    "url": "https://huggingface.co/blog/moe-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-02-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/moe-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d163670fb22ce1f9",
+    "title": "Disrupting malicious uses of AI | February 2026",
+    "url": "https://openai.com/index/disrupting-malicious-ai-uses",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+    "publishedAt": "2026-02-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-ai-uses"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ef455565a9b47a55",
+    "title": "Arvind KC appointed Chief People Officer",
+    "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "publishedAt": "2026-02-24T13:40:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/arvind-kc-chief-people-officer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "33e5e5bcd68981ac",
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "publishedAt": "2026-02-23T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9ea61497c289b52a",
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "url": "https://openai.com/index/frontier-alliance-partners",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "publishedAt": "2026-02-23T05:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/frontier-alliance-partners"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "feae6511a0a2e0f2",
+    "title": "Our First Proof submissions",
+    "url": "https://openai.com/index/first-proof-submissions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "publishedAt": "2026-02-20T14:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/first-proof-submissions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3eedf77051b09b76",
+    "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+    "url": "https://huggingface.co/blog/ggml-joins-hf",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-02-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ggml-joins-hf"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc6466fca4768872",
+    "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+    "url": "https://huggingface.co/blog/unsloth-jobs",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-02-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/unsloth-jobs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d56ac300fb09f6b0",
+    "title": "Advancing independent research on AI alignment",
+    "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+    "publishedAt": "2026-02-19T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-independent-research-ai-alignment"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4e0bcba85dced873",
+    "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+    "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-02-18T16:15:45.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-research/itbenchandmast"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "31f053c94d55b1a4",
+    "title": "One-Shot Any Web App with Gradio's gr.HTML",
+    "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-02-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-html-one-shot-apps"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "55bc17d8de5da8b6",
+    "title": "Introducing EVMbench",
+    "url": "https://openai.com/index/introducing-evmbench",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+    "publishedAt": "2026-02-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-evmbench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "407f7c69ffbce6bc",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "url": "https://openai.com/index/new-result-theoretical-physics",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+    "publishedAt": "2026-02-13T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-result-theoretical-physics"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b117978acb8a29a3",
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+    "publishedAt": "2026-02-13T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4bdc56229cf5752d",
+    "title": "Scaling social science research",
+    "url": "https://openai.com/index/scaling-social-science-research",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+    "publishedAt": "2026-02-13T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/scaling-social-science-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "338aaf898d6c0242",
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "url": "https://openai.com/index/beyond-rate-limits",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+    "publishedAt": "2026-02-13T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/beyond-rate-limits"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57ebb88043c6f10c",
+    "title": "Monster Prom: Building a dialog system for a multiplayer dating sim",
+    "url": "https://unity.com/blog/monster-prom-building-a-dialog-system-for-a-dating-sim",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Go behind the scenes of the Monster Prom series. Learn how developer Beautiful Glitch built custom Unity Editor tools and complex branching dialog system for their popular competitive dating sim serie",
+    "publishedAt": "2026-02-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/monster-prom-building-a-dialog-system-for-a-dating-sim"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fc0327c6027c6fa4",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-02-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9b87ffcc2c79d528",
+    "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+    "url": "https://huggingface.co/blog/openenv-turing",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-02-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/openenv-turing"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f6b93302265de776",
+    "title": "Harness engineering: leveraging Codex in an agent-first world",
+    "url": "https://openai.com/index/harness-engineering",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "By Ryan Lopopolo, Member of the Technical Staff",
+    "publishedAt": "2026-02-11T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/harness-engineering"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dbc4cdcd6b0aad55",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "publishedAt": "2026-02-09T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/bringing-chatgpt-to-genaimil"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "89fc19ba39131694",
+    "title": "Transformers.js v4: Now Available on NPM!",
+    "url": "https://huggingface.co/blog/transformersjs-v4",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-02-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/transformersjs-v4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5fa2164fa58ad90f",
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "url": "https://openai.com/index/our-approach-to-localization",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+    "publishedAt": "2026-02-06T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/our-approach-to-localization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5e3f697a6269f585",
+    "title": "Introducing SyGra Studio",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-02-05T16:52:28.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aec434a838fad616",
+    "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+    "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+    "publishedAt": "2026-02-05T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d12899870b4cc2cc",
+    "title": "Introducing Trusted Access for Cyber",
+    "url": "https://openai.com/index/trusted-access-for-cyber",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+    "publishedAt": "2026-02-05T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/trusted-access-for-cyber"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4a841ea7ec7ce188",
+    "title": "Introducing GPT-5.3-Codex-Spark",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+    "publishedAt": "2026-02-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e205ffac9d9f156d",
+    "title": "Unlocking the Codex harness: how we built the App Server",
+    "url": "https://openai.com/index/unlocking-the-codex-harness",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+    "publishedAt": "2026-02-04T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/unlocking-the-codex-harness"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "634f96fb7ab6e978",
+    "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+    "url": "https://huggingface.co/blog/community-evals",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-02-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/community-evals"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "32b1a88e079e5f29",
+    "title": "H Company's new Holo2 model takes the lead in UI Localization",
+    "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-02-03T17:40:14.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5de818201044ab2f",
+    "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+    "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-02-03T15:03:19.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "42435d1a22d3686e",
+    "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-02-03T11:25:53.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Photoroom/prx-part2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "96d26eaa8234f2f9",
+    "title": "The Sora feed philosophy",
+    "url": "https://openai.com/index/sora-feed-philosophy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+    "publishedAt": "2026-02-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-feed-philosophy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f4bbf1c3572c46ac",
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "url": "https://openai.com/index/snowflake-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+    "publishedAt": "2026-02-02T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/snowflake-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2c9a29bf304584d1",
+    "title": "The Redesigned Offerwall Monetization Dashboard: What’s New and Next",
+    "url": "https://unity.com/blog/offerwall-publisher-dashboard",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Data alone can only take you so far. Learn how Tapjoy from Unity's new dashboard is empowering publishers with real-time insights to to make efficient, impactful decisions.",
+    "publishedAt": "2026-02-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/offerwall-publisher-dashboard"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

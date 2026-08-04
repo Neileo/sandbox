@@ -1,0 +1,48 @@
+[
+  {
+    "id": "c33fb9b7adb1b23a",
+    "title": "OpenAI Gym Beta",
+    "url": "https://openai.com/index/openai-gym-beta",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing the public beta of OpenAI Gym, a toolkit for developing and comparing reinforcement learning (RL) algorithms. It consists of a growing suite of environments (from simulated robots to A",
+    "publishedAt": "2016-04-27T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.309Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-gym-beta"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7fbac0ca54c8ddd1",
+    "title": "Welcome, Pieter and Shivon!",
+    "url": "https://openai.com/index/welcome-pieter-and-shivon",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We have two more team updates.",
+    "publishedAt": "2016-04-26T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.309Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/welcome-pieter-and-shivon"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

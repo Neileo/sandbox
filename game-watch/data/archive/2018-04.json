@@ -1,0 +1,71 @@
+[
+  {
+    "id": "49bd957aa3cd1509",
+    "title": "Evolved Policy Gradients",
+    "url": "https://openai.com/index/evolved-policy-gradients",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing an experimental metalearning approach called Evolved Policy Gradients, a method that evolves the loss function of learning agents, which can enable fast training on novel tasks. Agents",
+    "publishedAt": "2018-04-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/evolved-policy-gradients"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4ec028b44ef39360",
+    "title": "Gotta Learn Fast: A new benchmark for generalization in RL",
+    "url": "https://openai.com/index/gotta-learn-fast",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-04-10T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gotta-learn-fast"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "acd6abaea30b308f",
+    "title": "Retro Contest",
+    "url": "https://openai.com/index/retro-contest",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re launching a transfer learning contest that measures a reinforcement learning algorithm’s ability to generalize from previous experience.",
+    "publishedAt": "2018-04-05T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/retro-contest"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "d5d36adbb328c2b5",
+    "title": "Evolution strategies as a scalable alternative to reinforcement learning",
+    "url": "https://openai.com/index/evolution-strategies",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve discovered that evolution strategies (ES), an optimization technique that’s been known for decades, rivals the performance of standard reinforcement learning (RL) techniques on modern RL benchma",
+    "publishedAt": "2017-03-24T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/evolution-strategies"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cb1bd737766fc670",
+    "title": "One-shot imitation learning",
+    "url": "https://openai.com/index/one-shot-imitation-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2017-03-21T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/one-shot-imitation-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7bccb7e62d7d81bc",
+    "title": "Distill",
+    "url": "https://openai.com/index/distill",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re excited to support today’s launch of Distill, a new kind of journal aimed at excellent communication of machine learning results (novel or existing).",
+    "publishedAt": "2017-03-20T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/distill"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fc3184f921017df7",
+    "title": "Learning to communicate",
+    "url": "https://openai.com/index/learning-to-communicate",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "In this post we’ll outline new OpenAI research in which agents develop their own language.",
+    "publishedAt": "2017-03-16T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-to-communicate"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7f42d0024562994f",
+    "title": "Emergence of grounded compositional language in multi-agent populations",
+    "url": "https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2017-03-15T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/emergence-of-grounded-compositional-language-in-multi-agent-populations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5edfbdd1919bd478",
+    "title": "Prediction and control with temporal segment models",
+    "url": "https://openai.com/index/prediction-and-control-with-temporal-segment-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2017-03-12T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/prediction-and-control-with-temporal-segment-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f2c27a92d0c09277",
+    "title": "Third-person imitation learning",
+    "url": "https://openai.com/index/third-person-imitation-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2017-03-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/third-person-imitation-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

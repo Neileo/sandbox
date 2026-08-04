@@ -1,0 +1,48 @@
+[
+  {
+    "id": "02a375c53f6d9ed9",
+    "title": "Faulty reward functions in the wild",
+    "url": "https://openai.com/index/faulty-reward-functions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Reinforcement learning algorithms can break in surprising, counterintuitive ways. In this post we’ll explore one failure mode, which is where you misspecify your reward function.",
+    "publishedAt": "2016-12-21T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/faulty-reward-functions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d346a1aa6260ba52",
+    "title": "Universe",
+    "url": "https://openai.com/index/universe",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re releasing Universe, a software platform for measuring and training an AI’s general intelligence across the world’s supply of games, websites and other applications.",
+    "publishedAt": "2016-12-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/universe"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

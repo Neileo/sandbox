@@ -1,0 +1,328 @@
+[
+  {
+    "id": "a452b2dc7f5d1496",
+    "title": "Introducing ChatGPT Pro",
+    "url": "https://openai.com/index/introducing-chatgpt-pro",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Broadening usage of frontier AI",
+    "publishedAt": "2022-11-30T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-pro"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "134d4121857d5b7b",
+    "title": "VQ-Diffusion",
+    "url": "https://huggingface.co/blog/vq-diffusion",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-11-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vq-diffusion"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "af6a1c13c380b670",
+    "title": "We are hiring interns!",
+    "url": "https://huggingface.co/blog/interns-2023",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-11-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/interns-2023"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a013f3a7b8f7752f",
+    "title": "Diffusion Models Live Event",
+    "url": "https://huggingface.co/blog/diffusion-models-event",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-11-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/diffusion-models-event"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "04c4733f7649cc0a",
+    "title": "Accelerating Document AI",
+    "url": "https://huggingface.co/blog/document-ai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-11-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/document-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "20df3eb0c8a58719",
+    "title": "An overview of inference solutions on Hugging Face",
+    "url": "https://huggingface.co/blog/inference-update",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-11-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6e2b8d04f575e893",
+    "title": "Hugging Face Machine Learning Demos on arXiv",
+    "url": "https://huggingface.co/blog/arxiv",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-11-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/arxiv"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7b6e7aa6443ba807",
+    "title": "Sentiment Analysis on Encrypted Data with Homomorphic Encryption",
+    "url": "https://huggingface.co/blog/sentiment-analysis-fhe",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-11-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sentiment-analysis-fhe"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "404fadfec05bc39c",
+    "title": "Generating Human-level Text with Contrastive Search in Transformers 🤗",
+    "url": "https://huggingface.co/blog/introducing-csearch",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-11-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/introducing-csearch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0aa7a1de00d513b0",
+    "title": "Introducing our new pricing",
+    "url": "https://huggingface.co/blog/pricing-update",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-11-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pricing-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e461d5b8011cb7d2",
+    "title": "Training Stable Diffusion with Dreambooth using Diffusers",
+    "url": "https://huggingface.co/blog/dreambooth",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-11-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dreambooth"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "929080260e16739f",
+    "title": "DALL·E API now available in public beta",
+    "url": "https://openai.com/index/dall-e-api-now-available-in-public-beta",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Starting today, developers can begin building apps with the DALL·E API.",
+    "publishedAt": "2022-11-03T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-api-now-available-in-public-beta"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6345b110b078415b",
+    "title": "Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers",
+    "url": "https://huggingface.co/blog/fine-tune-whisper",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-11-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fine-tune-whisper"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5f7490ea5afba0bd",
+    "title": "Accelerate your models with 🤗 Optimum Intel and OpenVINO",
+    "url": "https://huggingface.co/blog/openvino",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-11-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/openvino"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

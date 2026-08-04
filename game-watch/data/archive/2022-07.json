@@ -1,0 +1,301 @@
+[
+  {
+    "id": "54ba9a907ae8da16",
+    "title": "Efficient training of language models to fill in the middle",
+    "url": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-07-28T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0c852485745a331b",
+    "title": "Introducing new audio and vision documentation in 🤗 Datasets",
+    "url": "https://huggingface.co/blog/datasets-docs-update",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-07-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/datasets-docs-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9434f54286f1eb74",
+    "title": "Faster Text Generation with TensorFlow and XLA",
+    "url": "https://huggingface.co/blog/tf-xla-generate",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-07-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tf-xla-generate"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f3db758df8feaad2",
+    "title": "A hazard analysis framework for code synthesis large language models",
+    "url": "https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-07-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/a-hazard-analysis-framework-for-code-synthesis-large-language-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5a118d68d8b05ce1",
+    "title": "Deploying TensorFlow Vision Models in Hugging Face with TF Serving",
+    "url": "https://huggingface.co/blog/tf-serving-vision",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-07-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tf-serving-vision"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a7be6ede449b33d",
+    "title": "Advantage Actor Critic (A2C)",
+    "url": "https://huggingface.co/blog/deep-rl-a2c",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-07-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deep-rl-a2c"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "16a1a1dc486e496d",
+    "title": "DALL·E now available in beta",
+    "url": "https://openai.com/index/dall-e-now-available-in-beta",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ll invite 1 million people from our waitlist over the coming weeks. Users can create with DALL·E using free credits that refill every month, and buy additional credits in 115-generation increments ",
+    "publishedAt": "2022-07-20T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-now-available-in-beta"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "19e00d7720cfa5f1",
+    "title": "Reducing bias and improving safety in DALL·E 2",
+    "url": "https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Today, we are implementing a new technique so that DALL·E generates images of people that more accurately reflect the diversity of the world’s population.",
+    "publishedAt": "2022-07-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/reducing-bias-and-improving-safety-in-dall-e-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1bc8683096b792ca",
+    "title": "How to train your model dynamically using adversarial data",
+    "url": "https://huggingface.co/blog/mnist-adversarial",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-07-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mnist-adversarial"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "578d1a3a6d274990",
+    "title": "DALL·E 2: Extending creativity",
+    "url": "https://openai.com/index/dall-e-2-extending-creativity",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "As part of our DALL·E 2 research preview, more than 3,000 artists from more than 118 countries have incorporated DALL·E into their creative workflows. The artists in our early access group have helped",
+    "publishedAt": "2022-07-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-2-extending-creativity"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc6f2cff0fa3acda",
+    "title": "The Technology Behind BLOOM Training",
+    "url": "https://huggingface.co/blog/bloom-megatron-deepspeed",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-07-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bloom-megatron-deepspeed"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9fa4b6e910971c56",
+    "title": "Building a Playlist Generator with Sentence Transformers",
+    "url": "https://huggingface.co/blog/playlist-generator",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-07-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/playlist-generator"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4dd33abe150989bb",
+    "title": "Introducing The World's Largest Open Multilingual Language Model: BLOOM",
+    "url": "https://huggingface.co/blog/bloom",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-07-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bloom"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

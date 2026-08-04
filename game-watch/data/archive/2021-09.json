@@ -1,0 +1,144 @@
+[
+  {
+    "id": "2bf25cb976558ea0",
+    "title": "Summer at Hugging Face",
+    "url": "https://huggingface.co/blog/summer-at-huggingface",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-09-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/summer-at-huggingface"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7f768525daf55aab",
+    "title": "Summarizing books with human feedback",
+    "url": "https://openai.com/index/summarizing-books",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Scaling human oversight of AI systems for tasks that are difficult to evaluate.",
+    "publishedAt": "2021-09-23T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/summarizing-books"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "42178172ec5f8532",
+    "title": "Hugging Face and Graphcore partner for IPU-optimized Transformers",
+    "url": "https://huggingface.co/blog/graphcore",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-09-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/graphcore"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ca2f92b37f826d9",
+    "title": "Introducing Optimum: The Optimization Toolkit for Transformers at Scale",
+    "url": "https://huggingface.co/blog/hardware-partners-program",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-09-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hardware-partners-program"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ca8431a6ed05f823",
+    "title": "Zico Kolter Joins OpenAI’s Board of Directors",
+    "url": "https://openai.com/index/zico-kolter-joins-openais-board-of-directors",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Zico Kolter Joins OpenAI’s Board of Directors\nWe’re strengthening our governance with expertise in AI safety and alignment. Zico will also join the Safety & Security Committee",
+    "publishedAt": "2021-09-08T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/zico-kolter-joins-openais-board-of-directors"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/helen-toner-joins"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c16f4ae139bfe905",
+    "title": "TruthfulQA: Measuring how models mimic human falsehoods",
+    "url": "https://openai.com/index/truthfulqa",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-09-08T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/truthfulqa"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

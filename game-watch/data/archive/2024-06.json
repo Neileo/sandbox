@@ -1,0 +1,673 @@
+[
+  {
+    "id": "575cb0a6069ca3a8",
+    "title": "Finding GPT-4’s mistakes with GPT-4",
+    "url": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF",
+    "publishedAt": "2024-06-27T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e7b023ba31796084",
+    "title": "Strategic Content Partnership with TIME",
+    "url": "https://openai.com/index/strategic-content-partnership-with-time",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re partnering with TIME and its 101 years of archival content to enhance responses and provide links to stories on Time.com",
+    "publishedAt": "2024-06-27T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/strategic-content-partnership-with-time"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "24c358a0da3a63ca",
+    "title": "XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face",
+    "url": "https://huggingface.co/blog/xlscout-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-06-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/xlscout-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c02b65124483bd7e",
+    "title": "Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models",
+    "url": "https://huggingface.co/blog/finetune-florence2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/finetune-florence2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ac3074585ce616fb",
+    "title": "Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality",
+    "url": "https://huggingface.co/blog/ethics-soc-6",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-06-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ethics-soc-6"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4c88c4516675bdb1",
+    "title": "OpenAI acquires Rockset",
+    "url": "https://openai.com/index/openai-acquires-rockset",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI Acquires Rockset",
+    "publishedAt": "2024-06-21T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-acquires-rockset"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c2c6b4643598298d",
+    "title": "Empowering defenders through our Cybersecurity Grant Program",
+    "url": "https://openai.com/index/empowering-defenders-through-our-cybersecurity-grant-program",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Highlighting innovative research and AI integration in cybersecurity",
+    "publishedAt": "2024-06-20T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/empowering-defenders-through-our-cybersecurity-grant-program"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6256eee266a2a21c",
+    "title": "Data Is Better Together: A Look Back and Forward",
+    "url": "https://huggingface.co/blog/dibt",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dibt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9f11083efd0aaf9a",
+    "title": "Improved Techniques for Training Consistency Models",
+    "url": "https://openai.com/index/improved-techniques-for-training-consistency-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Consistency models are a nascent family of generative models that can sample high quality data in one step without the need for adversarial training.",
+    "publishedAt": "2024-06-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/improved-techniques-for-training-consistency-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6ba9a13e71507b16",
+    "title": "A Holistic Approach to Undesired Content Detection in the Real World",
+    "url": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We present a holistic approach to building a robust and useful natural language classification system for real-world content moderation.",
+    "publishedAt": "2024-06-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/a-holistic-approach-to-undesired-content-detection-in-the-real-world"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c24d318bbbd84f99",
+    "title": "Consistency Models",
+    "url": "https://openai.com/index/consistency-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation.",
+    "publishedAt": "2024-06-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/consistency-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e0f091ce0da131d9",
+    "title": "Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap",
+    "url": "https://huggingface.co/blog/prezi-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-06-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/prezi-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "11f49bce2d7cc125",
+    "title": "Surging developer productivity with custom GPTs",
+    "url": "https://openai.com/index/paf",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Paf adopted ChatGPT Enterprise across its entire company, with engineers using custom GPTs on a daily basis to speed up routine development tasks. Paf also integrated ChatGPT Enterprise into the grit:",
+    "publishedAt": "2024-06-18T08:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/paf"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "726c6df64865b691",
+    "title": "Achieving 10x growth with agentic sales prospecting",
+    "url": "https://openai.com/index/clay",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-06-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/clay"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6c96b00f513cb2f6",
+    "title": "BigCodeBench: The Next Generation of HumanEval",
+    "url": "https://huggingface.co/blog/leaderboard-bigcodebench",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-bigcodebench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bee456f3098d126d",
+    "title": "Using GPT-4o reasoning to transform cancer care",
+    "url": "https://openai.com/index/color-health",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Color Health is working with OpenAI to pioneer a new way of accelerating cancer patients’ access to treatment. Their new Cancer Copilot application uses GPT-4o to identify missing diagnostics and crea",
+    "publishedAt": "2024-06-17T04:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/color-health"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "39659ae3777d0e9d",
+    "title": "OpenAI appoints Retired U.S. Army General Paul M. Nakasone to Board of Directors",
+    "url": "https://openai.com/index/openai-appoints-retired-us-army-general",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Nakasone brings cybersecurity experience to growing Board of Directors; will join the Board’s Safety and Security Committee",
+    "publishedAt": "2024-06-13T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-appoints-retired-us-army-general"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a5ac7bbf427f1b0b",
+    "title": "From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate",
+    "url": "https://huggingface.co/blog/deepspeed-to-fsdp-and-back",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-06-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deepspeed-to-fsdp-and-back"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "60e5ae4cf484ff4a",
+    "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
+    "url": "https://huggingface.co/blog/sd3-5",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sd3-5"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sd3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1f35773a2d959ce6",
+    "title": "Putting RL back in RLHF",
+    "url": "https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9adc8594232bd72a",
+    "title": "OpenAI and Apple announce partnership",
+    "url": "https://openai.com/index/openai-and-apple-announce-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.",
+    "publishedAt": "2024-06-10T11:55:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-and-apple-announce-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a32f47107a40f3dc",
+    "title": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
+    "url": "https://openai.com/index/openai-welcomes-cfo-cpo",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)",
+    "publishedAt": "2024-06-10T10:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-welcomes-cfo-cpo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "931159437ec9ef5a",
+    "title": "Expanding on how Voice Engine works and our safety research",
+    "url": "https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Exploring the technology behind our text-to-speech model.",
+    "publishedAt": "2024-06-07T17:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/expanding-on-how-voice-engine-works-and-our-safety-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "39d0a4a932c5eee9",
+    "title": "Making sense of this mess",
+    "url": "https://huggingface.co/blog/transformers-docs-redesign",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/transformers-docs-redesign"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b44184323beb3e9e",
+    "title": "Improving India’s critical care infrastructure",
+    "url": "https://openai.com/index/10bedicu",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-06T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/10bedicu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b7e93a0eaefef363",
+    "title": "Launching the Artificial Analysis Text to Image Leaderboard & Arena",
+    "url": "https://huggingface.co/blog/leaderboard-artificial-analysis2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-06-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-artificial-analysis2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d58703e87ddb8978",
+    "title": "Extracting Concepts from GPT-4",
+    "url": "https://openai.com/index/extracting-concepts-from-gpt-4",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Using new techniques for scaling sparse autoencoders, we automatically identified 16 million patterns in GPT-4's computations.",
+    "publishedAt": "2024-06-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/extracting-concepts-from-gpt-4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "53435ab42bf3e3db",
+    "title": "Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs",
+    "url": "https://huggingface.co/blog/npc-gigax-cubzh",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/npc-gigax-cubzh"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "05fdffb6836936ce",
+    "title": "Faster assisted generation support for Intel Gaudi",
+    "url": "https://huggingface.co/blog/assisted-generation-support-gaudi",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-06-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/assisted-generation-support-gaudi"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

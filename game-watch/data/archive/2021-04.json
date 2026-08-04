@@ -1,0 +1,71 @@
+[
+  {
+    "id": "c9d363358eaf51f8",
+    "title": "Scaling-up BERT Inference on CPU (Part 1)",
+    "url": "https://huggingface.co/blog/bert-cpu-scaling-part-1",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-04-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bert-cpu-scaling-part-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "40bdf27f2404bc9a",
+    "title": "Introducing 🤗 Accelerate",
+    "url": "https://huggingface.co/blog/accelerate-library",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/accelerate-library"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f3069ba253e03cec",
+    "title": "Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker",
+    "url": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2021-04-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

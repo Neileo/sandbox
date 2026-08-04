@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ddef026f7f58cb4f",
+    "title": "Active Learning with AutoNLP and Prodigy",
+    "url": "https://huggingface.co/blog/autonlp-prodigy",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-12-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/autonlp-prodigy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "31b4f3a68020acd3",
+    "title": "XetHub is joining Hugging Face!",
+    "url": "https://huggingface.co/blog/xethub-joins-hf",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-12-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/xethub-joins-hf"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-joins-hf"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bb1464aabad937f8",
+    "title": "WebGPT: Improving the factual accuracy of language models through web browsing",
+    "url": "https://openai.com/index/webgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve fine-tuned GPT-3 to more accurately answer open-ended questions using a text-based web browser.",
+    "publishedAt": "2021-12-16T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/webgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bf5d8686557148de",
+    "title": "Perceiver IO: a scalable, fully-attentional model that works on any modality",
+    "url": "https://huggingface.co/blog/perceiver",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2021-12-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/perceiver"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e6c9dffd1960774f",
+    "title": "Customizing GPT-3 for your application",
+    "url": "https://openai.com/index/customizing-gpt-3",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Fine-tune with a single command.",
+    "publishedAt": "2021-12-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/customizing-gpt-3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b5e950a5a23efffa",
+    "title": "Training CodeParrot 🦜 from Scratch",
+    "url": "https://huggingface.co/blog/codeparrot",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2021-12-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/codeparrot"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9ed4794fa33cee34",
+    "title": "Introducing Snowball Fight ☃️, our first ML-Agents environment",
+    "url": "https://huggingface.co/blog/snowball-fight",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-12-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/snowball-fight"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

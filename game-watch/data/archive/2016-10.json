@@ -1,0 +1,71 @@
+[
+  {
+    "id": "7ff7a8c4064ad617",
+    "title": "Semi-supervised knowledge transfer for deep learning from private training data",
+    "url": "https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2016-10-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/semi-supervised-knowledge-transfer-for-deep-learning-from-private-training-data"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f9dcba4d89443c7f",
+    "title": "Report from the self-organizing conference",
+    "url": "https://openai.com/index/report-from-the-self-organizing-conference",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Last week we hosted over a hundred and fifty AI practitioners in our offices for our first self-organizing conference on machine learning.",
+    "publishedAt": "2016-10-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/report-from-the-self-organizing-conference"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e0cf1cef88098e6b",
+    "title": "Transfer from simulation to real world through learning deep inverse dynamics model",
+    "url": "https://openai.com/index/transfer-from-simulation-to-real-world-through-learning-deep-inverse-dynamics-model",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2016-10-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/transfer-from-simulation-to-real-world-through-learning-deep-inverse-dynamics-model"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "id": "ddac8850e482fa2b",
+    "title": "New AI classifier for indicating AI-written text",
+    "url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re launching a classifier trained to distinguish between AI-written and human-written text.",
+    "publishedAt": "2023-01-31T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "93e659803249acbf",
+    "title": "The State of Computer Vision at Hugging Face 🤗",
+    "url": "https://huggingface.co/blog/cv_state",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-01-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cv_state"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d48cfbb512fa20a7",
+    "title": "Using LoRA for Efficient Stable Diffusion Fine-Tuning",
+    "url": "https://huggingface.co/blog/lora",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-01-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lora"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d3a11728c9fc2e82",
+    "title": "What Makes a Dialog Agent Useful?",
+    "url": "https://huggingface.co/blog/dialog-agents",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-01-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dialog-agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6ed44293e25c5929",
+    "title": "Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models",
+    "url": "https://huggingface.co/blog/optimum-onnxruntime-training",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-01-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/optimum-onnxruntime-training"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "33f4997f6e37520f",
+    "title": "OpenAI and Microsoft extend partnership",
+    "url": "https://openai.com/index/openai-and-microsoft-extend-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re happy to announce that OpenAI and Microsoft are extending our partnership.",
+    "publishedAt": "2023-01-23T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-and-microsoft-extend-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5ca6395dbf2470ad",
+    "title": "2D Asset Generation: AI for Game Development #4",
+    "url": "https://huggingface.co/blog/ml-for-games-4",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-01-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-for-games-4"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-for-games-3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a821540e632b19c8",
+    "title": "Universal Image Segmentation with Mask2Former and OneFormer",
+    "url": "https://huggingface.co/blog/mask2former",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-01-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mask2former"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6dc63f61d8932c1e",
+    "title": "Welcome PaddlePaddle to the Hugging Face Hub",
+    "url": "https://huggingface.co/blog/paddlepaddle",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-01-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/paddlepaddle"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2344521bed7b31a",
+    "title": "Image Similarity with Hugging Face Datasets and Transformers",
+    "url": "https://huggingface.co/blog/image-similarity",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-01-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/image-similarity"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "31f4e39670c85412",
+    "title": "Forecasting potential misuses of language models for disinformation campaigns and how to reduce risk",
+    "url": "https://openai.com/index/forecasting-misuse",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI researchers collaborated with Georgetown University’s Center for Security and Emerging Technology and the Stanford Internet Observatory to investigate how large language models might be misused",
+    "publishedAt": "2023-01-11T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/forecasting-misuse"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "99c15a21ff678d4b",
+    "title": "Delivering nuanced insights from customer feedback",
+    "url": "https://openai.com/index/yabble",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Using GPT-3 to deliver fast, nuanced insights from customer feedback.",
+    "publishedAt": "2023-01-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/yabble"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "999eb69e84668775",
+    "title": "Fine-tuning GPT-3 to scale video creation",
+    "url": "https://openai.com/index/waymark",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Fine-tuning GPT-3 to power and scale done-for-you video creation.",
+    "publishedAt": "2023-01-03T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/waymark"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5bed942a86670946",
+    "title": "Introduction to Graph Machine Learning",
+    "url": "https://huggingface.co/blog/intro-graphml",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-01-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intro-graphml"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e6a811099c9e72d0",
+    "title": "Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2",
+    "url": "https://huggingface.co/blog/intel-sapphire-rapids-inference",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-01-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-sapphire-rapids-inference"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-sapphire-rapids"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ec01fc8b0609aef0",
+    "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 2",
+    "url": "https://huggingface.co/blog/ml-for-games-2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-01-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-for-games-2"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-for-games-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dbc8e9cacc7f3ff0",
+    "title": "Creating next-gen characters",
+    "url": "https://openai.com/index/inworld-ai-DO-NOT-PUBLISH",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Using GPT-3 to create the next generation of AI-powered characters.",
+    "publishedAt": "2023-01-01T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/inworld-ai-DO-NOT-PUBLISH"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,508 @@
+[
+  {
+    "id": "65ffab8a128a67b3",
+    "title": "Building an early warning system for LLM-aided biological threat creation",
+    "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re developing a blueprint for evaluating the risk that a large language model (LLM) could aid someone in creating a biological threat. In an evaluation involving both biology experts and students, ",
+    "publishedAt": "2024-01-31T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ffb054b03086e33e",
+    "title": "Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases",
+    "url": "https://huggingface.co/blog/leaderboard-patronus",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-01-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-patronus"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "19178493ac692290",
+    "title": "Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding",
+    "url": "https://huggingface.co/blog/intel-starcoder-quantization",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-01-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-starcoder-quantization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bd8970ef52dc32c1",
+    "title": "The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models",
+    "url": "https://huggingface.co/blog/leaderboard-hallucinations",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-01-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-hallucinations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3ce04cc349e98ed0",
+    "title": "An Introduction to AI Secure LLM Safety Leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-decodingtrust",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-01-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-decodingtrust"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e38af086f18a5b52",
+    "title": "New embedding models and API updates",
+    "url": "https://openai.com/index/new-embedding-models-and-api-updates",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-25T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-embedding-models-and-api-updates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e66e7b5c42e27d40",
+    "title": "Hugging Face and Google partner for open AI collaboration",
+    "url": "https://huggingface.co/blog/gcp-partnership",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-01-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gcp-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2d3885a14cfb0cf6",
+    "title": "Open-source LLMs as LangChain Agents",
+    "url": "https://huggingface.co/blog/open-source-llms-as-agents",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-01-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/open-source-llms-as-agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "73eea2a4168bbd79",
+    "title": "PatchTSMixer in HuggingFace",
+    "url": "https://huggingface.co/blog/patchtsmixer",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/patchtsmixer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ac6d06b4d807c043",
+    "title": "Preference Tuning LLMs with Direct Preference Optimization Methods",
+    "url": "https://huggingface.co/blog/pref-tuning",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pref-tuning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6689a9c7c9b2381d",
+    "title": "Democratic inputs to AI grant program: lessons learned and implementation plans",
+    "url": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "产业动态",
+    "summary": "We funded 10 teams from around the world to design ideas and tools to collectively govern AI. We summarize the innovations, outline our learnings, and call for researchers and engineers to join us as ",
+    "publishedAt": "2024-01-16T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2b20a8623e337127",
+    "title": "How OpenAI is approaching 2024 worldwide elections",
+    "url": "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re working to prevent abuse, provide transparency on AI-generated content, and improve access to accurate voting information.",
+    "publishedAt": "2024-01-15T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0dcaa59f5be50bd4",
+    "title": "Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive",
+    "url": "https://huggingface.co/blog/sdxl_ort_inference",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sdxl_ort_inference"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d95dbbd750da12f5",
+    "title": "Run ComfyUI workflows for free with Gradio on Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/run-comfyui-workflows-on-spaces",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/run-comfyui-workflows-on-spaces"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c1c904922c79c436",
+    "title": "Building agricultural database for farmers",
+    "url": "https://openai.com/index/digital-green",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Digital Green uses OpenAI to increase farmer income.",
+    "publishedAt": "2024-01-12T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/digital-green"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ef071e31747aa4f4",
+    "title": "A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-vectara",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-01-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-vectara"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "38097e32a78b3292",
+    "title": "Introducing the GPT Store",
+    "url": "https://openai.com/index/introducing-the-gpt-store",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-10T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-gpt-store"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b2bb9d3cdb99000",
+    "title": "Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL",
+    "url": "https://huggingface.co/blog/unsloth-trl",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/unsloth-trl"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "626ef56dc1496545",
+    "title": "OpenAI and journalism",
+    "url": "https://openai.com/index/openai-and-journalism",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We support journalism, partner with news organizations, and believe The New York Times lawsuit is without merit.",
+    "publishedAt": "2024-01-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-and-journalism"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "965bed2ad7ccccf8",
+    "title": "Delivering LLM-powered health solutions",
+    "url": "https://openai.com/index/whoop",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "WHOOP delivers personalized fitness and health coaching with GPT-4.",
+    "publishedAt": "2024-01-04T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/whoop"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "09a68e8f6497793a",
+    "title": "Welcome aMUSEd: Efficient Text-to-Image Generation",
+    "url": "https://huggingface.co/blog/amused",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-01-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/amused"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a68bde277b146470",
+    "title": "LoRA training scripts of the world, unite!",
+    "url": "https://huggingface.co/blog/sdxl_lora_advanced_script",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-01-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sdxl_lora_advanced_script"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "77f78ba0e8dc6fdc",
+    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+    "url": "https://huggingface.co/blog/gradio-vton-mcp",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-07-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-vton-mcp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "17d5149b1fa30b30",
+    "title": "Introducing Stargate Norway",
+    "url": "https://openai.com/index/introducing-stargate-norway",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overarching infrastructure platform and is a critical pa",
+    "publishedAt": "2025-07-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-stargate-norway"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "107199a2fa92c806",
+    "title": "Three lessons for creating a sustainable AI advantage",
+    "url": "https://openai.com/index/intercom",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.",
+    "publishedAt": "2025-07-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/intercom"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4b2349c3257d5021",
+    "title": "Introducing study mode in ChatGPT",
+    "url": "https://openai.com/index/chatgpt-study-mode",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaffolding, and feedback for deeper learning.",
+    "publishedAt": "2025-07-29T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-study-mode"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "10d2c373357bae31",
+    "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
+    "url": "https://huggingface.co/blog/trackio",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-07-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/trackio"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2a130d77f6f1877e",
+    "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
+    "url": "https://huggingface.co/blog/hf-cli",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hf-cli"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "67e82a6ee3305a9d",
+    "title": "Parquet Content-Defined Chunking",
+    "url": "https://huggingface.co/blog/parquet-cdc",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/parquet-cdc"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6181ef1bea32b748",
+    "title": "Resolving digital threats 100x faster with OpenAI",
+    "url": "https://openai.com/index/outtake",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
+    "publishedAt": "2025-07-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/outtake"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "74ccb72bf236159f",
+    "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
+    "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-07-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2582595d10e57ccb",
+    "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
+    "url": "https://huggingface.co/blog/lora-fast",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-07-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lora-fast"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c656f0e8a5153e57",
+    "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+    "url": "https://openai.com/index/model-ml-chaz-englander",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+    "publishedAt": "2025-07-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/model-ml-chaz-englander"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9da4acd048f0ddf6",
+    "title": "Announcing OpenAI DevDay 2025",
+    "url": "https://openai.com/index/announcing-devday-2025",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+    "publishedAt": "2025-07-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/announcing-devday-2025"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "85bbe066139c673f",
+    "title": "Pioneering an AI clinical copilot with Penda Health",
+    "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
+    "publishedAt": "2025-07-22T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-clinical-copilot-penda-health"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "edca3775ca0f1432",
+    "title": "Stargate advances with 4.5 GW partnership with Oracle",
+    "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrializat",
+    "publishedAt": "2025-07-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "684a18e96f3c7cb5",
+    "title": "OpenAI’s new economic analysis",
+    "url": "https://openai.com/global-affairs/new-economic-analysis",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity.",
+    "publishedAt": "2025-07-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/new-economic-analysis"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "355ec6ca266df51c",
+    "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+    "url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-21T18:01:30.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/multi-llm-nim"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3a28a8d2737ce8fa",
+    "title": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
+    "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
+    "publishedAt": "2025-07-21T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cfc0caf59afc4c97",
+    "title": "AI as the greatest source of empowerment for all",
+    "url": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so excitin",
+    "publishedAt": "2025-07-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "65b053781f01b696",
+    "title": "Arc Virtual Cell Challenge: A Primer",
+    "url": "https://huggingface.co/blog/virtual-cell-challenge",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/virtual-cell-challenge"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8e3ab43c26712146",
+    "title": "A $50 million fund to build with communities",
+    "url": "https://openai.com/index/50-million-fund-to-build-with-communities",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
+    "publishedAt": "2025-07-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/50-million-fund-to-build-with-communities"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7a7213b68631e1d3",
+    "title": "ChatGPT agent System Card",
+    "url": "https://openai.com/index/chatgpt-agent-system-card",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
+    "publishedAt": "2025-07-17T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-agent-system-card"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2fcb5c041a8ff078",
+    "title": "Consilium: When Multiple LLMs Collaborate",
+    "url": "https://huggingface.co/blog/consilium-multi-llm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/consilium-multi-llm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ac1407fdd619e0b8",
+    "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
+    "url": "https://huggingface.co/blog/futurebench",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/futurebench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ad7edac907f66dee",
+    "title": "Five Big Improvements to Gradio MCP Servers",
+    "url": "https://huggingface.co/blog/gradio-mcp-updates",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-mcp-updates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c6b4af4bb14de25f",
+    "title": "OpenAI nonprofit jam",
+    "url": "https://openai.com/global-affairs/openai-nonprofit-jam",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Em",
+    "publishedAt": "2025-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/openai-nonprofit-jam"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3611d355fc099d61",
+    "title": "Statement from the OpenAI Board of Directors on the Nonprofit Commission Report",
+    "url": "https://openai.com/index/nonprofit-commission-report",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
+    "publishedAt": "2025-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/nonprofit-commission-report"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "66fa70df490f1e33",
+    "title": "Invideo AI uses OpenAI models to create videos 10x faster",
+    "url": "https://openai.com/index/invideo-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
+    "publishedAt": "2025-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/invideo-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7985575b219ad2e9",
+    "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
+    "url": "https://huggingface.co/blog/ettin",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-07-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ettin"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2b3b8dbbc2472c0",
+    "title": "Migrating the Hub from Git LFS to Xet",
+    "url": "https://huggingface.co/blog/migrating-the-hub-to-xet",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/migrating-the-hub-to-xet"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e9de10efc604fe98",
+    "title": "Intellectual freedom by design",
+    "url": "https://openai.com/global-affairs/intellectual-freedom-by-design",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
+    "publishedAt": "2025-07-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/intellectual-freedom-by-design"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b9fced54e67f7717",
+    "title": "The EU Code of Practice and future of AI in Europe",
+    "url": "https://openai.com/global-affairs/eu-code-of-practice",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
+    "publishedAt": "2025-07-11T09:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/eu-code-of-practice"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e7c5b31998e51588",
+    "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
+    "url": "https://huggingface.co/blog/AI-MO/kimina-prover",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-07-10T12:54:19.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/AI-MO/kimina-prover"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "80bccfbea26d2b70",
+    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+    "url": "https://huggingface.co/blog/async-robot-inference",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/async-robot-inference"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cd612edd6d0b074c",
+    "title": "ScreenEnv: Deploy your full stack Desktop Agent",
+    "url": "https://huggingface.co/blog/screenenv",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/screenenv"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bebc5e244986c3e0",
+    "title": "Building the Hugging Face MCP Server",
+    "url": "https://huggingface.co/blog/building-hf-mcp",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/building-hf-mcp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "785f71b6c9512ed8",
+    "title": "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders",
+    "url": "https://huggingface.co/blog/reachy-mini",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-07-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/reachy-mini"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dc76167597bfe887",
+    "title": "Creating custom kernels for the AMD MI300",
+    "url": "https://huggingface.co/blog/mi300kernels",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-07-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mi300kernels"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f59b913bd890892a",
+    "title": "Upskill your LLMs With Gradio MCP Servers",
+    "url": "https://huggingface.co/blog/gradio-mcp-servers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-mcp-servers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7ea50d6cbd108bb6",
+    "title": "Working with 400,000 teachers to shape the future of AI in schools",
+    "url": "https://openai.com/global-affairs/aft",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
+    "publishedAt": "2025-07-08T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/aft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9cc3a022134e4fed",
+    "title": "SmolLM3: smol, multilingual, long-context reasoner",
+    "url": "https://huggingface.co/blog/smollm3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-07-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/smollm3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "41fa4883c950de16",
+    "title": "Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure",
+    "url": "https://huggingface.co/blog/infrastructure-alerting",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-07-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/infrastructure-alerting"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3a45dd4ad98b35c8",
+    "title": "Efficient MultiModal Data Pipeline",
+    "url": "https://huggingface.co/blog/mmdp",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-07-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mmdp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f5632f6f91e28fe6",
+    "title": "Announcing  NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
+    "url": "https://huggingface.co/blog/tiiuae/e2lm-competition",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-07-04T12:25:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tiiuae/e2lm-competition"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e50bb7710b05ddef",
+    "title": "No-code personal agents, powered by GPT-4.1 and Realtime API",
+    "url": "https://openai.com/index/genspark",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents powered by GPT-4.1 and OpenAI Realtime API.",
+    "publishedAt": "2025-07-01T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/genspark"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

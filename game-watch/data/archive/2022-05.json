@@ -1,0 +1,447 @@
+[
+  {
+    "id": "a4a912d18824ad27",
+    "title": "Teaching models to express their uncertainty in words",
+    "url": "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-05-28T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c101568daadd5dc1",
+    "title": "Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers",
+    "url": "https://huggingface.co/blog/graphcore-update",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-05-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/graphcore-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7b720acbcb2340bf",
+    "title": "Introducing Pull Requests and Discussions 🥳",
+    "url": "https://huggingface.co/blog/community-update",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-05-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/community-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "21b0842f98ec05c2",
+    "title": "Powering next generation applications with OpenAI Codex",
+    "url": "https://openai.com/index/codex-apps",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Codex is now powering 70 different applications across a variety of use cases through the OpenAI API.",
+    "publishedAt": "2022-05-24T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/codex-apps"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fb49c4294ddf3427",
+    "title": "Efficient Table Pre-training without Real Data: An Introduction to TAPEX",
+    "url": "https://huggingface.co/blog/tapex",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-05-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tapex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "480c7162f6f1a2aa",
+    "title": "How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap",
+    "url": "https://huggingface.co/blog/sempre-health-eap-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-05-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sempre-health-eap-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7251c8e4e99172b6",
+    "title": "Putting ethical principles at the core of the research lifecycle",
+    "url": "https://huggingface.co/blog/ethical-charter-multimodal",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-05-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ethical-charter-multimodal"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0df61418b28fa022",
+    "title": "DALL·E 2 research preview update",
+    "url": "https://openai.com/index/dall-e-2-update",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Early users have created over 3 million images to date and helped us improve our safety processes. We’re excited to begin adding up to 1,000 new users from our waitlist each week.",
+    "publishedAt": "2022-05-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-2-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d1d47a1e966e917d",
+    "title": "An Introduction to Q-Learning Part 2/2",
+    "url": "https://huggingface.co/blog/deep-rl-q-part2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-05-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deep-rl-q-part2"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deep-rl-q-part1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f3d9b0cb15d6ba3d",
+    "title": "Machine Learning Experts - Sasha Luccioni",
+    "url": "https://huggingface.co/blog/sasha-luccioni-interview",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-05-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sasha-luccioni-interview"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "217fd05e95bba073",
+    "title": "Announcing the Hugging Face Fellowship Program",
+    "url": "https://huggingface.co/blog/fellowship",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-05-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fellowship"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1d08dbc0ac973865",
+    "title": "Gradio 3.0 is Out!",
+    "url": "https://huggingface.co/blog/gradio-blocks",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-05-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-blocks"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6920ecbbb51a7c0a",
+    "title": "Director of Machine Learning Insights [Part 3: Finance Edition]",
+    "url": "https://huggingface.co/blog/ml-director-insights-3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-director-insights-3"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-director-insights-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "87ead753118906ce",
+    "title": "Student Ambassador Program’s call for applications is open!",
+    "url": "https://huggingface.co/blog/ambassadors",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ambassadors"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "59d104b9c049f2ad",
+    "title": "Accelerated Inference with Optimum and Transformers Pipelines",
+    "url": "https://huggingface.co/blog/optimum-inference",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-05-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/optimum-inference"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1c72af4b9e739e4c",
+    "title": "We Raised $100 Million for Open & Collaborative Machine Learning 🚀",
+    "url": "https://huggingface.co/blog/series-c",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-05-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/series-c"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "451df5c415975b33",
+    "title": "OpenAI leadership team update",
+    "url": "https://openai.com/index/leadership-team-update",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re happy to announce several executive role changes that reflect our recent progress and will ensure continued momentum toward our next major milestones.",
+    "publishedAt": "2022-05-05T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/leadership-team-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a6f699189e653973",
+    "title": "An Introduction to Deep Reinforcement Learning",
+    "url": "https://huggingface.co/blog/deep-rl-intro",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-05-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deep-rl-intro"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "71a95ae634d90575",
+    "title": "Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel",
+    "url": "https://huggingface.co/blog/pytorch-fsdp",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-05-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pytorch-fsdp"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

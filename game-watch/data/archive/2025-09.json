@@ -1,0 +1,1321 @@
+[
+  {
+    "id": "c658f25dfd916ec1",
+    "title": "Launching Sora responsibly",
+    "url": "https://openai.com/index/launching-sora-responsibly",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac",
+    "publishedAt": "2025-09-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/launching-sora-responsibly"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c684eb1aba897c1d",
+    "title": "Driving sales productivity and customer success at OpenAI",
+    "url": "https://openai.com/index/openai-gtm-assistant",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how OpenAI built an internal AI sales assistant to automate account research, meeting preparation, product knowledge, and customer follow-up.",
+    "publishedAt": "2025-09-29T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-gtm-assistant"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cb62459632ca3236",
+    "title": "Converting inbound leads into customers at OpenAI",
+    "url": "https://openai.com/index/openai-inbound-sales-assistant",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how OpenAI used an internal AI sales assistant to qualify inbound leads, personalize responses, and help sales teams convert customer interest.",
+    "publishedAt": "2025-09-29T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-inbound-sales-assistant"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "381b65107dc1c38e",
+    "title": "Empowering teams to unlock insights faster at OpenAI",
+    "url": "https://openai.com/index/openai-research-assistant",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
+    "publishedAt": "2025-09-29T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-research-assistant"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c4005453f6ec0617",
+    "title": "Building OpenAI with OpenAI",
+    "url": "https://openai.com/index/building-openai-with-openai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
+    "publishedAt": "2025-09-29T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-openai-with-openai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "deac87915788eb74",
+    "title": "Turning contracts into searchable data at OpenAI",
+    "url": "https://openai.com/index/openai-contract-data-agent",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
+    "publishedAt": "2025-09-29T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-contract-data-agent"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "05f50cbbba641aba",
+    "title": "Improving support with every interaction at OpenAI",
+    "url": "https://openai.com/index/openai-support-model",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
+    "publishedAt": "2025-09-29T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-support-model"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "419d8c6232d2a2ef",
+    "title": "Introducing parental controls",
+    "url": "https://openai.com/index/introducing-parental-controls",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.",
+    "publishedAt": "2025-09-29T03:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-parental-controls"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1b2240d7e6309041",
+    "title": "Combating online child sexual exploitation & abuse",
+    "url": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
+    "publishedAt": "2025-09-29T03:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e2565eb2abe3a1e3",
+    "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+    "url": "https://huggingface.co/blog/intel-qwen3-agent",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-qwen3-agent"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1404220851c1429b",
+    "title": "VibeGame: Exploring Vibe Coding Games",
+    "url": "https://huggingface.co/blog/vibegame",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vibegame"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "33e5e3005ea0eaf6",
+    "title": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
+    "url": "https://openai.com/index/buy-it-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.",
+    "publishedAt": "2025-09-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/buy-it-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f919334cfdf54de8",
+    "title": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-09-26T06:25:50.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cae4686da74c42be",
+    "title": "Partnering with AARP to help keep older adults safe online",
+    "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
+    "publishedAt": "2025-09-26T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/aarp-partnership-older-adults-online-safety"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1ab91b7cb7af8ed6",
+    "title": "Swift Transformers Reaches 1.0 – and Looks to the Future",
+    "url": "https://huggingface.co/blog/swift-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-09-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/swift-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a96d956a5e60f370",
+    "title": "More ways to work with your team and tools in ChatGPT",
+    "url": "https://openai.com/index/more-ways-to-work-with-your-team",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "New shared projects, smarter connectors, and compliance and security updates help teams get more done.",
+    "publishedAt": "2025-09-25T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/more-ways-to-work-with-your-team"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc53ab6b4deee420",
+    "title": "Measuring the performance of our models on real-world tasks",
+    "url": "https://openai.com/index/gdpval",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
+    "publishedAt": "2025-09-25T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gdpval"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c78dd96d03513680",
+    "title": "ENEOS Materials brings ChatGPT Enterprise to manufacturing",
+    "url": "https://openai.com/index/eneos-materials",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "ENEOS Materials uses ChatGPT Enterprise to speed research, improve plant design safety, and cut HR analysis time by 90%, with 80% reporting better workflows.",
+    "publishedAt": "2025-09-24T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/eneos-materials"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dd5ba43909038190",
+    "title": "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’",
+    "url": "https://openai.com/global-affairs/openai-for-germany",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
+    "publishedAt": "2025-09-24T04:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/openai-for-germany"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f96cd90098fc18bb",
+    "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+    "url": "https://openai.com/index/five-new-stargate-sites",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of ",
+    "publishedAt": "2025-09-23T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/five-new-stargate-sites"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "547819139e56b656",
+    "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+    "url": "https://huggingface.co/blog/smol2operator",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-09-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/smol2operator"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8a2842940024a2f7",
+    "title": "CNA is transforming its newsroom with AI",
+    "url": "https://openai.com/index/cna-walter-fernandez",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journa",
+    "publishedAt": "2025-09-22T17:17:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/cna-walter-fernandez"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a7ffce3117a3e790",
+    "title": "SchoolAI builds an AI platform that empowers teachers",
+    "url": "https://openai.com/index/schoolai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.",
+    "publishedAt": "2025-09-22T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/schoolai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d4f70f41b2c2d93f",
+    "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+    "url": "https://openai.com/index/openai-nvidia-systems-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
+    "publishedAt": "2025-09-22T08:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-nvidia-systems-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6e5650c901973c62",
+    "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-22T06:45:05.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bf3122f2cd792ab0",
+    "title": "How Synergiz Harbor innovates student learning through mixed reality",
+    "url": "https://unity.com/blog/synergiz-harbor-innovates-student-learning-mixed-reality",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how Synergiz used Unity to develop Harbor, a no-code software suite designed to create mixed reality experiences to advance learning outcomes.",
+    "publishedAt": "2025-09-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/synergiz-harbor-innovates-student-learning-mixed-reality"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7451567b5abb4151",
+    "title": "Gaia2 and ARE: Empowering the community to study agents",
+    "url": "https://huggingface.co/blog/gaia2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-09-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gaia2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1a6dc6e8b714c1a0",
+    "title": "Rephobia: Where technology meets therapy to overcome fear",
+    "url": "https://unity.com/blog/rephobia-therapy-led-vr-technology-overcome-phobias",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Discover how Rephobia is creating safe, therapist-led environments that make confronting and overcoming phobias more accessible and effective.",
+    "publishedAt": "2025-09-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/rephobia-therapy-led-vr-technology-overcome-phobias"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f5aca0dcbebab494",
+    "title": "Democratizing AI Safety with RiskRubric.ai",
+    "url": "https://huggingface.co/blog/riskrubric",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-09-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/riskrubric"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cffa545cababcd7f",
+    "title": "Split-screen and GameShare networking in Survival Kids",
+    "url": "https://unity.com/blog/split-screen-and-gameshare-networking-in-survival-kids",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A deep dive into the multiplayer setup of Survival Kids. Learn how the team enabled split-screen and GameShare play on Nintendo Switch 2.",
+    "publishedAt": "2025-09-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/split-screen-and-gameshare-networking-in-survival-kids"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bef6cbe2a83e51bc",
+    "title": "Detecting and reducing scheming in AI models",
+    "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete ",
+    "publishedAt": "2025-09-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d63866e4506b41f8",
+    "title": "Building towards age prediction",
+    "url": "https://openai.com/index/building-towards-age-prediction",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
+    "publishedAt": "2025-09-16T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-towards-age-prediction"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fe411c5ad4f1ed3f",
+    "title": "Teen safety, freedom, and privacy",
+    "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+    "publishedAt": "2025-09-16T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/teen-safety-freedom-and-privacy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "82b66d0a40003f6b",
+    "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
+    "url": "https://huggingface.co/blog/lerobot-datasets-v3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lerobot-datasets-v3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6deeebce1719b9f2",
+    "title": "Introducing upgrades to Codex",
+    "url": "https://openai.com/index/introducing-upgrades-to-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
+    "publishedAt": "2025-09-15T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-upgrades-to-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc32444a81aa8a8c",
+    "title": "How people are using ChatGPT",
+    "url": "https://openai.com/index/how-people-are-using-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and mak",
+    "publishedAt": "2025-09-15T03:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-people-are-using-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5993dc39b3ce67f6",
+    "title": "Visible Watermarking with Gradio",
+    "url": "https://huggingface.co/blog/watermarking-with-gradio",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/watermarking-with-gradio"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7fda7ddac79f0115",
+    "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+    "url": "https://openai.com/index/gpt-5-2-codex-system-card",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-2-codex-system-card"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9992c02f629066bc",
+    "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+    "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.",
+    "publishedAt": "2025-09-12T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "75e04ed4d0424dd6",
+    "title": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
+    "url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-09-11T20:04:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "62d5030d2dd442c9",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "publishedAt": "2025-09-11T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/continuing-microsoft-partnership"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2fc9bff5a5e5e0d2",
+    "title": "Statement on OpenAI’s Nonprofit and PBC",
+    "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
+    "publishedAt": "2025-09-11T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6ed50daac32dd95f",
+    "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+    "url": "https://huggingface.co/blog/faster-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-09-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/faster-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "286a7ed67e1f423b",
+    "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+    "url": "https://huggingface.co/blog/togethercomputer/together-ft",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-09-10T17:04:36.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/togethercomputer/together-ft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "960603f371778a55",
+    "title": "Inside the Survival Kids multiplayer network infrastructure",
+    "url": "https://unity.com/blog/inside-the-survival-kids-multiplayer-network-infrastructure",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how the Unity Studio Productions team tackled the challenges of developing a multiplayer network architecture that would support several multiplayer play modes and setups for a yet-to-be-release",
+    "publishedAt": "2025-09-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/inside-the-survival-kids-multiplayer-network-infrastructure"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "306bc5a7444b9f6d",
+    "title": "Jupyter Agents: training LLMs to reason with notebooks",
+    "url": "https://huggingface.co/blog/jupyter-agent-2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-09-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/jupyter-agent-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "687d02cff737b905",
+    "title": "SafetyKit scales risk agents with OpenAI’s most capable models",
+    "url": "https://openai.com/index/safetykit",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
+    "publishedAt": "2025-09-09T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/safetykit"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ec871ffc5d2a7f31",
+    "title": "mmBERT: ModernBERT goes Multilingual",
+    "url": "https://huggingface.co/blog/mmbert",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mmbert"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "11b83b62d01bbe27",
+    "title": "A People-First AI Fund: $50M to support nonprofits",
+    "url": "https://openai.com/index/people-first-ai-fund",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025,",
+    "publishedAt": "2025-09-08T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/people-first-ai-fund"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "39305e45dcf4de61",
+    "title": "Why language models hallucinate",
+    "url": "https://openai.com/index/why-language-models-hallucinate",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
+    "publishedAt": "2025-09-05T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/why-language-models-hallucinate"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c6dde7320bdf607b",
+    "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
+    "url": "https://openai.com/global-affairs/openai-for-greece",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel loca",
+    "publishedAt": "2025-09-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/openai-for-greece"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4690a2698fd8d45e",
+    "title": "Expanding economic opportunity with AI",
+    "url": "https://openai.com/index/expanding-economic-opportunity-with-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessib",
+    "publishedAt": "2025-09-04T11:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/expanding-economic-opportunity-with-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "08e81a39b6fe1237",
+    "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
+    "url": "https://huggingface.co/blog/embeddinggemma",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-09-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/embeddinggemma"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bd2e21f7ef6d5b05",
+    "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
+    "url": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-09-02T16:54:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "79440eebb342cda2",
+    "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+    "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Vijaye Raji will step into a new role as CTO of Applications, reporting to CEO of Applications, Fidji Simo, following the acquisition of Statsig.",
+    "publishedAt": "2025-09-02T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4955eca90327b60a",
+    "title": "Building more helpful ChatGPT experiences for everyone",
+    "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
+    "publishedAt": "2025-09-02T04:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "be61ffb7abafe900",
+    "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+    "url": "https://huggingface.co/blog/zerogpu-aoti",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-09-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/zerogpu-aoti"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

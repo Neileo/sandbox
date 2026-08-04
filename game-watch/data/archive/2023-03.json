@@ -1,0 +1,508 @@
+[
+  {
+    "id": "d6247537a1d4d30b",
+    "title": "Ethics and Society Newsletter #3: Ethical Openness at Hugging Face",
+    "url": "https://huggingface.co/blog/ethics-soc-3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-03-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ethics-soc-3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "189356ef99ea6c46",
+    "title": "Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator",
+    "url": "https://huggingface.co/blog/habana-gaudi-2-bloom",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2023-03-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/habana-gaudi-2-bloom"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f5cb27a9561d240f",
+    "title": "Accelerating Stable Diffusion Inference on Intel CPUs",
+    "url": "https://huggingface.co/blog/stable-diffusion-inference-intel",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-03-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/stable-diffusion-inference-intel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a69547c50ed0f7c8",
+    "title": "Federated Learning using Hugging Face and Flower",
+    "url": "https://huggingface.co/blog/fl-with-flower",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-03-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fl-with-flower"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1811bb452cd9bda4",
+    "title": "March 20 ChatGPT outage: Here’s what happened",
+    "url": "https://openai.com/index/march-20-chatgpt-outage",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "An update on our findings, the actions we’ve taken, and technical details of the bug.",
+    "publishedAt": "2023-03-24T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/march-20-chatgpt-outage"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "70162ce2d8b30351",
+    "title": "Train your ControlNet with diffusers",
+    "url": "https://huggingface.co/blog/train-your-controlnet",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-03-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-your-controlnet"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "97786632d087ad76",
+    "title": "ChatGPT plugins",
+    "url": "https://openai.com/index/chatgpt-plugins",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve implemented initial support for plugins in ChatGPT. Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, r",
+    "publishedAt": "2023-03-23T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-plugins"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7619fe68126f58be",
+    "title": "Jupyter X Hugging Face",
+    "url": "https://huggingface.co/blog/notebooks-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-03-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/notebooks-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b66b937dc53f36c5",
+    "title": "GPTs are GPTs: An early look at the labor market impact potential of large language models",
+    "url": "https://openai.com/index/gpts-are-gpts",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-03-17T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpts-are-gpts"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b082e9926eb7f0cd",
+    "title": "Powering virtual education for the classroom",
+    "url": "https://openai.com/index/khan-academy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
+    "publishedAt": "2023-03-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/khan-academy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d04d7101594caea5",
+    "title": "Filling crucial language learning gaps",
+    "url": "https://openai.com/index/duolingo",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-4 deepens the conversation on Duolingo.",
+    "publishedAt": "2023-03-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/duolingo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "739c4a7efedd82fb",
+    "title": "Stripe",
+    "url": "https://openai.com/index/stripe",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Stripe leverages GPT-4 to streamline user experience and combat fraud.",
+    "publishedAt": "2023-03-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/stripe"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5f3b89c1a732e92c",
+    "title": "Transforming visual accessibility",
+    "url": "https://openai.com/index/be-my-eyes",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Be My Eyes uses GPT-4 to transform visual accessibility.",
+    "publishedAt": "2023-03-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/be-my-eyes"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e65ca58f6b4be3a5",
+    "title": "Preserving languages for the future",
+    "url": "https://openai.com/index/government-of-iceland",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "How Iceland is using GPT-4 to preserve its language.",
+    "publishedAt": "2023-03-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/government-of-iceland"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3375c5d27d9b2838",
+    "title": "GPT-4",
+    "url": "https://openai.com/index/gpt-4-research",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less ca",
+    "publishedAt": "2023-03-14T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-4-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a8a24b6495e4721c",
+    "title": "Multivariate Probabilistic Time Series Forecasting with Informer",
+    "url": "https://huggingface.co/blog/informer",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-03-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/informer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "af31e7109509e3b1",
+    "title": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
+    "url": "https://huggingface.co/blog/trl-peft",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-03-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/trl-peft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "29debb455d0e2afa",
+    "title": "New ViT and ALIGN Models From Kakao Brain",
+    "url": "https://huggingface.co/blog/vit-align",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-03-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vit-align"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "92d1fce3764425e1",
+    "title": "Using Machine Learning to Aid Survivors and Race through Time",
+    "url": "https://huggingface.co/blog/using-ml-for-disasters",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-03-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/using-ml-for-disasters"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fa74ed02295c1319",
+    "title": "ControlNet in 🧨 Diffusers",
+    "url": "https://huggingface.co/blog/controlnet",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-03-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/controlnet"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "65b657a035273552",
+    "title": "Ethical Guidelines for developing the Diffusers library",
+    "url": "https://huggingface.co/blog/ethics-diffusers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-03-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ethics-diffusers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "71fc4a34c18c3885",
+    "title": "How Hugging Face Accelerated Development of Witty Works Writing Assistant",
+    "url": "https://huggingface.co/blog/classification-use-cases",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-03-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/classification-use-cases"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

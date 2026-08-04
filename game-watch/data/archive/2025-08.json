@@ -1,0 +1,1011 @@
+[
+  {
+    "id": "402e4cf4a0dd101e",
+    "title": "Introducing gpt-realtime and Realtime API updates",
+    "url": "https://openai.com/index/introducing-gpt-realtime",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
+    "publishedAt": "2025-08-28T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-realtime"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b024ba06f95182ba",
+    "title": "Supporting nonprofit and community innovation",
+    "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
+    "publishedAt": "2025-08-28T05:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8504921d9f488d53",
+    "title": "Collective alignment: public input on our Model Spec",
+    "url": "https://openai.com/index/collective-alignment-aug-2025-updates",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human va",
+    "publishedAt": "2025-08-27T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/collective-alignment-aug-2025-updates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ad13fe7d3321b824",
+    "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
+    "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Anthropic share findings from a first-of-its-kind joint safety evaluation, testing each other’s models for misalignment, instruction following, hallucinations, jailbreaking, and more—highli",
+    "publishedAt": "2025-08-27T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-anthropic-safety-evaluation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dd0a7bcfd7cd5ec8",
+    "title": "Helping people when they need it most",
+    "url": "https://openai.com/index/helping-people-when-they-need-it-most",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How we think about safety for users experiencing mental or emotional distress, the limits of today’s systems, and the work underway to refine them.",
+    "publishedAt": "2025-08-26T04:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/helping-people-when-they-need-it-most"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a649646855659d1",
+    "title": "Announcing the OpenAI Learning Accelerator",
+    "url": "https://openai.com/global-affairs/learning-accelerator",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-08-25T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/learning-accelerator"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "92e917d72f8b5e58",
+    "title": "Accelerating life sciences research",
+    "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how a specialized AI model, GPT-4b micro, helped OpenAI and Retro Bio engineer more effective proteins for stem cell therapy and longevity research.",
+    "publishedAt": "2025-08-22T08:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "47c52c74ff6728de",
+    "title": "Scaling domain expertise in complex, regulated domains",
+    "url": "https://openai.com/index/blue-j",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how Blue J is transforming tax research with AI-powered tools built on GPT-4.1. By combining domain expertise with Retrieval-Augmented Generation, Blue J delivers fast, accurate, and fully-ci",
+    "publishedAt": "2025-08-21T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/blue-j"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ea2c30c5275e15ea",
+    "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
+    "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-08-20T22:13:18.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7a6650f45302971b",
+    "title": "Mixi reimagines communication with ChatGPT",
+    "url": "https://openai.com/index/mixi",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Discover how MIXI, a leader in digital entertainment and lifestyle services in Japan, uses ChatGPT Enterprise to transform productivity, boost AI adoption across teams, and create a secure environment",
+    "publishedAt": "2025-08-20T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/mixi"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a95a3a970d761e9",
+    "title": "Generate Images with Claude and Hugging Face",
+    "url": "https://huggingface.co/blog/claude-and-mcp",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-08-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/claude-and-mcp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1504a87339bfda5b",
+    "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
+    "url": "https://huggingface.co/blog/kernel-builder",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-08-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/kernel-builder"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5bd1ab5052f07fbf",
+    "title": "MCP for Research: How to Connect AI to Research Tools",
+    "url": "https://huggingface.co/blog/mcp-for-research",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-08-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mcp-for-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "73fc8904e3c813fd",
+    "title": "Q&A with DoorDash’s CPO, Mariana Garavaglia",
+    "url": "https://openai.com/index/doordash-mariana-garavaglia",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
+    "publishedAt": "2025-08-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/doordash-mariana-garavaglia"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a8daf6e00fd9483d",
+    "title": "Kimina-Prover-RL",
+    "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-08-14T12:13:01.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e9017634a5f3b6b7",
+    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
+    "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-08-13T14:55:10.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "02e02e886494a159",
+    "title": "Neural Super Sampling is here!",
+    "url": "https://huggingface.co/blog/Arm/neural-super-sampling",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-08-12T14:52:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Arm/neural-super-sampling"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5da031db04c98ca6",
+    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
+    "url": "https://huggingface.co/blog/textquests",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-08-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/textquests"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6ac8f60ac98730c4",
+    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
+    "url": "https://huggingface.co/blog/filbench",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-08-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/filbench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "414643f6da55f247",
+    "title": "OpenAI’s letter to Governor Newsom on harmonized regulation",
+    "url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
+    "publishedAt": "2025-08-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "761bac32927265d3",
+    "title": "Scaling accounting capacity with OpenAI",
+    "url": "https://openai.com/index/basis",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
+    "publishedAt": "2025-08-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/basis"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2e1b40a6ed4ae3d5",
+    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
+    "url": "https://huggingface.co/blog/aisheets",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-08-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/aisheets"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4c581a1a3a36e808",
+    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
+    "url": "https://huggingface.co/blog/accelerate-nd-parallel",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-08-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/accelerate-nd-parallel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83f0c6367485d413",
+    "title": "Introducing GPT-5.1 for developers",
+    "url": "https://openai.com/index/gpt-5-1-for-developers",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.",
+    "publishedAt": "2025-08-07T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-1-for-developers"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-for-developers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0eca97729d107247",
+    "title": "GPT-5 and the new era of work",
+    "url": "https://openai.com/index/gpt-5-new-era-of-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-5 is OpenAI’s most advanced model—transforming enterprise AI, automation, and workforce productivity in the new era of intelligent work.",
+    "publishedAt": "2025-08-07T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-new-era-of-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d640cf23e93f493d",
+    "title": "Coding and design with GPT-5",
+    "url": "https://openai.com/index/gpt-5-coding-design",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how GPT-5 unlocks new possibilities in coding and design.",
+    "publishedAt": "2025-08-07T00:03:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-coding-design"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0cf8bfbcd3dc0c58",
+    "title": "Creative writing with GPT-5",
+    "url": "https://openai.com/index/gpt-5-creative-writing",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how GPT-5 assists with creative writing.",
+    "publishedAt": "2025-08-07T00:02:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-creative-writing"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a315f70061d32781",
+    "title": "Medical research with GPT-5",
+    "url": "https://openai.com/index/gpt-5-medical-research",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how GPT-5 is used for medical research.",
+    "publishedAt": "2025-08-07T00:01:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-medical-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f588f4322d029f8d",
+    "title": "Vision Language Model Alignment in TRL ⚡️",
+    "url": "https://huggingface.co/blog/trl-vlm-alignment",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-08-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/trl-vlm-alignment"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aec54e92a7f33756",
+    "title": "From hard refusals to safe-completions: toward output-centric safety training",
+    "url": "https://openai.com/index/gpt-5-safe-completions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how OpenAI's new safe-completions approach in GPT-5 improves both safety and helpfulness in AI responses—moving beyond hard refusals to nuanced, output-centric safety training for handling du",
+    "publishedAt": "2025-08-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-safe-completions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a019a961c8213b9e",
+    "title": "First look at GPT-5",
+    "url": "https://openai.com/index/gpt-5-first-look",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how a group of leading developers use GPT-5 for the first time.",
+    "publishedAt": "2025-08-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-first-look"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dfa70776563e1020",
+    "title": "How Amgen uses GPT-5",
+    "url": "https://openai.com/index/gpt-5-amgen",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how Amgen uses GPT-5.",
+    "publishedAt": "2025-08-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-amgen"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e0ce349c4273ab43",
+    "title": "How Cursor uses GPT-5",
+    "url": "https://openai.com/index/gpt-5-cursor",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how Cursor uses GPT-5.",
+    "publishedAt": "2025-08-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-cursor"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "032e9a0593ca381c",
+    "title": "Providing ChatGPT to the Entire U.S. Federal Workforce",
+    "url": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Today, OpenAI for Government is announcing a new partnership with the U.S. General Services Administration (GSA) to launch a transformative initiative. For the next year, ChatGPT Enterprise will be av",
+    "publishedAt": "2025-08-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/providing-chatgpt-to-the-entire-us-federal-workforce"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6fd94d70a502ddae",
+    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+    "url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-08-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/welcome-openai-gpt-oss"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dfe7e0c6ff398140",
+    "title": "Introducing GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "publishedAt": "2025-08-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-5"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-4"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5-2"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-5"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpt-oss"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1b667a11f9a62c74",
+    "title": "Estimating worst case frontier risks of open weight LLMs",
+    "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "In this paper, we study the worst-case frontier risks of releasing gpt-oss. We introduce malicious fine-tuning (MFT), where we attempt to elicit maximum capabilities by fine-tuning gpt-oss to be as ca",
+    "publishedAt": "2025-08-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1c46fdf17c79a2f2",
+    "title": "gpt-oss-120b & gpt-oss-20b Model Card",
+    "url": "https://openai.com/index/gpt-oss-model-card",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We introduce gpt-oss-120b and gpt-oss-20b, two open-weight reasoning models available under the Apache 2.0 license and our gpt-oss usage policy.",
+    "publishedAt": "2025-08-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-oss-model-card"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2cea1f2ef9e0bcc5",
+    "title": "Open Weights and AI for All",
+    "url": "https://openai.com/global-affairs/open-weights-and-ai-for-all",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI’s next frontier isn’t just about capability—it’s about who gets to use it. Our mission to put AI in the hands of as many people as possible is what drives us. Today’s release of our most capable  o",
+    "publishedAt": "2025-08-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/open-weights-and-ai-for-all"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9697a30a63e95390",
+    "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
+    "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-08-04T19:51:50.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bb96c88aa03c8dca",
+    "title": "What we’re optimizing ChatGPT for",
+    "url": "https://openai.com/index/optimizing-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We build ChatGPT to help you thrive in all the ways you want. Learn how we’re improving support for tough moments, have rolled out reminders to take breaks, and are working on better life advice, all ",
+    "publishedAt": "2025-08-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/optimizing-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6b25499eb8f0af35",
+    "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
+    "url": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-08-01T14:25:21.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tiiuae/3lm-benchmark"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6dfb82d446db7e0b",
+    "title": "Figma uses AI to transform digital design",
+    "url": "https://openai.com/index/figma-david-kossnick",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how Figma is transforming digital design with AI. David Kossnick shares how tools like Figma Make empower teams to prototype, collaborate, and build with AI—reshaping workflows for designers,",
+    "publishedAt": "2025-08-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/figma-david-kossnick"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

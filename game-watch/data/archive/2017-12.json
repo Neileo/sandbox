@@ -1,0 +1,48 @@
+[
+  {
+    "id": "f0d270fbca2eedea",
+    "title": "Block-sparse GPU kernels",
+    "url": "https://openai.com/index/block-sparse-gpu-kernels",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing highly-optimized GPU kernels for an underexplored class of neural network architectures: networks with block-sparse weights. Depending on the chosen sparsity, these kernels can run ord",
+    "publishedAt": "2017-12-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/block-sparse-gpu-kernels"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6427559453119304",
+    "title": "Learning sparse neural networks through L₀ regularization",
+    "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2017-12-04T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-sparse-neural-networks-through-l0-regularization"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

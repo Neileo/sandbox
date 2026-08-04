@@ -1,0 +1,259 @@
+[
+  {
+    "id": "179d29f28f933ff6",
+    "title": "Opinion Classification with Kili and HuggingFace AutoTrain",
+    "url": "https://huggingface.co/blog/opinion-classification-with-kili",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-04-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/opinion-classification-with-kili"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "62ce1f5c8446624a",
+    "title": "Director of Machine Learning Insights [Part 4]",
+    "url": "https://huggingface.co/blog/ml-director-insights-4",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-04-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-director-insights-4"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-director-insights"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2c92848a3bd36cc7",
+    "title": "Getting Started with Transformers on Habana Gaudi",
+    "url": "https://huggingface.co/blog/getting-started-habana",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2022-04-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/getting-started-habana"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b64fc063f2641730",
+    "title": "Introducing Hugging Face for Education 🤗",
+    "url": "https://huggingface.co/blog/education",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-04-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/education"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dcc9fea00a8e73ee",
+    "title": "Supercharged Customer Service with Machine Learning",
+    "url": "https://huggingface.co/blog/supercharge-customer-service-with-machine-learning",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-04-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/supercharge-customer-service-with-machine-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6d7ea2edd227b465",
+    "title": "CO2 Emissions and the 🤗 Hub: Leading the Charge",
+    "url": "https://huggingface.co/blog/carbon-emissions-on-the-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-04-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/carbon-emissions-on-the-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2c38d2f354face65",
+    "title": "Hierarchical text-conditional image generation with CLIP latents",
+    "url": "https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-04-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hierarchical-text-conditional-image-generation-with-clip-latents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "38a77e414481d7ac",
+    "title": "Measuring Goodhart’s law",
+    "url": "https://openai.com/index/measuring-goodharts-law",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Goodhart’s law famously says: “When a measure becomes a target, it ceases to be a good measure.” Although originally from economics, it’s something we have to grapple with at OpenAI when figuring out ",
+    "publishedAt": "2022-04-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/measuring-goodharts-law"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "90944e358aaa5eef",
+    "title": "Machine Learning Experts - Lewis Tunstall",
+    "url": "https://huggingface.co/blog/lewis-tunstall-interview",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-04-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lewis-tunstall-interview"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a0548204096bc42f",
+    "title": "Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training",
+    "url": "https://huggingface.co/blog/habana",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2022-04-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/habana"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9570ae9811d836cf",
+    "title": "~Don't~ Repeat Yourself",
+    "url": "https://huggingface.co/blog/transformers-design-philosophy",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-04-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/transformers-design-philosophy"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

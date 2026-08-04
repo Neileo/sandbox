@@ -1,0 +1,163 @@
+[
+  {
+    "id": "5185c2677d362197",
+    "title": "#Exploration: A study of count-based exploration for deep reinforcement learning",
+    "url": "https://openai.com/index/exploration",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2016-11-15T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/exploration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b8db1ad4efea5818",
+    "title": "OpenAI and Microsoft",
+    "url": "https://openai.com/index/openai-and-microsoft",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re working with Microsoft to start running most of our large-scale experiments on Azure.",
+    "publishedAt": "2016-11-15T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-and-microsoft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "448ab2e5dc1ccbc6",
+    "title": "On the quantitative analysis of decoder-based generative models",
+    "url": "https://openai.com/index/on-the-quantitative-analysis-of-decoder-based-generative-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2016-11-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/on-the-quantitative-analysis-of-decoder-based-generative-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "75f26884ae626588",
+    "title": "A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models",
+    "url": "https://openai.com/index/a-connection-between-generative-adversarial-networks-inverse-reinforcement-learning-and-energy-based-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2016-11-11T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/a-connection-between-generative-adversarial-networks-inverse-reinforcement-learning-and-energy-based-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ee30ed958850e917",
+    "title": "RL²: Fast reinforcement learning via slow reinforcement learning",
+    "url": "https://openai.com/index/rl2",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2016-11-09T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/rl2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "72d654a4e6e82721",
+    "title": "Variational lossy autoencoder",
+    "url": "https://openai.com/index/variational-lossy-autoencoder",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2016-11-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/variational-lossy-autoencoder"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9234474c676c7e84",
+    "title": "Extensions and limitations of the neural GPU",
+    "url": "https://openai.com/index/extensions-and-limitations-of-the-neural-gpu",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2016-11-02T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/extensions-and-limitations-of-the-neural-gpu"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]
