@@ -13815,5 +13815,97 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "cf0a8d5aae9b5990",
+    "title": "Unity brings dedicated engine support to Netflix Games",
+    "url": "https://www.gamedeveloper.com/business/unity-brings-dedicated-engine-support-to-netflix-games",
+    "source": {
+      "name": "Game Developer",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The engine maker said it wants to help developers produce titles for Netflix's multi-platform ecosystem.",
+    "publishedAt": "2026-07-30T13:15:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-06T02:31:30.467Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/business/unity-brings-dedicated-engine-support-to-netflix-games"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8bc1f951f66c5ca4",
+    "title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-820",
+    "source": {
+      "name": "Rock Paper Shotgun",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Sundays are for sobbingly lifting exactly one boulder from the groaning dreampile that is my backlog. Good news, Vacuity, cpt_freakout and the rest – I'm trying out your precious, precious Troubleshoo",
+    "publishedAt": "2026-07-26T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-06T02:31:29.367Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/the-sunday-papers-820"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f02448686504cbab",
+    "title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-392",
+    "source": {
+      "name": "Rock Paper Shotgun",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "I spent most of last Saturday laid out in a Baku hotel room, muscles in both legs ground to flecks of useless meat by the decision to walk down a mountain when there was a perfectly good funicular rig",
+    "publishedAt": "2026-07-25T07:01:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-06T02:31:29.367Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-392"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "191f5d7747eb1623",
+    "title": "Agilent CEO on Business Strategy, Innovation",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-01/agilent-ceo-on-business-strategy-innovation-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Padraig McDonnell, President and CEO at Agilent, discusses the company's business strategy and the innovations he sees in the life sciences sector. He speaks with Minmin Low from the sidelines of the ",
+    "publishedAt": "2026-07-01T04:06:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-06T02:31:28.912Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-07-01/agilent-ceo-on-business-strategy-innovation-video"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

@@ -1267,5 +1267,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "04d28ad4ee042184",
+    "title": "Every Game Delayed Right Now (2026 Edition)",
+    "url": "https://www.gamespot.com/gallery/every-game-delayed-right-now/2900-3741/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Games sure have been getting delayed a lot over the last several years, and that continues in 2026. The game you've been looking forward to playing might just not be ready by its initially announced l",
+    "publishedAt": "2026-03-04T23:28:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-06T02:31:30.154Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/gallery/every-game-delayed-right-now/2900-3741/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
