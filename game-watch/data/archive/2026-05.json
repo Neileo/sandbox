@@ -2049,5 +2049,78 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "77243878f802ce8a",
+    "title": "Honkai Star Rail Next Update And Banners",
+    "url": "https://www.gamespot.com/articles/honkai-star-rail-next-update-and-banners/1100-6538813/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Want to know when the next Honkai: Star Rail update is? Thanks to official livestreams providing banner and event details for each new patch, we usually know well in advance what's awaiting us in the ",
+    "publishedAt": "2026-05-22T13:38:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:34.606Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/honkai-star-rail-next-update-and-banners/1100-6538813/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "083efae304f8dcca",
+    "title": "How business operations teams use ChatGPT Work",
+    "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.470Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1018915a22e8f7b1",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "publishedAt": "2026-05-12T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.470Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/how-finance-teams-use-codex"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

@@ -13907,5 +13907,78 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "801c2d8ddbb4fbc1",
+    "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, And How To Get In",
+    "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and when to expect more ",
+    "publishedAt": "2026-07-20T17:29:10.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:34.606Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a8fe7ab45085b1b3",
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "publishedAt": "2026-07-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.470Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4ad2dda50f93b46b",
+    "title": "July 2026's top new PC & console games, revealed...",
+    "url": "https://newsletter.gamediscover.co/p/july-2026s-top-new-pc-and-console",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: a whole bunch of game discovery news, inc. trending unreleased Steam games.",
+    "publishedAt": "2026-07-03T19:17:14.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:37.052Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/july-2026s-top-new-pc-and-console"
+      },
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/june-2026s-top-new-pc-and-console"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

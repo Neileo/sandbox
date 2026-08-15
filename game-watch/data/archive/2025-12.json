@@ -1221,5 +1221,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "6eaab463a55def87",
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "产业动态",
+    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+    "publishedAt": "2025-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.470Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-appoints-denise-dresser"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

@@ -915,5 +915,52 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "23ccd9ff0c11ef81",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/baseten",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.388Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/baseten"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-deepinfra"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-scaleway"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-publicai"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-groq"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-cohere"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
