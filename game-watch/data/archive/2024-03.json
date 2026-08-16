@@ -1,0 +1,646 @@
+[
+  {
+    "id": "c34fe6af98a13dbe",
+    "title": "Navigating the challenges and opportunities of synthetic voices",
+    "url": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re sharing lessons from a small scale preview of Voice Engine, a model for creating custom voices.",
+    "publishedAt": "2024-03-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9603f28b559ea0e",
+    "title": "Making education data accessible",
+    "url": "https://openai.com/index/zelma",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Zelma uses GPT-4 to make education data accessible.",
+    "publishedAt": "2024-03-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/zelma"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "82130979c4c116fc",
+    "title": "Pollen-Vision: Unified interface for Zero-Shot vision models in robotics",
+    "url": "https://huggingface.co/blog/pollen-vision",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-03-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pollen-vision"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "df6f29d75c5f36d8",
+    "title": "Sora first impressions",
+    "url": "https://openai.com/index/sora-first-impressions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Since we introduced Sora to the world last month, we’ve been working with artists to learn how Sora might aid in their creative process.",
+    "publishedAt": "2024-03-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-first-impressions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "92299d3f888c3172",
+    "title": "Total noob’s intro to Hugging Face Transformers",
+    "url": "https://huggingface.co/blog/noob_intro_transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-03-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/noob_intro_transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "898f9330c58b21d6",
+    "title": "Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval",
+    "url": "https://huggingface.co/blog/embedding-quantization",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-03-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/embedding-quantization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ccb99743224b2c93",
+    "title": "Embedding AI into developer software",
+    "url": "https://openai.com/index/jetbrains",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "JetBrains uses OpenAI’s API to build its fastest-growing product ever.",
+    "publishedAt": "2024-03-21T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/jetbrains"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bbea14ad09025b4e",
+    "title": "Introducing the Chatbot Guardrails Arena",
+    "url": "https://huggingface.co/blog/arena-lighthouz",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-03-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/arena-lighthouz"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4a976e288c1e0412",
+    "title": "A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake",
+    "url": "https://huggingface.co/blog/phi2-intel-meteor-lake",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-03-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/phi2-intel-meteor-lake"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "954c1bf31f667968",
+    "title": "Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models",
+    "url": "https://huggingface.co/blog/cosmopedia",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-03-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cosmopedia"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba2db521f1d591ed",
+    "title": "GaLore: Advancing Large Model Training on Consumer-grade Hardware",
+    "url": "https://huggingface.co/blog/galore",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-03-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/galore"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "db3a843a73941eaa",
+    "title": "Enterprise-ready trust and safety",
+    "url": "https://openai.com/index/salesforce",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Salesforce integrates OpenAI’s enterprise-ready LLMs to transform customer applications.",
+    "publishedAt": "2024-03-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/salesforce"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "84cdcddd23c388b0",
+    "title": "Reimagining the email experience with AI",
+    "url": "https://openai.com/index/superhuman",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Superhuman introduces a new era of email with OpenAI.",
+    "publishedAt": "2024-03-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/superhuman"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0a65f327454cc996",
+    "title": "Building a data-driven, efficient culture with AI",
+    "url": "https://openai.com/index/holiday-extras",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Holiday Extras rolls out ChatGPT Enterprise across every team, boosting productivity by 500 hours weekly.",
+    "publishedAt": "2024-03-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/holiday-extras"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "825545ae532e4c1d",
+    "title": "Easily Train Models with H100 GPUs on NVIDIA DGX Cloud",
+    "url": "https://huggingface.co/blog/train-dgx-cloud",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-03-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-dgx-cloud"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83efbec5f65021c7",
+    "title": "Quanto: a PyTorch quantization backend for Optimum",
+    "url": "https://huggingface.co/blog/quanto-introduction",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-03-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/quanto-introduction"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "17f7a982fab1ab0c",
+    "title": "CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG",
+    "url": "https://huggingface.co/blog/intel-fast-embedding",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-03-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-fast-embedding"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7ced8544b237b5ea",
+    "title": "Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset",
+    "url": "https://huggingface.co/blog/websight",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-03-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/websight"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "719ea4e0bf687918",
+    "title": "Saving lives with AI health coaching",
+    "url": "https://openai.com/index/healthify",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Healthify collaborates with OpenAI to improve millions of lives with sustainable weight loss.",
+    "publishedAt": "2024-03-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/healthify"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "12688eae171370cd",
+    "title": "Global news partnerships: Le Monde and Prisa Media",
+    "url": "https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "出海/全球化",
+    "summary": "We have partnered with international news organizations Le Monde and Prisa Media to bring French and Spanish news content to ChatGPT.",
+    "publishedAt": "2024-03-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/global-news-partnerships-le-monde-and-prisa-media"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3b179a61d55c9b20",
+    "title": "OpenAI announces new members to board of directors",
+    "url": "https://openai.com/index/openai-announces-new-members-to-board-of-directors",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Dr. Sue Desmond-Hellmann, Nicole Seligman, Fidji Simo join; Sam Altman rejoins board",
+    "publishedAt": "2024-03-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-announces-new-members-to-board-of-directors"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f2079a1b11dbdb2a",
+    "title": "Review completed & Altman, Brockman to continue to lead OpenAI",
+    "url": "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "New board members named and enhancements to the governance structure introduced",
+    "publishedAt": "2024-03-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4db70ae46b6b2c81",
+    "title": "Using AI to improve patient access to clinical trials",
+    "url": "https://openai.com/index/paradigm",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Paradigm uses OpenAI’s API to improve patient access to clinical trials.",
+    "publishedAt": "2024-03-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/paradigm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "03a24c4610632eb6",
+    "title": "Sparking a more productive company with ChatGPT Enterprise",
+    "url": "https://openai.com/index/match-group",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Match Group uses ChatGPT Enterprise to spark creativity and impact.",
+    "publishedAt": "2024-03-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/match-group"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eef4ca315747d644",
+    "title": "Improving health literacy and patient well-being",
+    "url": "https://openai.com/index/lifespan",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Lifespan uses GPT-4 to radically improve health literacy and patient outcomes.",
+    "publishedAt": "2024-03-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/lifespan"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4623ee91a2b9e58f",
+    "title": "OpenAI and Elon Musk",
+    "url": "https://openai.com/index/openai-elon-musk",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are dedicated to the OpenAI mission and have pursued it every step of the way.",
+    "publishedAt": "2024-03-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-elon-musk"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "98276e9340739c52",
+    "title": "Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?",
+    "url": "https://huggingface.co/blog/leaderboard-contextual",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-03-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-contextual"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7e79a5ea45735966",
+    "title": "Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/community-datasets",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-03-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/community-datasets"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "id": "92528c2c31e5bb8c",
+    "title": "Improving Prompt Consistency with Structured Generations",
+    "url": "https://huggingface.co/blog/evaluation-structured-outputs",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-04-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/evaluation-structured-outputs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e45d2764ece46d2c",
+    "title": "StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation",
+    "url": "https://huggingface.co/blog/sc2-instruct",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sc2-instruct"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6690e16164d97bde",
+    "title": "We’re bringing the Financial Times’ world-class journalism to ChatGPT",
+    "url": "https://openai.com/index/content-partnership-with-financial-times",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We will also collaborate on new AI experiences for FT readers.",
+    "publishedAt": "2024-04-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/content-partnership-with-financial-times"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b05a89059af7b43c",
+    "title": "Accelerating the development of life-saving treatments",
+    "url": "https://openai.com/index/moderna",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Accelerating the development of life-saving treatments.",
+    "publishedAt": "2024-04-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/moderna"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e348e92308b87598",
+    "title": "GPT-4 API general availability and deprecation of older models in the Completions API",
+    "url": "https://openai.com/index/gpt-4-api-general-availability",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-3.5 Turbo, DALL·E and Whisper APIs are also generally available, and we are releasing a deprecation plan for older models of the Completions API, which will retire at the beginning of 2024.",
+    "publishedAt": "2024-04-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-4-api-general-availability"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e53397b32e7f3ab8",
+    "title": "Introducing ChatGPT and Whisper APIs",
+    "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-and-whisper-apis"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b2f8009399429cf6",
+    "title": "Introducing the Open Chain of Thought Leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-cot",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-cot"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "22404f1913aefe6f",
+    "title": "Introducing more enterprise-grade features for API customers",
+    "url": "https://openai.com/index/more-enterprise-grade-features-for-api-customers",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs.",
+    "publishedAt": "2024-04-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/more-enterprise-grade-features-for-api-customers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e66e11aa417bb3f4",
+    "title": "OpenAI’s commitment to child safety: adopting safety by design principles",
+    "url": "https://openai.com/index/child-safety-adopting-sbd-principles",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/child-safety-adopting-sbd-principles"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f06f004e2ec80979",
+    "title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
+    "url": "https://huggingface.co/blog/jat",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-04-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/jat"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7d089e2d11806cb1",
+    "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+    "url": "https://openai.com/index/the-instruction-hierarchy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Today's LLMs are susceptible to prompt injections, jailbreaks, and other attacks that allow adversaries to overwrite a model's original instructions with their own malicious prompts.",
+    "publishedAt": "2024-04-19T19:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-instruction-hierarchy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b0736e2372f625cd",
+    "title": "The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare",
+    "url": "https://huggingface.co/blog/leaderboard-medicalllm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-medicalllm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1f81a1bbb30b363a",
+    "title": "Welcome Llama 3 - Meta's new open LLM",
+    "url": "https://huggingface.co/blog/llama3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llama3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b8d0329a6b59bfb",
+    "title": "AI Apps in a Flash with Gradio's Reload Mode",
+    "url": "https://huggingface.co/blog/gradio-reload",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-reload"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "029ccaf41605d78d",
+    "title": "Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
+    "url": "https://huggingface.co/blog/leaderboard-livecodebench",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-livecodebench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "959b4b8c8c099f08",
+    "title": "Running Privacy-Preserving Inferences on Hugging Face Endpoints",
+    "url": "https://huggingface.co/blog/fhe-endpoints",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fhe-endpoints"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "207e45d101014586",
+    "title": "Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face",
+    "url": "https://huggingface.co/blog/ryght-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ryght-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "431593224685dc00",
+    "title": "Introducing Idefics2: A Powerful 8B Vision-Language Model for the community",
+    "url": "https://huggingface.co/blog/idefics2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-04-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/idefics2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6fdb3dc5f8529307",
+    "title": "Introducing OpenAI Japan",
+    "url": "https://openai.com/index/introducing-openai-japan",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are excited to announce our first office in Asia and we’re releasing a GPT-4 custom model optimized for the Japanese language.",
+    "publishedAt": "2024-04-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-japan"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "feb3549e61319a95",
+    "title": "Vision Language Models Explained",
+    "url": "https://huggingface.co/blog/vlms",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-04-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vlms"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "17a721f790236abb",
+    "title": "Making thousands of open LLMs bloom in the Vertex AI Model Garden",
+    "url": "https://huggingface.co/blog/google-cloud-model-garden",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-04-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/google-cloud-model-garden"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "092a241db6effbf0",
+    "title": "CodeGemma - an official Google release for code LLMs",
+    "url": "https://huggingface.co/blog/codegemma",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-04-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/codegemma"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "38fefc05753fcb5b",
+    "title": "Public Policy at Hugging Face",
+    "url": "https://huggingface.co/blog/policy-blog",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2024-04-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/policy-blog"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7039dde8336dd49d",
+    "title": "Klarna's AI assistant does the work of 700 full-time agents",
+    "url": "https://openai.com/index/klarna",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Klarna is using AI to revolutionize personal shopping, customer service, and employee productivity.",
+    "publishedAt": "2024-04-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/klarna"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b2ce72647b4794f9",
+    "title": "Hugging Face partners with Wiz Research to Improve AI Security",
+    "url": "https://huggingface.co/blog/hugging-face-wiz-security-blog",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-04-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hugging-face-wiz-security-blog"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "051de5881017027b",
+    "title": "Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B",
+    "url": "https://huggingface.co/blog/duckdb-nsql-7b",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-04-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/duckdb-nsql-7b"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "31661e0b7b660709",
+    "title": "Introducing improvements to the fine-tuning API and expanding our custom models program",
+    "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re adding new features to help developers have more control over fine-tuning and announcing new ways to build custom models with OpenAI.",
+    "publishedAt": "2024-04-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c0c190c203ff1f55",
+    "title": "Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon",
+    "url": "https://huggingface.co/blog/setfit-optimum-intel",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-04-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/setfit-optimum-intel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5c032a9ebe5ee71",
+    "title": "Bringing serverless GPU inference to Hugging Face users",
+    "url": "https://huggingface.co/blog/cloudflare-workers-ai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-04-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cloudflare-workers-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bb7be6d70e0792b3",
+    "title": "Customizing models for legal professionals",
+    "url": "https://openai.com/index/harvey",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Harvey partners with OpenAI to build a custom-trained model for legal professionals.",
+    "publishedAt": "2024-04-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/harvey"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a028cc7ae9bd695c",
+    "title": "Start using ChatGPT instantly",
+    "url": "https://openai.com/index/start-using-chatgpt-instantly",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re making it easier for people to experience the benefits of AI without needing to sign up",
+    "publishedAt": "2024-04-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/start-using-chatgpt-instantly"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "da6239287d7e8a9e",
+    "title": "Reducing health insurance costs and improving care",
+    "url": "https://openai.com/index/oscar",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Oscar brings AI to health insurance, reducing costs and improving patient care.",
+    "publishedAt": "2024-04-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/oscar"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

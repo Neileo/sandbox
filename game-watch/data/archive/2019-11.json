@@ -1,0 +1,71 @@
+[
+  {
+    "id": "20e4089b4976e60b",
+    "title": "Benchmarking safe exploration in deep reinforcement learning",
+    "url": "https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2019-11-21T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c23fd24e1cf8ad73",
+    "title": "Safety Gym",
+    "url": "https://openai.com/index/safety-gym",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing Safety Gym, a suite of environments and tools for measuring progress towards reinforcement learning agents that respect safety constraints while training.",
+    "publishedAt": "2019-11-21T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/safety-gym"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "31066a8ed5c3a077",
+    "title": "GPT-2: 1.5B release",
+    "url": "https://openai.com/index/gpt-2-1-5b-release",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 model",
+    "publishedAt": "2019-11-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-2-1-5b-release"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

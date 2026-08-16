@@ -1,0 +1,25 @@
+[
+  {
+    "id": "5a992319f41ed1bc",
+    "title": "OpenAI Codex",
+    "url": "https://openai.com/index/openai-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve created an improved version of OpenAI Codex, our AI system that translates natural language to code, and we are releasing it through our API in private beta starting today.",
+    "publishedAt": "2021-08-10T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

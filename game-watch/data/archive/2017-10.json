@@ -1,0 +1,163 @@
+[
+  {
+    "id": "3c2715ba8c646fe7",
+    "title": "Learning a hierarchy",
+    "url": "https://openai.com/index/learning-a-hierarchy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve developed a hierarchical reinforcement learning algorithm that learns high-level actions useful for solving a range of tasks, allowing fast solving of tasks requiring thousands of timesteps. Our",
+    "publishedAt": "2017-10-26T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-a-hierarchy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2d6c85bd3e8673cf",
+    "title": "Generalizing from simulation",
+    "url": "https://openai.com/index/generalizing-from-simulation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Our latest robotics techniques allow robot controllers, trained entirely in simulation and deployed on physical robots, to react to unplanned changes in the environment as they solve simple tasks. Tha",
+    "publishedAt": "2017-10-19T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/generalizing-from-simulation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "81a665efcb32ae13",
+    "title": "Asymmetric actor critic for image-based robot learning",
+    "url": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2017-10-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cafc87444fd3659f",
+    "title": "Sim-to-real transfer of robotic control with dynamics randomization",
+    "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2017-10-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "740d039f34215d94",
+    "title": "Domain randomization and generative models for robotic grasping",
+    "url": "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2017-10-17T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/domain-randomization-and-generative-models-for-robotic-grasping"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6b89bea3012e9afe",
+    "title": "Meta-learning for wrestling",
+    "url": "https://openai.com/index/meta-learning-for-wrestling",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We show that for the task of simulated robot wrestling, a meta-learning agent can learn to quickly defeat a stronger non-meta-learning agent, and also show that the meta-learning agent can adapt to ph",
+    "publishedAt": "2017-10-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/meta-learning-for-wrestling"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "581dd87d0e73fa14",
+    "title": "Competitive self-play",
+    "url": "https://openai.com/index/competitive-self-play",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve found that self-play allows simulated AIs to discover physical skills like tackling, ducking, faking, kicking, catching, and diving for the ball, without explicitly designing an environment with",
+    "publishedAt": "2017-10-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/competitive-self-play"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

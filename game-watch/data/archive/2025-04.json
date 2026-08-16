@@ -1,0 +1,966 @@
+[
+  {
+    "id": "e8074f493edb9da4",
+    "title": "How to Build an MCP Server with Gradio",
+    "url": "https://huggingface.co/blog/gradio-mcp",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-mcp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "747b3fb91f7e0240",
+    "title": "The 4 Things Qwen-3’s Chat Template Teaches Us",
+    "url": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-04-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/qwen-3-chat-template-deep-dive"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3da06b55f73b9af3",
+    "title": "Sycophancy in GPT-4o: what happened and what we’re doing about it",
+    "url": "https://openai.com/index/sycophancy-in-gpt-4o",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We have rolled back last week’s GPT‑4o update in ChatGPT so people are now using an earlier version with more balanced behavior. The update we removed was overly flattering or agreeable—often describe",
+    "publishedAt": "2025-04-29T18:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sycophancy-in-gpt-4o"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "054af5e45195b19a",
+    "title": "Welcoming Llama Guard 4 on Hugging Face Hub",
+    "url": "https://huggingface.co/blog/llama-guard-4",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llama-guard-4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2b5b528ede1cd05b",
+    "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
+    "url": "https://huggingface.co/blog/autoround",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/autoround"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f63e2512a14e386b",
+    "title": "PipelineRL",
+    "url": "https://huggingface.co/blog/ServiceNow/pipelinerl",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-04-25T22:37:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow/pipelinerl"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cd3c7d8a541db46d",
+    "title": "Tiny Agents: an MCP-powered agent in 50 lines of code",
+    "url": "https://huggingface.co/blog/tiny-agents",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tiny-agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1017f7b9eef2f56d",
+    "title": "Introducing our latest image generation model in the API",
+    "url": "https://openai.com/index/image-generation-api",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our latest image generation model is now available in the API via ‘gpt-image-1’—enabling developers and businesses to build professional-grade, customizable visuals directly into their own tools and p",
+    "publishedAt": "2025-04-23T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/image-generation-api"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9c74141ed0dcf5d",
+    "title": "Finetuning olmOCR to be a faithful OCR-Engine",
+    "url": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-04-22T18:33:09.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "23eb001d7d038892",
+    "title": "Speak is personalizing language learning with AI",
+    "url": "https://openai.com/index/speak-connor-zwick",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A conversation with Connor Zwick, CEO & Co-founder of Speak.",
+    "publishedAt": "2025-04-22T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/speak-connor-zwick"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "df5b8a20bbfc63a5",
+    "title": "The Washington Post partners with OpenAI on search content",
+    "url": "https://openai.com/global-affairs/the-washington-post-partners-with-openai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The Washington Post is partnering with with OpenAI to integrate news into ChatGPT, providing users with summaries, quotes, and direct links to original reporting.",
+    "publishedAt": "2025-04-22T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/the-washington-post-partners-with-openai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ef7f1f61f2570d0d",
+    "title": "A Two Parter! – The TouchArcade Show #613",
+    "url": "https://toucharcade.com/2025/04/18/a-two-parter-the-toucharcade-show-613/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "We have a sponsor for this episode! We are eternally grateful for Tursiops Studios, who you may remember as the … \nContinue reading \"A Two Parter! – The TouchArcade Show #613\"",
+    "publishedAt": "2025-04-18T23:29:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2025/04/18/a-two-parter-the-toucharcade-show-613/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ee99f3ccd0f8a4f2",
+    "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
+    "url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-04-16T10:10:58.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "646f1157fd8be029",
+    "title": "Introducing OpenAI o3 and o4-mini",
+    "url": "https://openai.com/index/introducing-o3-and-o4-mini",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our smartest and most capable models to date with full tool access",
+    "publishedAt": "2025-04-16T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-o3-and-o4-mini"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c02bd9ed41d682a3",
+    "title": "OpenAI o3 and o4-mini System Card",
+    "url": "https://openai.com/index/o3-o4-mini-system-card",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI o3 and OpenAI o4-mini combine state-of-the-art reasoning with full tool capabilities—web browsing, Python, image and file analysis, image generation, canvas, automations, file search, and memor",
+    "publishedAt": "2025-04-16T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o3-o4-mini-system-card"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "365b999051a41b2b",
+    "title": "Thinking with images",
+    "url": "https://openai.com/index/thinking-with-images",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-16T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/thinking-with-images"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "82356b62524ebed4",
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-deepinfra"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-scaleway"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-publicai"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-groq"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-cohere"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dc2ed5b2e98b9115",
+    "title": "17 Reasons Why Gradio Isn't Just Another UI Library",
+    "url": "https://huggingface.co/blog/why-gradio-stands-out",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/why-gradio-stands-out"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2499c6bc21b340fd",
+    "title": "Introducing HELMET: Holistically Evaluating Long-context Language Models",
+    "url": "https://huggingface.co/blog/helmet",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/helmet"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "352406c8438924d9",
+    "title": "OpenAI announces nonprofit commission advisors",
+    "url": "https://openai.com/index/nonprofit-commission-advisors",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts.",
+    "publishedAt": "2025-04-15T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/nonprofit-commission-advisors"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "159d28217d0612a4",
+    "title": "Our updated Preparedness Framework",
+    "url": "https://openai.com/index/updating-our-preparedness-framework",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Sharing our updated framework for measuring and protecting against severe harm from frontier AI capabilities.",
+    "publishedAt": "2025-04-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/updating-our-preparedness-framework"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1cb94724584b23b1",
+    "title": "Introducing GPT-4.1 in the API",
+    "url": "https://openai.com/index/gpt-4-1",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Introducing GPT-4.1 in the API—a new family of models with across-the-board improvements, including major gains in coding, instruction following, and long-context understanding. We’re also releasing o",
+    "publishedAt": "2025-04-14T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-4-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4b781df731ceaa2d",
+    "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖",
+    "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-04-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ffc117c444603d6d",
+    "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+    "url": "https://huggingface.co/blog/pai-6-month",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-04-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pai-6-month"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ff9a942e3d383509",
+    "title": "Visual Salamandra: Pushing the Boundaries of Multimodal Understanding",
+    "url": "https://huggingface.co/blog/BSC-LT/visualsalamandra7b",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-11T14:21:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/BSC-LT/visualsalamandra7b"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "13a8c4bf46a315c2",
+    "title": "BrowseComp: a benchmark for browsing agents",
+    "url": "https://openai.com/index/browsecomp",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "BrowseComp: a benchmark for browsing agents.",
+    "publishedAt": "2025-04-10T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/browsecomp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "85cdf0194016f23c",
+    "title": "OpenAI Pioneers Program",
+    "url": "https://openai.com/index/openai-pioneers-program",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-04-09T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-pioneers-program"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dfbd48c663b59684",
+    "title": "Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC",
+    "url": "https://huggingface.co/blog/fastrtc-cloudflare",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-04-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fastrtc-cloudflare"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "00d91d870fe2f6d5",
+    "title": "Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More",
+    "url": "https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-04-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9ba5e3e1aaf30466",
+    "title": "Canva enables creativity with AI",
+    "url": "https://openai.com/index/canva-cam-adams",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva.",
+    "publishedAt": "2025-04-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/canva-cam-adams"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "928cdf4323b3ec76",
+    "title": "OpenAI’s EU Economic Blueprint",
+    "url": "https://openai.com/global-affairs/openais-eu-economic-blueprint",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Today, OpenAI is sharing the EU Economic Blueprint—a set of proposals to help Europe seize the promise of artificial intelligence, drive sustainable economic growth across the region, and ensure that ",
+    "publishedAt": "2025-04-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/openais-eu-economic-blueprint"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a7c087bfeb26f2c8",
+    "title": "The Reports of Our Death Have Been Mildly Exaggerated – The TouchArcade Show #612",
+    "url": "https://toucharcade.com/2025/04/04/the-reports-of-our-death-have-been-mildly-exaggerated-the-toucharcade-show-612/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Hark, a new podcast is afoot? ‘Tis true, and it has been A WHILE, friends. Ten weeks to be exact. … \nContinue reading \"The Reports of Our Death Have Been Mildly Exaggerated – The TouchArcade Show #612",
+    "publishedAt": "2025-04-05T02:42:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2025/04/04/the-reports-of-our-death-have-been-mildly-exaggerated-the-toucharcade-show-612/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8f9042e2a01fb2e5",
+    "title": "Welcome Llama 4 Maverick & Scout on Hugging Face",
+    "url": "https://huggingface.co/blog/llama4-release",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llama4-release"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3155fb43ed5ff56b",
+    "title": "Journey to 1 Million Gradio Users!",
+    "url": "https://huggingface.co/blog/gradio-1m",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-1m"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7aea1a6b4ede65f7",
+    "title": "The NLP Course is becoming the LLM Course",
+    "url": "https://huggingface.co/blog/llm-course",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llm-course"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c2fa2b4c9762e8c1",
+    "title": "Efficient Request Queueing – Optimizing LLM Performance",
+    "url": "https://huggingface.co/blog/tngtech/llm-performance-request-queueing",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-04-02T13:33:53.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tngtech/llm-performance-request-queueing"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "55c617ffc6cdb167",
+    "title": "New commission to provide insight as OpenAI builds the world’s best-equipped nonprofit",
+    "url": "https://openai.com/index/nonprofit-commission-guidance",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Already a nonprofit, and already using AI to help people solve hard problems, OpenAI aims to build the best-equipped nonprofit the world has ever seen—combining potentially historic financial resource",
+    "publishedAt": "2025-04-02T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/nonprofit-commission-guidance"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a58fadf0d59c29b5",
+    "title": "PaperBench: Evaluating AI’s Ability to Replicate AI Research",
+    "url": "https://openai.com/index/paperbench",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We introduce PaperBench, a benchmark evaluating the ability of AI agents to replicate state-of-the-art AI research.",
+    "publishedAt": "2025-04-02T10:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/paperbench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "13d5eec9459c6abe",
+    "title": "Our response to the UK’s copyright consultation",
+    "url": "https://openai.com/global-affairs/response-to-uk-copyright-consultation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Recommendations for pro-innovation policies that can help make the UK the AI capital of Europe.",
+    "publishedAt": "2025-04-02T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/response-to-uk-copyright-consultation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "23ccd9ff0c11ef81",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/baseten",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-04-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.388Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/baseten"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-deepinfra"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-scaleway"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-publicai"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-groq"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-providers-cohere"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

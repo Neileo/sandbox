@@ -1,0 +1,232 @@
+[
+  {
+    "id": "d24a3875304105ac",
+    "title": "Evaluating Language Model Bias with 🤗 Evaluate",
+    "url": "https://huggingface.co/blog/evaluating-llm-bias",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/evaluating-llm-bias"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6987070e0e51c3da",
+    "title": "From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease",
+    "url": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-10-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1a032a768300cb63",
+    "title": "Scaling laws for reward model overoptimization",
+    "url": "https://openai.com/index/scaling-laws-for-reward-model-overoptimization",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-19T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/scaling-laws-for-reward-model-overoptimization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f78dcde17c21f0d7",
+    "title": "MTEB: Massive Text Embedding Benchmark",
+    "url": "https://huggingface.co/blog/mteb",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mteb"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c9078fbe5544a18a",
+    "title": "Getting Started with Hugging Face Inference Endpoints",
+    "url": "https://huggingface.co/blog/inference-endpoints",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-endpoints"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f55d85e0cdd98851",
+    "title": "🧨 Stable Diffusion  in JAX / Flax !",
+    "url": "https://huggingface.co/blog/stable_diffusion_jax",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/stable_diffusion_jax"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4713922eef4403d3",
+    "title": "Optimization story: Bloom inference",
+    "url": "https://huggingface.co/blog/bloom-inference-optimization",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bloom-inference-optimization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "381530fd5d18806b",
+    "title": "Introducing DOI: the Digital Object Identifier to Datasets and Models",
+    "url": "https://huggingface.co/blog/introducing-doi",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/introducing-doi"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f64a2fdba3c931c7",
+    "title": "Japanese Stable Diffusion",
+    "url": "https://huggingface.co/blog/japanese-stable-diffusion",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/japanese-stable-diffusion"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "483038315cd0c8ea",
+    "title": "Very Large Language Models and How to Evaluate Them",
+    "url": "https://huggingface.co/blog/zero-shot-eval-on-the-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-10-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/zero-shot-eval-on-the-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,2126 @@
+[
+  {
+    "id": "0e7ddcb3d3c3eeff",
+    "title": "DynoSim: Simulating the Pareto Frontier",
+    "url": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Modern LLM serving is hard to tune because each deployment is a stack of interacting choices: model backend, tensor-parallel shape, prefill/decode split, worker...\nModern LLM serving is hard to tune b",
+    "publishedAt": "2026-05-29T22:31:03.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/dynosim-simulating-the-pareto-frontier/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b194ca277b14e3e8",
+    "title": "Scary baboons, sim hits: the state of Quest discovery in 2026",
+    "url": "https://newsletter.gamediscover.co/p/scary-baboons-sim-hits-the-state",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: this week's Steam hits & lots more.",
+    "publishedAt": "2026-05-29T19:19:46.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/scary-baboons-sim-hits-the-state"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "db9de8aff15a7b16",
+    "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
+    "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "As AI models grow in complexity and regulatory scrutiny intensifies under frameworks including  California’s AB-2013 and the EU AI Act, software teams...\nAs AI models grow in complexity and regulatory",
+    "publishedAt": "2026-05-29T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e62972f402e43362",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "publishedAt": "2026-05-29T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/boston-childrens-hospital"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "880638aa77e3a8ee",
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "url": "https://openai.com/index/braintrust",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "publishedAt": "2026-05-29T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/braintrust"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1c9b44953320e0b2",
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ",
+    "publishedAt": "2026-05-29T03:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e99984842d0296c8",
+    "title": "Run Step 3.7 Flash on NVIDIA GPUs with Enterprise-Ready Multimodal AI",
+    "url": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI applications are moving beyond text generation to multimodal systems that can perceive, search, and reason across images, documents, video, and...\nAI applications are moving beyond text generation ",
+    "publishedAt": "2026-05-29T00:07:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/run-step-3-7-flash-on-nvidia-gpus-with-enterprise-ready-multimodal-ai/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "99d358083d5e9d01",
+    "title": "The 47-tab problem: How Unity devs find answers mid-build",
+    "url": "https://unity.com/blog/47-tab-problem",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Why game developers lose hours triangulating answers across forums, docs, and outdated threads – and what's changing in 2026.",
+    "publishedAt": "2026-05-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/47-tab-problem"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d1b73113899fbcc8",
+    "title": "How Mattel163 unlocks scale with Unity Vector",
+    "url": "https://unity.com/blog/mattel163-phase-10-vector-roas",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How Mattel163 scaled Phase 10 with Unity Ads and Unity Vector. Optimizing D7 IAP ROAS campaigns drove a 100% boost in LTV and helped the studio scale spend 20x.",
+    "publishedAt": "2026-05-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/mattel163-phase-10-vector-roas"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b02604714f8043c",
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-05-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/torch-profiler"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8c84b8422093501f",
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "publishedAt": "2026-05-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2aa7e747964e595a",
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "publishedAt": "2026-05-28T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/endava"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2ba9ca7fc77c441c",
+    "title": "We activated gaming audiences as an audience layer. Here’s what changed.",
+    "url": "https://unity.com/blog/layering-gaming-audiences-to-unlock-programmatic-ad-performance",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Category-based buying works — but layering Unity Audience Hub data on top drives measurable lift. Discover the results across interactive formats, brand campaigns, and more.",
+    "publishedAt": "2026-05-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/layering-gaming-audiences-to-unlock-programmatic-ad-performance"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ac3d09a478fb443d",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "publishedAt": "2026-05-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-frontier-governance-framework"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "861f2a4999230d2d",
+    "title": "NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes",
+    "url": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "The cold-start problem In production inference deployments, demand fluctuates over time, requiring inference replicas to scale elastically. However,...\nIn production inference deployments, demand fluc",
+    "publishedAt": "2026-05-27T23:09:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9b336c889a590e40",
+    "title": "NVIDIA Blackwell Sets STAC-AI Record for LLM Inference in Finance",
+    "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Large language models (LLMs) are revolutionizing the financial trading landscape by enabling sophisticated analysis of vast amounts of unstructured data to...\nLarge language models (LLMs) are revoluti",
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/nvidia-blackwell-sets-stac-ai-record-for-llm-inference-in-finance/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9ac4b586adb424a",
+    "title": "What’s New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters",
+    "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "NVIDIA RTX provides game developers with direct paths to AI-driven characters, frame generation, and ray-traced rendering. This post walks through a meaningful...\nNVIDIA RTX provides game developers w",
+    "publishedAt": "2026-05-27T16:59:58.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-in-nvidia-rtx-dlss-4-5-for-ue5-and-multilingual-ai-characters/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "53e1da4b0cbcd14f",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "publishedAt": "2026-05-27T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/cisco"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c7affab7451ec44b",
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "publishedAt": "2026-05-27T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c3c696b5bf6b4f8c",
+    "title": "Reachy Mini goes fully local",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/local-reachy-mini-conversation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9e899a157ff8ca68",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/delta-weight-sync"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ddd2460e2a3b9981",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/warp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "635db8ff3d721189",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "publishedAt": "2026-05-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/election-safeguards-2026"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b4f27f4ba83ad00f",
+    "title": "Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning",
+    "url": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "NVIDIA CompileIQ tackles one of the hardest problems in performance engineering: finding the compiler options that unlock the best performance for a specific...\nNVIDIA CompileIQ tackles one of the har",
+    "publishedAt": "2026-05-26T22:08:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.967Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3944165ca3db4a77",
+    "title": "How old are your players, and does it matter for discovery?",
+    "url": "https://newsletter.gamediscover.co/p/how-old-are-your-players-and-does",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "综合",
+    "summary": "A seldom-discussed angle. Also: some thoughts on agentic data access & the latest news.",
+    "publishedAt": "2026-05-26T19:11:28.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/how-old-are-your-players-and-does"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "62b39318d1d13ab6",
+    "title": "Decart Raises $300m Series B at ~$4B Valuation",
+    "url": "https://investgame.net/news/decart-raises-300m-series-b-at-4b-valuation/",
+    "source": {
+      "name": "InvestGame",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Israel-based AI infrastructure company Decart has raised $300m in a Series B round led by Radical Ventures, with participation from NVIDIA (NASDAQ: NVDA), Atreides Management, Valor Equity Partners, A",
+    "publishedAt": "2026-05-25T19:07:21.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.127Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "InvestGame",
+        "url": "https://investgame.net/news/decart-raises-300m-series-b-at-4b-valuation/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "54b58833c71340c0",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/agent-glossary"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1667df8c425045fb",
+    "title": "AI is becoming a first hire for small businesses",
+    "url": "https://openai.com/index/ai-first-hire-small-business",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "New research shows how 4 million Americans use ChatGPT to start, run, and grow small businesses, lowering the cost of entrepreneurship with AI.",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-first-hire-small-business"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e60fa7207f6a1461",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "publishedAt": "2026-05-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5e0cc0c182015c1b",
+    "title": "Finding the 'secret new winners' of April on Steam...",
+    "url": "https://newsletter.gamediscover.co/p/finding-the-secret-new-winners-of",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: this week's Steam debuts and lots of news.",
+    "publishedAt": "2026-05-22T18:52:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.872Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/finding-the-secret-new-winners-of"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fabc6ef2e8763973",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "publishedAt": "2026-05-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/virgin-atlantic"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc79b84ae366f6d4",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "publishedAt": "2026-05-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57b488d288c29800",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "publishedAt": "2026-05-21T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/adventhealth"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4a062beb41493d0d",
+    "title": "Unity's AI tools in beta: Create props with the 3D Object Generator",
+    "url": "https://unity.com/blog/unity-ai-3d-object-generator",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Unity's AI tools in beta includes a 3D Object Generator capable of creating static 3D mesh prefabs from text prompts or reference images. Generated objects are single-part, non-rigged props suited to ",
+    "publishedAt": "2026-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-ai-3d-object-generator"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1c93d6c1c7251e5f",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "publishedAt": "2026-05-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "25e141fd02c9e561",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "publishedAt": "2026-05-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ramp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aada05358e561891",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "publishedAt": "2026-05-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2fd1ae66db94c087",
+    "title": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "publishedAt": "2026-05-19T20:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-for-singapore"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cb1323ba54f85cd7",
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-05-19T18:38:09.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f80637b404047562",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "publishedAt": "2026-05-19T10:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-content-provenance"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ed1c2193d6b80a8c",
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-05-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ettin-reranker"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0e90042cc61fe001",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-05-18T15:12:46.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6f1209c6c0e07aba",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "publishedAt": "2026-05-18T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dell-codex-enterprise-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "20383a0947db90dd",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "publishedAt": "2026-05-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5da970c023508896",
+    "title": "How business operations teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e46d28eec38083e8",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/databricks"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "baeb7ae75753a1c1",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/personal-finance-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "326607290d218cfb",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "publishedAt": "2026-05-14T20:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sea-david-chen"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "071ef486161ea852",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-05-14T18:55:01.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "18f13afbd6901fb3",
+    "title": "Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "publishedAt": "2026-05-14T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/work-with-codex-from-anywhere"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "86a2f22779894765",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "url": "https://huggingface.co/blog/continuous_async",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/continuous_async"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a1312e54bd28a28c",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "publishedAt": "2026-05-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4a3442a5ca8c1935",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+    "publishedAt": "2026-05-13T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/building-codex-windows-sandbox"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c2dd6272b5a85468",
+    "title": "Unity AI Open Beta: Building a user interface with the UI Generator",
+    "url": "https://unity.com/blog/unity-ai-ui-generator",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Speed up your game UI prototyping with the Unity AI UI Generator. Learn how to use the Sprite and Texture Generators to create placeholder assets directly inside the Unity Editor and iterate on your d",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-ai-ui-generator"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d661de345b4ea800",
+    "title": "Unity for Humanity 2026 Winner Announcement",
+    "url": "https://unity.com/blog/unity-for-humanity-2026-winner-announcement",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "We are thrilled to introduce the 2026 Unity for Humanity winners!",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-for-humanity-2026-winner-announcement"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a51d424a47f7bba",
+    "title": "Turning purchase data into outcomes in mobile gaming: Unity and Attain’s partnership",
+    "url": "https://unity.com/blog/attain-partnership-measuring-mobile-gaming-sales-outcomes",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Unity's partnership with Attain brings real-time, permissioned purchase data to mobile gaming advertising. Learn how programmatic buyers can activate purchase-based audiences across Unity's monthly ac",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/attain-partnership-measuring-mobile-gaming-sales-outcomes"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8939013f174d0f1e",
+    "title": "Our response to the TanStack npm supply chain attack",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA",
+    "publishedAt": "2026-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0090139282200a1d",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "publishedAt": "2026-05-12T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.303Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/how-finance-teams-use-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "712cfd585fe0a91e",
+    "title": "Architecting Albion Online: How Sandbox Interactive built a PvP MMO to scale across platforms",
+    "url": "https://unity.com/blog/albion-online-cross-platform-pvp-mmo-architecture",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn about the technical architecture enabling Albion Online, a hardcore PvP MMO, to seamlessly scale across PC, mobile, and console. Get insights from Sandbox Interactive's engineers on their single",
+    "publishedAt": "2026-05-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/albion-online-cross-platform-pvp-mmo-architecture"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fd797e93058cd1d0",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
+    "publishedAt": "2026-05-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/what-parameter-golf-taught-us"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "66312b6309f0b1f1",
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "url": "https://openai.com/index/nvidia",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+    "publishedAt": "2026-05-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/nvidia"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dd83ecd40f2ff407",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "url": "https://openai.com/index/autoscout24",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+    "publishedAt": "2026-05-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/autoscout24"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7c1a813822f725a1",
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-05-11T23:18:26.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6262633bf7280870",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "publishedAt": "2026-05-11T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/signals/research/2026q1-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5d49356f591b1f7d",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "publishedAt": "2026-05-11T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2a6999bc8c1adf45",
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "publishedAt": "2026-05-11T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e7455462824dd896",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "publishedAt": "2026-05-11T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-launches-the-deployment-company"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "99d6dcddfc802309",
+    "title": "Unity's AI tools in beta: How to get started with MCP",
+    "url": "https://unity.com/blog/unity-ai-mcp-how-to-get-started",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Unity MCP Server implements the Model Context Protocol to give IDE-based AI agents (Claude Code, Cursor, Windsurf, VS Code Copilot) live access to a running Unity project — including scene hierarchy, ",
+    "publishedAt": "2026-05-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.170Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-ai-mcp-how-to-get-started"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "66be1220771465af",
+    "title": "Running Codex safely at OpenAI",
+    "url": "https://openai.com/index/running-codex-safely",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "publishedAt": "2026-05-08T12:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/running-codex-safely"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a505eac8f113b659",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+    "publishedAt": "2026-05-07T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fa002821b90d7a82",
+    "title": "Parloa builds service agents customers want to talk to",
+    "url": "https://openai.com/index/parloa",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+    "publishedAt": "2026-05-07T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/parloa"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "24a3c172de484200",
+    "title": "Advancing voice intelligence with new models in the API",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+    "publishedAt": "2026-05-07T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b19ec562c455e753",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a6fcbba288389a6b",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a04d57070e9b202e",
+    "title": "Simplex rethinks software development with Codex",
+    "url": "https://openai.com/index/simplex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+    "publishedAt": "2026-05-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/simplex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "463b01d5793bbfd3",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-05-06T19:06:55.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0029dfc1f46ca1de",
+    "title": "Left 4 Dead - Update",
+    "url": "https://store.steampowered.com/news/270398/",
+    "source": {
+      "name": "Steam Blog",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2026-05-06T18:02:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:12.522Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/270398/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ca7758ca2a2c3977",
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+    "publishedAt": "2026-05-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-chatgpt-protects-privacy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9bcec59458e97e4d",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f9a6fe3e0b32193c",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/singular-bank"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0001057cafdd5edc",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity ",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57a55fcb205568a6",
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-b2b-signals"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ef58dbb67f9059c",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "publishedAt": "2026-05-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/uber"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "01a8b52eee8198f5",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "publishedAt": "2026-05-05T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-5-5-instant"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a2a811b50a4c64f5",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "publishedAt": "2026-05-05T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/mrc-supercomputer-networking"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2de76809a5988efa",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+    "publishedAt": "2026-05-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/advancing-youth-safety-in-emea"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "08792e01b9a92ec8",
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "publishedAt": "2026-05-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2b843178b595da18",
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "publishedAt": "2026-05-04T21:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-pwc-finance-collaboration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5c3d93bd7160f244",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+    "publishedAt": "2026-05-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "77243878f802ce8a",
+    "title": "Honkai Star Rail Next Update And Banners",
+    "url": "https://www.gamespot.com/articles/honkai-star-rail-next-update-and-banners/1100-6538813/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Want to know when the next Honkai: Star Rail update is? Thanks to official livestreams providing banner and event details for each new patch, we usually know well in advance what's awaiting us in the ",
+    "publishedAt": "2026-05-22T13:38:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:34.606Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/honkai-star-rail-next-update-and-banners/1100-6538813/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "083efae304f8dcca",
+    "title": "How business operations teams use ChatGPT Work",
+    "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how business operations teams can use ChatGPT Work to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs",
+    "publishedAt": "2026-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.470Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1018915a22e8f7b1",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "publishedAt": "2026-05-12T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-15T01:11:38.470Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/academy/how-finance-teams-use-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

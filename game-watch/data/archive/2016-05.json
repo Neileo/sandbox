@@ -1,0 +1,56 @@
+[
+  {
+    "id": "d1fd9349454fb4c0",
+    "title": "Team update",
+    "url": "https://openai.com/index/team-update-january",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The OpenAI team is now 45 people. Together, we’re pushing the frontier of AI capabilities—whether by validating novel ideas, creating new software systems, or deploying machine learning on robots.",
+    "publishedAt": "2016-05-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/team-update-january"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/team-update-august"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/team-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fbe426d73ec2bff1",
+    "title": "Adversarial training methods for semi-supervised text classification",
+    "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2016-05-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.309Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

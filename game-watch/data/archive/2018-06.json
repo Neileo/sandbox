@@ -1,0 +1,117 @@
+[
+  {
+    "id": "881e79a7db84e4dd",
+    "title": "OpenAI Five",
+    "url": "https://openai.com/index/openai-five",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our team of five neural networks, OpenAI Five, has started to defeat amateur human teams at Dota 2.",
+    "publishedAt": "2018-06-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-five"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "04a283baef83f62f",
+    "title": "Retro Contest: Results",
+    "url": "https://openai.com/index/retro-contest-results",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The first run of our Retro Contest—exploring the development of algorithms that can generalize from previous experience—is now complete.",
+    "publishedAt": "2018-06-22T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/retro-contest-results"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ecdd1d648f31fafd",
+    "title": "Learning policy representations in multiagent systems",
+    "url": "https://openai.com/index/learning-policy-representations-in-multiagent-systems",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-06-17T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-policy-representations-in-multiagent-systems"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "91c4184aef84fc42",
+    "title": "Improving language understanding with unsupervised learning",
+    "url": "https://openai.com/index/language-unsupervised",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve obtained state-of-the-art results on a suite of diverse language tasks with a scalable, task-agnostic system, which we’re also releasing. Our approach is a combination of two existing ideas: tra",
+    "publishedAt": "2018-06-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/language-unsupervised"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a26561219cf8d72",
+    "title": "GamePad: A learning environment for theorem proving",
+    "url": "https://openai.com/index/gamepad",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-06-02T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gamepad"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

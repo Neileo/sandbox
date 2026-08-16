@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ab8dbdfbc1279f55",
+    "title": "OpenAI Robotics Symposium 2019",
+    "url": "https://openai.com/index/symposium-2019",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We hosted the first OpenAI Robotics Symposium on April 27, 2019.",
+    "publishedAt": "2019-06-05T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/symposium-2019"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

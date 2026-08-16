@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "6642e7c57dc5865e",
+    "title": "Space secrets security update",
+    "url": "https://huggingface.co/blog/space-secrets-disclosure",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-05-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/space-secrets-disclosure"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "79aae2d11d487c9b",
+    "title": "Disrupting deceptive uses of AI by covert influence operations",
+    "url": "https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve terminated accounts linked to covert influence operations; no significant audience increase due to our services.",
+    "publishedAt": "2024-05-30T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bb84cd80ed234575",
+    "title": "Introducing OpenAI for Nonprofits",
+    "url": "https://openai.com/index/introducing-openai-for-nonprofits",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re launching a new initiative to enhance the accessibility of our tools for nonprofit organizations, including discounted rates for ChatGPT Team and Enterprise.",
+    "publishedAt": "2024-05-30T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-for-nonprofits"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "96ae8dfd417cde78",
+    "title": "OpenAI for Education",
+    "url": "https://openai.com/index/introducing-chatgpt-edu",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "An affordable offering for universities to responsibly bring AI to campus.",
+    "publishedAt": "2024-05-30T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-edu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b06189c39363159b",
+    "title": "Automating customer support agents",
+    "url": "https://openai.com/index/mavenagi",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho",
+    "publishedAt": "2024-05-29T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/mavenagi"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c96d810065820f31",
+    "title": "The Newsroom AI Catalyst: a global program with WAN-IFRA",
+    "url": "https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-05-29T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/newsroom-ai-catalyst-global-program-with-wan-ifra"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "903ad882e64a9df3",
+    "title": "Enhancing news in ChatGPT with The Atlantic",
+    "url": "https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The Atlantic is announcing a strategic content and product partnership with OpenAI, which positions The Atlantic as a premium news source within OpenAI. The Atlantic’s articles will be discoverable wi",
+    "publishedAt": "2024-05-29T07:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/enhancing-news-in-chatgpt-with-the-atlantic"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e64934c73e22900f",
+    "title": "A Content and Product Partnership with Vox Media",
+    "url": "https://openai.com/index/a-content-and-product-partnership-with-vox-media",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "In a multi-faceted agreement, Vox Media’s content will enhance the output of OpenAI’s ChatGPT, and the company will build on OpenAI’s technology to develop products to better serve its audiences and a",
+    "publishedAt": "2024-05-29T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/a-content-and-product-partnership-with-vox-media"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f44c9c018083975e",
+    "title": "Benchmarking Text Generation Inference",
+    "url": "https://huggingface.co/blog/tgi-benchmarking",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-05-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tgi-benchmarking"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6815a4f0a612ec99",
+    "title": "OpenAI Board Forms Safety and Security Committee",
+    "url": "https://openai.com/index/openai-board-forms-safety-and-security-committee",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-28T03:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-board-forms-safety-and-security-committee"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d14bcf9659099c32",
+    "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-sparse-encoder",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-05-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-sparse-encoder"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-reranker"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-sentence-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ff0676d46a4634e9",
+    "title": "Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages",
+    "url": "https://huggingface.co/blog/falcon2-11b",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-05-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/falcon2-11b"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e2524095f2dd0548",
+    "title": "CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models",
+    "url": "https://huggingface.co/blog/leaderboard-llamaguard",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-llamaguard"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9f40e902d71f7e22",
+    "title": "A landmark multi-year global partnership with News Corp",
+    "url": "https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Companies Join Forces to Enrich OpenAI’s Generative AI Products and Platforms with Premium Journalism",
+    "publishedAt": "2024-05-22T13:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "381f6cc7d7679ba9",
+    "title": "Deploy models on AWS Inferentia2 from Hugging Face",
+    "url": "https://huggingface.co/blog/inferentia-inference-endpoints",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-05-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inferentia-inference-endpoints"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "55d019e35eea52a2",
+    "title": "OpenAI safety practices",
+    "url": "https://openai.com/index/openai-safety-update",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Artificial general intelligence has the potential to benefit nearly every aspect of our lives—so it must be developed and deployed responsibly.",
+    "publishedAt": "2024-05-21T06:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-safety-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ae262f6446642e79",
+    "title": "Introducing Spaces Dev Mode for a seamless developer experience",
+    "url": "https://huggingface.co/blog/spaces-dev-mode",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/spaces-dev-mode"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2b296c0f2bce927c",
+    "title": "Build AI on premise with Dell Enterprise Hub",
+    "url": "https://huggingface.co/blog/dell-enterprise-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dell-enterprise-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "be583e4cd847da32",
+    "title": "Hugging Face on AMD Instinct MI300 GPU",
+    "url": "https://huggingface.co/blog/huggingface-amd-mi300",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface-amd-mi300"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e033dd6b5882ef8e",
+    "title": "From cloud to developers: Hugging Face and Microsoft Deepen Collaboration",
+    "url": "https://huggingface.co/blog/microsoft-collaboration",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/microsoft-collaboration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1018bc4132b96ab8",
+    "title": "How the voices for ChatGPT were chosen",
+    "url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "How the voices for ChatGPT were chosen\nWe worked with industry-leading casting and directing professionals to narrow down over 400 submissions before selecting the 5 voices.",
+    "publishedAt": "2024-05-19T23:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6e3496e455e99c1c",
+    "title": "Improvements to data analysis in ChatGPT",
+    "url": "https://openai.com/index/improvements-to-data-analysis-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "数据报告",
+    "summary": "Improvements to data analysis in ChatGPT\nInteract with tables and charts and add files directly from Google Drive and Microsoft OneDrive.",
+    "publishedAt": "2024-05-16T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/improvements-to-data-analysis-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7dc607f834c1952a",
+    "title": "OpenAI and Reddit Partnership",
+    "url": "https://openai.com/index/openai-and-reddit-partnership",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Reddit Partnership \nWe’re bringing Reddit’s unique content to ChatGPT and our products.",
+    "publishedAt": "2024-05-16T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-and-reddit-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "532619c7b215eb02",
+    "title": "Unlocking Longer Generation with Key-Value Cache Quantization",
+    "url": "https://huggingface.co/blog/kv-cache-quantization",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-05-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/kv-cache-quantization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dd9544defdb79170",
+    "title": "Creating an AI-powered Magic Studio",
+    "url": "https://openai.com/index/canva",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Canva is a visual communication platform, enjoyed by more than 175 million people monthly to make presentations, videos, documents, websites, social media graphics and more. A majority of the world’s ",
+    "publishedAt": "2024-05-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/canva"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3c5bc343da81b006",
+    "title": "Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist",
+    "url": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-14T18:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9c6616b1e5c4c14b",
+    "title": "Introducing the Open FinLLM Leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-finbench",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-finbench"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-arabic"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2373abb65d3bd09e",
+    "title": "PaliGemma – Google's Cutting-Edge Open Vision Language Model",
+    "url": "https://huggingface.co/blog/paligemma",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/paligemma"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5bf72a465546406e",
+    "title": "Hugging Face x LangChain : A new partner package",
+    "url": "https://huggingface.co/blog/langchain",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-05-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/langchain"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2d3a533e91db8cea",
+    "title": "Hello GPT-4o",
+    "url": "https://openai.com/index/hello-gpt-4o",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re announcing GPT-4 Omni, our new flagship model which can reason across audio, vision, and text in real time.",
+    "publishedAt": "2024-05-13T10:05:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hello-gpt-4o"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8431b973880dedc4",
+    "title": "Spring Update",
+    "url": "https://openai.com/index/spring-update",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Introducing GPT-4o and making more capabilities available for free in ChatGPT.",
+    "publishedAt": "2024-05-13T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/spring-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5c26f4b4fd4d2ff3",
+    "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+    "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Introducing GPT-4o and more tools to ChatGPT free users\nWe are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+    "publishedAt": "2024-05-13T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b6b80a8e3884f4c9",
+    "title": "License to Call: Introducing Transformers Agents 2.0",
+    "url": "https://huggingface.co/blog/agents",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2024-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1d4211b001a2f727",
+    "title": "Subscribe to Enterprise Hub with your AWS Account",
+    "url": "https://huggingface.co/blog/enterprise-hub-aws-marketplace",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-05-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/enterprise-hub-aws-marketplace"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7aad338149626a4b",
+    "title": "Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon",
+    "url": "https://huggingface.co/blog/cost-efficient-rag-applications-with-intel",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-05-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cost-efficient-rag-applications-with-intel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "15823ae5556ea01d",
+    "title": "Introducing the Codex app",
+    "url": "https://openai.com/index/introducing-the-codex-app",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+    "publishedAt": "2024-05-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-codex-app"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-model-spec"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7447a7f27a11805e",
+    "title": "Our approach to data and AI",
+    "url": "https://openai.com/index/approach-to-data-and-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager fo",
+    "publishedAt": "2024-05-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/approach-to-data-and-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "50e210ee028855a1",
+    "title": "Understanding the source of what we see and hear online",
+    "url": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Today we’re introducing new technology to help researchers identify content created by our tools and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote industr",
+    "publishedAt": "2024-05-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f74c6e93c8f151e2",
+    "title": "API Partnership with Stack Overflow",
+    "url": "https://openai.com/index/api-partnership-with-stack-overflow",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "API Partnership with Stack Overflow \n\nStack Overflow and OpenAI today announced a new API partnership that will empower developers with the collective strengths of the world’s leading knowledge platfo",
+    "publishedAt": "2024-05-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/api-partnership-with-stack-overflow"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f6f500a7857117f4",
+    "title": "Introducing the Open Leaderboard for Japanese LLMs!",
+    "url": "https://huggingface.co/blog/leaderboard-japanese",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-japanese"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-hebrew"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f78fb74c39339002",
+    "title": "Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face",
+    "url": "https://huggingface.co/blog/leaderboard-artificial-analysis",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-artificial-analysis"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7e69d2dfaff60534",
+    "title": "Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints",
+    "url": "https://huggingface.co/blog/asr-diarization",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-05-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/asr-diarization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a215b208b245251f",
+    "title": "IUVM: Iran-linked influence content network",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts associated with the Iran-origin operation \"IUVM\", using AI to generate and translate pro-Iran, anti-Israel and anti-US website content.",
+    "publishedAt": "2024-05-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-iuvm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "49a3e1794407ba14",
+    "title": "Operation \"Zero Zeno\": Israel-linked influence activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts linked to a previously unreprorted Israel-origin operation we dubbed “Zero Zeno,” using AI to generate anti-Hamas, anti-Qatar, pro-Israel, anti-BJP, and pro-Histadrut content.",
+    "publishedAt": "2024-05-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5efdb9215df4cb1",
+    "title": "Operation \"Doppelganger\": Russian influence activity targeting Ukraine",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts associated with the Russia-origin operation \"Doppelganger\", using AI to generate anti-Ukraine social media comments, translations, and website copy across several languages.",
+    "publishedAt": "2024-05-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-doppelganger"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ea071dd139992c33",
+    "title": "Operation \"Spamouflage\": China-linked influence activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts associated with the PRC-origin operation \"Spamouflage\", using AI to research social media activity, generate posts, and debug a previously unreported website.",
+    "publishedAt": "2024-05-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-spamouflage"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eafc4a96039ae2fa",
+    "title": "\"Bad Grammar\": Russian-linked Telegram comment activity",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-bad-grammar",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI banned accounts linked to a previously unreprorted Russia-origin operation we dubbed \"Bad Grammar\", using AI to generate English- and Russian-language Telegram comments on Ukraine, Moldova, Bal",
+    "publishedAt": "2024-05-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-bad-grammar"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

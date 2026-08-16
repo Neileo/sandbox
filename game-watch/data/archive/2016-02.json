@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1faeb6d01263ea1f",
+    "title": "Weight normalization: A simple reparameterization to accelerate training of deep neural networks",
+    "url": "https://openai.com/index/weight-normalization",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2016-02-25T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.309Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/weight-normalization"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

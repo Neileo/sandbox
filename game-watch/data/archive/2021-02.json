@@ -1,0 +1,94 @@
+[
+  {
+    "id": "2f854d90252b308f",
+    "title": "Simple considerations for simple people building fancy neural networks",
+    "url": "https://huggingface.co/blog/simple-considerations",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2021-02-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/simple-considerations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "289fd0795eb91ba0",
+    "title": "Retrieval Augmented Generation with Huggingface Transformers and Ray",
+    "url": "https://huggingface.co/blog/ray-rag",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-02-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ray-rag"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7415c9e9f99d0e1f",
+    "title": "Hugging Face on PyTorch / XLA TPUs",
+    "url": "https://huggingface.co/blog/pytorch-xla",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-02-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pytorch-xla"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4748993efd3bf170",
+    "title": "Understanding the capabilities, limitations, and societal impact of large language models",
+    "url": "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-02-04T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/understanding-the-capabilities-limitations-and-societal-impact-of-large-language-models"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

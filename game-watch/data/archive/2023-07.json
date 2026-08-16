@@ -1,0 +1,439 @@
+[
+  {
+    "id": "7dc3816f40e3b177",
+    "title": "Stable Diffusion XL on Mac with Advanced Core ML Quantization",
+    "url": "https://huggingface.co/blog/stable-diffusion-xl-coreml",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-07-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/stable-diffusion-xl-coreml"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e05c394cd849331e",
+    "title": "Frontier Model Forum",
+    "url": "https://openai.com/index/frontier-model-forum",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’re forming a new industry body to promote the safe and responsible development of frontier AI systems: advancing AI safety research, identifying best practices and standards, and facilitating infor",
+    "publishedAt": "2023-07-26T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/frontier-model-forum"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "80e7480f6e4f9842",
+    "title": "AI Policy @🤗: Open ML Considerations in the EU AI Act",
+    "url": "https://huggingface.co/blog/eu-ai-act-oss",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-07-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/eu-ai-act-oss"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ff65864b3fa4cf41",
+    "title": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
+    "url": "https://huggingface.co/blog/agents-js",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-07-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/agents-js"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "544d184728d7f71b",
+    "title": "Moving AI governance forward",
+    "url": "https://openai.com/index/moving-ai-governance-forward",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and other leading labs reinforce AI safety, security and trustworthiness through voluntary commitments.",
+    "publishedAt": "2023-07-21T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/moving-ai-governance-forward"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "347f559afc5e38a3",
+    "title": "Results of the Open Source AI Game Jam",
+    "url": "https://huggingface.co/blog/game-jam-first-edition-results",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-07-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/game-jam-first-edition-results"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4b127611578b917a",
+    "title": "Custom instructions for ChatGPT",
+    "url": "https://openai.com/index/custom-instructions-for-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "We’re rolling out custom instructions to give you more control over how ChatGPT responds. Set your preferences, and ChatGPT will keep them in mind for all future conversations.",
+    "publishedAt": "2023-07-20T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/custom-instructions-for-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fc113279f88f6d02",
+    "title": "Happy 1st anniversary 🤗 Diffusers!",
+    "url": "https://huggingface.co/blog/diffusers-turns-1",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-07-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/diffusers-turns-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "173334adab9e503a",
+    "title": "Partnership with American Journalism Project to support local news",
+    "url": "https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A new $5+ million partnership aims to explore ways the development of artificial intelligence (AI) can support a thriving, innovative local news field, and ensure local news organizations shape the fu",
+    "publishedAt": "2023-07-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0a053789e7d9a50f",
+    "title": "Llama 2 is here - get it on Hugging Face",
+    "url": "https://huggingface.co/blog/llama2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-07-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llama2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3ba430fbae2c16af",
+    "title": "Building an AI WebTV",
+    "url": "https://huggingface.co/blog/ai-webtv",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ai-webtv"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4644f83f2efb2591",
+    "title": "Open-Source Text Generation & LLM Ecosystem at Hugging Face",
+    "url": "https://huggingface.co/blog/os-llms",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-07-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/os-llms"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "74e258f1aead0f8d",
+    "title": "Fine-tuning Stable Diffusion models on Intel CPUs",
+    "url": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-07-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/stable-diffusion-finetuning-intel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fd704e1f1bd2944d",
+    "title": "Accurately analyzing large scale qualitative data",
+    "url": "https://openai.com/index/viable",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Viable uses GPT-4 to analyze qualitative data at a revolutionary scale with unparalleled accuracy.",
+    "publishedAt": "2023-07-07T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/viable"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dccab78d53919bb7",
+    "title": "Frontier AI regulation: Managing emerging risks to public safety",
+    "url": "https://openai.com/index/frontier-ai-regulation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2023-07-06T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/frontier-ai-regulation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9cc941530d8d81f",
+    "title": "Making ML-powered web games with Transformers.js",
+    "url": "https://huggingface.co/blog/ml-web-games",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-07-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-web-games"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a1bd3fd84307b2f5",
+    "title": "Deploy LLMs with Hugging Face Inference Endpoints",
+    "url": "https://huggingface.co/blog/inference-endpoints-llm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-07-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-endpoints-llm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "023e1dcc9f72d728",
+    "title": "Making a web app generator with open ML models",
+    "url": "https://huggingface.co/blog/text-to-webapp",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-07-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/text-to-webapp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c408984117c1d444",
+    "title": "Leveraging Hugging Face for complex generative AI use cases",
+    "url": "https://huggingface.co/blog/writer-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-07-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/writer-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "266aab371b5631ee",
+    "title": "Transformer-based Encoder-Decoder Models",
+    "url": "https://huggingface.co/blog/encoder-decoder",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2020-10-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/encoder-decoder"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

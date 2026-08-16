@@ -1,0 +1,71 @@
+[
+  {
+    "id": "411305e97bfb063b",
+    "title": "Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models",
+    "url": "https://huggingface.co/blog/warm-starting-encoder-decoder",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2020-11-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/warm-starting-encoder-decoder"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1819dad8fb4069e5",
+    "title": "Porting fairseq wmt19 translation system to transformers",
+    "url": "https://huggingface.co/blog/porting-fsmt",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2020-11-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/porting-fsmt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5809b4f7f268ac8e",
+    "title": "Hyperparameter Search with Transformers and Ray Tune",
+    "url": "https://huggingface.co/blog/ray-tune",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2020-11-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ray-tune"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

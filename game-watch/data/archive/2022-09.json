@@ -1,0 +1,232 @@
+[
+  {
+    "id": "27297a80fac035bb",
+    "title": "DALL·E now available without waitlist",
+    "url": "https://openai.com/index/dall-e-now-available-without-waitlist",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "New users can start creating straight away. Lessons learned from deployment and improvements to our safety systems make wider availability possible.",
+    "publishedAt": "2022-09-28T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-now-available-without-waitlist"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a06db2def961c698",
+    "title": "Image Classification with AutoTrain",
+    "url": "https://huggingface.co/blog/autotrain-image-classification",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-09-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/autotrain-image-classification"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "44795a5ded5ce572",
+    "title": "How 🤗 Accelerate runs very large models thanks to PyTorch",
+    "url": "https://huggingface.co/blog/accelerate-large-models",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-09-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/accelerate-large-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d113f01c8d539247",
+    "title": "SetFit: Efficient Few-Shot Learning Without Prompts",
+    "url": "https://huggingface.co/blog/setfit",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-09-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/setfit"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c17a4a6e546bf137",
+    "title": "Ethics and Society Newsletter #1",
+    "url": "https://huggingface.co/blog/ethics-soc-1",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-09-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ethics-soc-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2b132b9f05ef7a4e",
+    "title": "Introducing Whisper",
+    "url": "https://openai.com/index/whisper",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-09-21T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/whisper"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba7b2ff7bdc82ab1",
+    "title": "Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate",
+    "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-09-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bloom-inference-pytorch-scripts"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "475e80b0977b7253",
+    "title": "What's new in Diffusers? 🎨",
+    "url": "https://huggingface.co/blog/diffusers-2nd-month",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-09-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/diffusers-2nd-month"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ad67257c7504b3c8",
+    "title": "Train your first Decision Transformer",
+    "url": "https://huggingface.co/blog/train-decision-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-09-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-decision-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a4573729a6f1c037",
+    "title": "How to train a Language Model with Megatron-LM",
+    "url": "https://huggingface.co/blog/megatron-training",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-09-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/megatron-training"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "03e8feb802d3a264",
+    "title": "Introducing Triton: Open-source GPU programming for neural networks",
+    "url": "https://openai.com/index/triton",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing Triton 1.0, an open-source Python-like programming language which enables researchers with no CUDA experience to write highly efficient GPU code—most of the time on par with what an ex",
+    "publishedAt": "2021-07-28T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/triton"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57262dad87a5915c",
+    "title": "Deep Learning over the Internet: Training Language Models Collaboratively",
+    "url": "https://huggingface.co/blog/collaborative-training",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-07-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/collaborative-training"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bf5d1df6649d3752",
+    "title": "Welcome fastText to the Hugging Face Hub",
+    "url": "https://huggingface.co/blog/fasttext",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-07-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fasttext"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fastai"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/spacy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "be99e3a09fda27a0",
+    "title": "Deploy Hugging Face models easily with Amazon SageMaker",
+    "url": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-07-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "47d0c87b08f0e1f1",
+    "title": "Evaluating large language models trained on code",
+    "url": "https://openai.com/index/evaluating-large-language-models-trained-on-code",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2021-07-07T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/evaluating-large-language-models-trained-on-code"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

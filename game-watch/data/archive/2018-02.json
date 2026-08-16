@@ -1,0 +1,163 @@
+[
+  {
+    "id": "00023fa6b69f4742",
+    "title": "Multi-Goal Reinforcement Learning: Challenging robotics environments and request for research",
+    "url": "https://openai.com/index/multi-goal-reinforcement-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-02-26T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/multi-goal-reinforcement-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d82bfc8fbf3b10a1",
+    "title": "Ingredients for robotics research",
+    "url": "https://openai.com/index/ingredients-for-robotics-research",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing eight simulated robotics environments and a Baselines implementation of Hindsight Experience Replay, all developed for our research over the past year. We’ve used these environments to",
+    "publishedAt": "2018-02-26T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ingredients-for-robotics-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9902ee977bf2eb4e",
+    "title": "OpenAI hackathon",
+    "url": "https://openai.com/index/openai-hackathon",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Come to OpenAI’s office in San Francisco’s Mission District for talks and a hackathon on Saturday, March 3rd.",
+    "publishedAt": "2018-02-22T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-hackathon"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e2f2677a18ef84d3",
+    "title": "Preparing for malicious uses of AI",
+    "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve co-authored a paper that forecasts how malicious actors could misuse AI technology, and potential ways we can prevent and mitigate these threats. This paper is the outcome of almost a year of su",
+    "publishedAt": "2018-02-20T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/preparing-for-malicious-uses-of-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "800bb849e252d3ec",
+    "title": "OpenAI supporters",
+    "url": "https://openai.com/index/openai-supporters",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re excited to welcome new donors to OpenAI.",
+    "publishedAt": "2018-02-20T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-supporters"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "74460ec29c9bfad6",
+    "title": "Interpretable machine learning through teaching",
+    "url": "https://openai.com/index/interpretable-machine-learning-through-teaching",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve designed a method that encourages AIs to teach each other with examples that also make sense to humans. Our approach automatically selects the most informative examples to teach a concept—for in",
+    "publishedAt": "2018-02-15T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/interpretable-machine-learning-through-teaching"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7f5353232f4b451a",
+    "title": "Discovering types for entity disambiguation",
+    "url": "https://openai.com/index/discovering-types-for-entity-disambiguation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve built a system for automatically figuring out which object is meant by a word by having a neural network decide if the word belongs to each of about 100 automatically-discovered “types” (non-exc",
+    "publishedAt": "2018-02-07T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/discovering-types-for-entity-disambiguation"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

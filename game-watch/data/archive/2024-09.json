@@ -1,0 +1,1436 @@
+[
+  {
+    "id": "cd75608cd7396197",
+    "title": "Converting Vertex-Colored Meshes to Textured Meshes",
+    "url": "https://huggingface.co/blog/vertex-colored-to-textured-mesh",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-09-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vertex-colored-to-textured-mesh"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cd6abf623c25e7c7",
+    "title": "A Phoenix from the Ashes – The TouchArcade Show #603",
+    "url": "https://toucharcade.com/2024/09/28/a-phoenix-from-the-ashes-the-toucharcade-show-603/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Hello! We are still in a transitional phase of moving the podcast entirely to our Patreon, but in the meantime … \nContinue reading \"A Phoenix from the Ashes – The TouchArcade Show #603\"",
+    "publishedAt": "2024-09-28T04:51:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/28/a-phoenix-from-the-ashes-the-toucharcade-show-603/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "51451d5e60a14009",
+    "title": "Upgrading the Moderation API with our new multimodal moderation model",
+    "url": "https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re introducing a new model built on GPT-4o that is more accurate at detecting harmful text and images, enabling developers to build more robust moderation systems.",
+    "publishedAt": "2024-09-26T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/upgrading-the-moderation-api-with-our-new-multimodal-moderation-model"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0c531abf3bf62e69",
+    "title": "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps",
+    "url": "https://openai.com/index/state-of-minnesota",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gaps",
+    "publishedAt": "2024-09-26T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/state-of-minnesota"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "901595b7f999be00",
+    "title": "OpenAI and GEDI partner for Italian news content",
+    "url": "https://openai.com/index/gedi",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and GEDI announce strategic partnership to bring Italian-language news content to ChatGPT.",
+    "publishedAt": "2024-09-26T04:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gedi"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ad5c34b52c7b3d73",
+    "title": "Llama can now see and run on your device - welcome Llama 3.2",
+    "url": "https://huggingface.co/blog/llama32",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-09-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llama32"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3c94111da2f09a4c",
+    "title": "TouchArcade is Shutting Down",
+    "url": "https://toucharcade.com/2024/09/24/toucharcade-is-shutting-down/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "This is a post that I’ve known was coming for quite some time, but that doesn’t make it any easier … \nContinue reading \"TouchArcade is Shutting Down\"",
+    "publishedAt": "2024-09-24T16:34:12.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/24/toucharcade-is-shutting-down/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e7704551fa59bea8",
+    "title": "Introducing Verdi, an AI dev platform powered by GPT-4o",
+    "url": "https://openai.com/index/mercado-libre",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Mercado Libre introduces Verdi, an AI developer platform powered by GPT-4o",
+    "publishedAt": "2024-09-24T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/mercado-libre"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cec7e4bbb1f1c644",
+    "title": "Victrix Pro BFG Tekken 8 Rage Art Edition Controller Review – Customizable, Comfortable, but Lacking in Ways",
+    "url": "https://toucharcade.com/2024/09/23/victrix-pro-bfg-tekken-8-edition-review-controller-wireless-steam-deck-ps5-ps4-pro/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "For our last full controller review on TouchArcade, I’ve been using the Victrix Pro BFG Tekken 8 Rage Art Edition … \nContinue reading \"Victrix Pro BFG Tekken 8 Rage Art Edition Controller Review – Cus",
+    "publishedAt": "2024-09-23T10:13:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/23/victrix-pro-bfg-tekken-8-edition-review-controller-wireless-steam-deck-ps5-ps4-pro/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d8a85afa9f84a924",
+    "title": "FineVideo: behind the scenes",
+    "url": "https://huggingface.co/blog/fine-video",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-09-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fine-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d28cc4d9cade005b",
+    "title": "Exploring the Daily Papers Page on Hugging Face",
+    "url": "https://huggingface.co/blog/daily-papers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-09-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/daily-papers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "441938bd8c97337c",
+    "title": "Is This Goodbye? – The TouchArcade Show #602",
+    "url": "https://toucharcade.com/2024/09/20/is-this-goodbye-the-toucharcade-show-602/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "In this week’s episode of The TouchArcade Show, we talk about the site’s closure and what that will mean moving … \nContinue reading \"Is This Goodbye? – The TouchArcade Show #602\"",
+    "publishedAt": "2024-09-20T20:23:40.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/20/is-this-goodbye-the-toucharcade-show-602/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "00a60030130adf6c",
+    "title": "Optimize and deploy with Optimum-Intel and OpenVINO GenAI",
+    "url": "https://huggingface.co/blog/deploy-with-openvino",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-09-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deploy-with-openvino"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5838a1fb2a7322c0",
+    "title": "Genmab launches “AI Everywhere”",
+    "url": "https://openai.com/index/genmab",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Genmab embraces ChatGPT Enterprise, supported by OpenAI’s commitment to security and privacy",
+    "publishedAt": "2024-09-19T04:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/genmab"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f98e9ce06ea8c8a9",
+    "title": "Romancing SaGa 2: Revenge of the Seven Interview With Game Producer Shinichi Tatsuke and Steam Deck Hands-On Preview",
+    "url": "https://toucharcade.com/2024/09/18/romancing-saga-2-remake-steam-deck-impressions-shinichi-tatsuke-interview-revenge-of-the-seven/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "A lot of folks got into the SaGa series a long time ago through its many releases on prior console … \nContinue reading \"Romancing SaGa 2: Revenge of the Seven Interview With Game Producer Shinichi Tat",
+    "publishedAt": "2024-09-19T01:29:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/18/romancing-saga-2-remake-steam-deck-impressions-shinichi-tatsuke-interview-revenge-of-the-seven/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6776317d372d25b4",
+    "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
+    "url": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-09-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/1_58_llm_extreme_quantization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4531044794d146a4",
+    "title": "Using GPT-4 to improve teaching and learning in Brazil",
+    "url": "https://openai.com/index/arco-education",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Improving teaching and learning in Brazil",
+    "publishedAt": "2024-09-17T05:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/arco-education"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b78559ce6b9cdb4a",
+    "title": "Introducing the SQL Console on Datasets",
+    "url": "https://huggingface.co/blog/sql-console",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-09-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sql-console"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6852ddf2a8e2f033",
+    "title": "An update on our safety & security practices",
+    "url": "https://openai.com/index/update-on-safety-and-security-practices",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "An update on our safety & security practices",
+    "publishedAt": "2024-09-16T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/update-on-safety-and-security-practices"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4deeb8fef171e332",
+    "title": "Andrew Hulshult 2024 Interview: DOOM IDKFA, Blood Swamps, DUSK, Iron Lung, AMID EVIL, Music, Guitars, Cold Brew Coffee, and More",
+    "url": "https://toucharcade.com/2024/09/16/andrew-hulshult-interview-doom-idkfa-iron-lung-movie-guitars-coffee-soundtracks/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "When I first wrote about boomer shooters last year on Steam Deck and also on Switch, aside from New Blood … \nContinue reading \"Andrew Hulshult 2024 Interview: DOOM IDKFA, Blood Swamps, DUSK, Iron Lung",
+    "publishedAt": "2024-09-16T11:49:59.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/16/andrew-hulshult-interview-doom-idkfa-iron-lung-movie-guitars-coffee-soundtracks/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2ffd65c45244bfb6",
+    "title": "‘Dragon Quest Monsters: The Dark Prince’ iOS Review – Much Better Than Switch, but Lacking in Two Ways",
+    "url": "https://toucharcade.com/2024/09/16/dragon-quest-monsters-the-dark-prince-mobile-review-iphone-15-pro-gameplay-ipad-steam-deck-settings/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Back in December, I reviewed Square Enix’s monster collecting RPG Dragon Quest Monsters: The Dark Prince on Switch. I loved … \nContinue reading \"‘Dragon Quest Monsters: The Dark Prince’ iOS Review – M",
+    "publishedAt": "2024-09-16T04:12:40.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/16/dragon-quest-monsters-the-dark-prince-mobile-review-iphone-15-pro-gameplay-ipad-steam-deck-settings/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "967cbe590cc0f927",
+    "title": "Introducing Community Tools on HuggingChat",
+    "url": "https://huggingface.co/blog/community-tools",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-09-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/community-tools"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c0266f42d4e6b87a",
+    "title": "Accelerate 1.0.0",
+    "url": "https://huggingface.co/blog/accelerate-v1",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-09-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/accelerate-v1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a1292bcf0b9b85ef",
+    "title": "Sukeban Games 2024 Interview: Christopher Ortiz AKA kiririn51 Talks .45 PARABELLUM BLOODHOUND, Inspirations, Fan Reactions, VA-11 Hall-A, The Silver Case, and Much More",
+    "url": "https://toucharcade.com/2024/09/12/sukeban-games-interview-45-parabellum-bloodhound-va11halla-christopher-ortiz-kiririn51/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Over the years, I’ve been able to interview some of my favorite developers ever including a few I never though … \nContinue reading \"Sukeban Games 2024 Interview: Christopher Ortiz AKA kiririn51 Talks ",
+    "publishedAt": "2024-09-12T14:41:24.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/12/sukeban-games-interview-45-parabellum-bloodhound-va11halla-christopher-ortiz-kiririn51/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f0584842138a5215",
+    "title": "Introducing Operator",
+    "url": "https://openai.com/index/introducing-operator",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-09-12T10:03:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-operator"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-o1-preview"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d1359f03b307a430",
+    "title": "Learning to reason with LLMs",
+    "url": "https://openai.com/index/learning-to-reason-with-llms",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-09-12T10:02:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-to-reason-with-llms"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cd0416914af542e1",
+    "title": "OpenAI o3-mini",
+    "url": "https://openai.com/index/openai-o3-mini",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-09-12T10:01:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-o3-mini"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "94927537ade92e46",
+    "title": "OpenAI o1 Contributions",
+    "url": "https://openai.com/openai-o1-contributions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI o1 Contributions",
+    "publishedAt": "2024-09-12T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/openai-o1-contributions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c736e55a9994d1cb",
+    "title": "Decoding genetics with OpenAI o1",
+    "url": "https://openai.com/index/o1-genetics",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Geneticist Catherine Brownstein demonstrates how OpenAI o1 can speed up the process of diagnosing rare medical challenges.",
+    "publishedAt": "2024-09-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o1-genetics"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cbd8b04fab53ccc4",
+    "title": "Coding with OpenAI o1",
+    "url": "https://openai.com/index/o1-coding",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Scott Wu, CEO and Co-Founder of Cognition, explains how OpenAI o1 makes coding decisions in a more human-like way.",
+    "publishedAt": "2024-09-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o1-coding"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57db1a5b599920fd",
+    "title": "Answering quantum physics questions with OpenAI o1",
+    "url": "https://openai.com/index/o1-quantum-physics",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Quantum physicist Mario Krenn uses OpenAI o1 to help answer life's biggest questions.",
+    "publishedAt": "2024-09-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o1-quantum-physics"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "830cb52fd9876880",
+    "title": "Economics and reasoning with OpenAI o1",
+    "url": "https://openai.com/index/o1-economics",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Economist Tyler Cowen explains how OpenAI o1 tackles complex economic questions.",
+    "publishedAt": "2024-09-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o1-economics"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57632257193abed3",
+    "title": "SwitchArcade Review Round-Up: ‘Marvel vs. Capcom Fighting Collection’, ‘Yars Rising’, & ‘Rugrats: Adventures in Gameland’",
+    "url": "https://toucharcade.com/2024/09/10/marvel-vs-capcom-collection-switch-review-rugrats-yars-rising-nintendo-eshop/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Marvel vs. Capcom Fighting Collection: Arcade Classics ($49.99) As a fan of Marvel, Capcom, and fighting games back in the … \nContinue reading \"SwitchArcade Review Round-Up: ‘Marvel vs. Capcom Fightin",
+    "publishedAt": "2024-09-10T13:20:34.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/10/marvel-vs-capcom-collection-switch-review-rugrats-yars-rising-nintendo-eshop/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "14afa5a94bf0ff53",
+    "title": "Marvel vs Capcom Fighting Collection: Arcade Classics Review – Switch, Steam Deck, and PS5 Covered",
+    "url": "https://toucharcade.com/2024/09/09/marvel-vs-capcom-fighting-collection-arcade-classics-review-steam-deck-nintendo-switch-online-ps5/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "For a lot of folks who have been following Capcom’s fighting games over the years, the Marvel vs Capcom Fighting … \nContinue reading \"Marvel vs Capcom Fighting Collection: Arcade Classics Review – Swi",
+    "publishedAt": "2024-09-09T14:59:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/09/marvel-vs-capcom-fighting-collection-arcade-classics-review-steam-deck-nintendo-switch-online-ps5/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c267b87c24ef3b33",
+    "title": "Reynatis Interview: Creative Producer TAKUMI, Scenario Writer Kazushige Nojima, and Composer Yoko Shimomura discuss the game, coffee, and more",
+    "url": "https://toucharcade.com/2024/09/09/reynatis-interview-takumi-versus-13-inspiration-narrative-furyu-switch-lead-platform-ps5-steam-deck-shimomura-nojima/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Later this month on September 27th, NIS America will release FuRyu’s action RPG Reynatis for Switch, Steam, PS5, and PS4 … \nContinue reading \"Reynatis Interview: Creative Producer TAKUMI, Scenario Wri",
+    "publishedAt": "2024-09-09T09:00:20.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/09/reynatis-interview-takumi-versus-13-inspiration-narrative-furyu-switch-lead-platform-ps5-steam-deck-shimomura-nojima/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2cad0ca13d4ba6b9",
+    "title": "SwitchArcade Round-Up: Reviews Featuring ‘Fitness Boxing feat. Hatsune Miku’, Plus New Releases, Sales, and Good-Byes",
+    "url": "https://toucharcade.com/2024/09/06/fitness-boxing-featuring-hatsune-miku-switch-review-magical-delicacy-metro-quester-osaka-nintendo-eshop/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Hello gentle readers, and welcome to the SwitchArcade Round-Up for September 6th, 2024. Well, this is the last one. You’ll … \nContinue reading \"SwitchArcade Round-Up: Reviews Featuring ‘Fitness Boxing",
+    "publishedAt": "2024-09-06T20:36:10.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/06/fitness-boxing-featuring-hatsune-miku-switch-review-magical-delicacy-metro-quester-osaka-nintendo-eshop/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3987f34effcded4c",
+    "title": "Steam Deck Weekly: NBA 2K25, ARCO, ODDADA, DATE a LIVE Ren Dystopia, Star Trucker, Skull and Bones, & More Reviews With New Verified Games",
+    "url": "https://toucharcade.com/2024/09/06/nba-2k25-steam-deck-review-gameplay-settings-date-a-live-ren-dystopia-star-trucker-skull-and-bones-performance-verified/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Welcome to this week’s edition of the Steam Deck Weekly. If you missed my Warhammer 40000: Space Marine 2 Steam … \nContinue reading \"Steam Deck Weekly: NBA 2K25, ARCO, ODDADA, DATE a LIVE Ren Dystopia",
+    "publishedAt": "2024-09-06T17:29:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/06/nba-2k25-steam-deck-review-gameplay-settings-date-a-live-ren-dystopia-star-trucker-skull-and-bones-performance-verified/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a21569df1004626f",
+    "title": "‘NBA 2K25 Arcade Edition’ Headlines October 2024’s New Apple Arcade Releases With Three App Store Greats",
+    "url": "https://toucharcade.com/2024/09/06/nba-2k25-apple-arcade-release-date-download-october-2024/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Apple just announced October 2024’s new Apple Arcade games with NBA 2K25 Arcade Edition () as the headliner. Following yesterday’s … \nContinue reading \"‘NBA 2K25 Arcade Edition’ Headlines October 2024",
+    "publishedAt": "2024-09-06T07:09:20.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/06/nba-2k25-apple-arcade-release-date-download-october-2024/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0eabb2fb59d9ca5b",
+    "title": "The 10 Best PlayStation 1 Games on Nintendo Switch – SwitchArcade Special",
+    "url": "https://toucharcade.com/2024/09/05/best-playstation-games-on-switch/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Well here it is, friends. This will be the last of my retro game eShop lists, mostly because I am … \nContinue reading \"The 10 Best PlayStation 1 Games on Nintendo Switch – SwitchArcade Special\"",
+    "publishedAt": "2024-09-05T23:10:30.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/best-playstation-games-on-switch/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ebda177a5a2fdca1",
+    "title": "SwitchArcade Round-Up: Reviews Featuring ‘Emio – The Smiling Man’, Plus Today’s New Releases and Sales",
+    "url": "https://toucharcade.com/2024/09/05/tokyo-chronos-altdeus-beyond-chronos-twin-pack-switch-review-emio-smiling-man-fate-stay-night-remastered-eshop-discount/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Hello gentle readers, and welcome to the SwitchArcade Round-Up for September 5th, 2024. Thursday already, eh? Where does the time … \nContinue reading \"SwitchArcade Round-Up: Reviews Featuring ‘Emio – ",
+    "publishedAt": "2024-09-05T20:47:45.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/tokyo-chronos-altdeus-beyond-chronos-twin-pack-switch-review-emio-smiling-man-fate-stay-night-remastered-eshop-discount/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2145fdf5c9370f5b",
+    "title": "Razer Kishi Ultra Mobile Controller Review – The Best Mobile Controller in 2024?",
+    "url": "https://toucharcade.com/2024/09/05/razer-kishi-ultra-mobile-controller-review-iphone/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Back in April, the Razer Nexus (Free) app on iOS and Android was updated with support added for an unannounced … \nContinue reading \"Razer Kishi Ultra Mobile Controller Review – The Best Mobile Control",
+    "publishedAt": "2024-09-05T18:27:05.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/razer-kishi-ultra-mobile-controller-review-iphone/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ca892da36527c2cf",
+    "title": "The 10 Best Game Boy Advance & Nintendo DS Games on Nintendo Switch – SwitchArcade Special",
+    "url": "https://toucharcade.com/2024/09/05/best-game-boy-advance-games-on-switch-nintendo-ds/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "In the latest look at retro game offerings on the Nintendo Switch, I’ve opted to take a different approach. You … \nContinue reading \"The 10 Best Game Boy Advance & Nintendo DS Games on Nintendo Switch",
+    "publishedAt": "2024-09-05T17:09:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/best-game-boy-advance-games-on-switch-nintendo-ds/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c90a573243bec4b0",
+    "title": "‘Total War: Empire’ Is Coming to iOS and Android This Fall From Feral Interactive",
+    "url": "https://toucharcade.com/2024/09/05/total-war-empire-mobile-release-date-fall-2024-iphone-android-ipad/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Feral Interactive’s tease seemingly was about Total War: Empire from Creative Assembly and SEGA because the developer just announced that … \nContinue reading \"‘Total War: Empire’ Is Coming to iOS and ",
+    "publishedAt": "2024-09-05T15:34:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/total-war-empire-mobile-release-date-fall-2024-iphone-android-ipad/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "67e72b0a54b64d29",
+    "title": "‘Balatro’ Is Coming to Apple Arcade and Also iOS as a Standalone Premium Release Beginning September 26th",
+    "url": "https://toucharcade.com/2024/09/05/balatro-mobile-release-date-price-download-apple-arcade/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Balatro from developer LocalThunk and publisher Playstack is finally coming to mobile later this month on iOS, Android, and also … \nContinue reading \"‘Balatro’ Is Coming to Apple Arcade and Also iOS a",
+    "publishedAt": "2024-09-05T14:16:58.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/balatro-mobile-release-date-price-download-apple-arcade/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b594bfa9bf7ae74b",
+    "title": "Check Out The Latest Events In ‘Marvel Future Fight’ & ‘Marvel Contest of Champions’",
+    "url": "https://toucharcade.com/2024/09/05/marvel-future-fight-conquest-of-champions-september-2024-new-events-mobile/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "It has been pointed out to me that perhaps I could be fairer to other Marvel games. I’m always covering … \nContinue reading \"Check Out The Latest Events In ‘Marvel Future Fight’ & ‘Marvel Contest of C",
+    "publishedAt": "2024-09-05T09:49:39.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/marvel-future-fight-conquest-of-champions-september-2024-new-events-mobile/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f6f749e9e93e1929",
+    "title": "NFL Retro Bowl 25, Monster Train+, and Puzzle Sculpt Release Today on Apple Arcade Alongside Major Game Updates This Week",
+    "url": "https://toucharcade.com/2024/09/05/nfl-retro-bowl-25-download-apple-arcade-mobile-puzzle-sculpt-vision-pro-monster-train-dlc-free/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Beginning today, Apple will have released one new Apple Vision Pro game, one App Store Great, and upgrading an App … \nContinue reading \"NFL Retro Bowl 25, Monster Train+, and Puzzle Sculpt Release Tod",
+    "publishedAt": "2024-09-05T08:51:59.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/05/nfl-retro-bowl-25-download-apple-arcade-mobile-puzzle-sculpt-vision-pro-monster-train-dlc-free/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e82e10051a6bbbec",
+    "title": "Using GPT-4 to deliver a new customer service standard",
+    "url": "https://openai.com/index/ada",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Ada uses GPT-4 to deliver a new customer service standard",
+    "publishedAt": "2024-09-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ada"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "05c57ee25bcccccd",
+    "title": "The Best Switch Visual Novels and Adventure Games in 2024 – From Fata Morgana and VA-11 Hall-A to Famicom Detective Club and Gnosia",
+    "url": "https://toucharcade.com/2024/09/04/best-switch-visual-novels-adventure-games-2024/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "After tackling the best party games on Switch in 2024, the recent release of Emio – The Smiling Man: Famicom … \nContinue reading \"The Best Switch Visual Novels and Adventure Games in 2024 – From Fata ",
+    "publishedAt": "2024-09-04T23:38:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/04/best-switch-visual-novels-adventure-games-2024/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0940bef84c94c6a2",
+    "title": "SwitchArcade Round-Up: Reviews Featuring ‘Ace Attorney Investigations Collection’, Plus New Releases and Sales",
+    "url": "https://toucharcade.com/2024/09/04/gimmick-2-switch-review-ace-attorney-investigations-collection-eshop-nintendo/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Hello gentle readers, and welcome to the SwitchArcade Round-Up for September 4th, 2024. The long summer has more or less … \nContinue reading \"SwitchArcade Round-Up: Reviews Featuring ‘Ace Attorney Inv",
+    "publishedAt": "2024-09-04T22:22:37.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/04/gimmick-2-switch-review-ace-attorney-investigations-collection-eshop-nintendo/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6c7babb5945623d9",
+    "title": "The Best ‘Marvel Snap’ Meta Decks – September 2024 Edition",
+    "url": "https://toucharcade.com/2024/09/04/the-best-marvel-snap-meta-decks-september-2024-edition/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Let’s dive in earlier this month to make up for last month’s slightly late edition. A new month and season … \nContinue reading \"The Best ‘Marvel Snap’ Meta Decks – September 2024 Edition\"",
+    "publishedAt": "2024-09-04T20:06:02.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/04/the-best-marvel-snap-meta-decks-september-2024-edition/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eaccfe580bf6cf45",
+    "title": "‘Foxy’s Football Islands’ Offers Up Something Very Different on Mobile",
+    "url": "https://toucharcade.com/2024/09/04/foxys-football-islands-offers-up-something-very-different-on-mobile/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Mobile games don’t have to make sense, as evidenced by the enduring popularity of a franchise that sees players catapulting … \nContinue reading \"‘Foxy’s Football Islands’ Offers Up Something Very Diff",
+    "publishedAt": "2024-09-04T18:51:34.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/04/foxys-football-islands-offers-up-something-very-different-on-mobile/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fbd9f2f8020f3fee",
+    "title": "Warhammer 40,000: Space Marine 2 Steam Deck Review (in Progress) – GOTY Contender, but Play It Elsewhere for Now",
+    "url": "https://toucharcade.com/2024/09/04/warhammer-40000-space-marine-2-steam-deck-review-graphics-settings-frame-rate-multiplayer-coop-ps5-features/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "While most fans have been looking forward to Warhammer 40,000: Space Marine 2 or basically a sequel to Warhammer 40,000: … \nContinue reading \"Warhammer 40,000: Space Marine 2 Steam Deck Review (in Pro",
+    "publishedAt": "2024-09-04T15:59:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/04/warhammer-40000-space-marine-2-steam-deck-review-graphics-settings-frame-rate-multiplayer-coop-ps5-features/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "771acb1b71675ebc",
+    "title": "Swing Into ‘Marvel Snap’ With The Amazing Spider-Season",
+    "url": "https://toucharcade.com/2024/09/04/marvel-snap-amazing-spiderman-new-season-update-patch-features/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "With August in the rear-view mirror, taking the Young Avengers with it, we’re about due for another season in Marvel … \nContinue reading \"Swing Into ‘Marvel Snap’ With The Amazing Spider-Season\"",
+    "publishedAt": "2024-09-04T11:48:41.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/04/marvel-snap-amazing-spiderman-new-season-update-patch-features/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ceb8eaf675e2c65",
+    "title": "Hugging Face partners with TruffleHog to Scan for Secrets",
+    "url": "https://huggingface.co/blog/trufflesecurity-partnership",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-09-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/trufflesecurity-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3ce6b75abc8a9828",
+    "title": "‘Harvest Moon: Home Sweet Home’ iOS Review – A Great Start, but Needs More Work",
+    "url": "https://toucharcade.com/2024/09/03/harvest-moon-home-sweet-home-mobile-review-iphone-ipad-controller-cloud-save/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Harvest Moon: Home Sweet Home has been a very interesting game to follow pre-release. I say this not only because … \nContinue reading \"‘Harvest Moon: Home Sweet Home’ iOS Review – A Great Start, but N",
+    "publishedAt": "2024-09-03T18:48:18.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/03/harvest-moon-home-sweet-home-mobile-review-iphone-ipad-controller-cloud-save/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8bfdb3b07065c19a",
+    "title": "‘Gunship Battle: Total Warfare’ Launches Massive Sky Ace Update",
+    "url": "https://toucharcade.com/2024/09/03/gunship-battle-total-warfare-launches-massive-sky-ace-update/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Summer holidays might be over, but fans of Gunship Battle: Total Warfare are still in for a treat as Joycity … \nContinue reading \"‘Gunship Battle: Total Warfare’ Launches Massive Sky Ace Update\"",
+    "publishedAt": "2024-09-03T17:26:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/03/gunship-battle-total-warfare-launches-massive-sky-ace-update/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3749bd7c033b2321",
+    "title": "Netflix Geeked Week Trailer Teases More Game News for Event on September 16th",
+    "url": "https://toucharcade.com/2024/09/03/netflix-geeked-2024-tickets-new-game-trailer-announcements-tudum/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "[youtube] Netflix has just showcased its full Netflix Geeked Week 2024 trailer alongside the announcement of tickets going up for … \nContinue reading \"Netflix Geeked Week Trailer Teases More Game News",
+    "publishedAt": "2024-09-03T14:00:15.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/03/netflix-geeked-2024-tickets-new-game-trailer-announcements-tudum/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "de8dd17bda6d68ae",
+    "title": "SwitchArcade Round-Up: Reviews Featuring ‘Bakeru’ & ‘Peglin’, Plus Highlights From Nintendo’s Blockbuster Sale",
+    "url": "https://toucharcade.com/2024/09/02/peglin-switch-review-bakeru-eshop-mika-and-the-witchs-mountain-nintendo-port/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Hello gentle readers, and welcome to the SwitchArcade Round-Up for September 2nd, 2024. I think it’s a holiday today in … \nContinue reading \"SwitchArcade Round-Up: Reviews Featuring ‘Bakeru’ & ‘Peglin",
+    "publishedAt": "2024-09-03T02:54:38.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/02/peglin-switch-review-bakeru-eshop-mika-and-the-witchs-mountain-nintendo-port/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7fbc66939cb121ae",
+    "title": "The Best Nintendo Switch eShop Sales From The ‘Blockbuster Sale’",
+    "url": "https://toucharcade.com/2024/09/02/nintendo-switch-blockbuster-sale-best-deals/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "It’s that time again: eShop sale time! Nintendo’s calling this one the Blockbuster Sale, so I’m sure we can expect … \nContinue reading \"The Best Nintendo Switch eShop Sales From The ‘Blockbuster Sale’",
+    "publishedAt": "2024-09-02T20:35:02.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/02/nintendo-switch-blockbuster-sale-best-deals/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d771489a337f0171",
+    "title": "Roguelite ‘Coromon: Rogue Planet’ in Development for Release on iOS, Android, Switch, and Steam in 2025",
+    "url": "https://toucharcade.com/2024/09/02/coromon-rogue-planet-2025-release-date-roguelite-monster-collecting-game-iphone-android-pc-steam-switch/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Following developer TRAGsoft bringing monster collecting game Coromon to mobile after it debuted on PC and Switch, we are getting … \nContinue reading \"Roguelite ‘Coromon: Rogue Planet’ in Development ",
+    "publishedAt": "2024-09-02T18:51:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/02/coromon-rogue-planet-2025-release-date-roguelite-monster-collecting-game-iphone-android-pc-steam-switch/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "288090d1a8abd89b",
+    "title": "Best iPhone Game Updates: ‘Peglin’, ‘Brawl Stars’, ‘Genshin Impact’, ‘Royal Match’, and More",
+    "url": "https://toucharcade.com/2024/09/02/peglin-1-0-update-patch-notes-mobile-brawl-stars-new/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Hello everyone, and welcome to the week! It’s time once again for our look back at the noteworthy updates of … \nContinue reading \"Best iPhone Game Updates: ‘Peglin’, ‘Brawl Stars’, ‘Genshin Impact’, ‘",
+    "publishedAt": "2024-09-02T16:21:18.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/02/peglin-1-0-update-patch-notes-mobile-brawl-stars-new/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1cd37211ae32cd83",
+    "title": "‘Among Us’ Is Collaborating With ‘Ace Attorney Investigations’ for Its Newest Free Cosmetic DLC Out Next Week",
+    "url": "https://toucharcade.com/2024/09/02/among-us-ace-attorney-miles-edgeworth-dlc-free-download-release-date/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Among Us (Free) has done loads of crossovers and collaborations over the years, but one I didn’t expect at all … \nContinue reading \"‘Among Us’ Is Collaborating With ‘Ace Attorney Investigations’ for I",
+    "publishedAt": "2024-09-02T07:11:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/09/02/among-us-ace-attorney-miles-edgeworth-dlc-free-download-release-date/"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

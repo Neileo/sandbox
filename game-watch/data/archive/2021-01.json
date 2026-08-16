@@ -1,0 +1,117 @@
+[
+  {
+    "id": "5c8b58a38fbc9583",
+    "title": "Faster TensorFlow models in Hugging Face Transformers",
+    "url": "https://huggingface.co/blog/tf-serving",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-01-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tf-serving"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8ece6c9934912518",
+    "title": "Fit More and Train Faster With ZeRO via DeepSpeed and FairScale",
+    "url": "https://huggingface.co/blog/zero-deepspeed-fairscale",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2021-01-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/zero-deepspeed-fairscale"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "21d667d4b44d480b",
+    "title": "How we sped up transformer inference 100x for 🤗 API customers",
+    "url": "https://huggingface.co/blog/accelerated-inference",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2021-01-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/accelerated-inference"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc37d5969edc18cc",
+    "title": "CLIP: Connecting text and images",
+    "url": "https://openai.com/index/clip",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providin",
+    "publishedAt": "2021-01-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/clip"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f14c51ae873c7721",
+    "title": "DALL·E: Creating images from text",
+    "url": "https://openai.com/index/dall-e",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.",
+    "publishedAt": "2021-01-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

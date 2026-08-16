@@ -1,0 +1,535 @@
+[
+  {
+    "id": "b6a5fdb87e9fa85c",
+    "title": "Improving mathematical reasoning with process supervision",
+    "url": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct fina",
+    "publishedAt": "2023-05-31T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d53fd5217ef963b3",
+    "title": "Introducing the Hugging Face Embedding Container for Amazon SageMaker",
+    "url": "https://huggingface.co/blog/sagemaker-huggingface-embedding",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-05-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sagemaker-huggingface-embedding"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sagemaker-huggingface-llm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "346b6ce4dc77ce2c",
+    "title": "Introducing BERTopic Integration with the Hugging Face Hub",
+    "url": "https://huggingface.co/blog/bertopic",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bertopic"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "64a5438057357330",
+    "title": "Democratic inputs to AI",
+    "url": "https://openai.com/index/democratic-inputs-to-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our nonprofit organization, OpenAI, Inc., is launching a program to award ten $100,000 grants to fund experiments in setting up a democratic process for deciding what rules AI systems should follow, w",
+    "publishedAt": "2023-05-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/democratic-inputs-to-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "987845efc51f04c5",
+    "title": "Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum",
+    "url": "https://huggingface.co/blog/train-optimize-sd-intel",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-optimize-sd-intel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8a07450ee9ed9a25",
+    "title": "Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA",
+    "url": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/4bit-transformers-bitsandbytes"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ac867460f31ca33f",
+    "title": "Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure",
+    "url": "https://huggingface.co/blog/hugging-face-endpoints-on-azure",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-05-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hugging-face-endpoints-on-azure"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "961976609d36ac4b",
+    "title": "Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders",
+    "url": "https://huggingface.co/blog/huggingface-and-ibm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-05-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface-and-ibm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "519423a9d0fd1311",
+    "title": "🐶Safetensors audited as really safe and becoming the default",
+    "url": "https://huggingface.co/blog/safetensors-security-audit",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-05-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/safetensors-security-audit"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "479c2003be461a46",
+    "title": "Instruction-tuning Stable Diffusion with InstructPix2Pix",
+    "url": "https://huggingface.co/blog/instruction-tuning-sd",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/instruction-tuning-sd"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "238dd9d30994fdc6",
+    "title": "Governance of superintelligence",
+    "url": "https://openai.com/index/governance-of-superintelligence",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Now is a good time to start thinking about the governance of superintelligence—future AI systems dramatically more capable than even AGI.",
+    "publishedAt": "2023-05-22T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/governance-of-superintelligence"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e0eeaa812fbd9982",
+    "title": "Introducing the ChatGPT app for iOS",
+    "url": "https://openai.com/index/introducing-the-chatgpt-app-for-ios",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "The ChatGPT app syncs your conversations, supports voice input, and brings our latest model improvements to your fingertips.",
+    "publishedAt": "2023-05-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-the-chatgpt-app-for-ios"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "26cfff6190f97396",
+    "title": "Large-scale Near-deduplication Behind BigCode",
+    "url": "https://huggingface.co/blog/dedup",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-05-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dedup"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "acdcf879056f7812",
+    "title": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
+    "url": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-05-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8785c8b3cffc81a0",
+    "title": "Hugging Face Selected for the French Data Protection Agency Enhanced Support Program",
+    "url": "https://huggingface.co/blog/cnil",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cnil"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "23ba8d075f3004d2",
+    "title": "Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
+    "url": "https://huggingface.co/blog/chatbot-amd-gpu",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/chatbot-amd-gpu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "378b004b50e0c800",
+    "title": "Introducing RWKV - An RNN with the advantages of a transformer",
+    "url": "https://huggingface.co/blog/rwkv",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/rwkv"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "63ac06ce8c2862a6",
+    "title": "Assisted Generation: a new direction toward low-latency text generation",
+    "url": "https://huggingface.co/blog/assisted-generation",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/assisted-generation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "784c8fdf9a876705",
+    "title": "Language models can explain neurons in language models",
+    "url": "https://openai.com/index/language-models-can-explain-neurons-in-language-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We use GPT-4 to automatically write explanations for the behavior of neurons in large language models and to score those explanations. We release a dataset of these (imperfect) explanations and scores",
+    "publishedAt": "2023-05-09T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/language-models-can-explain-neurons-in-language-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cdfe9377a97f3a82",
+    "title": "Creating a Coding Assistant with StarCoder",
+    "url": "https://huggingface.co/blog/starchat-alpha",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-05-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/starchat-alpha"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "706977cf6ddf621f",
+    "title": "A Dive into Text-to-Video Models",
+    "url": "https://huggingface.co/blog/text-to-video",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/text-to-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "727cfee509569d59",
+    "title": "StarCoder: A State-of-the-Art LLM for Code",
+    "url": "https://huggingface.co/blog/starcoder",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/starcoder"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "98eaf57e8c68e6f2",
+    "title": "How to Install and Use the Hugging Face Unity API",
+    "url": "https://huggingface.co/blog/unity-api",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-05-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/unity-api"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

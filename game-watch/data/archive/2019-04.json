@@ -1,0 +1,71 @@
+[
+  {
+    "id": "e603f49506154d37",
+    "title": "MuseNet",
+    "url": "https://openai.com/index/musenet",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve created MuseNet, a deep neural network that can generate 4-minute musical compositions with 10 different instruments, and can combine styles from country to Mozart to the Beatles. MuseNet was no",
+    "publishedAt": "2019-04-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/musenet"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "288dc1f2b7856868",
+    "title": "Generative modeling with sparse transformers",
+    "url": "https://openai.com/index/sparse-transformer",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve developed the Sparse Transformer, a deep neural network which sets new records at predicting what comes next in a sequence—whether text, images, or sound. It uses an algorithmic improvement of t",
+    "publishedAt": "2019-04-23T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sparse-transformer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ee157763b4c2695e",
+    "title": "OpenAI Five defeats Dota 2 world champions",
+    "url": "https://openai.com/index/openai-five-defeats-dota-2-world-champions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI Five is the first AI to beat the world champions in an esports game, having won two back-to-back games versus the world champion Dota 2 team, OG, at Finals this weekend. Both OpenAI Five and De",
+    "publishedAt": "2019-04-15T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-five-defeats-dota-2-world-champions"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

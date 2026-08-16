@@ -1,0 +1,71 @@
+[
+  {
+    "id": "ae4ea777b5e483db",
+    "title": "Sentence Transformers in the Hugging Face Hub",
+    "url": "https://huggingface.co/blog/sentence-transformers-in-the-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-06-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sentence-transformers-in-the-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "49090b5da7f82949",
+    "title": "Improving language model behavior by training on a curated dataset",
+    "url": "https://openai.com/index/improving-language-model-behavior",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our latest research finds we can improve language model behavior with respect to specific behavioral values by fine-tuning on a small, curated dataset.",
+    "publishedAt": "2021-06-10T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/improving-language-model-behavior"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9dfd3cb35306a03d",
+    "title": "Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API",
+    "url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-06-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

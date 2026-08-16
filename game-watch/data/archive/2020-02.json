@@ -1,0 +1,25 @@
+[
+  {
+    "id": "5eb39a97cd91885d",
+    "title": "How to train a new language model from scratch using Transformers and Tokenizers",
+    "url": "https://huggingface.co/blog/how-to-train",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2020-02-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/how-to-train"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

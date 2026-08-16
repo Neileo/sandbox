@@ -1,0 +1,163 @@
+[
+  {
+    "id": "f7cb79f596a78113",
+    "title": "Understanding BigBird's Block Sparse Attention",
+    "url": "https://huggingface.co/blog/big-bird",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-03-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/big-bird"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b148f67806152803",
+    "title": "GPT-3 powers the next generation of apps",
+    "url": "https://openai.com/index/gpt-3-apps",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Over 300 applications are delivering GPT-3–powered search, conversation, text completion, and other advanced AI features through our API.",
+    "publishedAt": "2021-03-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-3-apps"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2d247043498472e1",
+    "title": "The Partnership: Amazon SageMaker and Hugging Face",
+    "url": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-03-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cff2618aab6c3b84",
+    "title": "My Journey to a serverless transformers pipeline on Google Cloud",
+    "url": "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2021-03-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2b454fe5d283148b",
+    "title": "Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers",
+    "url": "https://huggingface.co/blog/fine-tune-wav2vec2-english",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2021-03-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fine-tune-wav2vec2-english"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a131afc3765214c8",
+    "title": "Hugging Face Reads, Feb. 2021 - Long-range Transformers",
+    "url": "https://huggingface.co/blog/long-range-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2021-03-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/long-range-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "93d6498f623347f6",
+    "title": "Multimodal neurons in artificial neural networks",
+    "url": "https://openai.com/index/multimodal-neurons",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "We’ve discovered neurons in CLIP that respond to the same concept whether presented literally, symbolically, or conceptually. This may explain CLIP’s accuracy in classifying surprising visual renditio",
+    "publishedAt": "2021-03-04T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/multimodal-neurons"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

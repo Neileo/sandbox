@@ -1,0 +1,25 @@
+[
+  {
+    "id": "9b5b194180922719",
+    "title": "Introducing OpenAI",
+    "url": "https://openai.com/index/introducing-openai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI is a non-profit artificial intelligence research company. Our goal is to advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to g",
+    "publishedAt": "2015-12-11T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.309Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "afb3f994b65f5b7d",
+    "title": "Learning dexterity",
+    "url": "https://openai.com/index/learning-dexterity",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve trained a human-like robot hand to manipulate physical objects with unprecedented dexterity.",
+    "publishedAt": "2018-07-30T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-dexterity"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "edebd9bf64b1999f",
+    "title": "Variational option discovery algorithms",
+    "url": "https://openai.com/index/variational-option-discovery-algorithms",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2018-07-26T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/variational-option-discovery-algorithms"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e9714360702c5dfa",
+    "title": "OpenAI Scholars 2019: Meet our Scholars",
+    "url": "https://openai.com/index/openai-scholars-2019-meet-our-scholars",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our class of eight scholars (out of 550 applicants) brings together collective expertise in literature, philosophy, cell biology, statistics, economics, quantum physics, and business innovation.",
+    "publishedAt": "2018-07-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-scholars-2019-meet-our-scholars"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-scholars-2018-meet-our-scholars"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c2f416b49d9849ba",
+    "title": "OpenAI Five Benchmark",
+    "url": "https://openai.com/index/openai-five-benchmark",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The OpenAI Five Benchmark match is now over!",
+    "publishedAt": "2018-07-18T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-five-benchmark"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "745cade4a69feb19",
+    "title": "Glow: Better reversible generative models",
+    "url": "https://openai.com/index/glow",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "We introduce Glow, a reversible generative model which uses invertible 1x1 convolutions. It extends previous work on reversible generative models and simplifies the architecture. Our model can generat",
+    "publishedAt": "2018-07-09T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/glow"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f2da50172fdbd808",
+    "title": "Learning Montezuma’s Revenge from a single demonstration",
+    "url": "https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve trained an agent to achieve a high score of 74,500 on Montezuma’s Revenge from a single human demonstration, better than any previously published result. Our algorithm is simple: the agent plays",
+    "publishedAt": "2018-07-04T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

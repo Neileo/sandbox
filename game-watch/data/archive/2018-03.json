@@ -1,0 +1,163 @@
+[
+  {
+    "id": "f8c36640d772ebc3",
+    "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
+    "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2018-03-20T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "57da868082bd0465",
+    "title": "Improving GANs using optimal transport",
+    "url": "https://openai.com/index/improving-gans-using-optimal-transport",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2018-03-15T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/improving-gans-using-optimal-transport"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "592f876b4312db92",
+    "title": "Report from the OpenAI hackathon",
+    "url": "https://openai.com/index/hackathon-follow-up",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "On March 3rd, we hosted our first hackathon with 100 members of the artificial intelligence community.",
+    "publishedAt": "2018-03-15T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hackathon-follow-up"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d505c1fa06f78e8b",
+    "title": "On first-order meta-learning algorithms",
+    "url": "https://openai.com/index/on-first-order-meta-learning-algorithms",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-03-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/on-first-order-meta-learning-algorithms"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "056a847a80e17ec3",
+    "title": "Reptile: A scalable meta-learning algorithm",
+    "url": "https://openai.com/index/reptile",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve developed a simple meta-learning algorithm called Reptile which works by repeatedly sampling a task, performing stochastic gradient descent on it, and updating the initial parameters towards the",
+    "publishedAt": "2018-03-07T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/reptile"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7a7e2f716beb0c8c",
+    "title": "OpenAI Scholars",
+    "url": "https://openai.com/index/openai-scholars",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re providing 6–10 stipends and mentorship to individuals from underrepresented groups to study deep learning full-time for 3 months and open-source a project.",
+    "publishedAt": "2018-03-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-scholars"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d0e669004c4ccfaa",
+    "title": "Some considerations on learning to explore via meta-reinforcement learning",
+    "url": "https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2018-03-03T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

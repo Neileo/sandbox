@@ -1,0 +1,25 @@
+[
+  {
+    "id": "91e0b6316f3c8e67",
+    "title": "Special projects",
+    "url": "https://openai.com/index/special-projects",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Impactful scientific work requires working on the right problems—problems which are not just interesting, but whose solutions matter.",
+    "publishedAt": "2016-07-28T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/special-projects"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

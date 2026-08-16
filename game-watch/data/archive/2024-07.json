@@ -1,0 +1,577 @@
+[
+  {
+    "id": "28ad9e7aa86bac9b",
+    "title": "Google releases Gemma 2 2B, ShieldGemma and Gemma Scope",
+    "url": "https://huggingface.co/blog/gemma-july-update",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-07-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gemma-july-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "be1f92b8a27b3e99",
+    "title": "Memory-efficient Diffusion Transformers with Quanto and Diffusers",
+    "url": "https://huggingface.co/blog/quanto-diffusers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/quanto-diffusers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "203905956ed08d33",
+    "title": "Serverless Inference with Hugging Face and NVIDIA NIM",
+    "url": "https://huggingface.co/blog/inference-dgx-cloud",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-dgx-cloud"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6c01b78cd50369cf",
+    "title": "LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?",
+    "url": "https://huggingface.co/blog/zero-shot-vqa-docmatix",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-07-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/zero-shot-vqa-docmatix"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6cafd8cf566841b6",
+    "title": "SearchGPT is a prototype of new AI search features",
+    "url": "https://openai.com/index/searchgpt-prototype",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re testing SearchGPT, a temporary prototype of new search features that give you fast and timely answers with clear and relevant sources.",
+    "publishedAt": "2024-07-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/searchgpt-prototype"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dcb04574301fb527",
+    "title": "Improving Model Safety Behavior with Rule-Based Rewards",
+    "url": "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve developed and applied a new method leveraging Rule-Based Rewards (RBRs) that aligns models to behave safely without extensive human data collection.",
+    "publishedAt": "2024-07-24T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2dedd45374d6042",
+    "title": "Llama 3.1 - 405B, 70B & 8B with multilinguality and long context",
+    "url": "https://huggingface.co/blog/llama31",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/llama31"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6927692422ab4666",
+    "title": "WWDC 24: Running Mistral 7B with Core ML",
+    "url": "https://huggingface.co/blog/mistral-coreml",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mistral-coreml"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "031c86eaad2b7667",
+    "title": "GPT-4o mini: advancing cost-efficient intelligence",
+    "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-18T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6ff7edbf32ec718a",
+    "title": "Docmatix - a huge dataset for Document Visual Question Answering",
+    "url": "https://huggingface.co/blog/docmatix",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/docmatix"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9d775c9965d14c93",
+    "title": "TGI Multi-LoRA: Deploy Once, Serve 30 Models",
+    "url": "https://huggingface.co/blog/multi-lora-serving",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/multi-lora-serving"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ca31d97018ea2c02",
+    "title": "New compliance and administrative tools for ChatGPT Enterprise",
+    "url": "https://openai.com/index/new-tools-for-chatgpt-enterprise",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Compliance API integrations, SCIM, and GPT controls to support compliance programs, data security, and user access at scale",
+    "publishedAt": "2024-07-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-tools-for-chatgpt-enterprise"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7d4217e43b6950f4",
+    "title": "Prover-Verifier Games improve legibility of language model outputs",
+    "url": "https://openai.com/index/prover-verifier-games-improve-legibility",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Discover how prover-verifier games improve the legibility of language model outputs, making AI solutions clearer, easier to verify, and more trustworthy for both humans and machines.",
+    "publishedAt": "2024-07-17T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/prover-verifier-games-improve-legibility"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "97f9b39a574a054d",
+    "title": "SmolLM - blazingly fast and remarkably powerful",
+    "url": "https://huggingface.co/blog/smollm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/smollm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3b961c2da6553ff0",
+    "title": "How we leveraged distilabel to create an Argilla 2.0 Chatbot",
+    "url": "https://huggingface.co/blog/argilla-chatbot",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-07-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/argilla-chatbot"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "245f2369638eed06",
+    "title": "How NuminaMath Won the 1st AIMO Progress Prize",
+    "url": "https://huggingface.co/blog/winning-aimo-progress-prize",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-07-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/winning-aimo-progress-prize"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4fb73cf59fb26060",
+    "title": "OpenAI and Los Alamos National Laboratory announce research partnership",
+    "url": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Los Alamos National Laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models.",
+    "publishedAt": "2024-07-10T06:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "840e28a9853523a9",
+    "title": "Announcing New Hugging Face and KerasHub integration",
+    "url": "https://huggingface.co/blog/keras-hub-integration",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/keras-hub-integration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b5a1d4bef761a6d5",
+    "title": "Experimenting with Automatic PII Detection on the Hub using Presidio",
+    "url": "https://huggingface.co/blog/presidio-pii-detection",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-07-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/presidio-pii-detection"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "325801e3975905c0",
+    "title": "Preference Optimization for Vision Language Models",
+    "url": "https://huggingface.co/blog/dpo_vlm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dpo_vlm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d74139d35a2b00f2",
+    "title": "Google Cloud TPUs made available to Hugging Face users",
+    "url": "https://huggingface.co/blog/tpu-inference-endpoints-spaces",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-07-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tpu-inference-endpoints-spaces"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6c6a813f74b01fe5",
+    "title": "Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution",
+    "url": "https://huggingface.co/blog/sovereign-data-solution-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2024-07-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sovereign-data-solution-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a87ebfa7418d5589",
+    "title": "Announcing New Dataset Search Features",
+    "url": "https://huggingface.co/blog/datasets-filters",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-07-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/datasets-filters"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "874479c18fb32930",
+    "title": "Accelerating Protein Language Model ProtST on Intel Gaudi 2",
+    "url": "https://huggingface.co/blog/intel-protein-language-model-protst",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-07-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-protein-language-model-protst"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8cee0566d7e7dfff",
+    "title": "Our Transformers Code Agent beats the GAIA benchmark 🏅",
+    "url": "https://huggingface.co/blog/beating-gaia",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-07-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/beating-gaia"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

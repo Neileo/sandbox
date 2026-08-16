@@ -1,0 +1,393 @@
+[
+  {
+    "id": "298e5cc3eb0ae765",
+    "title": "DALL·E: Introducing outpainting",
+    "url": "https://openai.com/index/dall-e-introducing-outpainting",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Extend creativity and tell a bigger story with DALL·E images of any size.",
+    "publishedAt": "2022-08-31T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-introducing-outpainting"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7f45c36e61300d8e",
+    "title": "OpenRAIL: Towards open and responsible AI licensing frameworks",
+    "url": "https://huggingface.co/blog/open_rail",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-08-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/open_rail"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d7f602cae828f90d",
+    "title": "Our approach to alignment research",
+    "url": "https://openai.com/index/our-approach-to-alignment-research",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We are improving our AI systems’ ability to learn from human feedback and to assist humans at evaluating AI. Our goal is to build a sufficiently aligned AI system that can help us solve all other alig",
+    "publishedAt": "2022-08-24T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/our-approach-to-alignment-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f40e4377408f685f",
+    "title": "Visualize proteins on Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/spaces_3dmoljs",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-08-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/spaces_3dmoljs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a526a7ddde0eb6d",
+    "title": "Stable Diffusion with 🧨 Diffusers",
+    "url": "https://huggingface.co/blog/stable_diffusion",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-08-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/stable_diffusion"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b731d1b533139991",
+    "title": "Pre-Train BERT with Hugging Face Transformers and Habana Gaudi",
+    "url": "https://huggingface.co/blog/pretraining-bert",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2022-08-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/pretraining-bert"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1112d3795afb8ae4",
+    "title": "Deploying 🤗 ViT on Vertex AI",
+    "url": "https://huggingface.co/blog/deploy-vertex-ai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-08-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deploy-vertex-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba128b991c3be121",
+    "title": "Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore",
+    "url": "https://huggingface.co/blog/vision-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-08-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vision-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aec9a806dce077ea",
+    "title": "A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes",
+    "url": "https://huggingface.co/blog/hf-bitsandbytes-integration",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-08-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hf-bitsandbytes-integration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "58ccc6cbc573b488",
+    "title": "Introducing Skops",
+    "url": "https://huggingface.co/blog/skops",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-08-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/skops"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f111126efd1afb7d",
+    "title": "Hugging Face's TensorFlow Philosophy",
+    "url": "https://huggingface.co/blog/tensorflow-philosophy",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-08-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tensorflow-philosophy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0013580f1f3bb65f",
+    "title": "Deploying 🤗 ViT on Kubernetes with TF Serving",
+    "url": "https://huggingface.co/blog/deploy-tfserving-kubernetes",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-08-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deploy-tfserving-kubernetes"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4f916dd940512f5b",
+    "title": "New and improved content moderation tooling",
+    "url": "https://openai.com/index/new-and-improved-content-moderation-tooling",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are introducing a new and improved content moderation tool. The Moderation endpoint improves upon our previous content filter, and is available for free today to OpenAI API developers.",
+    "publishedAt": "2022-08-10T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-and-improved-content-moderation-tooling"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "756eb7cd4120276b",
+    "title": "Train and Fine-Tune Sentence Transformers Models",
+    "url": "https://huggingface.co/blog/how-to-train-sentence-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-08-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/how-to-train-sentence-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "138db7e19f5afab3",
+    "title": "Introducing the Private Hub: A New Way to Build With Machine Learning",
+    "url": "https://huggingface.co/blog/introducing-private-hub",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-08-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/introducing-private-hub"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6ea834e7f392c301",
+    "title": "Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method",
+    "url": "https://huggingface.co/blog/nystromformer",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-08-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nystromformer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "abbcd07b1924b100",
+    "title": "Comments on U.S. National AI Research Resource Interim Report",
+    "url": "https://huggingface.co/blog/us-national-ai-research-resource",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-08-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/us-national-ai-research-resource"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

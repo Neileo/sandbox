@@ -1,0 +1,121 @@
+[
+  {
+    "id": "586f20cf7e17f9d7",
+    "title": "Reinforcement learning with prediction-based rewards",
+    "url": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exc",
+    "publishedAt": "2018-10-31T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "650ead310c3dba6f",
+    "title": "Learning complex goals with iterated amplification",
+    "url": "https://openai.com/index/learning-complex-goals-with-iterated-amplification",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re proposing an AI safety technique called iterated amplification that lets us specify complicated behaviors and goals that are beyond human scale, by demonstrating how to decompose a task into sim",
+    "publishedAt": "2018-10-22T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/learning-complex-goals-with-iterated-amplification"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0dc505378e653ae3",
+    "title": "OpenAI Scholars 2020: Applications open",
+    "url": "https://openai.com/index/openai-scholars-2020",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are now accepting applications for our third class of OpenAI Scholars.",
+    "publishedAt": "2018-10-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-scholars-2020"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-scholars-2019"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aca35ff33b4d027f",
+    "title": "OpenAI Fellows Winter 2019 & Interns Summer 2019",
+    "url": "https://openai.com/index/openai-fellows-interns-2019",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are now accepting applications for OpenAI Fellows and Interns for 2019.",
+    "publishedAt": "2018-10-09T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-fellows-interns-2019"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bf0161f536fddcf2",
+    "title": "FFJORD: Free-form continuous dynamics for scalable reversible generative models",
+    "url": "https://openai.com/index/ffjord",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2018-10-02T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ffjord"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

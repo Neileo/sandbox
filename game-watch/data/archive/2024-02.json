@@ -1,0 +1,489 @@
+[
+  {
+    "id": "6820249a1175fb04",
+    "title": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
+    "url": "https://huggingface.co/blog/textgen-pipe-gaudi",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/textgen-pipe-gaudi"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8c83abebf409cc23",
+    "title": "StarCoder2 and The Stack v2",
+    "url": "https://huggingface.co/blog/starcoder2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-02-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/starcoder2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b8228e600d9a7652",
+    "title": "TTS Arena: Benchmarking Text-to-Speech Models in the Wild",
+    "url": "https://huggingface.co/blog/arena-tts",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/arena-tts"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0f0b3ae3c19ab0ba",
+    "title": "AI Watermarking 101: Tools and Techniques",
+    "url": "https://huggingface.co/blog/watermarking",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-02-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/watermarking"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b108a8141cdf9fd",
+    "title": "Fine-Tuning Gemma Models in Hugging Face",
+    "url": "https://huggingface.co/blog/gemma-peft",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-02-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gemma-peft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2fa78cac156a7af8",
+    "title": "Introducing the Red-Teaming Resistance Leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-haizelab",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-02-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-haizelab"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9fdee160281489f3",
+    "title": "🪆 Introduction to Matryoshka Embedding Models",
+    "url": "https://huggingface.co/blog/matryoshka",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-02-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/matryoshka"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "25326d6830073e1e",
+    "title": "Welcome Gemma 2 - Google’s new open LLM",
+    "url": "https://huggingface.co/blog/gemma2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gemma2"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gemma"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "84c2f0c556f57693",
+    "title": "Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
+    "url": "https://huggingface.co/blog/leaderboard-upstage",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-upstage"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2fc8a6609240704a",
+    "title": "🤗 PEFT welcomes new merging methods",
+    "url": "https://huggingface.co/blog/peft_merging",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/peft_merging"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "240433a20c6d48b0",
+    "title": "Synthetic data: save money, time and carbon with open source",
+    "url": "https://huggingface.co/blog/synthetic-data-save-costs",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/synthetic-data-save-costs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0fe3432110402a0f",
+    "title": "Video generation models as world simulators",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We explore large-scale training of generative models on video data. Specifically, we train text-conditional diffusion models jointly on videos and images of variable durations, resolutions and aspect ",
+    "publishedAt": "2024-02-15T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/video-generation-models-as-world-simulators"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b3d8a86c92be8a58",
+    "title": "Disrupting malicious uses of AI by state-affiliated threat actors",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-02-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "79cbf2ada732b0bd",
+    "title": "AMD Pervasive AI Developer Contest!",
+    "url": "https://huggingface.co/blog/amd_pervasive_developer_ai_contest",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/amd_pervasive_developer_ai_contest"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "71e515eab71d5abb",
+    "title": "Memory and new controls for ChatGPT",
+    "url": "https://openai.com/index/memory-and-new-controls-for-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "We’re testing the ability for ChatGPT to remember things you discuss to make future chats more helpful. You’re in control of ChatGPT’s memory.",
+    "publishedAt": "2024-02-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/memory-and-new-controls-for-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e8b3281015d745fb",
+    "title": "From OpenAI to Open LLMs with Messages API on Hugging Face",
+    "url": "https://huggingface.co/blog/tgi-messages-api",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tgi-messages-api"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c92f74a7143b745a",
+    "title": "SegMoE: Segmind Mixture of Diffusion Experts",
+    "url": "https://huggingface.co/blog/segmoe",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/segmoe"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "589a3a11654e4e76",
+    "title": "NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates",
+    "url": "https://huggingface.co/blog/leaderboard-nphardeval",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-02-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-nphardeval"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e4ff3f028d5e39bd",
+    "title": "Constitutional AI with Open LLMs",
+    "url": "https://huggingface.co/blog/constitutional_ai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-02-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/constitutional_ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ad2cbec059a5002",
+    "title": "Hugging Face Text Generation Inference available for AWS Inferentia2",
+    "url": "https://huggingface.co/blog/text-generation-inference-on-inferentia2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-02-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/text-generation-inference-on-inferentia2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "22a29dbdfac48415",
+    "title": "Patch Time Series Transformer in Hugging Face",
+    "url": "https://huggingface.co/blog/patchtst",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-02-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/patchtst"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

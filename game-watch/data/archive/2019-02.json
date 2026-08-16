@@ -1,0 +1,94 @@
+[
+  {
+    "id": "5ddf2cf5bc6ba7a0",
+    "title": "Spinning Up in Deep RL: Workshop review",
+    "url": "https://openai.com/index/spinning-up-in-deep-rl-workshop-review",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "On February 2, we held our first Spinning Up Workshop as part of our new education initiative at OpenAI.",
+    "publishedAt": "2019-02-26T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/spinning-up-in-deep-rl-workshop-review"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "badf447fbf1d9ecc",
+    "title": "AI safety needs social scientists",
+    "url": "https://openai.com/index/ai-safety-needs-social-scientists",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve written a paper arguing that long-term AI safety research needs social scientists to ensure AI alignment algorithms succeed when actual humans are involved. Properly aligning advanced AI systems",
+    "publishedAt": "2019-02-19T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ai-safety-needs-social-scientists"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1b5948ab02410cc1",
+    "title": "Better language models and their implications",
+    "url": "https://openai.com/index/better-language-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentar",
+    "publishedAt": "2019-02-14T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/better-language-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8eb7839a3c9c02a2",
+    "title": "Computational limitations in robust classification and win-win results",
+    "url": "https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2019-02-04T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/computational-limitations-in-robust-classification-and-win-win-results"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

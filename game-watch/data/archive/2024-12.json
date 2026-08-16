@@ -1,0 +1,727 @@
+[
+  {
+    "id": "c1c6e8d4b5f3d596",
+    "title": "Introducing smolagents: simple agents that write actions in code.",
+    "url": "https://huggingface.co/blog/smolagents",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-12-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/smolagents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9dffeb84f87f327",
+    "title": "Why OpenAI’s structure must evolve to advance our mission",
+    "url": "https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A stronger non-profit supported by the for-profit’s success.",
+    "publishedAt": "2024-12-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/why-our-structure-must-evolve-to-advance-our-mission"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f76ceca492662342",
+    "title": "Visualize and understand GPU memory in PyTorch",
+    "url": "https://huggingface.co/blog/train_memory",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-12-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train_memory"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9799affd7ff991dc",
+    "title": "Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo",
+    "url": "https://huggingface.co/blog/logits-processor-zoo",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-12-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/logits-processor-zoo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9cf289b414fdf955",
+    "title": "Deliberative alignment: reasoning enables safer language models",
+    "url": "https://openai.com/index/deliberative-alignment",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Deliberative alignment: reasoning enables safer language models\nIntroducing our new alignment strategy for o1 models, which are directly taught safety specifications and how to reason over them.",
+    "publishedAt": "2024-12-20T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/deliberative-alignment"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e21f4822a73d36a0",
+    "title": "Evaluating Audio Reasoning with Big Bench Audio",
+    "url": "https://huggingface.co/blog/big-bench-audio-release",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2024-12-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/big-bench-audio-release"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3f4122372dbb6bd9",
+    "title": "Finally, a Replacement for BERT: Introducing ModernBERT",
+    "url": "https://huggingface.co/blog/modernbert",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-12-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/modernbert"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cd5531d8c73f13c0",
+    "title": "Bamba: Inference-Efficient Hybrid Mamba2 Model",
+    "url": "https://huggingface.co/blog/bamba",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-12-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bamba"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e3690f2fc3766269",
+    "title": "Welcome to the Falcon 3 Family of Open Models!",
+    "url": "https://huggingface.co/blog/falcon3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/falcon3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "642450704987585c",
+    "title": "Benchmarking Language Model Performance on 5th Gen Xeon at GCP",
+    "url": "https://huggingface.co/blog/intel-gcp-c4",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/intel-gcp-c4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3df36fe0bf52bd72",
+    "title": "OpenAI o1 and new tools for developers",
+    "url": "https://openai.com/index/o1-and-new-tools-for-developers",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers.",
+    "publishedAt": "2024-12-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o1-and-new-tools-for-developers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5476d84eaa6478db",
+    "title": "Introducing the Synthetic Data Generator - Build Datasets with Natural Language",
+    "url": "https://huggingface.co/blog/synthetic-data-generator",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-12-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/synthetic-data-generator"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "73c3ee4054300bac",
+    "title": "Elon Musk wanted an OpenAI for-profit",
+    "url": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Elon Musk’s latest legal filing against OpenAI marks his fourth attempt in less than a year to reframe his claims. However, his own words and actions speak for themselves—in 2017, Elon not only wanted",
+    "publishedAt": "2024-12-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/elon-musk-wanted-an-openai-for-profit"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "78e20434d1d582fc",
+    "title": "LeMaterial: an open source initiative to accelerate materials discovery and research",
+    "url": "https://huggingface.co/blog/lematerial",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lematerial"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "661a3476d3d51bb4",
+    "title": "Sora 2 is here",
+    "url": "https://openai.com/index/sora-2",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora ",
+    "publishedAt": "2024-12-09T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-2"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-is-here"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bcb0a69795da3c4a",
+    "title": "Hugging Face models in Amazon Bedrock",
+    "url": "https://huggingface.co/blog/bedrock-marketplace",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bedrock-marketplace"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "177a2e08410f908b",
+    "title": "Open Preference Dataset for Text-to-Image Generation by the 🤗 Community",
+    "url": "https://huggingface.co/blog/image-preferences",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/image-preferences"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8530f5b0e216eb6d",
+    "title": "Sora 2 System Card",
+    "url": "https://openai.com/index/sora-2-system-card",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achie",
+    "publishedAt": "2024-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-2-system-card"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-system-card"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9e084b796460d963",
+    "title": "Minne Atairu & Sora",
+    "url": "https://openai.com/index/sora-minne-atairu",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.",
+    "publishedAt": "2024-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-minne-atairu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "426ad2e6bdd49ead",
+    "title": "Animator Lyndon Barrois creates new worlds with Sora",
+    "url": "https://openai.com/index/sora-lyndon-barrois",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.",
+    "publishedAt": "2024-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-lyndon-barrois"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "79493e20388ed3e2",
+    "title": "Vallée Duhamel & Sora",
+    "url": "https://openai.com/index/sora-vallee-duhamel",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds.",
+    "publishedAt": "2024-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sora-vallee-duhamel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cfab01b050969876",
+    "title": "Put AI to work for your product team",
+    "url": "https://openai.com/index/put-ai-to-work-for-your-product-team",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Put AI to work for your product team",
+    "publishedAt": "2024-12-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/put-ai-to-work-for-your-product-team"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0feae7804de54d02",
+    "title": "Polar Express is SCARY – The TouchArcade Show #609",
+    "url": "https://toucharcade.com/2024/12/06/polar-express-is-scary-the-toucharcade-show-609/",
+    "source": {
+      "name": "TouchArcade",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "In this week’s TouchArcade Show we’re all over the map, as usual. We kick things off with my experience going … \nContinue reading \"Polar Express is SCARY – The TouchArcade Show #609\"",
+    "publishedAt": "2024-12-06T23:16:34.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:10.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TouchArcade",
+        "url": "https://toucharcade.com/2024/12/06/polar-express-is-scary-the-toucharcade-show-609/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "24bc39ed487b3111",
+    "title": "Operator System Card",
+    "url": "https://openai.com/index/operator-system-card",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Drawing from OpenAI’s established safety frameworks, this document highlights our multi-layered approach, including model and product mitigations we’ve implemented to protect against prompt engineerin",
+    "publishedAt": "2024-12-05T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/operator-system-card"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-o1-system-card"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2724563bfad32eac",
+    "title": "Welcome PaliGemma 2 – New vision language models by Google",
+    "url": "https://huggingface.co/blog/paligemma2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2024-12-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/paligemma2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "33db217584c01b58",
+    "title": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
+    "url": "https://huggingface.co/blog/keras-chatbot-arena",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/keras-chatbot-arena"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "19c132eedd74fc4d",
+    "title": "OpenAI and Future partner on specialist content",
+    "url": "https://openai.com/index/openai-and-future-partner-on-specialist-content",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and Future, the global platform for specialist media, have today announced a strategic partnership to bring content from Future’s 200 plus media brands to OpenAI’s users.",
+    "publishedAt": "2024-12-04T23:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-and-future-partner-on-specialist-content"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "93cea8cd9f9d5352",
+    "title": "Morgan Stanley is shaping the future of financial services",
+    "url": "https://openai.com/index/morgan-stanley",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Morgan Stanley uses AI evals to shape the future of financial services",
+    "publishedAt": "2024-12-04T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.306Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/morgan-stanley"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fbee70cdb94d7196",
+    "title": "Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard",
+    "url": "https://huggingface.co/blog/leaderboard-3c3h-aragen",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/leaderboard-3c3h-aragen"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fe90c8be37f89005",
+    "title": "Investing in Performance: Fine-tune small models with LLM insights  - a CFM case study",
+    "url": "https://huggingface.co/blog/cfm-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/cfm-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "89a641f0f02d9285",
+    "title": "Open Source Developers Guide to the EU AI Act",
+    "url": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2024-12-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/eu-ai-act-for-oss-developers"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

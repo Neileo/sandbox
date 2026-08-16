@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ca33b3c99a73857a",
+    "title": "How to generate text: using different decoding methods for language generation with Transformers",
+    "url": "https://huggingface.co/blog/how-to-generate",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2020-03-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/how-to-generate"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

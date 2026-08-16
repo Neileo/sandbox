@@ -1,0 +1,117 @@
+[
+  {
+    "id": "8ccdd7167bb2fcbf",
+    "title": "OpenAI Five Finals",
+    "url": "https://openai.com/index/openai-five-finals",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ll be holding our final live event for OpenAI Five at 11:30am PT on April 13.",
+    "publishedAt": "2019-03-26T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-five-finals"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a193572aa133c67f",
+    "title": "Implicit generation and generalization methods for energy-based models",
+    "url": "https://openai.com/index/energy-based-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve made progress towards stable and scalable training of energy-based models (EBMs) resulting in better sample quality and generalization ability than existing models. Generation in EBMs spends mor",
+    "publishedAt": "2019-03-21T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/energy-based-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "88a14177a3cd22d1",
+    "title": "OpenAI LP",
+    "url": "https://openai.com/index/openai-lp",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve created OpenAI LP, a new “capped-profit” company that allows us to rapidly increase our investments in compute and talent while including checks and balances to actualize our mission.",
+    "publishedAt": "2019-03-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-lp"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e4ccd46451d8f5cc",
+    "title": "Introducing Activation Atlases",
+    "url": "https://openai.com/index/introducing-activation-atlases",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve created activation atlases (in collaboration with Google researchers), a new technique for visualizing what interactions between neurons can represent. As AI systems are deployed in increasingly",
+    "publishedAt": "2019-03-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-activation-atlases"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5543eae6f5992123",
+    "title": "Neural MMO: A massively multiagent game environment",
+    "url": "https://openai.com/index/neural-mmo",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re releasing a Neural MMO, a massively multiagent game environment for reinforcement learning agents. Our platform supports a large, variable number of agents within a persistent and open-ended tas",
+    "publishedAt": "2019-03-04T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/neural-mmo"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

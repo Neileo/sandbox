@@ -1,0 +1,232 @@
+[
+  {
+    "id": "d2a689f5a2492545",
+    "title": "Sam Altman returns as CEO, OpenAI has a new initial board",
+    "url": "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Mira Murati as CTO, Greg Brockman returns as President. Read messages from CEO Sam Altman and board chair Bret Taylor.",
+    "publishedAt": "2023-11-29T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cf7e8bb80aecb393",
+    "title": "OpenAI announces leadership transition",
+    "url": "https://openai.com/index/openai-announces-leadership-transition",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-11-17T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-announces-leadership-transition"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a20bb63f4b1e2e3c",
+    "title": "OpenAI Data Partnerships",
+    "url": "https://openai.com/index/data-partnerships",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Working together to create open-source and private datasets for AI training.",
+    "publishedAt": "2023-11-09T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/data-partnerships"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9a2acf118ed49552",
+    "title": "SDXL in 4 steps with Latent Consistency LoRAs",
+    "url": "https://huggingface.co/blog/lcm_lora",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-11-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lcm_lora"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cf00253e33d98444",
+    "title": "Make your llama generation time fly with AWS Inferentia2",
+    "url": "https://huggingface.co/blog/inferentia-llama2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-11-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inferentia-llama2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8f0886506c97259e",
+    "title": "Introducing Prodigy-HF: a direct integration with Hugging Face",
+    "url": "https://huggingface.co/blog/prodigy-hf",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-11-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/prodigy-hf"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8af4254227933662",
+    "title": "Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
+    "url": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-11-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4de1cea0a8965778",
+    "title": "Introducing GPTs",
+    "url": "https://openai.com/index/introducing-gpts",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.",
+    "publishedAt": "2023-11-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpts"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e17d0bf107811c3d",
+    "title": "New models and developer products announced at DevDay",
+    "url": "https://openai.com/index/new-models-and-developer-products-announced-at-devday",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "GPT-4 Turbo with 128K context and lower prices, the new Assistants API, GPT-4 Turbo with Vision, DALL·E 3 API, and more.",
+    "publishedAt": "2023-11-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-models-and-developer-products-announced-at-devday"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aff524cdbec92a4e",
+    "title": "Introducing Storage Regions on the HF Hub",
+    "url": "https://huggingface.co/blog/regions",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-11-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/regions"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

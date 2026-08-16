@@ -1,0 +1,48 @@
+[
+  {
+    "id": "aa725438d590ef1e",
+    "title": "Attacking machine learning with adversarial examples",
+    "url": "https://openai.com/index/attacking-machine-learning-with-adversarial-examples",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Adversarial examples are inputs to machine learning models that an attacker has intentionally designed to cause the model to make a mistake; they’re like optical illusions for machines. In this post w",
+    "publishedAt": "2017-02-24T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/attacking-machine-learning-with-adversarial-examples"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b61e34ff0c8beefa",
+    "title": "Adversarial attacks on neural network policies",
+    "url": "https://openai.com/index/adversarial-attacks-on-neural-network-policies",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2017-02-08T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.308Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/adversarial-attacks-on-neural-network-policies"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

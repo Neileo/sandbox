@@ -1,0 +1,278 @@
+[
+  {
+    "id": "9e386ddb8698a3d6",
+    "title": "Introducing Decision Transformers on Hugging Face 🤗",
+    "url": "https://huggingface.co/blog/decision-transformers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-03-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/decision-transformers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8c934ea8e6c71e3e",
+    "title": "Machine Learning Experts - Margaret Mitchell",
+    "url": "https://huggingface.co/blog/meg-mitchell-interview",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2022-03-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/meg-mitchell-interview"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8e44342e36dd5e21",
+    "title": "Announcing the 🤗 AI Research Residency Program",
+    "url": "https://huggingface.co/blog/ai-residency",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-03-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ai-residency"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "21bb6bc72623016f",
+    "title": "Fine-Tune a Semantic Segmentation Model with a Custom Dataset",
+    "url": "https://huggingface.co/blog/fine-tune-segformer",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-03-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fine-tune-segformer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ad9af1a0bad3282",
+    "title": "Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia",
+    "url": "https://huggingface.co/blog/bert-inferentia-sagemaker",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2022-03-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bert-inferentia-sagemaker"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7004da0df2a5ddd5",
+    "title": "Image search with 🤗 datasets",
+    "url": "https://huggingface.co/blog/image-search-datasets",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-03-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/image-search-datasets"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7a828343fe90eb89",
+    "title": "New GPT-3 capabilities: Edit & insert",
+    "url": "https://openai.com/index/gpt-3-edit-insert",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We’ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text.",
+    "publishedAt": "2022-03-15T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/gpt-3-edit-insert"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "43139a0d6e1bd348",
+    "title": "Guiding Text Generation with Constrained Beam Search in 🤗 Transformers",
+    "url": "https://huggingface.co/blog/constrained-beam-search",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-03-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/constrained-beam-search"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "212f765399d5460a",
+    "title": "A research agenda for assessing the economic impacts of code generation models",
+    "url": "https://openai.com/index/economic-impacts-research",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2022-03-03T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/economic-impacts-research"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "40010aa33c6bb361",
+    "title": "Lessons learned on language model safety and misuse",
+    "url": "https://openai.com/index/language-model-safety-and-misuse",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We describe our latest thinking in the hope of helping other AI developers address safety and misuse of deployed models.",
+    "publishedAt": "2022-03-03T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/language-model-safety-and-misuse"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6571f3ac43806808",
+    "title": "Economic impacts research at OpenAI",
+    "url": "https://openai.com/index/economic-impacts",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Call for expressions of interest to study the economic impacts of large language models.",
+    "publishedAt": "2022-03-03T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/economic-impacts"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f3dbb67d35044d3e",
+    "title": "BERT 101 - State Of The Art NLP Model Explained",
+    "url": "https://huggingface.co/blog/bert-101",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2022-03-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bert-101"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

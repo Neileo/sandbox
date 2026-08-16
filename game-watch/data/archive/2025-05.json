@@ -1,0 +1,815 @@
+[
+  {
+    "id": "15311c4f8d51652c",
+    "title": "Creating websites in minutes with AI Website Builder",
+    "url": "https://openai.com/index/wix",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Wix’s AI Website Builder, powered by OpenAI, lets anyone create a full website in minutes—just by describing their idea in a conversation.",
+    "publishedAt": "2025-05-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/wix"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8993ec02d222c6c6",
+    "title": "CodeAgents + Structure: A Better Way to Execute Actions",
+    "url": "https://huggingface.co/blog/structured-codeagent",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-05-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/structured-codeagent"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1f104f2776eebc8b",
+    "title": "🐯 Liger GRPO meets TRL",
+    "url": "https://huggingface.co/blog/liger-grpo",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/liger-grpo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "676f7456a969420b",
+    "title": "Dell Enterprise Hub is all you need to build AI on premises",
+    "url": "https://huggingface.co/blog/dell-ai-applications",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-05-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/dell-ai-applications"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7899d5486fc21e63",
+    "title": "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code",
+    "url": "https://huggingface.co/blog/python-tiny-agents",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/python-tiny-agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "89bffd91b9aebd89",
+    "title": "Addendum to OpenAI o3 and o4-mini system card: OpenAI o3 Operator",
+    "url": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are replacing the existing GPT-4o-based model for Operator with a version based on OpenAI o3. The API version will remain based on 4o.",
+    "publishedAt": "2025-05-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "262e214eac3fe959",
+    "title": "OpenAI Deutschland",
+    "url": "https://openai.com/index/openai-deutschland",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-05-22T23:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-deutschland"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "175f05b6e283a13c",
+    "title": "Shipping code faster with o3, o4-mini, and GPT-4.1",
+    "url": "https://openai.com/index/coderabbit",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "CodeRabbit uses OpenAI models to revolutionize code reviews—boosting accuracy, accelerating PR merges, and helping developers ship faster with fewer bugs and higher ROI.",
+    "publishedAt": "2025-05-22T10:25:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/coderabbit"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "72a8c49bfa9b83f2",
+    "title": "Introducing Stargate UK",
+    "url": "https://openai.com/index/introducing-stargate-uk",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-stargate-uk"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-stargate-uae"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "204b6e144823e80d",
+    "title": "New tools and features in the Responses API",
+    "url": "https://openai.com/index/new-tools-and-features-in-the-responses-api",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-05-21T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/new-tools-and-features-in-the-responses-api"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "45be358c0c10b9ca",
+    "title": "Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-h1",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-05-21T06:52:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-h1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f4eda0a27e36e583",
+    "title": "Falcon-Arabic: A Breakthrough in Arabic Language Models",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-arabic",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-05-21T06:35:36.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-arabic"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eb0eb9a2a07d9a9d",
+    "title": "Exploring Quantization Backends in Diffusers",
+    "url": "https://huggingface.co/blog/diffusers-quantization",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/diffusers-quantization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "104674defba3e436",
+    "title": "nanoVLM: The simplest repository to train your VLM in pure PyTorch",
+    "url": "https://huggingface.co/blog/nanovlm",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2025-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/nanovlm"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "53215f4a8b0b3b7b",
+    "title": "Microsoft and Hugging Face expand collaboration",
+    "url": "https://huggingface.co/blog/azure-ai-foundry",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/azure-ai-foundry"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "183d58a311d515e3",
+    "title": "Addendum to o3 and o4-mini system card: Codex",
+    "url": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks",
+    "publishedAt": "2025-05-16T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "abb942f337e217d5",
+    "title": "Introducing Codex",
+    "url": "https://openai.com/index/introducing-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-16T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-codex"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "47901120c9822a3b",
+    "title": "Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-edge",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-15T13:13:45.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-edge"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4883b52ab6a03099",
+    "title": "The Transformers Library: standardizing model definitions",
+    "url": "https://huggingface.co/blog/transformers-model-definition",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/transformers-model-definition"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ff19993f03e86fca",
+    "title": "AI powers Expedia’s marketing evolution",
+    "url": "https://openai.com/index/expedia-jochen-koedijk",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group.",
+    "publishedAt": "2025-05-14T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/expedia-jochen-koedijk"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6e8b66be06159703",
+    "title": "Improving Hugging Face Model Access for Kaggle Users",
+    "url": "https://huggingface.co/blog/kaggle-integration",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/kaggle-integration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7dbd38337ddfc08f",
+    "title": "Blazingly fast whisper transcriptions with Inference Endpoints",
+    "url": "https://huggingface.co/blog/fast-whisper-endpoints",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2025-05-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fast-whisper-endpoints"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eba97d45c48b70ff",
+    "title": "Introducing HealthBench",
+    "url": "https://openai.com/index/healthbench",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "HealthBench is a new evaluation benchmark for AI in healthcare which evaluates models in realistic scenarios. Built with input from 250+ physicians, it aims to provide a shared standard for model perf",
+    "publishedAt": "2025-05-12T10:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/healthbench"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83de0e51351da7f7",
+    "title": "Vision Language Models (Better, faster, stronger)",
+    "url": "https://huggingface.co/blog/vlms-2025",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vlms-2025"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "174361070acdf905",
+    "title": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
+    "url": "https://huggingface.co/blog/lerobot-datasets",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2025-05-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.024Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/lerobot-datasets"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7e6a1a3777bdb474",
+    "title": "OpenAI Expands Leadership with Fidji Simo",
+    "url": "https://openai.com/index/leadership-expansion-with-fidji-simo",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Read the message Sam shared with the company earlier today.",
+    "publishedAt": "2025-05-07T21:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/leadership-expansion-with-fidji-simo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8b68f8a49bcea05a",
+    "title": "OpenAI’s response to the Department of Energy on AI infrastructure",
+    "url": "https://openai.com/global-affairs/response-to-department-of-energy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Why infrastructure is destiny and how the US can seize it.",
+    "publishedAt": "2025-05-07T18:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/response-to-department-of-energy"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6e8e33679c1148e0",
+    "title": "The San Antonio Spurs use ChatGPT to scale impact on and off the court",
+    "url": "https://openai.com/index/san-antonio-spurs",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how the San Antonio Spurs are using custom GPTs to enhance fan engagement, streamline operations, and drive innovation across teams.",
+    "publishedAt": "2025-05-07T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/san-antonio-spurs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3971cab2d7d4566f",
+    "title": "Lowe’s puts project expertise into every hand",
+    "url": "https://openai.com/index/lowes",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Lowe’s partnered with OpenAI to build Mylow and Mylow Companion, AI-powered tools that bring expert help to both customers and store associates—making complex home improvement projects easier to plan,",
+    "publishedAt": "2025-05-07T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/lowes"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1ae41af387a9ae94",
+    "title": "Introducing OpenAI Frontier",
+    "url": "https://openai.com/index/introducing-openai-frontier",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+    "publishedAt": "2025-05-07T03:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-frontier"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/openai-for-countries"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2d154aa9635bed74",
+    "title": "Introducing AI stories: daily benefits shine a light on bigger opportunities",
+    "url": "https://openai.com/global-affairs/ai-stories-daily-benefits-bigger-opportunities",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Sam Altman has written that we are entering the Intelligence Age, a time when AI will help people become dramatically more capable. The biggest problems of today—across science, medicine, education, n",
+    "publishedAt": "2025-05-06T10:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/ai-stories-daily-benefits-bigger-opportunities"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "89f66b312043d7ab",
+    "title": "AI helps John Deere transform agriculture",
+    "url": "https://openai.com/index/john-deere-justin-rose",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "John Deere’s Justin Rose talks about transforming agriculture with AI and shares how the company is scaling innovation to help farmers work smarter, more efficiently, and sustainably.",
+    "publishedAt": "2025-05-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/john-deere-justin-rose"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aaba7ebe3daaeb1e",
+    "title": "Evolving OpenAI’s structure",
+    "url": "https://openai.com/index/evolving-our-structure",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "An update from the OpenAI board on transitioning its for-profit entity to a Public Benefit Corporation, reinforcing its mission-driven structure under nonprofit oversight while enabling greater impact",
+    "publishedAt": "2025-05-05T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/evolving-our-structure"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5bd15a16d3d28604",
+    "title": "Lowe’s leverages AI to power home improvement retail",
+    "url": "https://openai.com/index/lowes-chandhu-nair",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "A conversation with Chandhu Nair, Senior Vice President of Data, AI, and Innovation.",
+    "publishedAt": "2025-05-05T05:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/lowes-chandhu-nair"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "34b2cf85390c860c",
+    "title": "Expanding on what we missed with sycophancy",
+    "url": "https://openai.com/index/expanding-on-sycophancy",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A deeper dive on our findings, what went wrong, and future changes we’re making.",
+    "publishedAt": "2025-05-02T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.305Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/expanding-on-sycophancy"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

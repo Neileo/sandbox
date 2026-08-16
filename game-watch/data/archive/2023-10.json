@@ -1,0 +1,393 @@
+[
+  {
+    "id": "3c854090d0438c37",
+    "title": "Personal Copilot: Train Your Own Coding Assistant",
+    "url": "https://huggingface.co/blog/personal-copilot",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-10-27T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/personal-copilot"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a1c8df89a3c96801",
+    "title": "Frontier risk and preparedness",
+    "url": "https://openai.com/index/frontier-risk-and-preparedness",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "To support the safety of highly-capable AI systems, we are developing our approach to catastrophic risk preparedness, including building a Preparedness team and launching a challenge.",
+    "publishedAt": "2023-10-26T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/frontier-risk-and-preparedness"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a5bc125dd8f73f3",
+    "title": "Frontier Model Forum updates",
+    "url": "https://openai.com/index/frontier-model-forum-updates",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Together with Anthropic, Google, and Microsoft, we’re announcing the new Executive Director of the Frontier Model Forum and a new $10 million AI Safety Fund.",
+    "publishedAt": "2023-10-25T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/frontier-model-forum-updates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5340bfadcc19de3f",
+    "title": "Interactively explore your Huggingface dataset with one line of code",
+    "url": "https://huggingface.co/blog/scalable-data-inspection",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-10-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/scalable-data-inspection"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4db3e2da3621986e",
+    "title": "Deploy Embedding Models with Hugging Face Inference Endpoints",
+    "url": "https://huggingface.co/blog/inference-endpoints-embeddings",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-10-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/inference-endpoints-embeddings"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d25eb07d6142c7bc",
+    "title": "The N Implementation Details of RLHF with PPO",
+    "url": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-10-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7817a29c4db7765f",
+    "title": "Exploring simple optimizations for SDXL",
+    "url": "https://huggingface.co/blog/simple_sdxl_optimizations",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-10-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/simple_sdxl_optimizations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9bc8e7751f802c1e",
+    "title": "DALL·E 3 is now available in ChatGPT Plus and Enterprise",
+    "url": "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research.",
+    "publishedAt": "2023-10-19T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "45352f7023e262d2",
+    "title": "Gradio-Lite: Serverless Gradio Running Entirely in Your Browser",
+    "url": "https://huggingface.co/blog/gradio-lite",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-10-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/gradio-lite"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1d2a72cb515abd32",
+    "title": "Simplifying contract reviews with AI",
+    "url": "https://openai.com/index/ironclad",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Ironclad uses GPT-4 to simplify the contract review process.",
+    "publishedAt": "2023-10-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/ironclad"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9a5dabd12844662",
+    "title": "Building AI-powered apps for business",
+    "url": "https://openai.com/index/retool",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Retool uses GPT-4 to give businesses a fast, secure way to build AI-powered apps.",
+    "publishedAt": "2023-10-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/retool"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a6639f028c65791e",
+    "title": "Evolving online forms into dynamic data",
+    "url": "https://openai.com/index/typeform",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Typeform evolves online forms into dynamic and conversational data collection experiences with GPT-3.5 and GPT-4.",
+    "publishedAt": "2023-10-11T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/typeform"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c9c950aa428d8beb",
+    "title": "Accelerating over 130,000 Hugging Face models with ONNX Runtime",
+    "url": "https://huggingface.co/blog/ort-accelerating-hf-models",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-10-04T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ort-accelerating-hf-models"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba80e5e27a11daf7",
+    "title": "DALL·E 3 system card",
+    "url": "https://openai.com/index/dall-e-3-system-card",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-10-03T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/dall-e-3-system-card"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "13ca732d6e8bd05d",
+    "title": "🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e",
+    "url": "https://huggingface.co/blog/sdxl_jax",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-10-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/sdxl_jax"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c5a7d4c0db58a546",
+    "title": "Chat Templates: An End to the Silent Performance Killer",
+    "url": "https://huggingface.co/blog/chat-templates",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-10-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/chat-templates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "70ccbd7e85c1da9c",
+    "title": "Deploying the AI Comic Factory using the Inference API",
+    "url": "https://huggingface.co/blog/ai-comic-factory",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-10-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ai-comic-factory"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

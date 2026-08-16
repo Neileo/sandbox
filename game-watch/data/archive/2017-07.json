@@ -1,0 +1,121 @@
+[
+  {
+    "id": "96322b294d065cf6",
+    "title": "Better exploration with parameter noise",
+    "url": "https://openai.com/index/better-exploration-with-parameter-noise",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases pe",
+    "publishedAt": "2017-07-27T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/better-exploration-with-parameter-noise"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cae00233fbe77d83",
+    "title": "Proximal Policy Optimization (PPO)",
+    "url": "https://huggingface.co/blog/deep-rl-ppo",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2017-07-20T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.026Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/deep-rl-ppo"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-baselines-ppo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ea53cd481f01fe2",
+    "title": "Robust adversarial inputs",
+    "url": "https://openai.com/index/robust-adversarial-inputs",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’ve created images that reliably fool neural network classifiers when viewed from varied scales and perspectives. This challenges a claim from last week that self-driving cars would be hard to trick",
+    "publishedAt": "2017-07-17T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/robust-adversarial-inputs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c1af6b88bb0c5265",
+    "title": "Hindsight Experience Replay",
+    "url": "https://openai.com/index/hindsight-experience-replay",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2017-07-05T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/hindsight-experience-replay"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "27094283cc508a20",
+    "title": "Teacher–student curriculum learning",
+    "url": "https://openai.com/index/teacher-student-curriculum-learning",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2017-07-01T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/teacher-student-curriculum-learning"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

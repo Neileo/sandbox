@@ -1,0 +1,344 @@
+[
+  {
+    "id": "cab0c2e06ee89ee8",
+    "title": "Planning for AGI and beyond",
+    "url": "https://openai.com/index/planning-for-agi-and-beyond",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—benefits all of humanity.",
+    "publishedAt": "2023-02-24T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/planning-for-agi-and-beyond"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a3279e7f33232413",
+    "title": "Red-Teaming Large Language Models",
+    "url": "https://huggingface.co/blog/red-teaming",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2023-02-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/red-teaming"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cc0c0e89ac2a3f33",
+    "title": "Swift 🧨Diffusers - Fast Stable Diffusion for Mac",
+    "url": "https://huggingface.co/blog/fast-mac-diffusers",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-02-24T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fast-mac-diffusers"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "db6b9b6fd7e9beef",
+    "title": "Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS",
+    "url": "https://huggingface.co/blog/fetch-eap-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-02-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fetch-eap-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ca05d1fa053cbae2",
+    "title": "Hugging Face and AWS partner to make AI more accessible",
+    "url": "https://huggingface.co/blog/aws-partnership",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-02-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/aws-partnership"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b34c98233be7b51e",
+    "title": "How should AI systems behave, and who should decide?",
+    "url": "https://openai.com/index/how-should-ai-systems-behave",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We’re clarifying how ChatGPT’s behavior is shaped and our plans for improving that behavior, allowing more user customization, and getting more public input into our decision-making in these areas.",
+    "publishedAt": "2023-02-16T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/how-should-ai-systems-behave"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b81c825e296cca7c",
+    "title": "Zero-shot image-to-text generation with BLIP-2",
+    "url": "https://huggingface.co/blog/blip-2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-02-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/blip-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "08e8d5a236e9f6b4",
+    "title": "Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too",
+    "url": "https://huggingface.co/blog/mantis-case-study",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-02-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mantis-case-study"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3a80d3040866e8c7",
+    "title": "Parameter-Efficient Fine-Tuning using 🤗 PEFT",
+    "url": "https://huggingface.co/blog/peft",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-02-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/peft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ed4b846b72044884",
+    "title": "Speech Synthesis, Recognition, and More With SpeechT5",
+    "url": "https://huggingface.co/blog/speecht5",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-02-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/speecht5"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "323f39d925ec148b",
+    "title": "Generating Stories: AI for Game Development #5",
+    "url": "https://huggingface.co/blog/ml-for-games-5",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-02-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ml-for-games-5"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "835e30debcf4d6ac",
+    "title": "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system",
+    "url": "https://huggingface.co/blog/aivsai",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-02-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/aivsai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c86cea068fe833f7",
+    "title": "A Dive into Vision-Language Models",
+    "url": "https://huggingface.co/blog/vision_language_pretraining",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-02-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/vision_language_pretraining"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "15e34c2e2d89d828",
+    "title": "Introducing ChatGPT Health",
+    "url": "https://openai.com/index/introducing-chatgpt-health",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
+    "publishedAt": "2023-02-01T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.304Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-health"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-pulse"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-agent"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-search"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-chatgpt-team"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/chatgpt-plus"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "id": "4ceca03d184bca53",
+    "title": "Insights from global conversations",
+    "url": "https://openai.com/index/insights-from-global-conversations",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "We are sharing what we learned from our conversations across 22 countries, and how we will be incorporating those insights moving forward.",
+    "publishedAt": "2023-06-29T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/insights-from-global-conversations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b5aa0a531c6034c",
+    "title": "Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2",
+    "url": "https://huggingface.co/blog/bridgetower",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2023-06-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/bridgetower"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6bdd822045901391",
+    "title": "Introducing OpenAI London",
+    "url": "https://openai.com/index/introducing-openai-london",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "We are excited to announce OpenAI’s first international expansion with a new office in London, United Kingdom.",
+    "publishedAt": "2023-06-28T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-london"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "48f5fd8fa68200ad",
+    "title": "Ethics and Society Newsletter #4: Bias in Text-to-Image Models",
+    "url": "https://huggingface.co/blog/ethics-soc-4",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ethics-soc-4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "864c0a18ef8a5ccd",
+    "title": "What's going on with the Open LLM Leaderboard?",
+    "url": "https://huggingface.co/blog/open-llm-leaderboard-mmlu",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-06-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/open-llm-leaderboard-mmlu"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "281bce2e0d939bd9",
+    "title": "Panel on Hugging Face",
+    "url": "https://huggingface.co/blog/panel-on-hugging-face",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/panel-on-hugging-face"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fa809963c3dedd0d",
+    "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
+    "url": "https://huggingface.co/blog/policy-ntia-rfc",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2023-06-20T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/policy-ntia-rfc"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ce4d95460aebb5d4",
+    "title": "Fine-Tune MMS Adapter Models for low-resource ASR",
+    "url": "https://huggingface.co/blog/mms_adapters",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-19T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/mms_adapters"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cf1d75d6c89a176e",
+    "title": "Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)",
+    "url": "https://huggingface.co/blog/autoformer",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/autoformer"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a91f343cd7b247cc",
+    "title": "Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac",
+    "url": "https://huggingface.co/blog/fast-diffusers-coreml",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/fast-diffusers-coreml"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8c2e702e88b54a7b",
+    "title": "Deploy Livebook notebooks as apps to Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/livebook-app-deployment",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/livebook-app-deployment"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b7e929991c0330d",
+    "title": "Announcing our new Content Guidelines and Policy",
+    "url": "https://huggingface.co/blog/content-guidelines-update",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "",
+    "publishedAt": "2023-06-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/content-guidelines-update"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6b76b870b4ae29af",
+    "title": "Function calling and other API updates",
+    "url": "https://openai.com/index/function-calling-and-other-api-updates",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "We’re announcing updates including more steerable API models, function calling capabilities, longer context, and lower prices.",
+    "publishedAt": "2023-06-13T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/function-calling-and-other-api-updates"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4460d5acca70daa5",
+    "title": "Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms",
+    "url": "https://huggingface.co/blog/huggingface-and-amd",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2023-06-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/huggingface-and-amd"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "80b4f1e312f731de",
+    "title": "Can foundation models label data like humans?",
+    "url": "https://huggingface.co/blog/open-llm-leaderboard-rlhf",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/open-llm-leaderboard-rlhf"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2bf3a62c3de2ae91",
+    "title": "The Hugging Face Hub for Galleries, Libraries, Archives and Museums",
+    "url": "https://huggingface.co/blog/hf-hub-glam-guide",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hf-hub-glam-guide"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2703843031163bc0",
+    "title": "DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub",
+    "url": "https://huggingface.co/blog/hub-duckdb",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/hub-duckdb"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7bf856909a6e81cf",
+    "title": "The Falcon has landed in the Hugging Face ecosystem",
+    "url": "https://huggingface.co/blog/falcon",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2023-06-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/falcon"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d4b915a03626f9f0",
+    "title": "AI Speech Recognition in Unity",
+    "url": "https://huggingface.co/blog/unity-asr",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-06-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/unity-asr"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5d09182746369af4",
+    "title": "OpenAI Cybersecurity Grant Program",
+    "url": "https://openai.com/index/openai-cybersecurity-grant-program",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Our goal is to facilitate the development of AI-powered cybersecurity capabilities for defenders through grants and other support.",
+    "publishedAt": "2023-06-01T07:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.307Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-cybersecurity-grant-program"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc74da72472b7915",
+    "title": "Announcing the Open Source AI Game Jam 🎮",
+    "url": "https://huggingface.co/blog/game-jam",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2023-06-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-04T02:29:15.025Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/game-jam"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]
