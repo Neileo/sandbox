@@ -2122,5 +2122,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "25ebbce528727d36",
+    "title": "Here’s This Week’s Free Game From The Epic Games Store On Mobile",
+    "url": "https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "For the last couple of years, the Epic Games Store has given away free games every week through its PC storefront. With the company having launched its own mobile store, it has also started a second f",
+    "publishedAt": "2026-05-08T12:21:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-21T01:15:22.406Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/free-games-epic-games-store-mobile/1100-6530257/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
