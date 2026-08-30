@@ -13980,5 +13980,258 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "a552dafe27d638d2",
+    "title": "How Limbitless Solutions is redefining adaptive sports with real-time 3D",
+    "url": "https://unity.com/blog/limbitless-solutions-facial-powered-play-adaptive-sports-wheelchair-mobility",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Discover how Limbitless Solutions’ Project Xavier uses Unity and facial muscle controls to make adaptive sports and wheelchair mobility training accessible.",
+    "publishedAt": "2026-07-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/limbitless-solutions-facial-powered-play-adaptive-sports-wheelchair-mobility"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "452f85cc0e9e31f1",
+    "title": "Deploying and optimizing UG for Meta Quest",
+    "url": "https://unity.com/blog/deploying-and-optimizing-ug-for-meta-quest",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how Continuum XR used Unity to build and optimize UG for Meta Quest with scalable networking, rapid deployment workflows, and VR performance tuning.",
+    "publishedAt": "2026-07-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/deploying-and-optimizing-ug-for-meta-quest"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83783033ae1bf1a8",
+    "title": "How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX",
+    "url": "https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how Mega Cat Studios used Unity, readable level design, decals, lighting, and VFX to bring Backyard Baseball 2026 into 3D.",
+    "publishedAt": "2026-07-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6b456d0a9c3fca8d",
+    "title": "A day in the life of an industrial designer running collaborative design reviews, without endless revision cycles",
+    "url": "https://unity.com/blog/unity-studio-collaborative-design-review-without-endless-revisions",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "See how industrial designers use Unity Studio to streamline collaborative design reviews, reduce redesign cycles, and align stakeholders faster with interactive 3D workflows.",
+    "publishedAt": "2026-07-23T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-studio-collaborative-design-review-without-endless-revisions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "79adb98ea7fe0bff",
+    "title": "Unite Seoul 2026 Keynote Recap: Announcing Unity 7",
+    "url": "https://unity.com/blog/unite-seoul-keynote-2026-recap",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Unite Seoul 2026 Keynote announced the release of Unity 7, offering a sneak peek of some of the upcoming features, and major updates, including modern CoreCLR and .NET, 2D and 3D graphics tooling, and",
+    "publishedAt": "2026-07-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unite-seoul-keynote-2026-recap"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7da3bcc4e165ba4a",
+    "title": "Everyone is a gamer: inside mobile gaming's biggest audience opportunity",
+    "url": "https://unity.com/blog/everyone-is-a-gamer-mobile-audience-advertising-opportunity",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "The mobile gaming audience isn't a niche—it's everybody. Learn why brands are shifting strategies to reach this diverse, high-intent demographic.",
+    "publishedAt": "2026-07-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/everyone-is-a-gamer-mobile-audience-advertising-opportunity"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "00fc7434469af00c",
+    "title": "Unity Studio real-time collaboration: Faster feedback and team alignment in shared 3D workflows",
+    "url": "https://unity.com/blog/unity-studio-real-time-collaboration",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Unity Studio real-time collaboration lets teams review, co-edit, and align in shared 3D drafts with live presence, follow mode, and real-time updates.",
+    "publishedAt": "2026-07-14T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-studio-real-time-collaboration"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dc83b546f9f78d1e",
+    "title": "Introducing Ditmara: A modular reference architecture for production-grade digital twins",
+    "url": "https://unity.com/blog/ditmara-digital-twin-reference-architecture",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how Ditmara’s modular digital twin architecture helps teams map sensors, data pipelines, 3D engines, cloud services, and feedback loops.",
+    "publishedAt": "2026-07-09T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/ditmara-digital-twin-reference-architecture"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9fceb6bff308de11",
+    "title": "What the industry told us at Cannes 2026: mobile gaming is no longer optional",
+    "url": "https://unity.com/blog/cannes-2026-mobile-game-advertising",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Industry leaders from across the advertising ecosystem at Cannes 2026 share why mobile game advertising is a premium, full-funnel programmatic channel.",
+    "publishedAt": "2026-07-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/cannes-2026-mobile-game-advertising"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "df9e264474c52174",
+    "title": "Adapting Causa: Into the Dusk for mobile with Unity 6.3",
+    "url": "https://unity.com/blog/adapting-causa-into-the-dusk-for-mobile",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "In this video, the Niebla Games team explains how they worked with Unity to bring Causa: Into the Dusk, first launched on PC in 2021, to Google Play Pass, which is coming soon. \n\nThey share how they m",
+    "publishedAt": "2026-07-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/adapting-causa-into-the-dusk-for-mobile"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9ab090eede684508",
+    "title": "The Immersive Edge: June 2026 industry content wrap-up",
+    "url": "https://unity.com/blog/june-2026-industry-content-wrap-up",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Explore Unity’s June 2026 industry content wrap-up, with resources on Unity Studio, CAD automation, industrial AI, digital twins, and customer stories.",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/june-2026-industry-content-wrap-up"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

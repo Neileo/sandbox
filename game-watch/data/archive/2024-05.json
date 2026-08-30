@@ -1099,5 +1099,36 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "17177c100c915029",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2024-05-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.871Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-multi-vector-encoder"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-sparse-encoder"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/train-sentence-transformers"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

@@ -2145,5 +2145,97 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "4c1da9b6f483eb76",
+    "title": "How Ghost Town Makes VR Movement Feel Natural",
+    "url": "https://unity.com/blog/how-ghost-town-makes-vr-movement-feel-natural",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "In this video, Fireproof Studios producer Tom Seed and director Barry Meade explain how they evolved their VR design in Unity for Ghost Town. They show how soft guidance and detailed environments supp",
+    "publishedAt": "2026-05-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/how-ghost-town-makes-vr-movement-feel-natural"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5416a2cbbc278503",
+    "title": "How Hutlihut Games Is Taking Vivox Voice Chat to New Dimensions",
+    "url": "https://unity.com/blog/hutlihut-games-vivox-voice-chat-void-crew",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "See how Hutlihut Games uses Unity Vivox voice chat to make communication part of Void Crew’s co-op gameplay, from immersive events to cross-platform play.",
+    "publishedAt": "2026-05-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/hutlihut-games-vivox-voice-chat-void-crew"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d6eb19660c277ed5",
+    "title": "Optimizing Godforge: 200+ heroes, million-polygon worlds",
+    "url": "https://unity.com/blog/optimizing-godforge-200-heroes-million-polygon-worlds",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "In this video, the Fateless team share how working in Unity helped them successfully reduce memory usage from 4 GB to 1.3 GB and achieve a 57% increase in frame rate.",
+    "publishedAt": "2026-05-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/optimizing-godforge-200-heroes-million-polygon-worlds"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "64b14f0b0785ad77",
+    "title": "Industrial 3D visualization and collaboration: FAQ for enterprise teams",
+    "url": "https://unity.com/blog/industrial-3d-visualization-collaboration-faq",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Missed our recent webinar? This FAQ answers the top 10 questions on industrial 3D visualization and collaboration, from CAD formats and runtime updates to private cloud deployment.",
+    "publishedAt": "2026-05-21T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/industrial-3d-visualization-collaboration-faq"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

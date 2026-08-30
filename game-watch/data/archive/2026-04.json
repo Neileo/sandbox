@@ -1746,5 +1746,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "d21068479952e403",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-04-29T15:01:48.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.871Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+      },
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-1"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

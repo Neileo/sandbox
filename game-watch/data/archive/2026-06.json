@@ -3598,5 +3598,358 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "6fd7faea5907484e",
+    "title": "Unity IAP SDK with Direct-to-Consumer (D2C) commerce",
+    "url": "https://unity.com/blog/unity-iap-d2c-launch-blog",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Unity IAP SDK 5.4 now supports direct-to-consumer (D2C) payments and a free, no-code webshop in the Unity Dashboard — sell directly to players with Stripe and Coda.",
+    "publishedAt": "2026-06-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-iap-d2c-launch-blog"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "69e55c5e771a9cd5",
+    "title": "Strange Scaffold's Xalavier Nelson, Jr. on picking projects for impact",
+    "url": "https://unity.com/blog/xalavier-nelson-strange-scaffold",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Unity talks to prolific indie dev Xalavier Nelson Jr. about how the Strange Scaffold studio setup helps to power indie creators and communities, and shares the DIDIT system for evaluating new projects",
+    "publishedAt": "2026-06-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/xalavier-nelson-strange-scaffold"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fa07c3c9a22932d4",
+    "title": "Batting a thousand: How Unity’s event-driven Input System powers controls in Backyard Baseball",
+    "url": "https://unity.com/blog/input-system-event-driven-architecture-for-scalable-controls",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Learn how Mega Cat Studios used Unity’s event-driven Input System to build responsive, rebindable controls and local multiplayer for Backyard Baseball 2026.",
+    "publishedAt": "2026-06-22T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/input-system-event-driven-architecture-for-scalable-controls"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cf23bc7893fa26ef",
+    "title": "Unity is bringing transparency to mobile gaming for brand advertisers, extending Unity Core Standards to advertising",
+    "url": "https://unity.com/blog/mobile-game-advertising-transparency-unity-core-standards",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Discover how Unity Core Standards help brand advertisers and agencies verify premium gaming inventory and invest in mobile game advertising with trust.",
+    "publishedAt": "2026-06-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/mobile-game-advertising-transparency-unity-core-standards"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1e3de1f1d4eca9f6",
+    "title": "Unity announces support for XREAL AURA",
+    "url": "https://unity.com/blog/unity-android-xr-wired-glasses-support",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Unity now supports XR glasses on Android XR. Build new spatial games, immersive entertainment, and utility apps.",
+    "publishedAt": "2026-06-16T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-android-xr-wired-glasses-support"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "135bb9bef333c2d0",
+    "title": "The Rise of Rewarded Ads: How Value Exchange is Shaping Mobile Monetization",
+    "url": "https://unity.com/blog/rewarded-ads-how-value-exchange-shapes-mobile-monetization",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Rewarded ads and offerwalls are reshaping mobile game monetization. Explore how the value exchange model benefits publishers, advertisers, and players alike.",
+    "publishedAt": "2026-06-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/rewarded-ads-how-value-exchange-shapes-mobile-monetization"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9226e47d60af6cb4",
+    "title": "Start your 3D engines: Your top questions about Unity Studio, answered",
+    "url": "https://unity.com/blog/unity-studio-questions-answered-build-3d-without-complexity",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn how Unity Studio helps domain experts build, publish, and share interactive 3D experiences in the browser with visual logic and CAD support.",
+    "publishedAt": "2026-06-15T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-studio-questions-answered-build-3d-without-complexity"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "adf36223419f9bcc",
+    "title": "Growing global game revenue with Unity IAP",
+    "url": "https://unity.com/blog/growing-global-game-revenue-with-unity-iap",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "产业动态",
+    "summary": "In this video, Unity’s Rambod Kermanizadeh, along with SciPlay’s Forrest Stowe and Timothy Moore, discusses how the latest advancements in Unity’s in-app purchase (IAP) product help developers reclaim",
+    "publishedAt": "2026-06-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/growing-global-game-revenue-with-unity-iap"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "64f67cdf6d047c0f",
+    "title": "The Future of XR Is Hands-First — And Unity's Tools Are Ready",
+    "url": "https://unity.com/blog/hand-tracking-tools-for-unity-xr",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Build hands-first XR in Unity: record real hand poses as reusable gestures with XR Hand Capture, and test hand tracking right in the Editor — no headset required.",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/hand-tracking-tools-for-unity-xr"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0aad6673691683fd",
+    "title": "Summer Game Fest Unity Games Recap",
+    "url": "https://unity.com/blog/summer-game-fest-2026-unity-games-recap",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Discover the Made with Unity Games featured in Summer Game Fest 2026.",
+    "publishedAt": "2026-06-11T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/summer-game-fest-2026-unity-games-recap"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a31a28efec14304c",
+    "title": "Bridging the big screen and the small screen: Unity and Samba’s strategic partnership",
+    "url": "https://unity.com/blog/samba-partnership-bridging-ctv-and-mobile-gaming-advertising",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "TV and mobile have long been separate strategies for most advertisers. Unity's partnership with Samba integrates first-party TV viewership data with Unity's mobile gaming inventory for unified plannin",
+    "publishedAt": "2026-06-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/samba-partnership-bridging-ctv-and-mobile-gaming-advertising"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f9a28e66cd21d29c",
+    "title": "Building Westeros for mobile in Game of Thrones: Dragonfire",
+    "url": "https://unity.com/blog/building-westeros-for-mobile-in-game-of-thrones-dragonfire",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Explore how Warner Bros. Games Boston optimized Game of Thrones: Dragonfire for mobile with scalable multiplayer, faster load times, and Unity tools.",
+    "publishedAt": "2026-06-05T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/building-westeros-for-mobile-in-game-of-thrones-dragonfire"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a7b709690c88493f",
+    "title": "Reaching shoppers where they play: Unity and Fetch extend purchase-based audiences to mobile gaming",
+    "url": "https://unity.com/blog/mobile-gaming-advertising-reaching-verified-shoppers-with-fetch",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Connecting gaming moments to verified shopper behavior has required separate tools and workflows — until now. Unity and Fetch let CPG, QSR, and retail advertisers activate purchase-based audiences acr",
+    "publishedAt": "2026-06-03T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/mobile-gaming-advertising-reaching-verified-shoppers-with-fetch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "25ccd5b4ebb682e9",
+    "title": "Optimizing battery life in Monster Walk",
+    "url": "https://unity.com/blog/optimizing-battery-life-in-monster-walk",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Discover how the developers of Monster Walk, launched in October 2025 on iOS and Android, used Unity to bridge fitness and gaming by turning real-world steps into gameplay. In this video, Talofa Games",
+    "publishedAt": "2026-06-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/optimizing-battery-life-in-monster-walk"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0fb606631e36933d",
+    "title": "Games made with Unity: July 2026 in review",
+    "url": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Stay updated with the latest creations from the Unity community. Explore our list of standout games made with Unity in July 2026.",
+    "publishedAt": "2026-06-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.883Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/games-made-with-unity-july-2026-releases"
+      },
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/games-made-with-unity-june-2026-releases"
+      },
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/games-made-with-unity-may-2026-releases"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

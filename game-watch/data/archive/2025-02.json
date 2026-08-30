@@ -1118,5 +1118,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "68bd2e32c09542cb",
+    "title": "Introducing Intelligence Age",
+    "url": "https://openai.com/index/introducing-intelligence-age",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "publishedAt": "2025-02-09T22:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-08-30T03:54:04.954Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-intelligence-age"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/global-affairs/introducing-the-intelligence-age"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
