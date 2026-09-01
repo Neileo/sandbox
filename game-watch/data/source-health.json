@@ -1,0 +1,685 @@
+{
+  "checkedAt": "2026-09-01T07:12:17.465Z",
+  "results": [
+    {
+      "id": "gamelook",
+      "name": "GameLook",
+      "feedUrl": "http://www.gamelook.com.cn/feed",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 1133,
+      "error": null
+    },
+    {
+      "id": "youxiputao",
+      "name": "游戏葡萄",
+      "feedUrl": "https://youxiputao.com/feed",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 2232,
+      "error": null
+    },
+    {
+      "id": "gameres",
+      "name": "游资网",
+      "feedUrl": "https://www.gameres.com/rss.xml",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 1802,
+      "error": null
+    },
+    {
+      "id": "youxituoluo",
+      "name": "游戏陀螺",
+      "feedUrl": "https://www.youxituoluo.com/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2716,
+      "error": null
+    },
+    {
+      "id": "36kr-game",
+      "name": "36氪-游戏",
+      "feedUrl": "https://36kr.com/feed?cid=3",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2293,
+      "error": null
+    },
+    {
+      "id": "jinghe",
+      "name": "竞核",
+      "feedUrl": "https://www.jinghegame.com/feed",
+      "status": 0,
+      "ok": false,
+      "latencyMs": null,
+      "error": "getaddrinfo ENOTFOUND www.jinghegame.com"
+    },
+    {
+      "id": "shouyounadian",
+      "name": "手游那点事",
+      "feedUrl": "https://www.nadianshi.com/feed",
+      "status": 0,
+      "ok": false,
+      "latencyMs": null,
+      "error": "connect ECONNREFUSED 120.26.54.75:443"
+    },
+    {
+      "id": "chuapp",
+      "name": "触乐",
+      "feedUrl": "https://www.chuapp.com/feed",
+      "status": 0,
+      "ok": false,
+      "latencyMs": null,
+      "error": "socket hang up"
+    },
+    {
+      "id": "g-cores",
+      "name": "机核",
+      "feedUrl": "https://www.gcores.com/rss",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3225,
+      "error": null
+    },
+    {
+      "id": "youxiyanjiushe",
+      "name": "游戏研究社",
+      "feedUrl": "https://www.yystv.cn/rss/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3374,
+      "error": null
+    },
+    {
+      "id": "toucharcade",
+      "name": "TouchArcade",
+      "feedUrl": "https://toucharcade.com/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 1961,
+      "error": null
+    },
+    {
+      "id": "vgc",
+      "name": "VGC (Video Games Chronicle)",
+      "feedUrl": "https://www.videogameschronicle.com/feed",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 2432,
+      "error": null
+    },
+    {
+      "id": "gwb-game",
+      "name": "腾讯GWB游戏无界",
+      "feedUrl": "https://gwb.tencent.com/feed",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 3290,
+      "error": null
+    },
+    {
+      "id": "bilibili-game",
+      "name": "B站-游戏区",
+      "feedUrl": "https://rsshub.app/bilibili/fav/928022",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 2353,
+      "error": null
+    },
+    {
+      "id": "gamesindustry",
+      "name": "GamesIndustry.biz",
+      "feedUrl": "https://www.gamesindustry.biz/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2527,
+      "error": null
+    },
+    {
+      "id": "ign",
+      "name": "IGN",
+      "feedUrl": "https://feeds.feedburner.com/ign/all",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2443,
+      "error": null
+    },
+    {
+      "id": "eurogamer",
+      "name": "Eurogamer",
+      "feedUrl": "https://www.eurogamer.net/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2603,
+      "error": null
+    },
+    {
+      "id": "kotaku",
+      "name": "Kotaku",
+      "feedUrl": "https://kotaku.com/rss",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 2652,
+      "error": null
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "feedUrl": "https://www.polygon.com/rss/index.xml",
+      "status": 0,
+      "ok": false,
+      "latencyMs": null,
+      "error": "socket hang up"
+    },
+    {
+      "id": "pcgamer",
+      "name": "PC Gamer",
+      "feedUrl": "https://www.pcgamer.com/rss/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2667,
+      "error": null
+    },
+    {
+      "id": "rps",
+      "name": "Rock Paper Shotgun",
+      "feedUrl": "https://www.rockpapershotgun.com/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2853,
+      "error": null
+    },
+    {
+      "id": "gamedeveloper",
+      "name": "Game Developer",
+      "feedUrl": "https://www.gamedeveloper.com/rss.xml",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3471,
+      "error": null
+    },
+    {
+      "id": "gamespot",
+      "name": "GameSpot",
+      "feedUrl": "https://www.gamespot.com/feeds/mashup/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 2954,
+      "error": null
+    },
+    {
+      "id": "destructoid",
+      "name": "Destructoid",
+      "feedUrl": "https://www.destructoid.com/feed/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 4002,
+      "error": null
+    },
+    {
+      "id": "gematsu",
+      "name": "Gematsu",
+      "feedUrl": "https://www.gematsu.com/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3107,
+      "error": null
+    },
+    {
+      "id": "siliconera",
+      "name": "Siliconera",
+      "feedUrl": "https://www.siliconera.com/feed/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3006,
+      "error": null
+    },
+    {
+      "id": "nintendolife",
+      "name": "Nintendo Life",
+      "feedUrl": "https://www.nintendolife.com/feeds/latest",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3212,
+      "error": null
+    },
+    {
+      "id": "pushsquare",
+      "name": "Push Square",
+      "feedUrl": "https://www.pushsquare.com/feeds/latest",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3213,
+      "error": null
+    },
+    {
+      "id": "purexbox",
+      "name": "Pure Xbox",
+      "feedUrl": "https://www.purexbox.com/feeds/latest",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3216,
+      "error": null
+    },
+    {
+      "id": "pocketgamer",
+      "name": "Pocket Gamer",
+      "feedUrl": "https://www.pocketgamer.com/feed/",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 3146,
+      "error": null
+    },
+    {
+      "id": "gdcvault",
+      "name": "GDC Vault",
+      "feedUrl": "https://gdconf.com/rss.xml",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 4181,
+      "error": null
+    },
+    {
+      "id": "steam-blog",
+      "name": "Steam Blog",
+      "feedUrl": "https://store.steampowered.com/feeds/news.xml",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 3179,
+      "error": null
+    },
+    {
+      "id": "epic-games-blog",
+      "name": "Epic Games Store Blog",
+      "feedUrl": "https://www.epicgames.com/site/en-US/news-rss",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 3209,
+      "error": null
+    },
+    {
+      "id": "xbox-wire",
+      "name": "Xbox Wire",
+      "feedUrl": "https://news.xbox.com/en-us/feed/",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 3249,
+      "error": null
+    },
+    {
+      "id": "playstation-blog",
+      "name": "PlayStation Blog",
+      "feedUrl": "https://blog.playstation.com/feed/",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 3399,
+      "error": null
+    },
+    {
+      "id": "unity-blog",
+      "name": "Unity Blog",
+      "feedUrl": "https://blog.unity.com/feed",
+      "status": 302,
+      "ok": true,
+      "latencyMs": 3371,
+      "error": null
+    },
+    {
+      "id": "unreal-blog",
+      "name": "Unreal Engine Blog",
+      "feedUrl": "https://www.unrealengine.com/en-US/blog-rss",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 3494,
+      "error": null
+    },
+    {
+      "id": "36kr",
+      "name": "36氪",
+      "feedUrl": "https://36kr.com/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 4475,
+      "error": null
+    },
+    {
+      "id": "chinaventure",
+      "name": "投中网",
+      "feedUrl": "https://www.chinaventure.com.cn/feed",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 5876,
+      "error": null
+    },
+    {
+      "id": "itjuzi",
+      "name": "IT桔子",
+      "feedUrl": "https://itjuzi.com/feed",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 4649,
+      "error": null
+    },
+    {
+      "id": "cyzone",
+      "name": "创业邦",
+      "feedUrl": "https://www.cyzone.cn/feed",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 4984,
+      "error": null
+    },
+    {
+      "id": "lieyunwang",
+      "name": "猎云网",
+      "feedUrl": "https://www.lieyunwang.com/feed",
+      "status": 0,
+      "ok": false,
+      "latencyMs": null,
+      "error": "getaddrinfo ENOTFOUND www.lieyunwang.com"
+    },
+    {
+      "id": "cbinsights",
+      "name": "CB Insights",
+      "feedUrl": "https://www.cbinsights.com/blog/feed/",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 4141,
+      "error": null
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "feedUrl": "https://techcrunch.com/feed/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 4081,
+      "error": null
+    },
+    {
+      "id": "venturebeat",
+      "name": "VentureBeat",
+      "feedUrl": "https://venturebeat.com/feed/",
+      "status": 308,
+      "ok": true,
+      "latencyMs": 4228,
+      "error": null
+    },
+    {
+      "id": "crunchbase-news",
+      "name": "Crunchbase News",
+      "feedUrl": "https://news.crunchbase.com/feed/",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 4259,
+      "error": null
+    },
+    {
+      "id": "pitchbook-news",
+      "name": "PitchBook News",
+      "feedUrl": "https://pitchbook.com/news/feed",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 4397,
+      "error": null
+    },
+    {
+      "id": "theverge",
+      "name": "The Verge",
+      "feedUrl": "https://www.theverge.com/rss/index.xml",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 4421,
+      "error": null
+    },
+    {
+      "id": "bloomberg-tech",
+      "name": "Bloomberg - Tech",
+      "feedUrl": "https://feeds.bloomberg.com/technology/news.rss",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 4531,
+      "error": null
+    },
+    {
+      "id": "reuters-tech",
+      "name": "Reuters - Tech",
+      "feedUrl": "https://www.reuters.com/arc/outboundfeeds/v3/all/?outputType=xml",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 4941,
+      "error": null
+    },
+    {
+      "id": "ft-tech",
+      "name": "Financial Times - Tech",
+      "feedUrl": "https://www.ft.com/technology?format=rss",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 4734,
+      "error": null
+    },
+    {
+      "id": "a16z-blog",
+      "name": "a16z Blog",
+      "feedUrl": "https://a16z.com/feed/",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 4809,
+      "error": null
+    },
+    {
+      "id": "lightspeed-blog",
+      "name": "Lightspeed Blog",
+      "feedUrl": "https://lsvp.com/feed/",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 4920,
+      "error": null
+    },
+    {
+      "id": "naavik",
+      "name": "Naavik",
+      "feedUrl": "https://naavik.co/feed/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 7052,
+      "error": null
+    },
+    {
+      "id": "gamediscoverco",
+      "name": "GameDiscoverCo",
+      "feedUrl": "https://newsletter.gamediscover.co/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 4872,
+      "error": null
+    },
+    {
+      "id": "katan-games",
+      "name": "Katan Games",
+      "feedUrl": "https://katanagames.substack.com/feed",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 4863,
+      "error": null
+    },
+    {
+      "id": "investgame",
+      "name": "InvestGame",
+      "feedUrl": "https://investgame.net/feed/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 5219,
+      "error": null
+    },
+    {
+      "id": "newzoo",
+      "name": "Newzoo",
+      "feedUrl": "https://newzoo.com/feed/",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 4945,
+      "error": null
+    },
+    {
+      "id": "sensor-tower",
+      "name": "Sensor Tower Blog",
+      "feedUrl": "https://sensortower.com/blog/rss",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 5110,
+      "error": null
+    },
+    {
+      "id": "data-ai",
+      "name": "data.ai Blog",
+      "feedUrl": "https://www.data.ai/en/insights/feed/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 5228,
+      "error": null
+    },
+    {
+      "id": "appmagic",
+      "name": "AppMagic Blog",
+      "feedUrl": "https://appmagic.rocks/blog/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 5240,
+      "error": null
+    },
+    {
+      "id": "npd-circana",
+      "name": "NPD (Circana)",
+      "feedUrl": "https://www.circana.com/intelligence/rss/",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 5178,
+      "error": null
+    },
+    {
+      "id": "steamdb-blog",
+      "name": "SteamDB Blog",
+      "feedUrl": "https://steamdb.info/blog/feed/",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 5227,
+      "error": null
+    },
+    {
+      "id": "statista-gaming",
+      "name": "Statista - Gaming",
+      "feedUrl": "https://www.statista.com/topics/1551/video-games/feed",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 5251,
+      "error": null
+    },
+    {
+      "id": "superdata-nielsen",
+      "name": "SuperData (尼尔森)",
+      "feedUrl": "https://www.nielsen.com/insights/feed/",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 5790,
+      "error": null
+    },
+    {
+      "id": "ampere-analysis",
+      "name": "Ampere Analysis",
+      "feedUrl": "https://www.ampereanalysis.com/feed",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 5528,
+      "error": null
+    },
+    {
+      "id": "midia-research",
+      "name": "MIDiA Research",
+      "feedUrl": "https://www.midiaresearch.com/blog/feed",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 5737,
+      "error": null
+    },
+    {
+      "id": "stream-hatchet",
+      "name": "Stream Hatchet",
+      "feedUrl": "https://blog.streamhatchet.com/feed/",
+      "status": 0,
+      "ok": false,
+      "latencyMs": null,
+      "error": "timeout"
+    },
+    {
+      "id": "famitsu",
+      "name": "Famitsu",
+      "feedUrl": "https://www.famitsu.com/feed",
+      "status": 404,
+      "ok": false,
+      "latencyMs": 5870,
+      "error": null
+    },
+    {
+      "id": "huggingface-blog",
+      "name": "Hugging Face Blog",
+      "feedUrl": "https://huggingface.co/blog/feed.xml",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 5457,
+      "error": null
+    },
+    {
+      "id": "openai-blog",
+      "name": "OpenAI Blog",
+      "feedUrl": "https://openai.com/blog/rss.xml",
+      "status": 307,
+      "ok": true,
+      "latencyMs": 5445,
+      "error": null
+    },
+    {
+      "id": "stability-ai-blog",
+      "name": "Stability AI Blog",
+      "feedUrl": "https://stability.ai/blog/rss.xml",
+      "status": 403,
+      "ok": false,
+      "latencyMs": 5457,
+      "error": null
+    },
+    {
+      "id": "nvidia-dev-blog",
+      "name": "NVIDIA Developer Blog",
+      "feedUrl": "https://developer.nvidia.com/blog/feed/",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 5486,
+      "error": null
+    },
+    {
+      "id": "80lv",
+      "name": "80.lv",
+      "feedUrl": "https://80.lv/feed/",
+      "status": 301,
+      "ok": true,
+      "latencyMs": 5782,
+      "error": null
+    },
+    {
+      "id": "hackernews",
+      "name": "Hacker News",
+      "feedUrl": "https://hnrss.org/frontpage",
+      "status": 200,
+      "ok": true,
+      "latencyMs": 5721,
+      "error": null
+    }
+  ],
+  "summary": {
+    "total": 75,
+    "healthy": 44,
+    "broken": 31
+  }
+}
