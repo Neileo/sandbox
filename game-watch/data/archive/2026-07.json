@@ -14233,5 +14233,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "88bfb736ccd7762d",
+    "title": "The Immersive Edge: August 2026 industry content wrap-up",
+    "url": "https://unity.com/blog/immersive-edge-august-2026",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "The Immersive Edge, August 2026: 31 Unity resources from July and August, including BMW Group's Virtual Teardown Assistant and the Ditmara twin architecture.",
+    "publishedAt": "2026-07-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-09-03T03:10:09.656Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/immersive-edge-august-2026"
+      },
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/june-2026-industry-content-wrap-up"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
