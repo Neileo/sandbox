@@ -14260,5 +14260,36 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "f7ce8f72ae9963bb",
+    "title": "August 2026’s top new PC & console games, revealed...",
+    "url": "https://newsletter.gamediscover.co/p/august-2026s-top-new-pc-and-console",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: just an avalanche of news, and this week’s top Steam debuts.",
+    "publishedAt": "2026-07-03T19:17:14.000Z",
+    "tags": [],
+    "fetchedAt": "2026-09-07T03:08:19.468Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/august-2026s-top-new-pc-and-console"
+      },
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/july-2026s-top-new-pc-and-console"
+      },
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/june-2026s-top-new-pc-and-console"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
