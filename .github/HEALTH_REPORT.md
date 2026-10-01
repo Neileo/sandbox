@@ -1,10 +1,10 @@
 # Source Health Report
 
-**Checked:** 2026-09-01T07:12:17.465Z
+**Checked:** 2026-10-01T08:16:14.874Z
 
 | Status | Total | Healthy | Broken |
 |--------|-------|---------|--------|
-| Sources | 75 | 44 | 31 |
+| Sources | 75 | 42 | 33 |
 
 ## Broken Sources
 
@@ -15,6 +15,7 @@
 | 竞核 | 0 | getaddrinfo ENOTFOUND www.jinghegame.com |
 | 手游那点事 | 0 | connect ECONNREFUSED 120.26.54.75:443 |
 | 触乐 | 0 | socket hang up |
+| 腾讯GWB游戏无界 | 0 | timeout |
 | B站-游戏区 | 403 | null |
 | Polygon | 0 | socket hang up |
 | Pocket Gamer | 403 | null |
@@ -26,6 +27,7 @@
 | 投中网 | 404 | null |
 | 创业邦 | 404 | null |
 | 猎云网 | 0 | getaddrinfo ENOTFOUND www.lieyunwang.com |
+| VentureBeat | 429 | null |
 | Crunchbase News | 403 | null |
 | PitchBook News | 403 | null |
 | Reuters - Tech | 404 | null |

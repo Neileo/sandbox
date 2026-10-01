@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T07:12:17.465Z",
+  "checkedAt": "2026-10-01T08:16:14.874Z",
   "results": [
     {
       "id": "gamelook",
@@ -7,7 +7,7 @@
       "feedUrl": "http://www.gamelook.com.cn/feed",
       "status": 301,
       "ok": true,
-      "latencyMs": 1133,
+      "latencyMs": 1500,
       "error": null
     },
     {
@@ -16,7 +16,7 @@
       "feedUrl": "https://youxiputao.com/feed",
       "status": 404,
       "ok": false,
-      "latencyMs": 2232,
+      "latencyMs": 1612,
       "error": null
     },
     {
@@ -25,7 +25,7 @@
       "feedUrl": "https://www.gameres.com/rss.xml",
       "status": 403,
       "ok": false,
-      "latencyMs": 1802,
+      "latencyMs": 1492,
       "error": null
     },
     {
@@ -34,7 +34,7 @@
       "feedUrl": "https://www.youxituoluo.com/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 2716,
+      "latencyMs": 2831,
       "error": null
     },
     {
@@ -43,7 +43,7 @@
       "feedUrl": "https://36kr.com/feed?cid=3",
       "status": 200,
       "ok": true,
-      "latencyMs": 2293,
+      "latencyMs": 1758,
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "feedUrl": "https://www.gcores.com/rss",
       "status": 200,
       "ok": true,
-      "latencyMs": 3225,
+      "latencyMs": 3000,
       "error": null
     },
     {
@@ -88,7 +88,7 @@
       "feedUrl": "https://www.yystv.cn/rss/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 3374,
+      "latencyMs": 3195,
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "feedUrl": "https://toucharcade.com/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 1961,
+      "latencyMs": 2387,
       "error": null
     },
     {
@@ -106,17 +106,17 @@
       "feedUrl": "https://www.videogameschronicle.com/feed",
       "status": 301,
       "ok": true,
-      "latencyMs": 2432,
+      "latencyMs": 5377,
       "error": null
     },
     {
       "id": "gwb-game",
       "name": "腾讯GWB游戏无界",
       "feedUrl": "https://gwb.tencent.com/feed",
-      "status": 301,
-      "ok": true,
-      "latencyMs": 3290,
-      "error": null
+      "status": 0,
+      "ok": false,
+      "latencyMs": null,
+      "error": "timeout"
     },
     {
       "id": "bilibili-game",
@@ -124,7 +124,7 @@
       "feedUrl": "https://rsshub.app/bilibili/fav/928022",
       "status": 403,
       "ok": false,
-      "latencyMs": 2353,
+      "latencyMs": 2712,
       "error": null
     },
     {
@@ -133,7 +133,7 @@
       "feedUrl": "https://www.gamesindustry.biz/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 2527,
+      "latencyMs": 4293,
       "error": null
     },
     {
@@ -142,7 +142,7 @@
       "feedUrl": "https://feeds.feedburner.com/ign/all",
       "status": 200,
       "ok": true,
-      "latencyMs": 2443,
+      "latencyMs": 2960,
       "error": null
     },
     {
@@ -151,7 +151,7 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 2603,
+      "latencyMs": 2892,
       "error": null
     },
     {
@@ -160,7 +160,7 @@
       "feedUrl": "https://kotaku.com/rss",
       "status": 301,
       "ok": true,
-      "latencyMs": 2652,
+      "latencyMs": 3049,
       "error": null
     },
     {
@@ -178,7 +178,7 @@
       "feedUrl": "https://www.pcgamer.com/rss/",
       "status": 200,
       "ok": true,
-      "latencyMs": 2667,
+      "latencyMs": 3157,
       "error": null
     },
     {
@@ -187,7 +187,7 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 2853,
+      "latencyMs": 3257,
       "error": null
     },
     {
@@ -196,7 +196,7 @@
       "feedUrl": "https://www.gamedeveloper.com/rss.xml",
       "status": 200,
       "ok": true,
-      "latencyMs": 3471,
+      "latencyMs": 3641,
       "error": null
     },
     {
@@ -205,7 +205,7 @@
       "feedUrl": "https://www.gamespot.com/feeds/mashup/",
       "status": 200,
       "ok": true,
-      "latencyMs": 2954,
+      "latencyMs": 3511,
       "error": null
     },
     {
@@ -214,7 +214,7 @@
       "feedUrl": "https://www.destructoid.com/feed/",
       "status": 200,
       "ok": true,
-      "latencyMs": 4002,
+      "latencyMs": 3449,
       "error": null
     },
     {
@@ -223,7 +223,7 @@
       "feedUrl": "https://www.gematsu.com/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 3107,
+      "latencyMs": 8226,
       "error": null
     },
     {
@@ -232,7 +232,7 @@
       "feedUrl": "https://www.siliconera.com/feed/",
       "status": 200,
       "ok": true,
-      "latencyMs": 3006,
+      "latencyMs": 3551,
       "error": null
     },
     {
@@ -241,7 +241,7 @@
       "feedUrl": "https://www.nintendolife.com/feeds/latest",
       "status": 200,
       "ok": true,
-      "latencyMs": 3212,
+      "latencyMs": 3823,
       "error": null
     },
     {
@@ -250,7 +250,7 @@
       "feedUrl": "https://www.pushsquare.com/feeds/latest",
       "status": 200,
       "ok": true,
-      "latencyMs": 3213,
+      "latencyMs": 3840,
       "error": null
     },
     {
@@ -259,7 +259,7 @@
       "feedUrl": "https://www.purexbox.com/feeds/latest",
       "status": 200,
       "ok": true,
-      "latencyMs": 3216,
+      "latencyMs": 3869,
       "error": null
     },
     {
@@ -268,7 +268,7 @@
       "feedUrl": "https://www.pocketgamer.com/feed/",
       "status": 403,
       "ok": false,
-      "latencyMs": 3146,
+      "latencyMs": 3615,
       "error": null
     },
     {
@@ -277,7 +277,7 @@
       "feedUrl": "https://gdconf.com/rss.xml",
       "status": 404,
       "ok": false,
-      "latencyMs": 4181,
+      "latencyMs": 4401,
       "error": null
     },
     {
@@ -286,7 +286,7 @@
       "feedUrl": "https://store.steampowered.com/feeds/news.xml",
       "status": 200,
       "ok": true,
-      "latencyMs": 3179,
+      "latencyMs": 3635,
       "error": null
     },
     {
@@ -295,7 +295,7 @@
       "feedUrl": "https://www.epicgames.com/site/en-US/news-rss",
       "status": 403,
       "ok": false,
-      "latencyMs": 3209,
+      "latencyMs": 3703,
       "error": null
     },
     {
@@ -304,7 +304,7 @@
       "feedUrl": "https://news.xbox.com/en-us/feed/",
       "status": 403,
       "ok": false,
-      "latencyMs": 3249,
+      "latencyMs": 3725,
       "error": null
     },
     {
@@ -313,7 +313,7 @@
       "feedUrl": "https://blog.playstation.com/feed/",
       "status": 403,
       "ok": false,
-      "latencyMs": 3399,
+      "latencyMs": 3680,
       "error": null
     },
     {
@@ -322,7 +322,7 @@
       "feedUrl": "https://blog.unity.com/feed",
       "status": 302,
       "ok": true,
-      "latencyMs": 3371,
+      "latencyMs": 3988,
       "error": null
     },
     {
@@ -331,7 +331,7 @@
       "feedUrl": "https://www.unrealengine.com/en-US/blog-rss",
       "status": 403,
       "ok": false,
-      "latencyMs": 3494,
+      "latencyMs": 3774,
       "error": null
     },
     {
@@ -340,7 +340,7 @@
       "feedUrl": "https://36kr.com/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 4475,
+      "latencyMs": 4630,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "feedUrl": "https://www.chinaventure.com.cn/feed",
       "status": 404,
       "ok": false,
-      "latencyMs": 5876,
+      "latencyMs": 5476,
       "error": null
     },
     {
@@ -358,7 +358,7 @@
       "feedUrl": "https://itjuzi.com/feed",
       "status": 301,
       "ok": true,
-      "latencyMs": 4649,
+      "latencyMs": 4857,
       "error": null
     },
     {
@@ -367,7 +367,7 @@
       "feedUrl": "https://www.cyzone.cn/feed",
       "status": 404,
       "ok": false,
-      "latencyMs": 4984,
+      "latencyMs": 5388,
       "error": null
     },
     {
@@ -385,7 +385,7 @@
       "feedUrl": "https://www.cbinsights.com/blog/feed/",
       "status": 301,
       "ok": true,
-      "latencyMs": 4141,
+      "latencyMs": 4726,
       "error": null
     },
     {
@@ -394,16 +394,16 @@
       "feedUrl": "https://techcrunch.com/feed/",
       "status": 200,
       "ok": true,
-      "latencyMs": 4081,
+      "latencyMs": 4685,
       "error": null
     },
     {
       "id": "venturebeat",
       "name": "VentureBeat",
       "feedUrl": "https://venturebeat.com/feed/",
-      "status": 308,
-      "ok": true,
-      "latencyMs": 4228,
+      "status": 429,
+      "ok": false,
+      "latencyMs": 4773,
       "error": null
     },
     {
@@ -412,7 +412,7 @@
       "feedUrl": "https://news.crunchbase.com/feed/",
       "status": 403,
       "ok": false,
-      "latencyMs": 4259,
+      "latencyMs": 4851,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "feedUrl": "https://pitchbook.com/news/feed",
       "status": 403,
       "ok": false,
-      "latencyMs": 4397,
+      "latencyMs": 4862,
       "error": null
     },
     {
@@ -430,7 +430,7 @@
       "feedUrl": "https://www.theverge.com/rss/index.xml",
       "status": 200,
       "ok": true,
-      "latencyMs": 4421,
+      "latencyMs": 4902,
       "error": null
     },
     {
@@ -439,7 +439,7 @@
       "feedUrl": "https://feeds.bloomberg.com/technology/news.rss",
       "status": 301,
       "ok": true,
-      "latencyMs": 4531,
+      "latencyMs": 5138,
       "error": null
     },
     {
@@ -448,7 +448,7 @@
       "feedUrl": "https://www.reuters.com/arc/outboundfeeds/v3/all/?outputType=xml",
       "status": 404,
       "ok": false,
-      "latencyMs": 4941,
+      "latencyMs": 5383,
       "error": null
     },
     {
@@ -457,7 +457,7 @@
       "feedUrl": "https://www.ft.com/technology?format=rss",
       "status": 200,
       "ok": true,
-      "latencyMs": 4734,
+      "latencyMs": 5296,
       "error": null
     },
     {
@@ -466,7 +466,7 @@
       "feedUrl": "https://a16z.com/feed/",
       "status": 404,
       "ok": false,
-      "latencyMs": 4809,
+      "latencyMs": 5328,
       "error": null
     },
     {
@@ -475,7 +475,7 @@
       "feedUrl": "https://lsvp.com/feed/",
       "status": 403,
       "ok": false,
-      "latencyMs": 4920,
+      "latencyMs": 5181,
       "error": null
     },
     {
@@ -484,7 +484,7 @@
       "feedUrl": "https://naavik.co/feed/",
       "status": 200,
       "ok": true,
-      "latencyMs": 7052,
+      "latencyMs": 6308,
       "error": null
     },
     {
@@ -493,7 +493,7 @@
       "feedUrl": "https://newsletter.gamediscover.co/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 4872,
+      "latencyMs": 5357,
       "error": null
     },
     {
@@ -502,7 +502,7 @@
       "feedUrl": "https://katanagames.substack.com/feed",
       "status": 403,
       "ok": false,
-      "latencyMs": 4863,
+      "latencyMs": 5221,
       "error": null
     },
     {
@@ -511,7 +511,7 @@
       "feedUrl": "https://investgame.net/feed/",
       "status": 200,
       "ok": true,
-      "latencyMs": 5219,
+      "latencyMs": 5721,
       "error": null
     },
     {
@@ -520,7 +520,7 @@
       "feedUrl": "https://newzoo.com/feed/",
       "status": 403,
       "ok": false,
-      "latencyMs": 4945,
+      "latencyMs": 5311,
       "error": null
     },
     {
@@ -529,7 +529,7 @@
       "feedUrl": "https://sensortower.com/blog/rss",
       "status": 404,
       "ok": false,
-      "latencyMs": 5110,
+      "latencyMs": 6455,
       "error": null
     },
     {
@@ -538,7 +538,7 @@
       "feedUrl": "https://www.data.ai/en/insights/feed/",
       "status": 200,
       "ok": true,
-      "latencyMs": 5228,
+      "latencyMs": 5604,
       "error": null
     },
     {
@@ -547,7 +547,7 @@
       "feedUrl": "https://appmagic.rocks/blog/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 5240,
+      "latencyMs": 5574,
       "error": null
     },
     {
@@ -556,7 +556,7 @@
       "feedUrl": "https://www.circana.com/intelligence/rss/",
       "status": 301,
       "ok": true,
-      "latencyMs": 5178,
+      "latencyMs": 5512,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "feedUrl": "https://steamdb.info/blog/feed/",
       "status": 403,
       "ok": false,
-      "latencyMs": 5227,
+      "latencyMs": 5425,
       "error": null
     },
     {
@@ -574,7 +574,7 @@
       "feedUrl": "https://www.statista.com/topics/1551/video-games/feed",
       "status": 403,
       "ok": false,
-      "latencyMs": 5251,
+      "latencyMs": 5417,
       "error": null
     },
     {
@@ -583,7 +583,7 @@
       "feedUrl": "https://www.nielsen.com/insights/feed/",
       "status": 404,
       "ok": false,
-      "latencyMs": 5790,
+      "latencyMs": 6231,
       "error": null
     },
     {
@@ -592,7 +592,7 @@
       "feedUrl": "https://www.ampereanalysis.com/feed",
       "status": 200,
       "ok": true,
-      "latencyMs": 5528,
+      "latencyMs": 5920,
       "error": null
     },
     {
@@ -601,7 +601,7 @@
       "feedUrl": "https://www.midiaresearch.com/blog/feed",
       "status": 404,
       "ok": false,
-      "latencyMs": 5737,
+      "latencyMs": 6114,
       "error": null
     },
     {
@@ -619,7 +619,7 @@
       "feedUrl": "https://www.famitsu.com/feed",
       "status": 404,
       "ok": false,
-      "latencyMs": 5870,
+      "latencyMs": 5942,
       "error": null
     },
     {
@@ -628,7 +628,7 @@
       "feedUrl": "https://huggingface.co/blog/feed.xml",
       "status": 200,
       "ok": true,
-      "latencyMs": 5457,
+      "latencyMs": 5687,
       "error": null
     },
     {
@@ -637,7 +637,7 @@
       "feedUrl": "https://openai.com/blog/rss.xml",
       "status": 307,
       "ok": true,
-      "latencyMs": 5445,
+      "latencyMs": 5655,
       "error": null
     },
     {
@@ -646,7 +646,7 @@
       "feedUrl": "https://stability.ai/blog/rss.xml",
       "status": 403,
       "ok": false,
-      "latencyMs": 5457,
+      "latencyMs": 5752,
       "error": null
     },
     {
@@ -655,7 +655,7 @@
       "feedUrl": "https://developer.nvidia.com/blog/feed/",
       "status": 200,
       "ok": true,
-      "latencyMs": 5486,
+      "latencyMs": 5764,
       "error": null
     },
     {
@@ -664,7 +664,7 @@
       "feedUrl": "https://80.lv/feed/",
       "status": 301,
       "ok": true,
-      "latencyMs": 5782,
+      "latencyMs": 5955,
       "error": null
     },
     {
@@ -673,13 +673,13 @@
       "feedUrl": "https://hnrss.org/frontpage",
       "status": 200,
       "ok": true,
-      "latencyMs": 5721,
+      "latencyMs": 17504,
       "error": null
     }
   ],
   "summary": {
     "total": 75,
-    "healthy": 44,
-    "broken": 31
+    "healthy": 42,
+    "broken": 33
   }
 }
