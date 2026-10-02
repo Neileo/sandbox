@@ -1634,5 +1634,96 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "564762ebf63fe3b6",
+    "title": "Team Fortress 2 Update Released",
+    "url": "https://store.steampowered.com/news/285134/",
+    "source": {
+      "name": "Steam Blog",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "",
+    "publishedAt": "2025-10-15T23:38:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.534Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/285134/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/276347/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/276074/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/275718/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/275469/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/274747/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/271749/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/271650/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/265516/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/265126/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/260304/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/259771/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/259481/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/259202/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/255953/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/255671/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/255293/"
+      },
+      {
+        "name": "Steam Blog",
+        "url": "https://store.steampowered.com/news/254627/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

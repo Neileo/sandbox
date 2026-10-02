@@ -56649,5 +56649,78 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "7b349698b3b573ab",
+    "title": "Vol.192｜Meta Connect 现场见闻｜Meta VR Glasses 怎么看｜Steam Frame 社区人声鼎沸",
+    "url": "https://www.gcores.com/radios/220440",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "本期主播与嘉宾：\n脑潘 / 潮玩VR / 空间绘画KudoAlbus / 视界任意门\n\n直播录制时间：\n2026-09-30\n\n-----------------------\n\n主观片面的「元语咒」是专属 VR 玩家的闲聊电台。\n以虚拟圆桌的形式在某平台直播，以一刀不剪的态度在这里回放。\n\n-----------------------\n\n章节：\n00:00 Meta Connect 现场见闻和 ",
+    "publishedAt": "2026-09-30T22:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/radios/220440"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "001cf10b45098483",
+    "title": "CEO Interview: Truemed",
+    "url": "https://www.cbinsights.com/research/ceo-interview-truemed/",
+    "source": {
+      "name": "CB Insights",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "综合",
+    "summary": "Justin W. Mares, Chief Executive Officer (CEO) of Truemed, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit ",
+    "publishedAt": "2026-09-30T19:54:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.075Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/research/ceo-interview-truemed/"
+      },
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/research/ceo-interview-queue/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1e9c4e2ea70b378d",
+    "title": "Vol.267 追幻寻影！《装甲骑兵 幻影篇》深潜涵泳",
+    "url": "https://www.gcores.com/radios/220439",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "《装甲骑兵》IP时间轴目前最后的动画作品 -- 《幻影篇》，今天我们篇幅三个半小时深度潜航分享。",
+    "publishedAt": "2026-09-30T09:40:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/radios/220439"
+      }
+    ],
+    "originalLanguage": "zh"
   }
 ]

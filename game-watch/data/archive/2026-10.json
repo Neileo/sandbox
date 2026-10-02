@@ -780,5 +780,5161 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "56c490db040147f1",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "",
+    "publishedAt": "2026-10-02T04:01:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.000Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bef1d3c8e0876170",
+    "title": "007 First Light Unveils Extended Operations Free DLC - Adds New Game+, Photo Mode And Much More",
+    "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The Switch 2 version arrives next March.\nAlthough the Switch 2 port of 007 First Light has been delayed until next year, IO Interactive is still pushing out new content for the game on other platforms",
+    "publishedAt": "2026-10-02T03:55:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/007-first-light-unveils-extended-operations-free-dlc-adds-new-gameplus-photo-mode-and-much-more"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "22124e393e5f3fa8",
+    "title": "Surreal narrative adventure game [AFANTASIA] to be published by Studio Sasanqua",
+    "url": "https://www.gematsu.com/2026/10/surreal-narrative-adventure-game-afantasia-to-be-published-by-studio-sasanqua",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Studio Sasanqua, which was established by Visions of Mana director Kenji Ozawa following the closure …",
+    "publishedAt": "2026-10-02T03:38:59.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/surreal-narrative-adventure-game-afantasia-to-be-published-by-studio-sasanqua"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "94e89ccf4902b086",
+    "title": "DeepSeek Harness Desktop for macOS and Windows",
+    "url": "https://www.deepseek.com/en/harness/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 4\n# Comments: 2",
+    "publishedAt": "2026-10-02T03:11:20.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.deepseek.com/en/harness/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "da78f4f697732910",
+    "title": "红海危局背后：破碎的也门与强势的胡塞，从何而来？",
+    "url": "https://www.gcores.com/radios/220465",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "产业动态",
+    "summary": "红海航道再起波澜。9月以来，胡塞武装发动大规模军事攻势，迅速占据曼德海峡周边多个战略要地，全球能源与航运市场随之剧烈震荡。也门这一轮冲突升级，究竟因何爆发？也门局势未来又可能会走向何方？本期节目，中东研究专家朱泉钢将为大家介绍当前也门内战和胡塞武装-沙特冲突的来龙去脉与最新变化，分析域外各利益相关方在此次冲突中的选择及其原因。为了帮助我们更深入地理解也门为什么会形成当前这种支离破碎的政治军事格局，",
+    "publishedAt": "2026-10-02T02:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/radios/220465"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "6416c6e580fb6c63",
+    "title": "How Singapore's government-run dating service works",
+    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 17\n# Comments: 8",
+    "publishedAt": "2026-10-02T01:56:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ee7ba4349fcf3cbf",
+    "title": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered",
+    "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "But Switch 2 owners might have to wait a little longer.\nGeralt returned in The Witcher 3 Remastered earlier this week, and while the remaster is in a playable state, various issues have been identifie",
+    "publishedAt": "2026-10-02T01:55:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "70339005d0202a51",
+    "title": "Robotaxi operators will face fines for blocking first responders",
+    "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "A new California law places new rules on autonomous vehicles operators",
+    "publishedAt": "2026-10-02T00:57:57.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "107c95253396b109",
+    "title": "Video: Octopath Traveler I & II Side-By-Side Graphics Comparison (Switch 1 & 2)",
+    "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Spot the difference.\nFollowing a surprise announcement in July, Square Enix has officially released Octopath Traveler and Octopath Traveler 2 on the Switch 2 this week. If you are wondering how the HD",
+    "publishedAt": "2026-10-02T00:35:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/video-octopath-traveler-i-and-ii-side-by-side-graphics-comparison-switch-1-and-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "029749e5d330cc9e",
+    "title": "Key Takeaways From Bloomberg’s Screentime Conference: TOPLive",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-02/key-takeaways-from-bloomberg-s-screentime-conference-toplive",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Here are some of the key takeaways from Bloomberg’s two-day Screentime Conference in Los Angeles:",
+    "publishedAt": "2026-10-02T00:06:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-02/key-takeaways-from-bloomberg-s-screentime-conference-toplive"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "71bf6afee5fc842d",
+    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+    "publishedAt": "2026-10-02T00:03:23.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "54208033f98519bc",
+    "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of ",
+    "publishedAt": "2026-10-02T00:03:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "551e011727af6f51",
+    "title": "SoftBank Stock Investors See Past Credit Risks to AI Returns",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/softbank-investors-look-past-credit-risks-to-gauge-ai-upside",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "SoftBank Group Corp.’s equity investors are increasingly focused on the potential returns from its AI bets, helping the stock rebound even as the Japanese company faces higher borrowing costs.",
+    "publishedAt": "2026-10-01T23:30:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/softbank-investors-look-past-credit-risks-to-gauge-ai-upside"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "452ffd3fe7c0b5ba",
+    "title": "Gears Of War: E-Day’s Campaign Is Buried In The Past – Review",
+    "url": "https://www.gamespot.com/videos/gears-of-war-e-days-campaign-is-buried-in-the-past-review/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "The Coalition looks to the past with a prequel that's mostly more of the same.",
+    "publishedAt": "2026-10-01T23:21:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/videos/gears-of-war-e-days-campaign-is-buried-in-the-past-review/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c39ce3521525fcda",
+    "title": "Butterflies use optical illusions to dodge predators",
+    "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=49928152\nPoints: 21\n# Comments: 3",
+    "publishedAt": "2026-10-01T23:15:24.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d315aa5bb99e76d8",
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 166\n# Comments: 90",
+    "publishedAt": "2026-10-01T23:10:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://lwn.net/Articles/1097401/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5e79a14c51206af0",
+    "title": "Stripe Expands Hiring in Dublin Helping Offset AI Job Losses",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Stripe Inc. is expanding operations at its Dublin office, a boost to a city hit by a spate of artificial intelligence-related job cuts.",
+    "publishedAt": "2026-10-01T23:01:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/stripe-expands-hiring-in-dublin-helping-offset-ai-job-losses"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5d8de0704a8694a",
+    "title": "Invincible VS Open Beta Begins October 13: What You Need to Know",
+    "url": "https://news.xbox.com/en-us/2026/10/01/invincible-vs-open-beta-begins-october-13/",
+    "source": {
+      "name": "Xbox Wire",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "投融资/并购",
+    "summary": "One Angstrom Levy is more than enough. Unfortunately for “Invincible”, there are a whole lot more where he came from! Angstrom Levy is joining Invincible VS on October 13 as our third DLC fighter and ",
+    "publishedAt": "2026-10-01T23:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.543Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/01/invincible-vs-open-beta-begins-october-13/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b18ced003f0a5e35",
+    "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+    "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of th",
+    "publishedAt": "2026-10-01T22:51:36.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "db22fc63dfbac3d4",
+    "title": "Anthropic’s IPO filing maps the AI safety startup market",
+    "url": "https://www.cbinsights.com/research/newsletter-october-1-2026/",
+    "source": {
+      "name": "CB Insights",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Anthropic’s S-1 just leaked, with ~80 pages on risk factors, including the usual concerns like losses, compute costs, and customer concentration, according to Reuters. But some of the more unusual one",
+    "publishedAt": "2026-10-01T22:33:58.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.075Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/research/newsletter-october-1-2026/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ac601a7cfc9babd4",
+    "title": "Burnham searches for UK alternative to Palantir",
+    "url": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Prime minister’s ‘Buy British’ push triggers hunt to find replacement for controversial US tech group awarded health service and defence contracts",
+    "publishedAt": "2026-10-01T22:26:19.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e5b559e57b0491a0",
+    "title": "Frog and Toad and the Increasingly Capable Machines",
+    "url": "https://www.frogandtoad.ai/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 58\n# Comments: 8",
+    "publishedAt": "2026-10-01T22:23:38.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.frogandtoad.ai/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5eac50629b789dda",
+    "title": "Aweb – Communication for AI Agents",
+    "url": "https://aweb.ai",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 28\n# Comments: 20",
+    "publishedAt": "2026-10-01T22:02:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://aweb.ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1aebf3b618fd8dd0",
+    "title": "Russell Reynolds CEO on C-Suite Leadership & New Book",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-01/russell-reynolds-ceo-on-c-suite-leadership-new-book-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Constantine Alexandrakis, who leads Russell Reynolds Associates and wrote The Catalyst CEO, joins to discuss the leadership challenge and the idea that CEOs cannot drive transformation alone. The disc",
+    "publishedAt": "2026-10-01T21:57:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-01/russell-reynolds-ceo-on-c-suite-leadership-new-book-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "73d924e11ab21c96",
+    "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+    "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+    "publishedAt": "2026-10-01T21:57:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba8411b4a2ade506",
+    "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+    "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+    "publishedAt": "2026-10-01T21:55:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "70884b461ed11dc5",
+    "title": "Nike Earnings Disappoint as China Sales Lag",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-01/the-close-10-1-2026-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "产业动态",
+    "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Ferguson CEO Kevin Murphy, Envestnet ",
+    "publishedAt": "2026-10-01T21:54:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-01/the-close-10-1-2026-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "58d30962169758b9",
+    "title": "Who’s on both sides? The investors backing rival coding agents",
+    "url": "https://www.cbinsights.com/research/coding-agent-investor-overlap/",
+    "source": {
+      "name": "CB Insights",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "综合",
+    "summary": "The Factory-Cognition fight is also an investor fight. Factory says it fired a board adviser for sharing information with Cognition. He says he resigned, denies sharing anything, and has since joined ",
+    "publishedAt": "2026-10-01T21:53:47.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.075Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/research/coding-agent-investor-overlap/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7da538a27d749419",
+    "title": "Spider-Man and One Piece are getting an official crossover…kind of",
+    "url": "https://www.destructoid.com/spider-man-and-one-piece-are-getting-an-official-crossover-kind-of/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "With great power comes even greater aura.\nThe post Spider-Man and One Piece are getting an official crossover…kind of appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T21:51:36.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/spider-man-and-one-piece-are-getting-an-official-crossover-kind-of/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d58220f22d6e8f18",
+    "title": "EY-Parthenon’s Guerzoni on Latest CEO Outlook Survey",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-01/ey-parthenon-s-guerzoni-on-latest-ceo-outlook-survey-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "In an exclusive interview on Bloomberg The Close, Andrea Guerzoni, EY Global Vice Chair, discusses a pullback in EY Parthenon’s latest CEO outlook survey. Guerzoni points to the survey’s confidence re",
+    "publishedAt": "2026-10-01T21:43:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-01/ey-parthenon-s-guerzoni-on-latest-ceo-outlook-survey-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8d9e9f77f070bec6",
+    "title": "Best players for FC 27 Frontline Flair Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-frontline-flair-evolution/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "A bit of style! \nThe post Best players for FC 27 Frontline Flair Evolution appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T21:32:49.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/best-players-for-fc-27-frontline-flair-evolution/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "955a99c840cdd555",
+    "title": "Ferguson CEO on the State of the AI Buildout in the U.S.",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-01/ferguson-ceo-on-the-state-of-the-ai-buildout-in-the-u-s-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Kevin Murphy, CEO of Ferguson, joins the program to discuss broader manufacturing conditions. Murphy notes that manufacturing appeared to emerge from a multiyear slump earlier in the year, helped by s",
+    "publishedAt": "2026-10-01T21:23:28.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-01/ferguson-ceo-on-the-state-of-the-ai-buildout-in-the-u-s-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "199e14b201fba6c8",
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "url": "https://www.cssbed.com",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 75\n# Comments: 17",
+    "publishedAt": "2026-10-01T21:21:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.cssbed.com"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "07c14e1aa736f4f8",
+    "title": "Silent Hill-Like Uses Phones To Parry, Because Even Anime Girls Know Tech Is A Weapon",
+    "url": "https://www.gamespot.com/articles/silent-hill-like-uses-phones-to-parry-because-even-anime-girls-know-tech-is-a-weapon/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The survival-horror genre was born about 30 years ago, when people were scared of long shadows in Resident Evil's mansion, or of Silent Hill's medical gauzy fog -- but we've since moved on to more ins",
+    "publishedAt": "2026-10-01T21:14:28.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/silent-hill-like-uses-phones-to-parry-because-even-anime-girls-know-tech-is-a-weapon/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f64457ccef72c364",
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "publishedAt": "2026-10-01T21:08:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "622b7c43943ab7ba",
+    "title": "How Silent Hill: Townfall’s “Creepy Game Boy” Weaponizes Nostalgia For The Better",
+    "url": "https://www.gamespot.com/articles/how-silent-hill-townfalls-creepy-game-boy-weaponizes-nostalgia-for-the-better/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": ". \nI have a complicated relationship with the 1990s, an era remembered for its hazy pre-HD tech and early signs of broader connectivity without the mentally taxing standard of an always-online world. ",
+    "publishedAt": "2026-10-01T21:00:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/how-silent-hill-townfalls-creepy-game-boy-weaponizes-nostalgia-for-the-better/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6a75576dfcae8613",
+    "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+    "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+    "publishedAt": "2026-10-01T21:00:03.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aaf339849897303c",
+    "title": "GTA 6 – 10 Details We Learned From The Game Informer Cover Story",
+    "url": "https://www.gamespot.com/videos/gta-6-10-details-we-learned-from-the-game-informer-cover-story/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Game Informer put out an exclusive cover story on Rockstar's Grand Theft Auto VI, and it is packed with new details. Here are the biggest things we discovered in the article.",
+    "publishedAt": "2026-10-01T21:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/videos/gta-6-10-details-we-learned-from-the-game-informer-cover-story/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3c4ab7889c2ccf53",
+    "title": "GTA VI Predictably Gets a Mature ESRB Rating",
+    "url": "https://www.siliconera.com/gta-vi-predictably-gets-a-mature-esrb-rating/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "GTA VI got a Mature ESRB rating like past Grand Theft Auto games, and the new title's content descriptors are identical too.",
+    "publishedAt": "2026-10-01T21:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.464Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/gta-vi-predictably-gets-a-mature-esrb-rating/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d16892f4d8ebeb84",
+    "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state ",
+    "publishedAt": "2026-10-01T21:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "026cd2e58987d1c0",
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+    "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 96\n# Comments: 17",
+    "publishedAt": "2026-10-01T20:48:37.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eacb7fc5504f72be",
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "url": "https://github.com/Vibra-Ingenn/Janus",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 57\n# Comments: 8",
+    "publishedAt": "2026-10-01T20:36:47.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://github.com/Vibra-Ingenn/Janus"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "213c6f17d5d6064f",
+    "title": "Rising Yields Are Wreaking Havoc on Stocks Outside the AI Trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/rising-yields-are-wreaking-havoc-on-stocks-outside-the-ai-trade",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "After the 10-year Treasury yield rose as high as 5.34% for the first time since 2002, stock traders are fiercely debating when the selloff in bonds will start to trigger pain for a resilient US stock ",
+    "publishedAt": "2026-10-01T20:30:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/rising-yields-are-wreaking-havoc-on-stocks-outside-the-ai-trade"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9b136a20e472933b",
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 149\n# Comments: 144",
+    "publishedAt": "2026-10-01T20:23:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://automatictransmission.khoury.northeastern.edu/index.html"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "817c31d46998044e",
+    "title": "SvelteKit 3",
+    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 157\n# Comments: 58",
+    "publishedAt": "2026-10-01T20:14:23.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://svelte.dev/blog/sveltekit-3-is-here"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2af0edd2b666f973",
+    "title": "Anthropic Said to Plan Pre-IPO Investor Day as Listing Nears",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-is-said-to-plan-pre-ipo-investor-day-as-listing-nears",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Anthropic PBC is set to meet prospective investors on Oct. 14 in preparation for its initial public offering, according to people familiar with the matter, advancing its plan for a potential blockbust",
+    "publishedAt": "2026-10-01T20:14:03.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-is-said-to-plan-pre-ipo-investor-day-as-listing-nears"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0d287617ba27c70b",
+    "title": "ArXiv's Updated Rate Limit Policy",
+    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "政策法规",
+    "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 85\n# Comments: 36",
+    "publishedAt": "2026-10-01T20:12:15.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "79c18424fd2c20cd",
+    "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Top artificial intelligence firms are working to convince people to use their tools for more sensitive tasks.",
+    "publishedAt": "2026-10-01T20:00:01.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d9ebb731ce270ba6",
+    "title": "New FFXIV Mouse and Mouse Pads Reference Regulators and The Arcadion Bosses",
+    "url": "https://www.siliconera.com/new-ffxiv-mouse-and-mouse-pads-reference-regulators-and-the-arcadion-bosses/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "The new Taito and Square Enix FFXIV Dawntrail mouse and mouse pads reference Solution Nine Regulators and The Arcadion Bosses.",
+    "publishedAt": "2026-10-01T20:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/new-ffxiv-mouse-and-mouse-pads-reference-regulators-and-the-arcadion-bosses/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e8907f7801927991",
+    "title": "GTA 6’s ESRB rating mirrors GTA 5’s, so I expect even more of the same levels of crude ridiculousness",
+    "url": "https://www.destructoid.com/gta6-esrb-rating-mirrors-gta5-crude-ridiculousness/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "I hope it gets even weirder.\nThe post GTA 6’s ESRB rating mirrors GTA 5’s, so I expect even more of the same levels of crude ridiculousness appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T19:56:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/gta6-esrb-rating-mirrors-gta5-crude-ridiculousness/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "68a0637f0a0864f2",
+    "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/us-further-targets-iran-linked-russian-a7-financial-network",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "出海/全球化",
+    "summary": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
+    "publishedAt": "2026-10-01T19:51:19.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/us-further-targets-iran-linked-russian-a7-financial-network"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6740c72e272a106e",
+    "title": "Google’s new Guided Vision feature can help you read the fine print",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gem",
+    "publishedAt": "2026-10-01T19:47:51.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ace7cf6faa44e5e2",
+    "title": "Complete Transport Fever 3 walkthrough: Campaign 1",
+    "url": "https://www.destructoid.com/complete-transport-fever-3-walkthrough-campaigns/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Different stories across the eras. \nThe post Complete Transport Fever 3 walkthrough: Campaign 1 appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T19:46:50.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/complete-transport-fever-3-walkthrough-campaigns/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "55bfec0640552943",
+    "title": "The Boba Teashop: Refill announced for PS5, Xbox Series, and PC",
+    "url": "https://www.gematsu.com/2026/10/the-boba-teashop-refill-announced-for-ps5-xbox-series-and-pc",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Serafini Productions has announced first-person psychological horror game The Boba Teashop: Refill for PlayStation 5, …",
+    "publishedAt": "2026-10-01T19:45:20.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/the-boba-teashop-refill-announced-for-ps5-xbox-series-and-pc"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b2133403e552f910",
+    "title": "Executive Interview: ideaForge",
+    "url": "https://www.cbinsights.com/research/executive-interview-ideaforge/",
+    "source": {
+      "name": "CB Insights",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Ezhilan Nanmaran, Chief Product Officer (CPO) of ideaForge, tells CB Insights how they view the market, customer needs, and their company.   How do you define your market and where does your company f",
+    "publishedAt": "2026-10-01T19:39:14.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.075Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/research/executive-interview-ideaforge/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83f6759dfaf61e2a",
+    "title": "PSA: Please Allow My Very Expensive Steam Frame Mistake To Help You, Fellow Glasses Wearers",
+    "url": "https://www.gamespot.com/articles/psa-please-allow-my-very-expensive-steam-frame-mistake-to-help-you-fellow-glasses-wearers/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The reservation/queue process for Steam Frame continues, with those lucky enough to be randomly selected already able to receive their orders. I'm just such a person, and it turns out I can't use the ",
+    "publishedAt": "2026-10-01T19:38:15.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/psa-please-allow-my-very-expensive-steam-frame-mistake-to-help-you-fellow-glasses-wearers/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4bc31053e0375804",
+    "title": "Base PS5 Finally Gets Its Own Version of PSSR Upscaling",
+    "url": "https://80.lv/articles/base-ps5-finally-gets-its-own-version-of-pssr-upscaling/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "The new feature for PS5 is called Quick Spectral Super Resolution, or QSSR, and it uses a streamlined neural network to improve image detail and stability without the PS5 Pro’s dedicated machine-learn",
+    "publishedAt": "2026-10-01T19:38:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/base-ps5-finally-gets-its-own-version-of-pssr-upscaling/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2ac2da880a72cd8",
+    "title": "Amazon Jet Lacked Wind Data Before Miami Crash, NTSB Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "An air traffic controller didn’t provide an Amazon.com Inc. cargo plane with wind information prior to it crashing at Miami International Airport last month, killing five people on the ground, accordi",
+    "publishedAt": "2026-10-01T19:37:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9836373406bed433",
+    "title": "Survival horror game Signal Veil announced for PS5, Xbox Series, Switch 2, and PC",
+    "url": "https://www.gematsu.com/2026/10/survival-horror-game-signal-veil-announced-for-ps5-xbox-series-switch-2-and-pc",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Serafini Productions has announced third-person survival horror game Signal Veil for PlayStation 5, Xbox Series, …",
+    "publishedAt": "2026-10-01T19:35:21.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/survival-horror-game-signal-veil-announced-for-ps5-xbox-series-switch-2-and-pc"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9b9edebdd384270d",
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 882\n# Comments: 295",
+    "publishedAt": "2026-10-01T19:33:05.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://earendil.com/posts/pi-1-0/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9ec40ee620056d36",
+    "title": "BrokenLore: MIKI-CHAN announced for PS5, Xbox Series, and PC",
+    "url": "https://www.gematsu.com/2026/10/brokenlore-miki-chan-announced-for-ps5-xbox-series-and-pc",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Serafini Productions has announced first-person psychological horror game BrokenLore: MIKI-CHAN for PlayStation 5, Xbox Series, …",
+    "publishedAt": "2026-10-01T19:30:20.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/brokenlore-miki-chan-announced-for-ps5-xbox-series-and-pc"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "53a64e1e9ed9436a",
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments)\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 276\n# Comments: 34",
+    "publishedAt": "2026-10-01T19:24:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://earendil.com/posts/pi-durable/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc70948c064d091d",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "publishedAt": "2026-10-01T19:21:53.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7721aa0681a92a30",
+    "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
+    "url": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing.\nYesterday, four of the six staffe",
+    "publishedAt": "2026-10-01T19:20:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1003735/android-central-layoffs"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0c9313b2b1fb92d1",
+    "title": "PS5’s Exciting New Zelda-Like Kena Game Just Got Delayed",
+    "url": "https://www.gamespot.com/articles/ps5s-exciting-new-zelda-like-kena-game-just-got-delayed/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Developer Ember Lab has announced that its upcoming PS5 game Kena: Scars of Kosmora, the sequel to 2021's much-loved Kena: Bridge of Spirits, has been delayed. The game--which gives off major Zelda vi",
+    "publishedAt": "2026-10-01T19:19:51.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/ps5s-exciting-new-zelda-like-kena-game-just-got-delayed/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "20c4b9d47cd46efa",
+    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "publishedAt": "2026-10-01T19:18:03.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "324038cf3add70cc",
+    "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+    "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 87\n# Comments: 5",
+    "publishedAt": "2026-10-01T19:03:42.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b48dd4da4ac634a4",
+    "title": "Persona 5: The Phantom X Opera GX Promotion Starts",
+    "url": "https://www.siliconera.com/persona-5-the-phantom-x-opera-gx-promotion-starts/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "An Opera GX Persona 5: The Phantom X promotion is running that gives people a free four-star character ticket.",
+    "publishedAt": "2026-10-01T19:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/persona-5-the-phantom-x-opera-gx-promotion-starts/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f8c470b33cf99b0a",
+    "title": "Sony Purportedly Plotting New Ape Escape, as Redemption Arc Starts",
+    "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Monkey business.\nI think it’s worth acknowledging that in the last few weeks we’ve got word of a new Killzone and Uncharted, while Sony has rolled out new technology that backports its PSSR upscaler t",
+    "publishedAt": "2026-10-01T19:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/sony-purportedly-plotting-new-ape-escape-as-redemption-arc-starts"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f9473ba1b72da33e",
+    "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+    "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "The Steam Deck LCD’s “Aerith” APU. | Photo by Fritzchens Fritz\t\n\nThe Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said ",
+    "publishedAt": "2026-10-01T18:52:58.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1bc2646d2276a3d9",
+    "title": "All characters in Dynasty Warriors 3: Complete Edition Remastered and how to unlock them",
+    "url": "https://www.destructoid.com/all-characters-in-dynasty-warriors-3-complete-edition-remastered-and-how-to-unlock-them/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Start the run! \nThe post All characters in Dynasty Warriors 3: Complete Edition Remastered and how to unlock them appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T18:49:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/all-characters-in-dynasty-warriors-3-complete-edition-remastered-and-how-to-unlock-them/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2388f9bbec96cc59",
+    "title": "PS5's New QSSR AI Upscaling Tech Should Make For Some Interesting Xbox Comparisons",
+    "url": "https://www.purexbox.com/news/2026/10/ps5s-new-qssr-ai-upscaling-tech-should-make-for-some-interesting-xbox-comparisons",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "And it may indicate where Xbox is heading in the future as well.\nAs you may have seen over at our sister site Push Square today, Sony has announced that AI upscaling is coming to the base PS5 in the f",
+    "publishedAt": "2026-10-01T18:37:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.895Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/ps5s-new-qssr-ai-upscaling-tech-should-make-for-some-interesting-xbox-comparisons"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "286702c01fce2fd8",
+    "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+    "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+    "publishedAt": "2026-10-01T18:35:55.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6f70640af19060b6",
+    "title": "CFPB Cuts May Leave Personal Financial Data at Risk, Report Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/cfpb-cuts-may-leave-personal-financial-data-at-risk-report-says",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "US government databases containing sensitive financial information for millions of Americans may have been placed at risk after the Trump administration gutted the Consumer Financial Protection Bureau",
+    "publishedAt": "2026-10-01T18:34:24.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/cfpb-cuts-may-leave-personal-financial-data-at-risk-report-says"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e7ff5455361409d9",
+    "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
+    "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Rockstar's Grand Theft Auto 6 includes a number of updates and improvements over the developer's past games, and that includes new weather systems.\nRockstar's vice president of art for lighting and re",
+    "publishedAt": "2026-10-01T18:30:55.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/gta-6s-weather-system-sounds-like-a-big-step-up/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d0aa935119789a92",
+    "title": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
+    "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "\"It's great to be improving the PS5 this far into the generation\".\nSony is rolling out new tools for devs which will potentially make the base PS5 experience better for everyone, as the console approa",
+    "publishedAt": "2026-10-01T18:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "04016b4c5e57ee1f",
+    "title": "OpenAI Parts Ways With 3 Workers Over Mishandling Information",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI has parted ways with three employees for violating company policies on how private information should be handled, including for allegedly sharing it with an outside group.",
+    "publishedAt": "2026-10-01T18:27:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0f3e52cdd80233aa",
+    "title": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me",
+    "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "Ascendance of a bookworm.\nWho the hell is responsible for this, and why have they been rummaging around in my brain?\nWe often joke about so-called Sammy Games™ here at Push Square Towers, but never ha",
+    "publishedAt": "2026-10-01T18:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7f938778420c03ad",
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "publishedAt": "2026-10-01T18:14:42.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4f9603b6851defa9",
+    "title": "The Steam Autumn Sale is live—here are some of its hottest deals",
+    "url": "https://www.destructoid.com/steam-autumn-sale-deals/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Here's what the Autumn sale has to offer. \nThe post The Steam Autumn Sale is live—here are some of its hottest deals appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T18:13:33.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/steam-autumn-sale-deals/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f7fd758439591f67",
+    "title": "Build Applications on NVIDIA BlueField Faster with NVIDIA DOCA Agent Skills",
+    "url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "AI agents are becoming a standard part of development workflows, but general-purpose agents weren't built with specialized infrastructure software such as...\nAI agents are becoming a standard part of ",
+    "publishedAt": "2026-10-01T18:13:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.393Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a698b79619728662",
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "url": "https://tangled.org/burrito.space/bez",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 93\n# Comments: 42",
+    "publishedAt": "2026-10-01T18:08:03.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://tangled.org/burrito.space/bez"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bd8ce2308eb80c31",
+    "title": "Fan Game, Pokemon Wordle, to Be Taken Down",
+    "url": "https://www.siliconera.com/fan-game-pokemon-wordle-to-be-taken-down/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "NYT asked for the game, which came out in 2022, to be removed.",
+    "publishedAt": "2026-10-01T18:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/fan-game-pokemon-wordle-to-be-taken-down/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7f6b9d99dce00408",
+    "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples",
+    "url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Adding AI models to local applications requires a portable model format, a reliable runtime, and acceleration that works across target systems. Do Inference Now...\nAdding AI models to local applicatio",
+    "publishedAt": "2026-10-01T17:59:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.394Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/build-local-ai-apps-with-c-and-nvidia-tensorrt-rtx-samples/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "796b50521b5c3ede",
+    "title": "The Best Steam Autumn Sale 2026 Deals",
+    "url": "https://www.gamespot.com/articles/the-best-steam-autumn-sale-deals/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "We're headed toward the end of 2026, and right on cue, it's time for the third big Steam sale of the year. The Steam Autumn Sale runs October 1-7, and as you'd expect in a month with tempting pumpkin-",
+    "publishedAt": "2026-10-01T17:59:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-best-steam-autumn-sale-deals/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "328db76b4afea1f2",
+    "title": "Blizzard Isn’t Fixing Diablo 4 Season 15’s Biggest Bug",
+    "url": "https://www.gamespot.com/articles/blizzard-isnt-fixing-diablo-4-season-15s-biggest-bug/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Diablo 4 Season 15's biggest bug, one revolving around Hellfire Torch and being able to equip more Unique charms than should be possible, won't be fixed this season, Blizzard has announced.\nHellfire T",
+    "publishedAt": "2026-10-01T17:53:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/blizzard-isnt-fixing-diablo-4-season-15s-biggest-bug/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "54b535ddb7e24cf9",
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "publishedAt": "2026-10-01T17:50:19.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4080f29bfb240506",
+    "title": "Gears of War: E-Day is the Highest-Rated Gears Game in Over 15 Years",
+    "url": "https://80.lv/articles/gears-of-war-e-day-is-the-highest-rated-gears-game-in-over-15-years/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "The Coalition’s critically acclaimed Gears of War prequel combines the series’ strongest combat in years with hardware ray tracing, Nanite environments, real-time destruction, and hundreds of dynamica",
+    "publishedAt": "2026-10-01T17:46:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/gears-of-war-e-day-is-the-highest-rated-gears-game-in-over-15-years/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba4435f22a2e31ea",
+    "title": "VOID/BREAKER launches November 4",
+    "url": "https://www.gematsu.com/2026/10/void-breaker-launches-november-4",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Fast-paced roguelite first-person shooter VOID/BREAKER will leave Early Access and launch for PlayStation 5, Xbox …",
+    "publishedAt": "2026-10-01T17:35:35.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/void-breaker-launches-november-4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eab13fd1725ee8c5",
+    "title": "Vote on which of Hacker News' challenges for AI have been met",
+    "url": "https://stoppels.ch/goalposts/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: https://stoppels.ch/goalposts/\nComments URL: https://news.ycombinator.com/item?id=49924618\nPoints: 108\n# Comments: 117",
+    "publishedAt": "2026-10-01T17:32:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://stoppels.ch/goalposts/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "191ca02b5229668f",
+    "title": "Best players for FC 27 Backline Conductor Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-backline-conductor-evolution/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Shielding the back! \nThe post Best players for FC 27 Backline Conductor Evolution appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T17:29:55.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/best-players-for-fc-27-backline-conductor-evolution/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5a476334110869c0",
+    "title": "Creating an Alien Character for a Sci-Fi Short Film with Blender & Substance 3D",
+    "url": "https://80.lv/articles/creating-an-alien-character-for-a-sci-fi-short-film-with-blender-substance-3d/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Artur Ledur talked to us about character development for a sci-fi short film under a one-week deadline and discussed working on the design and armor, texturing, and matching the character to the film'",
+    "publishedAt": "2026-10-01T17:28:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/creating-an-alien-character-for-a-sci-fi-short-film-with-blender-substance-3d/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "116ebfaad941e226",
+    "title": "80 Level Contest: Win a Steam Key for Express Car Wash Simulator",
+    "url": "https://80.lv/articles/80-level-contest-win-a-steam-key-for-express-car-wash-simulator/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Wash filthy cars, upgrade your shop, and watch out for suspicious customers in Express Car Wash Simulator. We're giving away 5 Steam keys – get ready to clean up without leaving your gaming chair!",
+    "publishedAt": "2026-10-01T17:19:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/80-level-contest-win-a-steam-key-for-express-car-wash-simulator/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b6f2c4e72dfb3b30",
+    "title": "Wolverine Adds Sony's New QSSR Tech as Default on Base PS5 in Latest Patch",
+    "url": "https://www.pushsquare.com/news/2026/10/wolverine-adds-sonys-new-qssr-tech-as-default-on-base-ps5-in-latest-patch",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "Insomniac living up to its name.\nAs announced moments ago, base PS5 hardware is getting a big update, with the introduction of QSSR – a simplified version of Sony’s proprietary upscaler, better known ",
+    "publishedAt": "2026-10-01T17:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/wolverine-adds-sonys-new-qssr-tech-as-default-on-base-ps5-in-latest-patch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d4606327912a54d0",
+    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere",
+    "publishedAt": "2026-10-01T17:12:21.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "239777aea2cb8d99",
+    "title": "This startup wants to turn idle car inventory into rental revenue",
+    "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "产业动态",
+    "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at",
+    "publishedAt": "2026-10-01T17:09:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fb223806e288c9ea",
+    "title": "PS5 Just Got A PS5 Pro-Like AI Upgrade, But Don’t Expect It Everywhere Yet",
+    "url": "https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The base PS5 console is no slouch when it comes to games, but compared to the PS5 Pro, it doesn't pack the same visual punch. That could change soon, as Sony has unveiled a new AI-upscaling upgrade fo",
+    "publishedAt": "2026-10-01T17:04:53.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/ps5-just-got-a-ps5-pro-like-ai-upgrade-but-dont-expect-it-everywhere-yet/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ece7fa110049b7c1",
+    "title": "Suppressing Noise Without Sacrificing Lighting Quality When Using Unreal Engine's Lumen",
+    "url": "https://80.lv/articles/suppressing-noise-without-sacrificing-lighting-quality-when-using-unreal-engine-s-lumen/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Aleksander Goryachev talks us through his Unreal Engine lighting setup to show how to reduce unnecessary noise in complex scenes with numerous lighting sources.",
+    "publishedAt": "2026-10-01T17:04:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/suppressing-noise-without-sacrificing-lighting-quality-when-using-unreal-engine-s-lumen/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ad9722395474c89a",
+    "title": "Here’s Your Chance To Get Monster Hunter Stories 3 And Two Other Steam Games For Just $5",
+    "url": "https://www.gamespot.com/articles/heres-your-chance-to-get-monster-hunter-stories-3-and-two-other-steam-games-for-just-5/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "While the dodging, slicing, and carving of your standard Monster Hunter affair is great fun, the Monster Hunter Stories spin-off series gives you more to love about this… monster-hunting world. Instea",
+    "publishedAt": "2026-10-01T17:02:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/heres-your-chance-to-get-monster-hunter-stories-3-and-two-other-steam-games-for-just-5/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8d98ad601e5cc3d0",
+    "title": "What is QSSR? PS5’s new AI upscaler, explained",
+    "url": "https://www.destructoid.com/qssr-ps5-explained/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Here is what Sony's new QSSR technology does and what you can expect from it. \nThe post What is QSSR? PS5’s new AI upscaler, explained appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T17:00:36.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/qssr-ps5-explained/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d76f51db63ca5542",
+    "title": "《艾尔塔：逆神》26年2月2日正式发售，游戏试玩版现已推出",
+    "url": "https://www.gcores.com/articles/220400",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Focus Entertainment 发行团队与 Afterburner Studios 欣然宣布，于 8 月 25 日科隆游戏展开幕夜直播首次公开的《艾尔塔：逆神》，将于 2027 年 2 月 2 日登陆 PC（Steam）、PlayStation 5 以及 Xbox Series X|S 平台。为让玩家亲身体验这款节奏火爆的动作平台游戏，全平台现已上线免费试玩版，游戏本体同步开启预购。观看视",
+    "publishedAt": "2026-10-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220400"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "18ddacceacce8002",
+    "title": "《星际战士2》第三年运营周期今日开启，周年纪念更新现已上线",
+    "url": "https://www.gcores.com/articles/220398",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Focus Entertainment 与 Saber Interactive 欣然宣布，《战锤40K：星际战士2》“二周年更新”正式上线，游戏发售后续内容支持的第三年也由此开启。本次更新现已面向所有 PlayStation 5、Xbox Series 及 PC 玩家开放，带来全新游戏模式与成长机制；拥有第三季季票的玩家还可获得两款外观 DLC。\n\n\n\n\n15 号补丁详情：全新混沌领衔围攻模式、坩",
+    "publishedAt": "2026-10-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220398"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "a8ff67a8c8d3d6e1",
+    "title": "Castlevania: Belmont’s Curse Demo Debuts",
+    "url": "https://www.siliconera.com/castlevania-belmonts-curse-demo-debuts/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "It's now possible to test out Castlevania: Belmont's Curse on the Switch, PS5, Xbox Series X, and PC with a demo.",
+    "publishedAt": "2026-10-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/castlevania-belmonts-curse-demo-debuts/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c4124cbcda2fe3ca",
+    "title": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium",
+    "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "Quiet week, eh?\nAfter last week's charts came in a little later than usual, it has only been a matter of days since we last caught up with the Japanese game sales numbers, but Famitsu waits for no one",
+    "publishedAt": "2026-10-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "826b0e2d11af5998",
+    "title": "Yazoo! Croc 2 Remaster Release Date Confirmed for Late October on PS5, PS4",
+    "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Kingdom of the Gobbos returns.\nPublisher and developer Argonaut Games has announced the release date for Croc 2: Kingdom of the Gobbos, a remaster of the second game in the beloved platformer series.\n",
+    "publishedAt": "2026-10-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/yazoo-croc-2-remaster-release-date-confirmed-for-late-october-on-ps5-ps4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a3c7f15bfe5f14b8",
+    "title": "Roundup: Here's What The Critics Have To Say About Gears Of War: E-Day",
+    "url": "https://www.purexbox.com/news/2026/10/roundup-heres-what-the-critics-have-to-say-about-gears-of-war-e-day",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Early access begins today and joins Ultimate and PC Game Pass on October 6th.\nIt's been a long road to release for Gears of War: E-Day, and finally, the time has come to share the official word with t",
+    "publishedAt": "2026-10-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.896Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/roundup-heres-what-the-critics-have-to-say-about-gears-of-war-e-day"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b8087b88cb63ae7f",
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "publishedAt": "2026-10-01T17:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.061Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-eternal-complement"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba7d73ca40f2b4c2",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 262\n# Comments: 264",
+    "publishedAt": "2026-10-01T16:57:03.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://blog.gitbutler.com/git-3-sha-256"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8718c95119e41fe9",
+    "title": "Sony brings AI graphics upscaling to the regular PS5",
+    "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a resu",
+    "publishedAt": "2026-10-01T16:53:39.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bbf22757856c25fd",
+    "title": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set",
+    "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Expect it to sell out.\nIt’s been rumoured for quite some time, but here’s your first look at the official LEGO PS1 set, as spotted in-store by a Brick Tap News member. It’s due out on 1st October.\nThe",
+    "publishedAt": "2026-10-01T16:50:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6e7c4c59a5b48627",
+    "title": "Google Faces $3.2 Billion Damage Claims on Ad-Tech Monopoly",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/google-to-face-3-2-billion-damage-claims-over-ad-tech-monopoly",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "USA Today Co., Daily Mail General and Trust Plc and a class of large publishers can seek more than $3.2 billion in damages for harm caused by monopolization of advertising technology markets by Alphab",
+    "publishedAt": "2026-10-01T16:49:33.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/google-to-face-3-2-billion-damage-claims-over-ad-tech-monopoly"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4dae654fec00a13b",
+    "title": "Amazon releases its own Jev clone as decision models flood the web",
+    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+    "publishedAt": "2026-10-01T16:49:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "364251a64b380804",
+    "title": "Introducing Financial Audit Bench: Evaluating Audit Capabilities of AI Agents",
+    "url": "https://lsvp.com/stories/introducing-financial-audit-bench/",
+    "source": {
+      "name": "Lightspeed Blog",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The post Introducing Financial Audit Bench: Evaluating Audit Capabilities of AI Agents appeared first on Lightspeed Venture Partners.",
+    "publishedAt": "2026-10-01T16:49:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.064Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Lightspeed Blog",
+        "url": "https://lsvp.com/stories/introducing-financial-audit-bench/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2d92623ab273d0c2",
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "publishedAt": "2026-10-01T16:44:35.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "43d3e9b49bf1f73c",
+    "title": "Sony touts newest AI upscaling tech called QSSR, available today on base PS5 consoles",
+    "url": "https://www.destructoid.com/sony-touts-newest-ai-upscaling-tech-called-qssr-available-today-on-base-ps5-consoles/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "AI just keeps on evolving, eh?\nThe post Sony touts newest AI upscaling tech called QSSR, available today on base PS5 consoles appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T16:38:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/sony-touts-newest-ai-upscaling-tech-called-qssr-available-today-on-base-ps5-consoles/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9ac87b88c0e6c1ce",
+    "title": "Invincible VS DLC character Angstrom Levy launches October 13",
+    "url": "https://www.gematsu.com/2026/10/invincible-vs-dlc-character-angstrom-levy-launches-october-13",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Publisher Skybound Games and developer Quarter Up will release three-versus-three tag fighting game Invincible VS …",
+    "publishedAt": "2026-10-01T16:38:18.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/invincible-vs-dlc-character-angstrom-levy-launches-october-13"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1cd74ec15be8de9f",
+    "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+    "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+    "publishedAt": "2026-10-01T16:35:25.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ffbe7a869d1246eb",
+    "title": "Croc 2: Kingdom of the Gobbos remaster launches October 29",
+    "url": "https://www.gematsu.com/2026/10/croc-2-kingdom-of-the-gobbos-remaster-launches-october-29",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "The remastered version of the 1999-released platformer Croc 2: Kingdom of the Gobbos will launch …",
+    "publishedAt": "2026-10-01T16:30:01.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/croc-2-kingdom-of-the-gobbos-remaster-launches-october-29"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4353ecf43874d842",
+    "title": "Ace Combat fans need to play its unhinged, apocalyptic, and influential spiritual little sister",
+    "url": "https://www.destructoid.com/ace-combat-fans-need-to-play-its-unhinged-apocalyptic-and-influential-spiritual-little-sister/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The sky is practically on fire.\nThe post Ace Combat fans need to play its unhinged, apocalyptic, and influential spiritual little sister appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T16:27:15.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/ace-combat-fans-need-to-play-its-unhinged-apocalyptic-and-influential-spiritual-little-sister/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "467df2069252c656",
+    "title": "The Xbox Cloud Gaming Controller Is Dead, Apparently",
+    "url": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects",
+    "publishedAt": "2026-10-01T16:25:57.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.444Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c0a0a5f5affd2692",
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 459\n# Comments: 167",
+    "publishedAt": "2026-10-01T16:18:57.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://blog.cloudflare.com/clef-decision-models/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "54ff5a75c88f5a11",
+    "title": "Steven Munsie",
+    "url": "https://lsvp.com/team-member/steven-munsie/",
+    "source": {
+      "name": "Lightspeed Blog",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The post Steven Munsie appeared first on Lightspeed Venture Partners.",
+    "publishedAt": "2026-10-01T16:15:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.064Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Lightspeed Blog",
+        "url": "https://lsvp.com/team-member/steven-munsie/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bf019f7950cb360b",
+    "title": "'Croc 2' Is Getting The Remaster Treatment Later This Month",
+    "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "School of Croc.\nThe team at Argonaut Games made it no secret that if last year's Croc: Legend of the Gobbos remaster performed well enough at launch, turning to the sequel would be the logical next st",
+    "publishedAt": "2026-10-01T16:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "533ca3ccb21b0e61",
+    "title": "PS5 AI upscaler Quick Spectral Super Resolution announced",
+    "url": "https://www.gematsu.com/2026/10/ps5-ai-upscaler-quick-spectral-super-resolution-announced",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "PlayStation 5 will introduce Quick Spectral Super Resolution—the base console equivalent of PlayStation 5 Pro’s …",
+    "publishedAt": "2026-10-01T16:12:59.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/ps5-ai-upscaler-quick-spectral-super-resolution-announced"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f9d13a94340ec81e",
+    "title": "Can VR glasses save VR?",
+    "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Sean wears the Meta VR Glasses. | Photo: Meta\t\n\nI'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicte",
+    "publishedAt": "2026-10-01T16:10:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "40710f23202e233b",
+    "title": "IKEA and XBOX YXSTABY Collection: How the Collaboration Came Together | Official XBOX Podcast",
+    "url": "https://news.xbox.com/en-us/2026/10/01/ikea-and-xbox-yxstaby-collection-how-the-collaboration-came-together-official-xbox-podcast/",
+    "source": {
+      "name": "Xbox Wire",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "In this episode of the Official XBOX Podcast, we’re bringing a bit more style and design to our lives, as we’re sitting down with the teams behind the collaboration between XBOX and IKEA. We’re checki",
+    "publishedAt": "2026-10-01T16:05:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.543Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/01/ikea-and-xbox-yxstaby-collection-how-the-collaboration-came-together-official-xbox-podcast/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4dd8f73cd2ee32b3",
+    "title": "Microsoft’s Office and Teams chief is leaving",
+    "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then too",
+    "publishedAt": "2026-10-01T16:02:37.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ed68526f7a15f49a",
+    "title": "RIP, vector database",
+    "url": "https://turbopuffer.com/blog/rip-vector-database",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 291\n# Comments: 78",
+    "publishedAt": "2026-10-01T16:01:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:10.802Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://turbopuffer.com/blog/rip-vector-database"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "37ffd07b95ba3abe",
+    "title": "AI upscaling is coming to PS5",
+    "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+    "source": {
+      "name": "PlayStation Blog",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "投融资/并购",
+    "summary": "Since the launch of PlayStation Spectral Super Resolution (PSSR) on PS5 Pro, players and developers have asked whether similar image-quality improvements could be brought to the PS5 console. PSSR anal",
+    "publishedAt": "2026-10-01T16:00:09.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:05.991Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "435bb87266372cfa",
+    "title": "New Animal Crossing Personal Marker Charms Include Raymond, Dom",
+    "url": "https://www.siliconera.com/new-animal-crossing-personal-marker-charms-include-raymond-dom/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The next Animal Crossing personal marker charms lets you use Raymond the cat, Dom the sheep, and Goldie the dog as accessories and keychains.",
+    "publishedAt": "2026-10-01T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/new-animal-crossing-personal-marker-charms-include-raymond-dom/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c04a93fea1c3319a",
+    "title": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show",
+    "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Wanted dead.\nA fairly robust re-release that has an upgrade path for existing owners, Ghost of Yotei: Complete Edition features both an additional chapter in Atsu's quest for revenge, titled Echoes of",
+    "publishedAt": "2026-10-01T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2ceb0a4c6a2ef3c7",
+    "title": "IKEA and XBOX Team Up on YXSTABY, a New Collection Made for Gaming at Home",
+    "url": "https://news.xbox.com/en-us/2026/10/01/ikea-xbox-gaming-collection-yxstaby/",
+    "source": {
+      "name": "Xbox Wire",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "IKEA and XBOX have partied up to launch a new gaming-inspired collection, YXSTABY, designed for gaming at home. Whether locking in or lounging out, in-game or on the sofa, the collection makes room fo",
+    "publishedAt": "2026-10-01T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.543Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/01/ikea-xbox-gaming-collection-yxstaby/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "637d3dfa247fa816",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "publishedAt": "2026-10-01T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.061Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/albertsons-reimagining-retail"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d86d6370acb4e221",
+    "title": "Inside Microsoft’s big Copilot rethink",
+    "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copi",
+    "publishedAt": "2026-10-01T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5dae27ee707fb0e4",
+    "title": "Metro Redux coming to PS5, Xbox Series on October 29",
+    "url": "https://www.gematsu.com/2026/10/metro-redux-coming-to-ps5-xbox-series-on-october-29",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Publisher Deep Silver and developer 4A Games will release PlayStation 5 and Xbox Series versions …",
+    "publishedAt": "2026-10-01T15:52:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/metro-redux-coming-to-ps5-xbox-series-on-october-29"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5f99e0dada186562",
+    "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+    "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The CEO promised to get more specific about his vision. But the details are still absent.",
+    "publishedAt": "2026-10-01T15:50:10.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d336c15bb12995ad",
+    "title": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook",
+    "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Let's try again, shall we?\nPublisher ININ has announced that it has effectively 'relaunched' R-Type Dimensions III with the release of a third major patch.\nThe latest patch primarily addresses boss fi",
+    "publishedAt": "2026-10-01T15:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "00055af898cbc094",
+    "title": "UE5 Tool For Drawing Production-Ready Pipes In Minutes",
+    "url": "https://80.lv/articles/ue5-tool-for-drawing-production-ready-pipes-in-minutes/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "PipeIt will be useful for any kind of artist building industrial, sci-fi, or plumbing scenes.",
+    "publishedAt": "2026-10-01T15:43:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/ue5-tool-for-drawing-production-ready-pipes-in-minutes/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aafba5329dd2e88c",
+    "title": "Best Gladiator build in Aion 2",
+    "url": "https://www.destructoid.com/best-gladiator-build-in-aion-2/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Like the Romans! \nThe post Best Gladiator build in Aion 2 appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T15:41:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/best-gladiator-build-in-aion-2/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "706ba86d3ba2b275",
+    "title": "ArcheAge Chronicles limited-time demo for PC launches October 19",
+    "url": "https://www.gematsu.com/2026/10/archeage-chronicles-limited-time-demo-for-pc-launches-october-19",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "XLGAMES will release a limited-time demo for open-world action MMORPG ArcheAge Chronicles for PC via …",
+    "publishedAt": "2026-10-01T15:36:35.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/archeage-chronicles-limited-time-demo-for-pc-launches-october-19"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a8c11764f963a4f2",
+    "title": "Two Metro Redux Games Are Getting Free Xbox Series X|S Upgrades This October",
+    "url": "https://www.purexbox.com/news/2026/10/two-metro-redux-games-are-getting-free-xbox-series-xs-upgrades-this-october",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "\"Several improvements and enhancements for modern hardware\".\nGreat news for Metro fans today! It's been announced that both Metro 2033 Redux and Metro Last Light Redux are getting free Xbox Series X a",
+    "publishedAt": "2026-10-01T15:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.896Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/two-metro-redux-games-are-getting-free-xbox-series-xs-upgrades-this-october"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "58e17e298ce313ea",
+    "title": "Free Play Days – FARCRY 6, Assassin’s Creed Odyssey, Avatar: Frontiers of Pandora, Skull and Bones, The Crew Motorfest",
+    "url": "https://news.xbox.com/en-us/2026/10/01/free-play-days-01-10-2026/",
+    "source": {
+      "name": "Xbox Wire",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "综合",
+    "summary": "Your weekend plans are officially set with Ubisoft’s Free Play Days takeover! FARCRY 6, Assassin’s Creed Odyssey, Avatar: Frontiers of Pandora, Skull and Bones, and The Crew Motorfest are free for all",
+    "publishedAt": "2026-10-01T15:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.543Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/01/free-play-days-01-10-2026/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0c1c3ef4216b58c2",
+    "title": "Sifu coming to iOS, Android on October 12",
+    "url": "https://www.gematsu.com/2026/10/sifu-coming-to-ios-android-on-october-12",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Sloclap will release iOS and Android versions of kung-fu third-person brawler Sifu on October 12, …",
+    "publishedAt": "2026-10-01T15:29:57.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/sifu-coming-to-ios-android-on-october-12"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "63571c918486ada9",
+    "title": "Free PS5 Upgrades for Metro 2033 and Last Light, Out This Month",
+    "url": "https://www.pushsquare.com/news/2026/10/free-ps5-upgrades-for-metro-2033-and-last-light-out-this-month",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "New PS5 versions from 29th October.\nMetro 2033 and Metro: Last Light appear to be on their way to PS5 in the form of native versions, if two fresh ESRB age ratings are to be believed.\nSpotted by Wario",
+    "publishedAt": "2026-10-01T15:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/free-ps5-upgrades-for-metro-2033-and-last-light-out-this-month"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a2d48c4baa3e1da5",
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "publishedAt": "2026-10-01T15:12:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6415a2459a66c984",
+    "title": "Elta: Defy All Gods launches February 2, 2027, demo now available",
+    "url": "https://www.gematsu.com/2026/10/elta-defy-all-gods-launches-february-2-2027-demo-now-available",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "“Adrenaline-fueled action platformer” Elta: Defy All Gods will launch for PlayStation 5, Xbox Series, and …",
+    "publishedAt": "2026-10-01T15:11:33.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/elta-defy-all-gods-launches-february-2-2027-demo-now-available"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f928531f96372519",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "url": "https://huggingface.co/blog/allenai/olmocore3",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "",
+    "publishedAt": "2026-10-01T15:01:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.000Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/allenai/olmocore3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ea5fcec719d87c43",
+    "title": "Martial arts meet fluid platforming in Elta: Defy All Gods, with a free PS5 demo out today",
+    "url": "https://blog.playstation.com/2026/10/01/martial-arts-meet-fluid-platforming-in-elta-defy-all-gods-with-a-free-ps5-demo-out-today/",
+    "source": {
+      "name": "PlayStation Blog",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "Take the punchy, fast-paced combat of a brawler, the tight platforming and exploration of a search-action game, and a cute dragon companion (who’s also the millennia-old god you worship), and blend ev",
+    "publishedAt": "2026-10-01T15:00:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:05.991Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/01/martial-arts-meet-fluid-platforming-in-elta-defy-all-gods-with-a-free-ps5-demo-out-today/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "464b8cea7896d277",
+    "title": "Village in the Shade Patch and DLC Update Roadmap Includes Animals and Events",
+    "url": "https://www.siliconera.com/village-in-the-shade-patch-and-dlc-update-roadmap-includes-animals-and-events/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Village in the Shade will get two launch patches with free content updates and the roadmap shows DLC comes next year.",
+    "publishedAt": "2026-10-01T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/village-in-the-shade-patch-and-dlc-update-roadmap-includes-animals-and-events/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "974d58afd8cae983",
+    "title": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For October & November 2026",
+    "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Right in the 'vania.\nDarkness falls across the land, the midnight hour is close at hand...\nYes, Halloween is less than a month away, which means publishers are racing to get their spooky games onto co",
+    "publishedAt": "2026-10-01T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-october-and-november-2026"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0030cc8a3ef34062",
+    "title": "Gears of War: E-Day is Available in Early Access Today, Watch the Launch Gameplay Trailer",
+    "url": "https://news.xbox.com/en-us/2026/10/01/gears-of-war-e-day-early-access-launch-trailer-xbox/",
+    "source": {
+      "name": "Xbox Wire",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "Today, Gears of War: E-Day Early Access begins for Premium Edition players and Game Pass subscribers with the Premium Upgrade. To mark the occasion, we’re releasing the Launch Gameplay Trailer, featur",
+    "publishedAt": "2026-10-01T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.543Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/01/gears-of-war-e-day-early-access-launch-trailer-xbox/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "de575a03eac8d7ad",
+    "title": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
+    "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "数据报告",
+    "summary": "Mickey! Mordor! Muchi Muchi Pork!\nThe latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and ",
+    "publishedAt": "2026-10-01T14:55:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f5b8dfa2f630ae08",
+    "title": "NYC is now the first city in America that bans sketchy subscriptions",
+    "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "政策法规",
+    "summary": "Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images\t\n\nNew York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of",
+    "publishedAt": "2026-10-01T14:49:25.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.740Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "18997b2cc48ed839",
+    "title": "This New 2D Animation & Drawing App Deserves Your Attention",
+    "url": "https://80.lv/articles/this-new-2d-animation-drawing-app-deserves-your-attention/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "If you grew up with Adobe Flash, you'll probably like Umoupen.",
+    "publishedAt": "2026-10-01T14:40:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/this-new-2d-animation-drawing-app-deserves-your-attention/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8eee576d9af38ff9",
+    "title": "Free DLC for 007 First Light drops today, including 2 new missions and more",
+    "url": "https://www.destructoid.com/free-dlc-007-first-light-2-new-missions-more/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "I'm shaken, not stirred, by this news.\nThe post Free DLC for 007 First Light drops today, including 2 new missions and more appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T14:32:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/free-dlc-007-first-light-2-new-missions-more/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1229e8745abbafb8",
+    "title": "How to smash a Pumpkin Chest to find a Sprite in Fortnite Fortnitemares",
+    "url": "https://www.destructoid.com/how-to-smash-a-pumpkin-chest-to-find-a-sprite-in-fortnite-fortnitemares/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Grab some spooky loot. \nThe post How to smash a Pumpkin Chest to find a Sprite in Fortnite Fortnitemares appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T14:04:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/how-to-smash-a-pumpkin-chest-to-find-a-sprite-in-fortnite-fortnitemares/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4134c0456088b741",
+    "title": "More Fire Emblem: Fortune’s Weave Goods Merchandise Appears",
+    "url": "https://www.siliconera.com/more-fire-emblem-fortunes-weave-goods-merchandise-appears/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The new batch will feature characters other than the initial four main heroes.",
+    "publishedAt": "2026-10-01T14:00:23.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/more-fire-emblem-fortunes-weave-goods-merchandise-appears/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5bebea87e4c65616",
+    "title": "007 First Light Gets New Game+, Photo Mode, New Missions, More in Huge Free DLC",
+    "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Available today.\nDeveloper IO Interactive has detailed the free Extended Operations DLC for its brilliant James Bond action game, 007 First Light, and it packs in a lot of cool stuff.\nAvailable from t",
+    "publishedAt": "2026-10-01T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/007-first-light-gets-new-gameplus-photo-mode-new-missions-more-in-huge-free-dlc"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "199e9ff185705c78",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "publishedAt": "2026-10-01T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6806571bdcc4d7f3",
+    "title": "Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stalls",
+    "url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/",
+    "source": {
+      "name": "Crunchbase News",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Homeward, a startup that helps homeowners buy before selling their existing homes or get cash offers for their properties, has raised a $120 million Series D round, Crunchbase News reports exclusively",
+    "publishedAt": "2026-10-01T13:55:55.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.789Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Crunchbase News",
+        "url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c09c856a92f5599a",
+    "title": "Check Out This Collection of Vector Graphics for Godot & Unity",
+    "url": "https://80.lv/articles/check-out-this-free-collection-of-vector-graphics-for-godot-unity/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "DK Liao used this minimalist-style library to create games.",
+    "publishedAt": "2026-10-01T13:50:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/check-out-this-free-collection-of-vector-graphics-for-godot-unity/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6004ac13b300c798",
+    "title": "Clover Time Tier List – Best Grimoire, Race & More",
+    "url": "https://www.destructoid.com/clover-time-tier-list/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Clover Time info HUB!\nThe post Clover Time Tier List – Best Grimoire, Race & More appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T13:47:24.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/clover-time-tier-list/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "948fcd015da91fd1",
+    "title": "Gears Of War: E-Day Comparison Shows Difference Between Xbox Series X And Series S",
+    "url": "https://www.purexbox.com/news/2026/10/gears-of-war-e-day-comparison-shows-difference-between-xbox-series-x-and-series-s",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "How the Xbox versions stack up.\nHere we go! With the review embargo now having lifted for Gears of War: E-Day, that means we've also finally got some raw gameplay footage of both the Xbox Series X and",
+    "publishedAt": "2026-10-01T13:46:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.896Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/gears-of-war-e-day-comparison-shows-difference-between-xbox-series-x-and-series-s"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "cdd0fbe4cc6c2b03",
+    "title": "Nerial shuts down after 13 years",
+    "url": "https://www.gematsu.com/2026/10/nerial-shuts-down-after-13-years",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Reigns series and Card Shark developer Nerial will shut down after 13 years of operation, …",
+    "publishedAt": "2026-10-01T13:38:21.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/nerial-shuts-down-after-13-years"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "441a93fb33630437",
+    "title": "Capcom Has a Plan for When There's No Old Resident Evils Left to Remake",
+    "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "Working towards a \"crossover\" in the future.\nCapcom's own Resident Evil remake initiative is proving so successful that it will one day run out of mainline games to actually modernise, but the develop",
+    "publishedAt": "2026-10-01T13:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/capcom-has-a-plan-for-when-theres-no-old-resident-evils-left-to-remake"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5df4fae725d55547",
+    "title": "Gaelco Sports Collection launches October 22",
+    "url": "https://www.gematsu.com/2026/10/gaelco-sports-collection-launches-october-22",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Gaelco Sports Collection will launch for PlayStation 5, Xbox Series, PlayStation 4, Xbox One, Switch, …",
+    "publishedAt": "2026-10-01T13:22:50.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/gaelco-sports-collection-launches-october-22"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f38b14b7c89eaaf6",
+    "title": "Watch This Creepy Fabric Rip Apart & Stitch Itself Back Together",
+    "url": "https://80.lv/articles/watch-this-creepy-fabric-rip-apart-stitch-itself-back-together/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Trypophobia warning.",
+    "publishedAt": "2026-10-01T13:22:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/watch-this-creepy-fabric-rip-apart-stitch-itself-back-together/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ba22034e9ed38689",
+    "title": "What’s next for the global economy? You asked, we answered",
+    "url": "https://www.ft.com/content/db266f36-c6d3-4368-8633-290e2c35e54d?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Economics leader writer Tej Parikh and European economics commentator Martin Sandbu replied to reader questions",
+    "publishedAt": "2026-10-01T13:05:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/db266f36-c6d3-4368-8633-290e2c35e54d?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "455acfe85f579ad6",
+    "title": "Return to Fabletown with The Wolf Among Us Remastered, out October 29",
+    "url": "https://blog.playstation.com/2026/10/01/return-to-fabletown-with-the-wolf-among-us-remastered-out-october-29/",
+    "source": {
+      "name": "PlayStation Blog",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "Telltale’s The Wolf Among Us Remastered launches October 29. To get ready for Bigby Wolf’s enhanced tale we sat down with Telltale’s Matt Saia, the game director of The Wolf Among Us Remastered, and V",
+    "publishedAt": "2026-10-01T13:00:49.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:05.991Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/01/return-to-fabletown-with-the-wolf-among-us-remastered-out-october-29/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fb4c28b41b8900b0",
+    "title": "Gears of War: E-Day’s campaign is the most fun I’ve had in the Xbox franchise in a very long time",
+    "url": "https://www.destructoid.com/gears-of-war-eday-campaign-impressions-review/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Oh yeah, this is the good stuff.\nThe post Gears of War: E-Day’s campaign is the most fun I’ve had in the Xbox franchise in a very long time appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T13:00:03.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/gears-of-war-eday-campaign-impressions-review/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4c9e802482d1048f",
+    "title": "Dragon Quest XI Definitive Edition Is Still Strong on Switch 2",
+    "url": "https://www.siliconera.com/dragon-quest-xi-definitive-edition-is-still-strong-on-switch-2/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Given its age and the promise of the next mainline entry, Dragon Quest XI Definitive Edition is a welcome kind of Switch 2 release.",
+    "publishedAt": "2026-10-01T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.465Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/dragon-quest-xi-definitive-edition-is-still-strong-on-switch-2/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "483c6d4183607ff5",
+    "title": "Galaxies Game Showcase Returns Later This Month, Over 40 Companies Taking Part",
+    "url": "https://www.pushsquare.com/news/2026/10/galaxies-game-showcase-returns-later-this-month-over-40-companies-taking-part",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Square Enix! Krafton! Embark Studios!\nIn case you were missing the hustle and bustle of the summer season of gaming showcases, fear not: Galaxies is set to return soon.\nGalaxies is a relatively new sh",
+    "publishedAt": "2026-10-01T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/galaxies-game-showcase-returns-later-this-month-over-40-companies-taking-part"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc46a12c1b4064c2",
+    "title": "Review: Gears Of War: E-Day (Campaign) - A Monumental Triumph For Xbox, And My Game Of The Year",
+    "url": "https://www.purexbox.com/reviews/xbox-series-x/gears-of-war-e-day",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "E-Day exceeded expectations and made me fall in love with the series even more.\nNote: The following is a review for Gears of War: E-Day based on the campaign ONLY. We'll share our thoughts on multipla",
+    "publishedAt": "2026-10-01T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.896Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/reviews/xbox-series-x/gears-of-war-e-day"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b0fdf8a3c757b04",
+    "title": "A Colossal Update and Two DLCs Come to Bulwark: Falconeer Chronicles",
+    "url": "https://news.xbox.com/en-us/2026/10/01/a-colossal-update-and-two-dlcs-come-to-bulwark-falconeer-chronicles/",
+    "source": {
+      "name": "Xbox Wire",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "投融资/并购",
+    "summary": "Hello Bulwark lovers! My name is Tomas Sala, and I’m the solo developer of Bulwark: Falconeer Chronicles. Today, we are very excited to announce the release of the two brand new DLCs – the Verne Banne",
+    "publishedAt": "2026-10-01T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.543Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/01/a-colossal-update-and-two-dlcs-come-to-bulwark-falconeer-chronicles/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "73f8b77898ca14a4",
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "publishedAt": "2026-10-01T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c053d47310434798",
+    "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+    "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
+    "publishedAt": "2026-10-01T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dd7557fc5680e58e",
+    "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+    "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
+    "publishedAt": "2026-10-01T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.832Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "46603547b31ab709",
+    "title": "How to get free Jimothy Sidekick in Fortnite",
+    "url": "https://www.destructoid.com/how-to-get-free-jimothy-sidekick-in-fortnite/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Add an adorable new companion to your collection. \nThe post How to get free Jimothy Sidekick in Fortnite appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T12:51:33.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/how-to-get-free-jimothy-sidekick-in-fortnite/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f718986927586ad9",
+    "title": "吴彦祖确认加盟《赛博朋克：边缘行者2》配音",
+    "url": "https://www.gcores.com/articles/220450",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "CDPR 宣布， 吴彦祖先生确认加盟《赛博朋克：边缘行者2》，为角色基里尔·杨献声。本作将带来一个全新的独立10集故事，延续《赛博朋克2077》的世界观，也是一段关于救赎与复仇的残酷传奇。在这座因暴力而闪耀的城市里，一个问题始终萦绕：当世界被浮华蒙蔽双眼，你究竟要付出何等代价，才能让自己的故事被人铭记？ \n\n\n<内嵌内容，请前往机核查看>\n\n大卫已逝，但夜之城永不停歇。本季由导演五十岚海（《赛博朋",
+    "publishedAt": "2026-10-01T12:47:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220450"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "8c537a5ce82e2dbd",
+    "title": "Best Roblox song IDs",
+    "url": "https://www.destructoid.com/best-roblox-song-ids/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The DMCA strikes again.\nThe post Best Roblox song IDs appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T12:32:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/best-roblox-song-ids/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ceefa3e9cccb85d",
+    "title": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?",
+    "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Dracu-lotta fun?\n\nSo, ahead of its full release on 15th October 2026, Castlevania: Belmont's Curse just got a free demo on Switch, so you can try out the opening section of the game and see if it's up",
+    "publishedAt": "2026-10-01T12:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3fee2e38b0e16332",
+    "title": "Check Out This Painterly Life is Strange-Style 3D Animation of an Audio Cassette Player",
+    "url": "https://80.lv/articles/check-out-this-painterly-life-is-strange-style-3d-animation-of-an-audio-cassette-player/",
+    "source": {
+      "name": "80.lv",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Alexandra Mallinson shared her painterly prop piece inspired by retro technology.",
+    "publishedAt": "2026-10-01T12:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.999Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "80.lv",
+        "url": "https://80.lv/articles/check-out-this-painterly-life-is-strange-style-3d-animation-of-an-audio-cassette-player/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "52b215dcc9602918",
+    "title": "Kena: Scars of Kosmora delayed to 2027",
+    "url": "https://www.gematsu.com/2026/10/kena-scars-of-kosmora-delayed-to-2027",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Publisher Sony Interactive Entertainment and developer Ember Lab have delayed Kena: Bridge of Spirits sequel …",
+    "publishedAt": "2026-10-01T12:20:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/kena-scars-of-kosmora-delayed-to-2027"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "84ec8c0c83a6fdfb",
+    "title": "PS5's Kena: Scars of Kosmora Officially Delayed into 2027, New Details Revealed",
+    "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Kena believe it.\nIn one of the least surprising updates you'll see this week, Sony has announced a delay for upcoming action adventure game, Kena: Scars of Kosmora.\nPublished by Sony and developed by ",
+    "publishedAt": "2026-10-01T12:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/ps5s-kena-scars-of-kosmora-officially-delayed-into-2027-new-details-revealed"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5ca72eb98c2c0c55",
+    "title": "007 First Light free DLC ‘Extended Operations’ now available",
+    "url": "https://www.gematsu.com/2026/10/007-first-light-free-dlc-extended-operations-now-available",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "IO Interactive has released 007 First Light free downloadable content “Extended Operations,” which adds new …",
+    "publishedAt": "2026-10-01T12:12:40.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/007-first-light-free-dlc-extended-operations-now-available"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b2d7059bfefbdb13",
+    "title": "Australia’s banks show how to prepare for cable blackouts",
+    "url": "https://www.ft.com/content/fba5c097-5df7-43aa-b78a-2068266eb2be",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "The country is making its financial system resilient enough to withstand the cutting of undersea lines",
+    "publishedAt": "2026-10-01T12:03:34.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/fba5c097-5df7-43aa-b78a-2068266eb2be"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "450378a7f25543f3",
+    "title": "Is circular financing in AI a problem?",
+    "url": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Only if the wheel stops spinning",
+    "publishedAt": "2026-10-01T12:00:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d342460791199f4e",
+    "title": "本期包含机核BOSS直聘内容【那我问你 9月号】",
+    "url": "https://www.gcores.com/radios/220321",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "【那我问你】是一档GPASS会员独享节目，从2025年2月开始，每月更新一期。如果您有想问某位编辑的问题，欢迎在留言区写出想指名提问谁+想问的问题。每期由编辑部选出最有意思的问题，录成节目分享！ \n\n<GPASS专题页>",
+    "publishedAt": "2026-10-01T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/radios/220321"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "873a58b7aa34d0f3",
+    "title": "'In No Way Do I Agree': Vincent D'Onofrio Defends God of War Laufey Star from Online Hate",
+    "url": "https://www.pushsquare.com/news/2026/10/in-no-way-do-i-agree-vincent-donofrio-defends-god-of-war-laufey-star-from-online-hate",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Daredevil costar speaks up.\nIn case you weren't aware, there's a hate campaign against God of War Laufey, from people who think the main character isn't attractive enough.\nIt's been going on since the",
+    "publishedAt": "2026-10-01T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/in-no-way-do-i-agree-vincent-donofrio-defends-god-of-war-laufey-star-from-online-hate"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "79e76ef7bda70947",
+    "title": "Take-Two Signs New Deal With Xbox, But There's Debate About How Important It Actually Is",
+    "url": "https://www.purexbox.com/news/2026/10/take-two-signs-new-deal-with-xbox-but-theres-debate-about-how-important-it-actually-is",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "\"I would speculate that this is for Project Helix\".\nTake-Two has signed a new deal with Xbox. Great! But what does it actually mean, and is it even a newsworthy development at all? That's been the big",
+    "publishedAt": "2026-10-01T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.896Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/take-two-signs-new-deal-with-xbox-but-theres-debate-about-how-important-it-actually-is"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "38f2c52b7d6152b1",
+    "title": "Kena: Scars of Kosmora launches 2027, Ember Lab shares story overview",
+    "url": "https://blog.playstation.com/2026/10/01/kena-scars-of-kosmora-launches-2027-ember-lab-shares-story-overview/",
+    "source": {
+      "name": "PlayStation Blog",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "新品发布",
+    "summary": "Since our announcement trailer in February, we’ve been heads down bringing Kena: Scars of Kosmora to the finish line. It’s been exciting to see all the anticipation and passion from fans. We can’t wai",
+    "publishedAt": "2026-10-01T11:59:54.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:05.991Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "PlayStation Blog",
+        "url": "https://blog.playstation.com/2026/10/01/kena-scars-of-kosmora-launches-2027-ember-lab-shares-story-overview/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "abc3442dfa19dcb0",
+    "title": "Sound System Early Access delayed to November 4",
+    "url": "https://www.gematsu.com/2026/10/sound-system-early-access-delayed-to-november-4",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Echo Foundry Interactive has delayed the Early Access version of “next-generation rhythm game” Sound System …",
+    "publishedAt": "2026-10-01T11:55:04.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/sound-system-early-access-delayed-to-november-4"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "543f22b04b532f89",
+    "title": "Best Bodyguard setup and leveling guide in Dynasty Warriors 3: Complete Edition Remastered",
+    "url": "https://www.destructoid.com/best-bodyguard-setup-and-leveling-guide-in-dynasty-warriors-3-complete-edition-remastered/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Building up a unit! \nThe post Best Bodyguard setup and leveling guide in Dynasty Warriors 3: Complete Edition Remastered appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T11:40:35.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/best-bodyguard-setup-and-leveling-guide-in-dynasty-warriors-3-complete-edition-remastered/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5141eed98cdc43af",
+    "title": "Is AI supercharging science?",
+    "url": "https://www.ft.com/content/45088042-61e6-43e5-b120-e810fecb8906?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Productivity gains in analysis are getting stuck in physical-world bottlenecks",
+    "publishedAt": "2026-10-01T11:30:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/45088042-61e6-43e5-b120-e810fecb8906?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9926b05c3ec56e92",
+    "title": "The Witcher 3 Remastered's First PS5 Patch Fixes Lighting Issues, But No Word on Performance Yet",
+    "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastereds-first-ps5-patch-fixes-lighting-issues-but-no-word-on-performance-yet",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Here we are again.\nThe Witcher 3 Remastered just got its first update on PS5 (version 5.000.020), following its launch a few days back.\nThe patch is 1.1GB in size, and promises to fix some lighting is",
+    "publishedAt": "2026-10-01T11:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastereds-first-ps5-patch-fixes-lighting-issues-but-no-word-on-performance-yet"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2a1dc62d4aeba844",
+    "title": "All Five Nights at Freddy’s character locations in Fortnite Fortnitemares",
+    "url": "https://www.destructoid.com/all-five-nights-at-freddys-character-locations-in-fortnite-fortnitemares/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Whatever you do, don't look away. \nThe post All Five Nights at Freddy’s character locations in Fortnite Fortnitemares appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T11:24:04.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/all-five-nights-at-freddys-character-locations-in-fortnite-fortnitemares/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "814fc49d730edcb6",
+    "title": "The IPO Window Is Opening Selectively; Readiness Will Decide Who Gets Through",
+    "url": "https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/",
+    "source": {
+      "name": "Crunchbase News",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The 2026 IPO market is reopening selectively, favoring large companies that spent the slowdown strengthening their financial reporting, governance and operations, writes guest author Mark Williams, ch",
+    "publishedAt": "2026-10-01T11:00:42.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.789Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Crunchbase News",
+        "url": "https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eacade20fdf00f83",
+    "title": "Nuclear Startup Funding Is Up, But The Sector’s Public Markets Take A Bearish Turn",
+    "url": "https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/",
+    "source": {
+      "name": "Crunchbase News",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "So far in 2026, investors have poured more than $6 billion into companies focused on developing both fission and fusion nuclear energy technology and infrastructure, per Crunchbase data. That’s far ah",
+    "publishedAt": "2026-10-01T11:00:20.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:06.789Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Crunchbase News",
+        "url": "https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f7cce2ccabe50a9a",
+    "title": "Xbox's Jason Ronald Provides Cryptic Tease When Asked About The Return Of FPS Boost",
+    "url": "https://www.purexbox.com/news/2026/10/xboxs-jason-ronald-provides-cryptic-tease-when-asked-about-the-return-of-fps-boost",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "\"The team is cooking on a number of things\".\nIt's now been five years since the Xbox FPS Boost program officially came to an end in 2021, serving as a way to improve the frame rates of loads of old Xb",
+    "publishedAt": "2026-10-01T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.896Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/xboxs-jason-ronald-provides-cryptic-tease-when-asked-about-the-return-of-fps-boost"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0f4417c69f97b563",
+    "title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism",
+    "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Accruing income at home from land and power abroad has an old name: empire",
+    "publishedAt": "2026-10-01T10:53:26.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b26c23645587418b",
+    "title": "All Five Nights at Freddy’s Fortnite bundle details – Skins, accessories, prices, and more",
+    "url": "https://www.destructoid.com/all-five-nights-at-freddys-fortnite-bundle-details-skins-accessories-prices-and-more/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The crew is all here.\nThe post All Five Nights at Freddy’s Fortnite bundle details – Skins, accessories, prices, and more appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T10:38:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/all-five-nights-at-freddys-fortnite-bundle-details-skins-accessories-prices-and-more/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a107d9e519b1c243",
+    "title": "Control Resonant PS5 Update 1.4 Live Now with Enhanced New Game+",
+    "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Get all the patch notes here.\nIt's only the first day of the month and Remedy has already finished the Control Resonant patch it promised for October.\nThis is the new PS5 update headlined by an enhanc",
+    "publishedAt": "2026-10-01T10:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/control-resonant-ps5-update-1-4-live-now-with-enhanced-new-gameplus"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6f1c5dfcadf76fa2",
+    "title": "Slayers 2 Weapon Tier List – Best PVE & PVP Weapons",
+    "url": "https://www.destructoid.com/slayers-2-weapon-tier-list/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "All Slayers 2 weapons ranked (Fighting Styles coming soon).\nThe post Slayers 2 Weapon Tier List – Best PVE & PVP Weapons appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T10:00:46.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/slayers-2-weapon-tier-list/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e873f88054c8ce01",
+    "title": "Music Thing’s compact synth will make a composer out of you",
+    "url": "https://www.ft.com/content/d69bc1c2-c01a-4f8c-82a1-912e1fc50183",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "综合",
+    "summary": "Plus other harmonic gadgets",
+    "publishedAt": "2026-10-01T10:00:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/d69bc1c2-c01a-4f8c-82a1-912e1fc50183"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "48378ef189bb7912",
+    "title": "15+ Games Are Out Today On Xbox, Including Two Particularly Big Releases (October 1)",
+    "url": "https://www.purexbox.com/news/2026/10/15plus-games-are-out-today-on-xbox-including-two-particularly-big-releases-october-1",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Kicking off the new month in a major way.\nWelcome to October! There are an absolute ton of new games set to release on Xbox over the next few weeks, and we're already kicking things off with a mammoth",
+    "publishedAt": "2026-10-01T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.896Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/15plus-games-are-out-today-on-xbox-including-two-particularly-big-releases-october-1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "49cf038437f57967",
+    "title": "Tesla Sell Ratings Slide as Street Says ‘Don’t Bet Against Musk’",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/tesla-sell-ratings-slide-as-analysts-eye-musk-s-ai-ambitions",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Tesla Inc. shares have tumbled in 2026, but Wall Street analysts are increasingly reluctant to tell investors to sell.",
+    "publishedAt": "2026-10-01T10:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/tesla-sell-ratings-slide-as-analysts-eye-musk-s-ai-ambitions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ce12c95493aaadd3",
+    "title": "Where to find Freddy Fazbear’s Pizza in Fortnite Fortnitemares",
+    "url": "https://www.destructoid.com/where-to-find-freddy-fazbears-pizza-in-fortnite-fortnitemares/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Watch out for those animatronics.\nThe post Where to find Freddy Fazbear’s Pizza in Fortnite Fortnitemares appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T09:49:10.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.363Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/where-to-find-freddy-fazbears-pizza-in-fortnite-fortnitemares/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "88d79c04b6bd7c4f",
+    "title": "PSA: Castlevania: Belmont's Curse Free Demo Is Now Live, With A Frame Rate Boost On Switch 2",
+    "url": "https://www.nintendolife.com/news/2026/10/psa-castlevania-belmonts-curse-free-demo-is-now-live-with-a-frame-rate-boost-on-switch-2",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "Don't let the Bel(mont)s end.\nKonami announced it a few weeks back, but we thought that a little reminder was in order: the Castlevania: Belmont's Curse free demo is now available!\nThe freebie lets yo",
+    "publishedAt": "2026-10-01T09:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/psa-castlevania-belmonts-curse-free-demo-is-now-live-with-a-frame-rate-boost-on-switch-2"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "532c436dae8a3b0d",
+    "title": "Kimiiro Patra IF delayed to January 28, 2027 in Japan",
+    "url": "https://www.gematsu.com/2026/10/kimiiro-patra-if-delayed-to-january-28-2027-in-japan",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "Entergram has delayed Kimiiro Patra IF, the romance visual novel starring Virtual YouTuber Patra Suou, …",
+    "publishedAt": "2026-10-01T09:00:12.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/kimiiro-patra-if-delayed-to-january-28-2027-in-japan"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f3c71ad6aca3b714",
+    "title": "Capcom Has An Intriguing Plan For When Its Resident Evil Remakes Catch Up With The New Games",
+    "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "\"we have been gradually preparing\".\nCapcom has been proper busy over the last decade or so, pumping out a delightful mix of new Resident Evil titles alongside critically-acclaimed remake of its older ",
+    "publishedAt": "2026-10-01T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/capcom-has-an-intriguing-plan-for-when-its-resident-evil-remakes-catch-up-with-the-new-games"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "7cfc8ea42a608c97",
+    "title": "SpaceX Launches Crew for NASA on Retiring Dragon Capsule",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-01/spacex-set-to-launch-new-crew-for-nasa-on-retiring-dragon-craft",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "SpaceX launched a new crew of four astronauts to the International Space Station on Thursday, as questions swirl over the company’s plans for the future of its human spaceflight program.",
+    "publishedAt": "2026-10-01T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.636Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/spacex-set-to-launch-new-crew-for-nasa-on-retiring-dragon-craft"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "baa2f3f5daaf150a",
+    "title": "It’s raining AI, and won’t stop!",
+    "url": "https://www.ft.com/content/b82a68aa-f29a-4a88-b1e1-65f7e4f18e6c?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times",
+    "publishedAt": "2026-10-01T08:46:01.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/b82a68aa-f29a-4a88-b1e1-65f7e4f18e6c?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fd5456ea9aa34bdb",
+    "title": "十一假期玩什么：摄影冒险新旅程，空战奇兵再起飞，跟过劳上班族一起看海",
+    "url": "http://www.chuapp.com/article/291667.html",
+    "source": {
+      "name": "触乐",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "十一假期，来自触乐编辑们的游戏推荐又来了！我们会各自推荐一款假期近期上线的新游戏（也可能是经典老游戏以及值得关注的冷门游戏），它们可能是PC或主机游戏，也可能是移动游戏网页游戏，来供大家参考和选择。\n当你不知道玩点什么时，不如来看看我们的选择里面是否有你感兴趣的，也欢迎读者和开发者朋友们向我们寻求报导。\n\n\n\n■ 陈威远：《浮游世界》（Steam）\n关键词：模拟、生存、经营\n一句话推荐：没那么疯狂",
+    "publishedAt": "2026-10-01T08:30:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:11.984Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "触乐",
+        "url": "http://www.chuapp.com/article/291667.html"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "ab7dafeb9a020c52",
+    "title": "Japan plans $140bn AI data centre push with Dell and Jera",
+    "url": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Planned 400-megawatt data centre near Tokyo will be among Asia’s largest projects outside China",
+    "publishedAt": "2026-10-01T08:05:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.236Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a4911902aa36b1f1",
+    "title": "Former Sony Exec Shuhei Yoshida Thinks Nintendo Is \"Going To Do Pretty Well\" With Switch 2 \"For Many Years To Come\"",
+    "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "\"I think they should try to keep the current generation as long as possible\".\nFormer PlayStation executive Shuhei Yoshida has been speaking about the current state of the home console market and feels",
+    "publishedAt": "2026-10-01T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/former-sony-exec-shuhei-yoshida-thinks-nintendo-is-going-to-do-pretty-well-with-switch-2-for-many-years-to-come"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9a5deb038d62e842",
+    "title": "You Can Start Playing Castlevania: Belmont's Curse Early with Free Demo, Out Now on PS5",
+    "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Belmont's blessing.\nAs promised, publisher Konami has released a playable demo for the first mainline entry in the Castlevania series in over a decade.\nAvailable right now on PS Store, you can dip you",
+    "publishedAt": "2026-10-01T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.814Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/you-can-start-playing-castlevania-belmonts-curse-early-with-free-demo-out-now-on-ps5"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a7267afc8dd7a5a8",
+    "title": "All pets in Aion 2 & how to get them",
+    "url": "https://www.destructoid.com/all-pets-in-aion-2-how-to-get-them/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "From the starter picks to everyone's favorite Black Dragon.\nThe post All pets in Aion 2 & how to get them appeared first on Destructoid.",
+    "publishedAt": "2026-10-01T07:59:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.362Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/all-pets-in-aion-2-how-to-get-them/"
+      },
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/all-wings-in-aion-2-and-how-to-get-them/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bca88c8c82d13e11",
+    "title": "Moadra launches October 22",
+    "url": "https://www.gematsu.com/2026/10/moadra-launches-october-22",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Alien-inspired science-fiction Metroidvania game Moadra will launch for PlayStation 5, Xbox Series, Switch, and PC …",
+    "publishedAt": "2026-10-01T07:05:33.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.475Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/moadra-launches-october-22"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "355482fc1adbf46f",
+    "title": "三国杀一将成名×猪猪侠联动上线！传说皮肤免费送，威关银屏震撼登场！",
+    "url": "https://www.gameres.com/901203105.html",
+    "source": {
+      "name": "游资网",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "国庆期间，《三国杀：一将成名》×《猪猪侠》联动上线，可兑换A级将灵、领免费传说皮肤，新武将威关银屏登场，还有联动PVE、玩家武将设计等多重福利。",
+    "publishedAt": "2026-10-01T06:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:08.737Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "游资网",
+        "url": "https://www.gameres.com/901203105.html"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "c9ab10b60abe41da",
+    "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+    "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
+    "source": {
+      "name": "NVIDIA Developer Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Automatic speech recognition must handle how people actually speak, not only the languages and styles that dominate pretraining data. Regional dialects and...\nAutomatic speech recognition must handle ",
+    "publishedAt": "2026-10-01T05:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.394Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "NVIDIA Developer Blog",
+        "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f3ae73d40026d8b6",
+    "title": "我翻译了一个小游戏！ 茶社波浪05",
+    "url": "https://www.gcores.com/radios/220464",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "出海/全球化",
+    "summary": "🐧👉《再荐茶社》更新通知QQ群：1055561149\n感谢大家一直以来的赞赏、订阅和支持，欢迎朋友们在评论中和我们一起分享游戏体验！\n本期我们分享了一些游戏翻译小故事，并且聊了聊我们觉得很优秀、很有趣或者很糟糕的游戏本地化例子。如果你也有遇到过很有趣的翻译，欢迎在评论区分享！",
+    "publishedAt": "2026-10-01T04:13:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:09.353Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/radios/220464"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "32af8b08bbd007a2",
+    "title": "Nintendo Has Now Shut Down Mario Kart Tour",
+    "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "\"Thank you for playing\".\n\nIf you weren't already aware, Nintendo has now officially shut down its free-to-play mobile game Mario Kart Tour.\nRead the full article on nintendolife.com",
+    "publishedAt": "2026-10-01T03:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:19:15.834Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5d7672ac893bd5fd",
+    "title": "CEO Interview: Fuse",
+    "url": "https://www.cbinsights.com/research/ceo-interview-fuse/",
+    "source": {
+      "name": "CB Insights",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "综合",
+    "summary": "Andres Klaric, Chief Executive Officer (CEO) of Fuse, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into ",
+    "publishedAt": "2026-10-01T03:25:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.075Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/research/ceo-interview-fuse/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2167384f51e2a446",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-02T04:18:07.061Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/the-den-family-social"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
