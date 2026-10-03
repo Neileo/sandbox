@@ -56722,5 +56722,51 @@
       }
     ],
     "originalLanguage": "zh"
+  },
+  {
+    "id": "bc5c3a86f7c554d8",
+    "title": "CEO Interview: Queue",
+    "url": "https://www.cbinsights.com/research/ceo-interview-queue/",
+    "source": {
+      "name": "CB Insights",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Nick Desai, Chief Executive Officer (CEO) of Queue, tells CB Insights how they view the market, customer needs, and their company. How do you define your market and where does your company fit into th",
+    "publishedAt": "2026-09-30T19:54:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-03T04:00:22.733Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "CB Insights",
+        "url": "https://www.cbinsights.com/research/ceo-interview-queue/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "aa4406c0c0dc9aca",
+    "title": "Unity Announces External Dependency Manager Package",
+    "url": "https://unity.com/blog/external-dependency-manager",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Unity's External Dependency Manager (EDM) replaces EDM4U for Android and iOS SDK dependencies.",
+    "publishedAt": "2026-09-29T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-03T04:00:22.991Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/external-dependency-manager"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

@@ -1823,5 +1823,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "7e12d1d7f7bd8976",
+    "title": "50 Video Game Movies In The Works: How Many Of Them Will Actually Come Out?",
+    "url": "https://www.gamespot.com/gallery/video-game-movies-in-the-works/2900-5059/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Like the seemingly unending comic book movie craze, Hollywood loves to find a type of film that it can turn into the next big cultural touchstone. Over the years, we've seen movies based on video game",
+    "publishedAt": "2026-04-21T12:22:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-03T04:00:23.775Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/gallery/video-game-movies-in-the-works/2900-5059/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
