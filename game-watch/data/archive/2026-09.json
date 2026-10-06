@@ -56768,5 +56768,51 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "eb916b5190e37958",
+    "title": "Welcome RL Environments to the hub",
+    "url": "https://huggingface.co/blog/rl-environments",
+    "source": {
+      "name": "Hugging Face Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "",
+    "publishedAt": "2026-09-28T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-06T05:07:11.431Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hugging Face Blog",
+        "url": "https://huggingface.co/blog/rl-environments"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6c85667bb456be97",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "url": "https://openai.com/index/wayfair",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "publishedAt": "2026-09-25T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-06T05:07:11.490Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/wayfair"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

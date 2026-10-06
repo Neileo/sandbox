@@ -1846,5 +1846,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "5bde80a96184d609",
+    "title": "Uncharted 5: Everything We Know About The Unconfirmed Game",
+    "url": "https://www.gamespot.com/articles/uncharted-5-release-date-trailer-story/1100-6539504/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Naughty Dog's Uncharted series sold millions of copies, got solid reviews, and was spun off into a movie starring Spider-Man actor Tom Holland--however, the game franchise has been dormant for years. ",
+    "publishedAt": "2026-04-21T15:33:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-06T05:07:10.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/uncharted-5-release-date-trailer-story/1100-6539504/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
