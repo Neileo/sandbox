@@ -1,0 +1,25 @@
+[
+  {
+    "id": "98633bca27a85604",
+    "title": "New for Unity Industry: Automotive HMI sample for embedded-style hardware",
+    "url": "https://unity.com/blog/unity-industry-hmi-template-for-embedded-systems",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Unity Industry HMI template: An automotive HMI sample with instrument cluster, ADAS view, climate controls, and city sim, targeting constrained, embedded systems",
+    "publishedAt": "2027-10-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-07T04:34:03.009Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/unity-industry-hmi-template-for-embedded-systems"
+      }
+    ],
+    "originalLanguage": "en"
+  }
+]
