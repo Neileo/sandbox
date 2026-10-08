@@ -3986,5 +3986,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "ee8b207602c535e8",
+    "title": "The New Guitar Hero-Like Game, Stage Tour, Has A Pretty Excellent Soundtrack",
+    "url": "https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "The Guitar Hero series may be dead and gone, but in its place comes a new game called Stage Tour, and it's made by the latest evolution of the same studio, RedOctane, that created Guitar Hero. \nAt Gam",
+    "publishedAt": "2026-06-09T19:12:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-08T04:44:42.948Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
