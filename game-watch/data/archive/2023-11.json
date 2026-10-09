@@ -228,5 +228,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "3fd81031716e2bfe",
+    "title": "Introducing XP",
+    "url": "https://news.xbox.com/en-us/2026/10/08/introducing-xp/",
+    "source": {
+      "name": "Xbox Wire",
+      "region": "en",
+      "type": "official"
+    },
+    "category": "投融资/并购",
+    "summary": "Our ambition at XBOX is to be the number one entertainment company in the world. This means growing our games into enduring franchises that entertain, inspire and connect people across every generatio",
+    "publishedAt": "2023-11-06T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-09T04:47:52.116Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Xbox Wire",
+        "url": "https://news.xbox.com/en-us/2026/10/08/introducing-xp/"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-gpts"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
