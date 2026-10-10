@@ -1152,5 +1152,51 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "fb1bea5088a1cbe3",
+    "title": "Put AI to work for marketing teams",
+    "url": "https://openai.com/business/put-ai-to-work-for-marketing-teams",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Put AI to Work for Marketing Teams",
+    "publishedAt": "2024-10-31T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/put-ai-to-work-for-marketing-teams"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1dcbe1dc4097af7e",
+    "title": "Solving complex problems with OpenAI o1 models",
+    "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "In this video, we share how the o1 reasoning models can help in domains like coding, strategy, and research.",
+    "publishedAt": "2024-10-17T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

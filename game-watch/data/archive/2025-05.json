@@ -811,5 +811,120 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "31ac460c075a1fd1",
+    "title": "Personalize ChatGPT with custom instructions",
+    "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how custom instructions help personalize ChatGPT for your role, preferences, and work.",
+    "publishedAt": "2025-05-12T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6883843c228001e0",
+    "title": "Collaborate and write with GPT-4o",
+    "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Explore how GPT-4o makes writing and collaboration more natural, helping teams draft, refine, and adjust tone faster.",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5e08b55168f5b9e0",
+    "title": "Create on-brand visuals with image generation",
+    "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "See how ChatGPT image generation helps create branded visuals and product mockups from prompts, sketches, or uploaded images.",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "75b8249853afbeba",
+    "title": "Automate complex workflows with OpenAI o3",
+    "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how OpenAI o3 can reason through complex tasks and help automate multi-step workflows.",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "82f91c53d861c9ac",
+    "title": "Connect internal knowledge from Google Drive",
+    "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "See how ChatGPT can connect to Google Drive to use internal knowledge and answer questions with relevant context.",
+    "publishedAt": "2025-05-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

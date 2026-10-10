@@ -1171,5 +1171,120 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "d98e79f87911521c",
+    "title": "Think Bigger: How Small Teams Win with ChatGPT",
+    "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A practical guide showing how small teams use ChatGPT to analyze data, create marketing materials, manage budgets, run meetings, and make better decisions.",
+    "publishedAt": "2026-01-22T21:12:55.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "81cd30ad3d84d73e",
+    "title": "A Practical Guide to Building AI Agents",
+    "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "A comprehensive guide to designing, orchestrating, and deploying AI agents—covering use cases, model selection, tool design, guardrails, and multi-agent patterns.",
+    "publishedAt": "2026-01-15T00:25:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "feff5c589b8ce53b",
+    "title": "Building with the GPT-5 Model Series: A Practical Guide",
+    "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "A practical guide for startups on migrating to the Responses API, designing agents, tuning prompts, steering GPT-5 models, and building reliable AI workflows.",
+    "publishedAt": "2026-01-15T00:09:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "01f30fd1ba60d712",
+    "title": "Inside GPT-5 for Work",
+    "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "A concise guide to how GPT-5 powers real business workflows—across marketing, engineering, finance, strategy, legal, and IT—and how to evaluate it for your team.",
+    "publishedAt": "2026-01-14T21:43:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "84799fb71cec5d1e",
+    "title": "How OpenAI Uses Codex to Accelerate Engineering",
+    "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "A detailed look at how OpenAI teams use Codex to understand code, refactor systems, improve performance, boost velocity, and enhance engineering workflows.",
+    "publishedAt": "2026-01-14T21:27:09.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.482Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

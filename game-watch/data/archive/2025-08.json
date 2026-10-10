@@ -1007,5 +1007,51 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "799c58d6b4cf518b",
+    "title": "GPT-5: Our best model for work",
+    "url": "https://openai.com/business/learn/gpt-5-our-best-model-for-work",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Watch a GPT-5 demo for work showing how the model can analyze feedback, create a product plan and prototype, and summarize next steps.",
+    "publishedAt": "2025-08-07T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/gpt-5-our-best-model-for-work"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b5b36394e50a1ce9",
+    "title": "Delegate work to ChatGPT agent",
+    "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Watch a ChatGPT agent demo showing how it can research, code, and take action online to complete a business plan in minutes.",
+    "publishedAt": "2025-08-06T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.483Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

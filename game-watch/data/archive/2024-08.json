@@ -1712,5 +1712,51 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "9e49d60946fc878e",
+    "title": "Fine-tuning GPT-4o webinar",
+    "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Fine-Tuning GPT-4o Webinar",
+    "publishedAt": "2024-08-26T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ae69059d9d37c3d7",
+    "title": "Enabling a data-driven workforce",
+    "url": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "In this video, we share practical examples of how employees can use ChatGPT Enterprise to efficiently analyze data and uncover insights.",
+    "publishedAt": "2024-08-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/enabling-a-data-driven-workforce-webinar"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

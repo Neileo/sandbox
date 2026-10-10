@@ -985,5 +985,147 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "25b33fecf05b4e54",
+    "title": "Market research with ChatGPT",
+    "url": "https://openai.com/business/learn/market-research-with-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "See how ChatGPT can plan, search, read sources, and compile a detailed research report to support market analysis.",
+    "publishedAt": "2025-04-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/market-research-with-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eed116caed0195cd",
+    "title": "Creating a contextual workspace in ChatGPT",
+    "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Discover how ChatGPT Projects helps organize files, save context, and keep conversations consistent across workstreams.",
+    "publishedAt": "2025-04-13T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "466447842229de9e",
+    "title": "Prototyping with canvas in ChatGPT",
+    "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how to go from a product requirements document to a working HTML/React prototype using canvas in ChatGPT.",
+    "publishedAt": "2025-04-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/writing-with-canvas-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ee9f77bc7cfbdb97",
+    "title": "Vision and voice in ChatGPT",
+    "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "See how vision and voice in ChatGPT help teams work with multimodal inputs and communicate more naturally.",
+    "publishedAt": "2025-04-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "afbf3bfda829c017",
+    "title": "Strategic planning with ChatGPT",
+    "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "See how ChatGPT can support strategic planning by analyzing context, generating options, and turning decisions into next steps.",
+    "publishedAt": "2025-04-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "af71f35d86eeb9d8",
+    "title": "Shipping code to your IDE with ChatGPT",
+    "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "See how ChatGPT can help move generated code into your IDE to speed up development workflows.",
+    "publishedAt": "2025-04-08T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

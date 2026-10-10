@@ -1432,5 +1432,51 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "f0bbea0e148a88b8",
+    "title": "Put AI to work: Automate and scale financial operations",
+    "url": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Put AI to work: Automate and Scale Financial Operations",
+    "publishedAt": "2024-09-30T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bac63a1f98f3a85b",
+    "title": "Put AI to work: Lessons from hundreds of successful deployments",
+    "url": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Put AI to Work: Lessons from Hundreds of Successful Deployments",
+    "publishedAt": "2024-09-10T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-10T04:33:23.484Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
