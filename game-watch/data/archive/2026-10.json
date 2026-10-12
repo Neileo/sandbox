@@ -41952,5 +41952,2558 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "041d3febfdc39f7f",
+    "title": "谷歌入局AI游戏开发，人人都在追的“一句话做游戏”，到底怎么样了？",
+    "url": "https://www.youxituoluo.com/534947.html",
+    "source": {
+      "name": "游戏陀螺",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "产业动态",
+    "summary": "10月7日，谷歌推出实验性AI游戏创作平台Google Playground，并宣布与Unity宣布建立战略合作伙伴关系，代号Unity Spark。\n与传统游戏开发工具不同，Playground试图将游戏制作的过程压缩成一场对话。用户不需要掌握编程、美术或游戏引擎等专业技能，只需通过自然语言描述自己想要的玩法、画面和交互方式，AI便能够生成一款可以在浏览器中运行的游戏。\n如果对生成结果不满意，用",
+    "publishedAt": "2026-10-12T10:23:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.455Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "游戏陀螺",
+        "url": "https://www.youxituoluo.com/534947.html"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "b3651af472cd8f05",
+    "title": "Why the Commodity Bull Market Is Just Beginning",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-12/why-the-commodity-bull-market-is-just-beginning",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Adam Rozencwajg, portfolio manager at natural resources firm Goehring and Rozencwajg, joins Merryn Somerset Webb to explain why he thinks the commodity bull market may still be in its early stages. Th",
+    "publishedAt": "2026-10-12T04:00:44.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-12/why-the-commodity-bull-market-is-just-beginning"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "dbccd039ecb5352f",
+    "title": "UK ministers explore compulsory AI safety reporting",
+    "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Kanishka Narayan to tell companies to exercise stricter control over autonomous models and build safeguards",
+    "publishedAt": "2026-10-12T04:00:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "58ce3f049cb2200a",
+    "title": "‘Worrying omens’ lurk over global economy despite resilient growth",
+    "url": "https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Research for the FT shows major economies are withstanding the Iran shock but concerns about rising public debt will loom over IMF and World Bank meetings",
+    "publishedAt": "2026-10-12T04:00:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3eaec15853de9626",
+    "title": "The huge lurking leverage of AI hyperscalers",
+    "url": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "While equity investors look to sunny futures, creditors are scrutinising liabilities like leases on data centres",
+    "publishedAt": "2026-10-12T04:00:07.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "053eb91c833fe08b",
+    "title": "Houthis attack Riyadh airport",
+    "url": "https://www.ft.com/content/1d85912b-7a70-4ba1-87df-3b683adee91e?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Yemeni rebel group kills 12 and injures hundreds in attack on Saudi Arabian capital",
+    "publishedAt": "2026-10-12T04:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/1d85912b-7a70-4ba1-87df-3b683adee91e?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "b0357a675b50a972",
+    "title": "“AI要革小游戏的命”？千万MAU AI小游戏平台诞生，腾讯Meta谷歌加速进场！",
+    "url": "http://www.gamelook.com.cn/2026/10/603589/",
+    "source": {
+      "name": "GameLook",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "【GameLook专稿，禁止转载！】 GameLook报道/年年狂飙的小游戏，可能是国内游戏圈为数不多的朝气赛道。但在如火如荼的高速增长背后，小游戏的好日子远没有想象中惬意。 从根...",
+    "publishedAt": "2026-10-12T03:32:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.404Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameLook",
+        "url": "http://www.gamelook.com.cn/2026/10/603589/"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "a6eb0346d01cf853",
+    "title": "Firmus Fiasco Wipes Out $700 Million of Early Backer Maas’ Value",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/firmus-fiasco-wipes-out-700-million-of-early-backer-maas-value",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Maas Group Holdings Ltd. has lost more than A$1 billion ($699 million) in market value as Firmus Grid Ltd.’s initial public offering unraveled, with the shares extending their decline to a fifth day a",
+    "publishedAt": "2026-10-12T03:12:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-12/firmus-fiasco-wipes-out-700-million-of-early-backer-maas-value"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9a7e0359ecc57daf",
+    "title": "Dongshan Said to Gauge Demand for Up to $3 Billion HK Listing",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/dongshan-said-to-gauge-demand-for-up-to-3-billion-hk-listing",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Printed circuit board maker Suzhou Dongshan Precision Manufacturing Co. has started gauging investor interest for a Hong Kong listing that may raise $2 billion to $3 billion, according to people famil",
+    "publishedAt": "2026-10-12T02:46:37.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-12/dongshan-said-to-gauge-demand-for-up-to-3-billion-hk-listing"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a586a92c9cb56e92",
+    "title": "憋了9年！网易最强射击工作室掏出“真3A FPS”，要与腾讯正面刚",
+    "url": "http://www.gamelook.com.cn/2026/10/603669/",
+    "source": {
+      "name": "GameLook",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "产业动态",
+    "summary": "【GameLook专稿，禁止转载！】 GameLook报道/最近两年，网易游戏业务的调整很多，但整体的战略方向其实可以简单概括成一句话，聚焦资源，做长青游戏。 而如果说哪个赛道更容...",
+    "publishedAt": "2026-10-12T02:44:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.404Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameLook",
+        "url": "http://www.gamelook.com.cn/2026/10/603669/"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "1a7689ec17550299",
+    "title": "“MMO手游如何雪崩的”？深度分析：从最赚钱游戏到收入腰斩！",
+    "url": "http://www.gamelook.com.cn/2026/10/603649/",
+    "source": {
+      "name": "GameLook",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "【GameLook专稿，禁止转载！】 GameLook报道/无论是国内还是全球游戏市场，MMO赛道都在过去两年里遭遇了前所未有的下滑。而五年前，它还是手游市场收入最高的细分品类。 ...",
+    "publishedAt": "2026-10-12T02:30:09.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.404Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameLook",
+        "url": "http://www.gamelook.com.cn/2026/10/603649/"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "5a88f82a6ba6679e",
+    "title": "Bain’s Bridge Data Centres Seeks to Upsize Loan to $6.6 Billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Bain Capital-owned Bridge Data Centres is in talks with banks to more than double the size of an existing loan to about $6.6 billion, people familiar with the matter said, in what would be one of the ",
+    "publishedAt": "2026-10-12T02:29:55.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "daae7ef5850b858c",
+    "title": "10月12日—10月18日共有25款游戏开测｜GameRes",
+    "url": "https://www.gameres.com/901203162.html",
+    "source": {
+      "name": "游资网",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "GameRes游资网统计2026年10月12日—10月18日共25款游戏开测，含网易《极限战场》、西山居《剑侠世界4：无限》等多款不同品类游戏的测试、上线信息。",
+    "publishedAt": "2026-10-12T02:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:28.568Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "游资网",
+        "url": "https://www.gameres.com/901203162.html"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "189a92de428aa8ac",
+    "title": "LG's Cho on Latest AI-Powered Forecasting Tools",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-12/lg-s-cho-on-latest-ai-powered-forecasting-tools-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Tyger Cho, Director of Business Development and Financial Services at LG AI Research, discusses the the adoption of artificial intelligence in the financial sector and the company's latest AI tool, wh",
+    "publishedAt": "2026-10-12T02:14:25.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-12/lg-s-cho-on-latest-ai-powered-forecasting-tools-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f79b4dbac80b3e86",
+    "title": "DBS CEO: Market Repricing Risks on AI Financing",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-12/dbs-ceo-market-repricing-risks-on-ai-financing-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Tan Su Shan, CEO at DBS Group, says the market is repricing the risks around investments related to the buildup of artificial intelligence that could lead to more discipline in financing. She speaks w",
+    "publishedAt": "2026-10-12T02:11:11.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-12/dbs-ceo-market-repricing-risks-on-ai-financing-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2da4e263cca3ca4",
+    "title": "游戏开发者热议：“人人都在用AI，参加Game Jam还有什么意义”？",
+    "url": "http://www.gamelook.com.cn/2026/10/603634/",
+    "source": {
+      "name": "GameLook",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "【GameLook专稿，禁止转载！】 GameLook报道/在游戏开发者眼中，Game Jam一直被视为独立游戏开发的圣地。不管是24小时、48小时还是72小时，大家关在一个空间或...",
+    "publishedAt": "2026-10-12T02:09:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.404Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameLook",
+        "url": "http://www.gamelook.com.cn/2026/10/603634/"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "69e046b1dca70f99",
+    "title": "Boltray Games携5款风格多元的游戏亮相2026北京核聚变",
+    "url": "https://www.gcores.com/articles/220745",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "核聚变游戏嘉年华北京站即将开幕，热门新游试玩、精彩舞台活动、限定周边收集、沉浸式体验最热烈的玩家氛围！10 月 24、25 日，我们首钢国际会展中心见！\n\n<获取2026北京核聚变门票>\n\nGGG游戏节奏联欢夜为北京核聚变游戏嘉年华期间举办的夜间音乐演出活动，如需购买GGG核聚变联票，请前往GGG购票页面。\n\n<获取GGG x 核聚变联票>\n\n厂商介绍\nBoltray Games是一家专注游戏领域",
+    "publishedAt": "2026-10-12T02:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220745"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "2287e740859c1473",
+    "title": "奇葩独游《教妹妹开车》测试火爆，开发者穷疯了：“每天AI账单7000元、贷款续命”",
+    "url": "http://www.gamelook.com.cn/2026/10/603621/",
+    "source": {
+      "name": "GameLook",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "【GameLook专稿，禁止转载！】 GameLook报道/随着生成式对话AI技术在大语言模型驱动下的快速普及，游戏圈内正兴起一波利用AI实时交互打造独特体验的新风潮。 从先前凭借...",
+    "publishedAt": "2026-10-12T01:59:04.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.404Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameLook",
+        "url": "http://www.gamelook.com.cn/2026/10/603621/"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "2265e9f253e896f9",
+    "title": "7年烧光千万、3次推倒重来，王老菊首款游戏终于要上线了？",
+    "url": "http://www.gamelook.com.cn/2026/10/603588/",
+    "source": {
+      "name": "GameLook",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "10月23日，知名B站UP主“怕上火暴王老菊”（以下简称王老菊）创办的未来科技工作室推出的首款游戏《再再启程》，将正式在Steam平台上线。 从2019年5月王老菊高调官宣跨界做游...",
+    "publishedAt": "2026-10-12T01:49:28.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.404Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameLook",
+        "url": "http://www.gamelook.com.cn/2026/10/603588/"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "3b0a74f3d9786490",
+    "title": "9月主机游戏大乱斗 几家欢喜几家愁？",
+    "url": "https://www.gameres.com/901203161.html",
+    "source": {
+      "name": "游资网",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "2026年9月主机游戏大作扎堆竞争惨烈，《黎明行者之血》《火焰纹章：万紫千红》等虽有不足却销量亮眼，索尼《漫威金刚狼》口碑销量双惨败，折射玩家喜好与行业的变化。",
+    "publishedAt": "2026-10-12T01:38:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:28.568Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "游资网",
+        "url": "https://www.gameres.com/901203161.html"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "14272df1fb49e4dc",
+    "title": "“最惨独游神作”？10年花掉2亿巨款，吹哥“推箱子游戏”，好评97%却卖不动？",
+    "url": "http://www.gamelook.com.cn/2026/10/603566/",
+    "source": {
+      "name": "GameLook",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "【GameLook专稿，禁止转载！】 在如今这个快节奏的游戏行业，绝大多数项目都在追求短平快的开发周期。资本期待快速上线、快速回笼资金，流水线式的游戏作品一茬接着一茬涌入 Stea...",
+    "publishedAt": "2026-10-12T01:37:25.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.404Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameLook",
+        "url": "http://www.gamelook.com.cn/2026/10/603566/"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "d9e0f98af3763044",
+    "title": "《逃离后室》“失物招领”更新将于10月29日上线",
+    "url": "https://www.gcores.com/articles/220769",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "产业动态",
+    "summary": "作为2026年第四季度更新路线图的开端，《逃离后室》开发团队宣布“失物招领”（Lost & Found）更新将于10月29日上线，并带来2款免费的流浪者皮肤，以及“失物招领外观包（中的5款DLC皮肤。\n\n\n官方表示，非常感谢大家的耐心等待，团队还在与那些实体周旋，并探索更多的阈限空间。据悉，这只是游戏更新的第一步。此外，游戏还计划推出全新的层级，更多消息将于近期公布。2款免费外观包括：途中遗失、实",
+    "publishedAt": "2026-10-12T01:30:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220769"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "b63a6a8fa52928e3",
+    "title": "让赵云回故里，让猪猪侠闯三国，长青18载的《三国杀》IP又有了新故事",
+    "url": "https://www.gameres.com/901203159.html",
+    "source": {
+      "name": "游资网",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "2026年国庆，长青18载的《三国杀》IP旗下三款产品推出全新武将，同时联动文旅、非遗及猪猪侠IP，打造多元文化触达场景。",
+    "publishedAt": "2026-10-12T01:21:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:28.568Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "游资网",
+        "url": "https://www.gameres.com/901203159.html"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "07d5c0e8b56cedb2",
+    "title": "Team Instant Defeat携手11位工作室正式公布Roguelike新作《地块梦战》",
+    "url": "https://www.gcores.com/articles/220767",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "新成立的游戏开发工作室 Team Instant Defeat 携手 11位工作室，隆重公布快节奏俯视角动作 Roguelike 新作——《地块梦战》。在这款游戏中，你需要亲手构筑战场、抵御入侵意识深处的异星敌人，在危机四伏的精神世界中奋力求生。\n\n\n<内嵌内容，请前往机核查看>\n\n在《地块梦战》中，每一局游戏都从一块地块开始。你需要迎战成群结队的异星敌人，积累经验、提升等级，并不断扩展自己的战场",
+    "publishedAt": "2026-10-12T01:10:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220767"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "52e931fee2e2c961",
+    "title": "《极限竞速：地平线6》首个大型拓展包将于27年1月21日上线",
+    "url": "https://www.gcores.com/articles/220768",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "微软宣布，《极限竞速：地平线 6》首个大型拓展包将于2027年1月21日发布。该拓展包包含在《地平线 6》尊享版、尊享升级包及拓展包合集内，无需额外付费。除了升级上述版本外，内容也可单独购买。 \n\n\n与此同时，通过尊享升级包升级至游戏尊享版，可立即解锁现已推出的全部内容：车辆通行证、计时赛车包与意大利激情车包、VIP 会员以及新手礼包。同时，玩家将获得1月21日上线的首个大型拓展包，以及后续推出的",
+    "publishedAt": "2026-10-12T01:08:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220768"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "287476292fcef35f",
+    "title": "DBS CEO Tan Says Market Is Repricing Risks on AI Financing",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/dbs-ceo-tan-says-market-is-repricing-risks-on-ai-financing",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The market is repricing the risks around investments related to the buildup of artificial intelligence that could lead to more discipline in financing, according to DBS Group Holdings Ltd. Chief Execu",
+    "publishedAt": "2026-10-12T01:07:46.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-12/dbs-ceo-tan-says-market-is-repricing-risks-on-ai-financing"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0f0b80f346788139",
+    "title": "《星际公民》衍生单机游戏《42中队》推出Steam商城页",
+    "url": "https://www.gcores.com/articles/220765",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "由 Cloud Imperium Games 打造的《星际公民》衍生单机游戏《42中队》现已推出 Steam 商城页。本作中，玩家将以新兵身份加入UEE海军，踏上电影感单人太空冒险之旅，成为作战行动的核心人物。在这里，玩家将与全明星阵容船员并肩生活、协同工作或抗击敌人；从战斗机驾驶舱到主力舰，从空间站到边疆前哨，再到银河大战的最前线，玩家的故事将在此展开。 \n\n\n\n\n\n\n\n\n\n\n官方表示，在激烈战",
+    "publishedAt": "2026-10-12T01:05:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220765"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "79a201a7484739be",
+    "title": "时间管理心理恐怖游戏《铁道人》将于2027年3月10日发售",
+    "url": "https://www.gcores.com/articles/220766",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "由11位工作室携手知名恐怖游戏开发者，Harvester Games 的 雷姆·米哈尔斯基（Rem Michalski） 打造的全新作品《铁道人》将于2027年3月10日正式登陆 PC Steam 平台。在《铁道人》中，你将扮演特洛伊——一名新上任的铁路道口工，独自驻守在荒无人烟的偏僻铁路旁。你的目标看似简单：完成为期一个月的工作合同，同时努力戒酒，并最后一次尝试挽回妻子的信任。来到这座远离尘嚣的",
+    "publishedAt": "2026-10-12T00:55:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220766"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "87718895ca43a777",
+    "title": "Doory – Open-Source Canva",
+    "url": "https://github.com/shaongitbd/doory",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: https://github.com/shaongitbd/doory\nComments URL: https://news.ycombinator.com/item?id=50049872\nPoints: 29\n# Comments: 3",
+    "publishedAt": "2026-10-12T00:48:27.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://github.com/shaongitbd/doory"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "156bf54f8b17196a",
+    "title": "Local Indexing to reduce tool calling and token usage",
+    "url": "https://tedhaley.ca/pensieve/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: https://tedhaley.ca/pensieve/\nComments URL: https://news.ycombinator.com/item?id=50049508\nPoints: 41\n# Comments: 8",
+    "publishedAt": "2026-10-12T00:03:53.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://tedhaley.ca/pensieve/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a3f0b7b889931007",
+    "title": "HashiCorp archives the Boundary open source repo",
+    "url": "https://github.com/hashicorp/boundary",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: https://github.com/hashicorp/boundary\nComments URL: https://news.ycombinator.com/item?id=50049498\nPoints: 56\n# Comments: 12",
+    "publishedAt": "2026-10-12T00:02:45.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://github.com/hashicorp/boundary"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1b572d2e4d4dbebc",
+    "title": "Whatever became of holography? (2011)",
+    "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography\nComments URL: https://news.ycombinator.com/item?id=50049411\nPoints: 96\n# Comments: 44",
+    "publishedAt": "2026-10-11T23:50:34.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.americanscientist.org/article/whatever-became-of-holography"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "23c36dde8c598e39",
+    "title": "Illustration Beyond Proof",
+    "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/\nComments URL: https://news.ycombinator.com/item?id=50049133\nPoints: 47\n# Comments: 0",
+    "publishedAt": "2026-10-11T23:22:36.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8e9ae7e4ecb8cd5c",
+    "title": "All Outpost upgrade materials in ARC Raiders and how to get them",
+    "url": "https://www.destructoid.com/all-outpost-upgrade-materials-in-arc-raiders-and-how-to-get-them/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Better home! \nThe post All Outpost upgrade materials in ARC Raiders and how to get them appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T23:10:24.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/all-outpost-upgrade-materials-in-arc-raiders-and-how-to-get-them/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fb89390d59f6d893",
+    "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+    "url": "https://github.com/ClickHouse/clickhouse-c",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://github.com/ClickHouse/clickhouse-c\nComments URL: https://news.ycombinator.com/item?id=50049003\nPoints: 18\n# Comments: 1",
+    "publishedAt": "2026-10-11T23:08:29.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://github.com/ClickHouse/clickhouse-c"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "04264482f0251792",
+    "title": "Fingerprints are the new cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies\nComments URL: https://news.ycombinator.com/item?id=50048642\nPoints: 167\n# Comments: 75",
+    "publishedAt": "2026-10-11T22:33:39.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://royfish.dev/fingerprints-are-the-new-cookies"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "584059889c4fc9ea",
+    "title": "Google is illegaly cutting forest to build data centers",
+    "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment\nComments URL: https://news.ycombinator.com/item?id=50048638\nPo",
+    "publishedAt": "2026-10-11T22:33:30.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "604be226fcb80111",
+    "title": "Recursive self-improvement through collective intelligence",
+    "url": "https://pub.sakana.ai/mass/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Article URL: https://pub.sakana.ai/mass/\nComments URL: https://news.ycombinator.com/item?id=50048522\nPoints: 81\n# Comments: 44",
+    "publishedAt": "2026-10-11T22:22:10.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://pub.sakana.ai/mass/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1f4177264a7404ca",
+    "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
+    "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://pydantic.dev/articles/dynamic-shredding-2026-01-26\nComments URL: https://news.ycombinator.com/item?id=50048490\nPoints: 13\n# Comments: 8",
+    "publishedAt": "2026-10-11T22:18:26.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "69f867972cf05685",
+    "title": "Passkeys are a trap",
+    "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\nComments URL: https://news.ycombinator.com/item?id=50048312\nPoints: 393\n# Comments: 219",
+    "publishedAt": "2026-10-11T21:59:48.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "85ae770012998b6f",
+    "title": "Planet Zoo 2 release countdown: Exact date and time",
+    "url": "https://www.destructoid.com/planet-zoo-2-release-countdown-exact-date-and-time/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "A new zoo in the making! \nThe post Planet Zoo 2 release countdown: Exact date and time appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T21:30:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/planet-zoo-2-release-countdown-exact-date-and-time/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "83406123c1b1f932",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "publishedAt": "2026-10-11T21:14:40.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "59983d2864ef7df9",
+    "title": "Tattoos you can turn on and off",
+    "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off\nComments URL: https://news.ycombinator.com/item?id=50047802\nPoints: 32\n# Comments: 10",
+    "publishedAt": "2026-10-11T21:04:46.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1f11a67bcf26c71b",
+    "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+    "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+    "publishedAt": "2026-10-11T20:51:47.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "64d4ebe3e21c361f",
+    "title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Amazon.com Inc. is in negotiations to acquire Decart AI, an artificial intelligence startup, in a deal that could be valued at around $7 billion, the Wall Street Journal reported.",
+    "publishedAt": "2026-10-11T20:46:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d16bd93ff857d83d",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046\nComments URL: https://news.ycombinator.com/item?id=50047422\nPoints: 321\n# Comments: 495",
+    "publishedAt": "2026-10-11T20:20:52.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "05aee8888a39bebc",
+    "title": "How long does it take to beat Hellraiser: Revival?",
+    "url": "https://www.destructoid.com/how-long-does-it-take-to-beat-hellraiser-revival/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "After all, all nightmares eventually end. \nThe post How long does it take to beat Hellraiser: Revival? appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T20:08:25.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/how-long-does-it-take-to-beat-hellraiser-revival/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d5c473b7ac23af47",
+    "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+    "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "BOULDER, CO - MARCH 5:A Flock Safety license plate recognition camera is seen near the intersection of Marine Street and Arapahoe Avenue in Boulder on Thursday, March 5, 2026. (Photo by Matthew Jonas/",
+    "publishedAt": "2026-10-11T20:06:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d41642ac29318b77",
+    "title": "Cartographers of North Korea (2019)",
+    "url": "https://cartographers-nk.wonyoung.so/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Article URL: https://cartographers-nk.wonyoung.so/\nComments URL: https://news.ycombinator.com/item?id=50047091\nPoints: 208\n# Comments: 38",
+    "publishedAt": "2026-10-11T19:46:40.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://cartographers-nk.wonyoung.so/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "970e4e42b61bcd48",
+    "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+    "url": "https://theonion.com/archivehunt/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://theonion.com/archivehunt/\nComments URL: https://news.ycombinator.com/item?id=50047055\nPoints: 280\n# Comments: 38",
+    "publishedAt": "2026-10-11T19:43:32.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://theonion.com/archivehunt/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "39b6df7e805bfd78",
+    "title": "FC 27 Future Stars Challenge 1 SBC solutions and rewards",
+    "url": "https://www.destructoid.com/fc-27-future-stars-challenge-1-sbc-solutions-and-rewards/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "A new set of challenges! \nThe post FC 27 Future Stars Challenge 1 SBC solutions and rewards appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T19:07:13.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/fc-27-future-stars-challenge-1-sbc-solutions-and-rewards/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1443f23b332e0dd8",
+    "title": "Boyish Girlfriend Manga Encourages Acceptance of All Sorts of Styles",
+    "url": "https://www.siliconera.com/boyish-girlfriend-manga-encourages-acceptance-of-all-sorts-of-styles/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Boyish Girlfriend is such a sweet manga because of how much we can see the two lead characters love and appreciate each other no matter what.",
+    "publishedAt": "2026-10-11T19:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.706Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/boyish-girlfriend-manga-encourages-acceptance-of-all-sorts-of-styles/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fb07dbee3ae27f29",
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals",
+    "publishedAt": "2026-10-11T19:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "10ff9df7a5585aaf",
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu",
+    "publishedAt": "2026-10-11T18:33:56.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "e00593f5101ed9a2",
+    "title": "‘I am not an AI friendly actor:’ Nic Cage takes colossal W even though it likely means the end of Spider-Noir for good",
+    "url": "https://www.destructoid.com/nicholas-cage-no-longer-working-with-amazon/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "At least someone is taking a stance. \nThe post ‘I am not an AI friendly actor:’ Nic Cage takes colossal W even though it likely means the end of Spider-Noir for good appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T18:28:15.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/nicholas-cage-no-longer-working-with-amazon/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "04c1e8f8123b90fd",
+    "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+    "url": "https://www.ways-of-seeing.com/ch1",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://www.ways-of-seeing.com/ch1\nComments URL: https://news.ycombinator.com/item?id=50046241\nPoints: 92\n# Comments: 14",
+    "publishedAt": "2026-10-11T18:26:24.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.ways-of-seeing.com/ch1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d49fdf3cc73e1b28",
+    "title": "Total Annihilation, rebuilt for modern computers",
+    "url": "https://nanolathe.gg",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Article URL: https://nanolathe.gg\nComments URL: https://news.ycombinator.com/item?id=50045984\nPoints: 419\n# Comments: 178",
+    "publishedAt": "2026-10-11T18:04:47.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://nanolathe.gg"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f059340783d441bc",
+    "title": "NYC's \"Click to Cancel\" rule is now in effect",
+    "url": "https://www.nyc.gov/main/click-to-cancel",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "技术趋势",
+    "summary": "Article URL: https://www.nyc.gov/main/click-to-cancel\nComments URL: https://news.ycombinator.com/item?id=50045946\nPoints: 397\n# Comments: 196",
+    "publishedAt": "2026-10-11T18:01:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://www.nyc.gov/main/click-to-cancel"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "842d8170170251a2",
+    "title": "Who should you pick from the FC 27 Base Hero Matchday Player Pick SBC",
+    "url": "https://www.destructoid.com/who-should-you-pick-from-the-fc-27-base-hero-matchday-player-pick-sbc/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Two good picks, two terrible ones! \nThe post Who should you pick from the FC 27 Base Hero Matchday Player Pick SBC appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T17:53:50.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/who-should-you-pick-from-the-fc-27-base-hero-matchday-player-pick-sbc/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d5198198bd3bd4ea",
+    "title": "Zach Cregger’s Resident Evil is officially the best-performing film in the series",
+    "url": "https://www.destructoid.com/zach-creggers-resident-evil-is-officially-the-best-performing-film-in-the-series/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "It still has a ways to go if we adjust for inflation. \nThe post Zach Cregger’s Resident Evil is officially the best-performing film in the series appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T17:50:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/zach-creggers-resident-evil-is-officially-the-best-performing-film-in-the-series/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3ab43af1edadb849",
+    "title": "Sonic the Hedgehog is hitting mid-life at full speed with a Dragon Ball-inspired anime short",
+    "url": "https://www.destructoid.com/sonic-the-hedgehog-is-hitting-mid-life-at-full-speed-with-a-dragon-ball-inspired-anime-short/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Gotta go fast, gotta go forward.\nThe post Sonic the Hedgehog is hitting mid-life at full speed with a Dragon Ball-inspired anime short appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T17:31:59.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/sonic-the-hedgehog-is-hitting-mid-life-at-full-speed-with-a-dragon-ball-inspired-anime-short/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "26bcdb5e7bca5899",
+    "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+    "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to ",
+    "publishedAt": "2026-10-11T17:31:07.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "33f81ac21c866cde",
+    "title": "Hellraiser: Revival trophy guide – How to unlock all trophies and achievements",
+    "url": "https://www.destructoid.com/hellraiser-revival-trophy-guide-how-to-unlock-all-trophies-and-achievements/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "No bargain needed.\nThe post Hellraiser: Revival trophy guide – How to unlock all trophies and achievements appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T17:01:31.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/hellraiser-revival-trophy-guide-how-to-unlock-all-trophies-and-achievements/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "204e3d90b8978211",
+    "title": "apsw: Another Python SQLite Wrapper",
+    "url": "https://github.com/rogerbinns/apsw",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: https://github.com/rogerbinns/apsw\nComments URL: https://news.ycombinator.com/item?id=50045273\nPoints: 75\n# Comments: 16",
+    "publishedAt": "2026-10-11T16:58:22.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "https://github.com/rogerbinns/apsw"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "2ff11c15230d6661",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "publishedAt": "2026-10-11T16:52:33.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "c9330e4fea141703",
+    "title": "Invincible VS DLC character Agent Spider announced",
+    "url": "https://www.gematsu.com/2026/10/invincible-vs-dlc-character-agent-spider-announced",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Publisher Skybound Games and developer Quarter Up have announced three-versus-three tag fighting game Invincible VS …",
+    "publishedAt": "2026-10-11T16:30:47.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.659Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/invincible-vs-dlc-character-agent-spider-announced"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6ee07c43b68755a1",
+    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+    "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "publishedAt": "2026-10-11T16:02:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "656eef0731ecd2dd",
+    "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+    "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+    "publishedAt": "2026-10-11T16:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "795b2dff14cba02b",
+    "title": "NASA dumped over 800GB of Artemis II data online",
+    "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "A crew annotated image showing where the Artemis II team observed impact flashes on the dark side of the Moon. | Image: NASA\t\n\nIf you thought you'd seen all there is to see from the Artemis II mission",
+    "publishedAt": "2026-10-11T15:34:40.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4bea287ebaa94ee7",
+    "title": "How I reverse engineered a commercial spatial audio effect",
+    "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+    "source": {
+      "name": "Hacker News",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/\nComments URL: https://news.ycombinator.com/item?id=50044272\nPoints: 112\n# Comments: 35",
+    "publishedAt": "2026-10-11T15:21:58.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.698Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Hacker News",
+        "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a751f71cb60d778c",
+    "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+    "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two m",
+    "publishedAt": "2026-10-11T15:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5824b21fe5effaff",
+    "title": "最尴尬的事儿  核聚变篇第二辑【赛博告解室】",
+    "url": "https://www.gcores.com/radios/220608",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "本期时间轴制作：猪猪米\n赛博告解室限时复活第二辑。10月24、25日，核聚变2026·北京站将在北京石景山 · 首钢国际会展中心 1、3 号馆开幕，今天节目依旧集结了同事们，讲讲历年核聚变经历过各种尴尬疯了的，需要忏悔的事。\n关于【核聚变2026·北京站】https://site.gcores.com/fusion2026_bj/\n\n<获取2026北京核聚变门票>\n\n✦展会时间：2026年10月2",
+    "publishedAt": "2026-10-11T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/radios/220608"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "6f97b7a918d25cca",
+    "title": "80+ Games Are Reduced By 90-95% In The Xbox Seasonal Savings Sale 2026",
+    "url": "https://www.purexbox.com/news/2026/10/80plus-games-are-reduced-by-90-95percent-in-the-xbox-seasonal-savings-sale-2026",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "HUGE discounts for great games!\nLooking for some cheap Xbox games during the Xbox Seasonal Savings Sale 2026?\nAs we've already highlighted in our big discounts feature this week, Xbox has randomly put",
+    "publishedAt": "2026-10-11T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.905Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/news/2026/10/80plus-games-are-reduced-by-90-95percent-in-the-xbox-seasonal-savings-sale-2026"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9b47ec7a9275db8a",
+    "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+    "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+    "publishedAt": "2026-10-11T15:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f7160c7c72f0277f",
+    "title": "Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Xpeng Inc. can rapidly adapt its advanced driver-assistance technology to European roads using relatively small amounts of data, allowing it to modify its software capabilities for different markets w",
+    "publishedAt": "2026-10-11T14:31:53.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d2961aeed9f54c6f",
+    "title": "What to know about the landmark Warner Bros. Discovery sale",
+    "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+    "publishedAt": "2026-10-11T14:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f0761395b4b6e2d1",
+    "title": "Is AI Crowding Everyone Else Out of the Bond Market?",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Hyperscalers, data centers and chip companies are borrowing hundreds of billions of dollars to finance the AI buildout, turning the technology boom into one of the biggest new forces in corporate cred",
+    "publishedAt": "2026-10-11T14:03:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0184522e90843491",
+    "title": "Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Fresh details on Apple’s HomeView, HomePod mini and new Apple TV, including release dates, colors, chips and features.",
+    "publishedAt": "2026-10-11T14:00:02.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:30.601Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "27abcf7051e177f2",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "source": {
+      "name": "TechCrunch",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "publishedAt": "2026-10-11T14:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.110Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "abd046d4870d23be",
+    "title": "Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November",
+    "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Smile like you mean it.\nTekken 8 is always a little bit crazy and chaotic, but I think this latest EVO France trailer takes the cake.\nIt focuses on Roger Jr, who’s joining the roster next month, from ",
+    "publishedAt": "2026-10-11T13:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.964Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9fe8195b421303b1",
+    "title": "猛踩踏板：索尼公布《疯狂出租车：极速环游》「巴西地图」宣传视频",
+    "url": "https://www.gcores.com/articles/220762",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "索尼互动娱乐于日前公布了《疯狂出租车：极速环游》「巴西地图」宣传视频。据悉，玩家可以猛踩踏板，体验这个以澎湃激情而闻名的国度。太阳虽已落山，巴西永远不眠！每个转弯都能遇见惊艳美景，更有提神咖啡让人精神倍增。\n\n\n<内嵌内容，请前往机核查看>\n\n在《疯狂出租车》中，玩家可驾驶出租车一边载客一边痛快狂飙，在刺激迭起的驾驶体验中，畅享不同于传统赛车游戏的独特乐趣。同时，也可在游戏中尽享由知名音乐人制作、",
+    "publishedAt": "2026-10-11T13:33:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220762"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "60dbbaea9c0866e2",
+    "title": "Tekken 8 DLC character Roger Jr. launches November 11 for Season 3 Character Pass owners, November 16 for all",
+    "url": "https://www.gematsu.com/2026/10/tekken-8-dlc-character-roger-jr-launches-november-11-for-season-3-character-pass-owners-november-16-for-all",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Tekken 8 Season 3 downloadable content character Roger Jr. will launch on November 11 for …",
+    "publishedAt": "2026-10-11T13:30:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.659Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/tekken-8-dlc-character-roger-jr-launches-november-11-for-season-3-character-pass-owners-november-16-for-all"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "d783b7d5397136e8",
+    "title": "'We Didn't Expect This': Gran Turismo 7 Continuing to 'Sell Very Well' on PS5",
+    "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The sim racer is almost five years old.\nA lot has been said of Sony’s failure to produce live service successes, but Gran Turismo 7 quietly bubbles away in the background as one of the PS5’s most popu",
+    "publishedAt": "2026-10-11T13:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.964Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/we-didnt-expect-this-gran-turismo-7-continuing-to-sell-very-well-on-ps5"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a78a7b55beec2eaa",
+    "title": "I Gave Up My The Witcher 3 Run To Play Dressmaker, And My Life Is Better For It",
+    "url": "https://www.gamespot.com/articles/i-gave-up-my-the-witcher-3-run-to-play-dressmaker-and-my-life-is-better-for-it/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "If you walked into my room at any time (please don’t), chances are you’ll find me playing more adult games. No, not talking about those—I mean specifically Call of Duty, Grand Theft Auto VI, Cyberpunk",
+    "publishedAt": "2026-10-11T13:08:25.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.696Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/i-gave-up-my-the-witcher-3-run-to-play-dressmaker-and-my-life-is-better-for-it/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5b20ec6237244c72",
+    "title": "Review: The Witcher 3: Wild Hunt – Remastered Improves on Greatness",
+    "url": "https://www.siliconera.com/review-the-witcher-3-wild-hunt-remastered-improves-on-greatness/",
+    "source": {
+      "name": "Siliconera",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The Witcher 3: Wild Hunt - Remastered takes an already great RPG and refines it even further. It's a perfect excuse to head out on another adventure.",
+    "publishedAt": "2026-10-11T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.706Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Siliconera",
+        "url": "https://www.siliconera.com/review-the-witcher-3-wild-hunt-remastered-improves-on-greatness/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "f208810ad1293942",
+    "title": "Feature: How Do You Pronounce These Words From Zelda: Ocarina Of Time?",
+    "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Sheikdown.\nThe upcoming return to 64-bit Hyrule has us discussing Ocarina of Time memories, chatting about our favourite characters and bosses, and generally looking wistfully into the middle distance",
+    "publishedAt": "2026-10-11T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.739Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/how-do-you-pronounce-these-words-from-zelda-ocarina-of-time"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8511dc88bb91b09f",
+    "title": "Jane Foster, Venom, Jubilee Join Marvel Tokon in Year 1 on PS5",
+    "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Klyntar stage also coming in Spring 2027.\nWow wow wow! Arc System Works has confirmed the remaining trio of new characters joining Marvel Tokon: Fighting Souls’ roster in Year 1 – courtesy of some typ",
+    "publishedAt": "2026-10-11T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.964Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/jane-foster-venom-jubilee-join-marvel-tokon-in-year-1-on-ps5"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3709230108d5cc44",
+    "title": "Feature: ROG Xbox Ally X: 1-Year Review - A Handheld I've Been Using Daily For The Past 12 Months",
+    "url": "https://www.purexbox.com/features/rog-xbox-ally-x-1-year-review-a-handheld-ive-been-using-daily-for-the-past-12-months",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "The most useful \"Xbox\" device I've probably ever owned.\nCan you believe it's been an entire year since we published our initial review of the ROG Xbox Ally X here at Pure Xbox?! That was all the way b",
+    "publishedAt": "2026-10-11T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.905Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/rog-xbox-ally-x-1-year-review-a-handheld-ive-been-using-daily-for-the-past-12-months"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "974bc5a1618eb9bf",
+    "title": "Vurt wants you to look at vertical videos as a genre of their own",
+    "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media pl",
+    "publishedAt": "2026-10-11T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "fdffc85e4d360d5e",
+    "title": "What to expect from Apple’s ‘Welcome Home’ event",
+    "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand",
+    "publishedAt": "2026-10-11T13:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3e46e99ca1a9e94e",
+    "title": "Guide: Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages",
+    "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Ready, fight.\nA fighting game is only as strong as its character roster, and with almost 100 years of comic book history to pull from, Arc System Works and PlayStation's Marvel Tokon: Fighting Souls h",
+    "publishedAt": "2026-10-11T12:45:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.964Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "4ae8f6697fc9613f",
+    "title": "Forza Horizon 6 Will Have a Physical PS5 Disc, But There's a Catch",
+    "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch",
+    "source": {
+      "name": "Push Square",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "I think you can guess what that is.\nThere’s still over a year until Sony stops making discs, so it’s no real surprise to see Forza Horizon 6 commit to physical media.\nThe PS5 port of the acclaimed ope",
+    "publishedAt": "2026-10-11T12:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.964Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Push Square",
+        "url": "https://www.pushsquare.com/news/2026/10/forza-horizon-6-will-have-a-physical-ps5-disc-but-theres-a-catch"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "6efd0f5ffa553d4f",
+    "title": "MARVEL Tokon: Fighting Souls DLC characters Thor (Jane Foster), Venom, and Jubilee announced",
+    "url": "https://www.gematsu.com/2026/10/marvel-tokon-fighting-souls-dlc-characters-thor-jane-foster-venom-and-jubilee-announced",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Publisher Sony Interactive Entertainment and developer Arc System Works have announced four-versus-four tag fighting game …",
+    "publishedAt": "2026-10-11T12:00:18.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.659Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/marvel-tokon-fighting-souls-dlc-characters-thor-jane-foster-venom-and-jubilee-announced"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "00cb2a2fbcf2198a",
+    "title": "Horror is big business",
+    "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscr",
+    "publishedAt": "2026-10-11T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "1be2e8433c9b87a5",
+    "title": "Why the LeapPad couldn&#8217;t survive the iPad",
+    "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadg",
+    "publishedAt": "2026-10-11T12:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "5660153033086d69",
+    "title": "The collective global duty to safeguard time",
+    "url": "https://www.ft.com/content/ae389f53-ebd4-4188-9b44-266770595158?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "出海/全球化",
+    "summary": "World powers need to agree on standardisation crucial for infrastructure and space travel",
+    "publishedAt": "2026-10-11T11:00:07.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/ae389f53-ebd4-4188-9b44-266770595158?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "558eac172fb01f6d",
+    "title": "Guide: Xbox Adds More Perks For Game Pass Members (October 2026)",
+    "url": "https://www.purexbox.com/guides/xbox-adds-more-perks-for-game-pass-members-october-2026",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The latest freebies for XGP subscribers.\nThe Xbox Game Pass Perks program is continuing to add a bunch of freebies for Game Pass members throughout October 2026, including for the likes of Call of Dut",
+    "publishedAt": "2026-10-11T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.905Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/guides/xbox-adds-more-perks-for-game-pass-members-october-2026"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "a439fdc2654eaaf3",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "source": {
+      "name": "The Verge",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal dat",
+    "publishedAt": "2026-10-11T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.302Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "29e204e9a7bff6cd",
+    "title": "【传言】英伟达停产RTX 5090，旗舰芯片全面转向工作站",
+    "url": "https://www.gcores.com/articles/220759",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "技术趋势",
+    "summary": "据知名爆料者 MEGAsizeGPU 透露，英伟达已停止向 GeForce RTX 5090 供货 GB202 芯片，未来所有 GB202 芯片将转为工作站显卡独占。作为基于 Blackwell 架构的旗舰级芯片，GB202 并未在 RTX 5090 上发挥全部性能。 \n\n\n爆料者 hongxing2020 也确认 RTX 5090 停产，包括中国特供的D系列在内均停止销售。根据工厂内部通知，配备",
+    "publishedAt": "2026-10-11T10:36:51.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/articles/220759"
+      }
+    ],
+    "originalLanguage": "zh"
+  },
+  {
+    "id": "ce40718faa68bb56",
+    "title": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
+    "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Which is the Wuhu winner?\nHey everyone! Welcome to this week's edition of Box Art Brawl!\nLast time, we matched up a trio of covers for the GBA's Zone Of The Enders: The Fist Of Mars, though it wasn't ",
+    "publishedAt": "2026-10-11T09:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.739Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "ace9ea5a7a5e380d",
+    "title": "All endings in Hellraiser: Revival and how to unlock them",
+    "url": "https://www.destructoid.com/all-endings-in-hellraiser-revival-and-how-to-unlock-them/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Make your choice! \nThe post All endings in Hellraiser: Revival and how to unlock them appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T07:58:17.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.607Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/all-endings-in-hellraiser-revival-and-how-to-unlock-them/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "01cc88764cb0628a",
+    "title": "How to get inside the Emperor and obtain Emperor Modulator in ARC Raiders",
+    "url": "https://www.destructoid.com/how-to-get-inside-the-emperor-and-obtain-emperor-modulator-in-arc-raiders/",
+    "source": {
+      "name": "Destructoid",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Looting the dead! \nThe post How to get inside the Emperor and obtain Emperor Modulator in ARC Raiders appeared first on Destructoid.",
+    "publishedAt": "2026-10-11T07:08:24.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.608Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Destructoid",
+        "url": "https://www.destructoid.com/how-to-get-inside-the-emperor-and-obtain-emperor-modulator-in-arc-raiders/"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "bc04ac7c75e5d4df",
+    "title": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
+    "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "What a relief.\nHugh and Diana's new sci-fi game Pragmata could have been \"a little bit more\" horror-focused, according to the game's lead producer Masachika Kawata.\nDuring an interview last month, he ",
+    "publishedAt": "2026-10-11T04:15:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.739Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "3e13b8cc52654aa2",
+    "title": "The problem with your AI therapist",
+    "url": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them",
+    "publishedAt": "2026-10-11T04:00:16.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "09b1f1ab342e1a61",
+    "title": "What if AI prefers CVs written by AI?",
+    "url": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "The signs are that it does and one law firm’s experience is revealing",
+    "publishedAt": "2026-10-11T04:00:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "36fb81ce4853ea99",
+    "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
+    "url": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
+    "publishedAt": "2026-10-11T04:00:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "0ee2c6442c7514c4",
+    "title": "Academic publishing is a study in fighting AI slop",
+    "url": "https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3?syn-25a6b1a6=1",
+    "source": {
+      "name": "Financial Times - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Original thought, especially in the humanities, is more likely to remain the preserve of humans",
+    "publishedAt": "2026-10-11T04:00:06.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.708Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Financial Times - Tech",
+        "url": "https://www.ft.com/content/ec58cb02-fe44-4d64-af8c-eca22bfa3be3?syn-25a6b1a6=1"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "8e883280b5d03f91",
+    "title": "PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
+    "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
+    "source": {
+      "name": "Nintendo Life",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "Take an audio tour through Kanto.\nEarlier this year, as part of Pokémon's 30th anniversary celebrations, The Pokémon Company released a Game Boy Jukebox that took trainers on an audio tour through Pok",
+    "publishedAt": "2026-10-11T02:35:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.739Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Nintendo Life",
+        "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "eb0f5dc03c0b8a08",
+    "title": "Naruto Mobile global version announced",
+    "url": "https://www.gematsu.com/2026/10/naruto-mobile-global-version-announced",
+    "source": {
+      "name": "Gematsu",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "Bandai Namco will release a global version of the MoreFun Studios-developed fighting game Naruto Mobile …",
+    "publishedAt": "2026-10-10T22:00:02.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.659Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Gematsu",
+        "url": "https://www.gematsu.com/2026/10/naruto-mobile-global-version-announced"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "91d67dcd51b2b397",
+    "title": "Talking Point: What Are You Playing This Weekend? (October 10-11)",
+    "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-october-10-11",
+    "source": {
+      "name": "Pure Xbox",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "BIDDDDDY BLAAAASSSSSSSS!!!\nWelcome back to the weekend, everyone! We hope the week has treated you well so far, but now it's time to kick back and play some games.\nThe past few days have been pretty n",
+    "publishedAt": "2026-10-10T11:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:26.905Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Pure Xbox",
+        "url": "https://www.purexbox.com/features/talking-point-what-are-you-playing-this-weekend-october-10-11"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9dde6a4a6a409bad",
+    "title": "Vol.193｜EVA XR 登陆上海｜Steam Frame 一货难求｜索尼 VR 弃子｜小派的新饼",
+    "url": "https://www.gcores.com/radios/220755",
+    "source": {
+      "name": "机核",
+      "region": "zh",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "本期主播与嘉宾：\n脑潘 / 潮玩VR / 空间绘画KudoAlbus\n\n直播录制时间：\n2026-10-09\n\n-----------------------\n\n主观片面的「元语咒」是专属 VR 玩家的闲聊电台。\n以虚拟圆桌的形式在某平台直播，以一刀不剪的态度在这里回放。\n\n-----------------------\n\n章节：\n00:00 开场\n01:25 假期你去哪儿了，戴智能眼镜了吗？\n0",
+    "publishedAt": "2026-10-10T05:59:08.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-12T04:34:29.898Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "机核",
+        "url": "https://www.gcores.com/radios/220755"
+      }
+    ],
+    "originalLanguage": "zh"
   }
 ]
