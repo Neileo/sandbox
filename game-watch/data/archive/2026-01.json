@@ -1286,5 +1286,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "82943dcd1326791e",
+    "title": "Microsoft and Meta Are Running Commercials to Sell Data Centers to Locals",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-01-16/microsoft-and-meta-are-running-commercials-to-sell-data-centers-to-locals",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "技术趋势",
+    "summary": "Data centers aren’t popular with local communities. Microsoft and Meta are running PR campaigns to fix that.",
+    "publishedAt": "2026-01-16T12:03:01.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-13T05:40:40.220Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-01-16/microsoft-and-meta-are-running-commercials-to-sell-data-centers-to-locals"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
