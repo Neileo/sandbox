@@ -1390,5 +1390,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "881a274b1b684723",
+    "title": "Every GameSpot 10/10 Review Score",
+    "url": "https://www.gamespot.com/gallery/every-gamespot-10-10-review-score/2900-153/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "新品发布",
+    "summary": "The gaming essentials.\nIt isn't often that we give 10/10 review scores on GameSpot. Since the site was founded in 1996, only 30 games have earned that rank. But to achieve a 10/10, a game needs to be ",
+    "publishedAt": "2025-09-24T15:08:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-14T03:43:54.923Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/gallery/every-gamespot-10-10-review-score/2900-153/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

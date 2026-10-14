@@ -14357,5 +14357,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1fd683c639ec55e8",
+    "title": "Microsoft Reports $130 Billion in Data Center Leases",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "Microsoft Corp. reported more than $130 billion in new data center leases in the past quarter, signaling an accelerating pace of spending on artificial intelligence infrastructure.",
+    "publishedAt": "2026-07-29T20:54:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-14T03:43:57.278Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
