@@ -1313,5 +1313,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "a5b4f98dd81a7bc0",
+    "title": "The Best Video Game Soundtracks Of 2026 (So Far)",
+    "url": "https://www.gamespot.com/articles/the-best-video-game-soundtracks-of-2026/1100-6538590/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "综合",
+    "summary": "Video games don't just look better than ever, thanks to imaginative art directions and cutting-edge graphics; they also sound fantastic. With some of the best talent in the industry composing new soun",
+    "publishedAt": "2026-03-27T14:41:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-17T03:11:21.029Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/the-best-video-game-soundtracks-of-2026/1100-6538590/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
