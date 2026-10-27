@@ -4009,5 +4009,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "43adccbe50d4f0d8",
+    "title": "Wall Street Week | SpaceX Goes Public, Google’s AI Bet, World Cup Price Backlash",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-12/wall-street-week-google-s-ai-bet-world-cup-backlash-video",
+    "source": {
+      "name": "Bloomberg - Tech",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "投融资/并购",
+    "summary": "This week, the arrival of mega-IPOs is testing capital markets as investor appetite grows larger than supply. The federal government is making a direct investment in private technology companies, bett",
+    "publishedAt": "2026-06-12T23:14:43.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-27T03:53:58.977Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Bloomberg - Tech",
+        "url": "https://www.bloomberg.com/news/videos/2026-06-12/wall-street-week-google-s-ai-bet-world-cup-backlash-video"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
