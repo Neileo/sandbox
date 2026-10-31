@@ -1332,5 +1332,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "01f22b521b7d4900",
+    "title": "The Best Indie Games To Play In 2026",
+    "url": "https://www.gamespot.com/gallery/best-indie-games/2900-5964/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "独立游戏",
+    "summary": "Indie games are a widely celebrated part of the video game industry, and they've only been getting better and better as time goes on. What defines an indie game is somewhat up for debate, and in some ",
+    "publishedAt": "2026-01-07T17:17:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-10-31T04:19:16.437Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/gallery/best-indie-games/2900-5964/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
