@@ -57026,5 +57026,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "6a5dbd5634bff7d0",
+    "title": "The Immersive Edge: October 2026 industry content wrap-up",
+    "url": "https://unity.com/blog/october-2026-industry-content-wrap-up",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "The Immersive Edge, October 2026: 23 Unity Industry resources, from an F1 Academy simulator to five Industry Summit sessions.",
+    "publishedAt": "2026-09-02T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-08T04:42:13.128Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/october-2026-industry-content-wrap-up"
+      },
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/immersive-edge-august-2026"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
