@@ -1478,5 +1478,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "df3375b05c339b06",
+    "title": "Using GPT-4 to deliver a new customer service standard",
+    "url": "https://openai.com/business/customer-stories/ada",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Ada uses GPT-4 to deliver a new customer service standard",
+    "publishedAt": "2024-09-05T08:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-11T04:54:05.825Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/customer-stories/ada"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

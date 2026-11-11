@@ -784,5 +784,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "9d0f08594276bc74",
+    "title": "New in ChatGPT for Business: April 2025",
+    "url": "https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "综合",
+    "summary": "Watch hands-on demos of the lastest in ChatGPT for Business: o3, image generation, enhanced memory, and internal knowledge.",
+    "publishedAt": "2025-03-18T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-11T04:54:05.824Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/new-in-chatgpt-for-business-april-updates-2025"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/business/learn/new-in-chatgpt-for-work-march-updates-2025"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
