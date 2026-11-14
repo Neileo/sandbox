@@ -123557,5 +123557,59 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "b38d533d44d610ae",
+    "title": "October 2026’s top new PC & console games, revealed...",
+    "url": "https://newsletter.gamediscover.co/p/october-2026s-top-new-pc-and-console",
+    "source": {
+      "name": "GameDiscoverCo",
+      "region": "en",
+      "type": "investment"
+    },
+    "category": "新品发布",
+    "summary": "Also: this week on Steam & lots of discovery news.",
+    "publishedAt": "2026-10-06T18:53:05.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-14T05:08:52.053Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/october-2026s-top-new-pc-and-console"
+      },
+      {
+        "name": "GameDiscoverCo",
+        "url": "https://newsletter.gamediscover.co/p/september-2026s-top-new-pc-and-console"
+      }
+    ],
+    "originalLanguage": "en"
+  },
+  {
+    "id": "9cb9163588101724",
+    "title": "Games made with Unity: October 2026 in review",
+    "url": "https://unity.com/blog/games-made-with-unity-october-2026-releases",
+    "source": {
+      "name": "Unity Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "新品发布",
+    "summary": "Stay updated with the latest creations from the Unity community. Explore our list of standout games made with Unity in October 2026.",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-14T05:08:59.386Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/games-made-with-unity-october-2026-releases"
+      },
+      {
+        "name": "Unity Blog",
+        "url": "https://unity.com/blog/games-made-with-unity-september-2026-releases"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
