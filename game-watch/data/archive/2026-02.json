@@ -1175,5 +1175,32 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "3b3be741a87f5e21",
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "publishedAt": "2026-02-18T21:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-18T06:05:34.488Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/introducing-openai-for-chile"
+      },
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-for-india"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]

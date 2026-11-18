@@ -1165,5 +1165,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "29f37c1598117e08",
+    "title": "Introducing OpenAI for Ireland",
+    "url": "https://openai.com/index/openai-for-ireland",
+    "source": {
+      "name": "OpenAI Blog",
+      "region": "en",
+      "type": "ai-tech"
+    },
+    "category": "投融资/并购",
+    "summary": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next ge",
+    "publishedAt": "2025-11-14T04:00:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-18T06:05:34.492Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "OpenAI Blog",
+        "url": "https://openai.com/index/openai-for-ireland"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
