@@ -4032,5 +4032,28 @@
       }
     ],
     "originalLanguage": "en"
+  },
+  {
+    "id": "1ab7e0b76a8de408",
+    "title": "Help Out Some Bumbling Penguins With This Week’s Epic Games Store Freebie",
+    "url": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+    "source": {
+      "name": "GameSpot",
+      "region": "en",
+      "type": "gaming-media"
+    },
+    "category": "投融资/并购",
+    "summary": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at lea",
+    "publishedAt": "2026-06-18T15:01:00.000Z",
+    "tags": [],
+    "fetchedAt": "2026-11-27T06:56:33.069Z",
+    "duplicateOf": null,
+    "sources": [
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/"
+      }
+    ],
+    "originalLanguage": "en"
   }
 ]
